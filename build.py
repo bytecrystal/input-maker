@@ -48,7 +48,7 @@ with open('asserts/decomposition.txt', encoding='utf-8', mode='r') as componentF
 
 char_py = {}
 # 读取字-拼音
-with open ('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
+with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
     for line in pinyinFile:
         char, py = line.strip('\r\n').split('\t')
         char_py[char] = py
