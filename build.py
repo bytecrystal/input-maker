@@ -213,3 +213,11 @@ if __name__ == '__main__':
     with open('data/new_brief_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\t%s\n' % (char, code))
+
+    with open('data/new_brief_code_char.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
+        for char, code in brief_code:
+            newBriefCodeFile.write('%s\n' % (char))
+
+    with open('data/new_brief_code_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
+        for char, code in brief_code:
+            newBriefCodeFile.write('%s\n' % (code))
