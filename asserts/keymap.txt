@@ -436,8 +436,8 @@
 走	z
 足	z
 	z
-执	zi
-占	zn
+执	z
+占	z
 q	q
 w	w
 r	r
