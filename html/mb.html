@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <title>码表</title>
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/mb.css">
+</head>
+<body>
+<div class="box" id="app">
+    <h1 class="title">字根键位图</h1>
+    <div class="list">
+        <ul class="my-ul">
+            <!-- <#list data?keys as key> -->
+            <!-- <li> -->
+            <!--     <ul class="zi-ul"> -->
+            <!--         <#list data[key] as ele> -->
+            <!--             <li>${ele}|</li> -->
+            <!--         </#list> -->
+            <!--         <li>${key}</li> -->
+            <!--     </ul> -->
+            <!-- </li> -->
+            <!-- </#list> -->
+        </ul>
+    </div>
+</div>
+
+<script src="./js/vue.min.js"></script>
+<script>
+    const vm = new Vue({
+        el: '#app',
+        data: {
+            
+        },
+        created() {
+            this.loadKeyMap();
+        },
+        methods: {
+            async loadKeyMap() {
+                fetch('../res/new_keymap.txt')
+                    .then(res => res.text())
+                    .then(data => {
+                        console.log(data)
+                        let d = data.split("\r\n");
+                        console.log(d)
+                        // <!-- console.log(data); -->
+                        // <!-- let html = ''; -->
+                        // <!-- for (let key in data) { -->
+                        // <!--     html += `<li><ul class="zi-ul">`; -->
+                        // <!--     for (let i = 0; i < data[key].length; i++) { -->
+                        // <!--         html += `<li>${data[key][i]}|</li>`; -->
+                        // <!--     } -->
+                        // <!--     html += `<li>${key}</li></ul></li>`; -->
+                        // <!-- } -->
+                        // <!-- document.querySelector('.my-ul').innerHTML = html; -->
+                    })
+            }
+        }
+    });
+
+
+</script>
+</body>
+</html>
