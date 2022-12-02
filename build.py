@@ -48,7 +48,7 @@ with open('asserts/decomposition.txt', encoding='utf-8', mode='r') as componentF
 
 char_py = {}
 # 读取字-拼音
-with open ('asserts/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
+with open ('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
     for line in pinyinFile:
         char, py = line.strip('\r\n').split('\t')
         char_py[char] = py
@@ -64,7 +64,7 @@ def build_full_code(component_k, decomposition_lines):
         if (s3):
             c1 = first_code
             # print("s2: %", s2)
-            print(s1)
+            # print(s1)
             c2 = component_k[s1]
             # print("s3: %", s3)
             c3 = component_k[s2]
@@ -77,7 +77,7 @@ def build_full_code(component_k, decomposition_lines):
         elif (s1):
             ## 声形笔笔笔
             c1 = first_code
-            print(s1)
+            # print(s1)
             c2 = component_k[s1]
             # c2 = component_k[stroke_char[char]]
             # c2 = stroke_arr_big[char][0]
@@ -187,23 +187,26 @@ if __name__ == '__main__':
     cdp.set_schedule(auto_schedule)
     state, dup = cdp.anneal()  # 开始优化
     # print(dup)
-    state_arr = sorted(state.items(), key=lambda kv: (kv[1], kv[0]))
-    # print(state_arr)
+    # print(state)
+    # state_arr = sorted(state.items(), key=lambda kv: (kv[1], kv[0]))
     # 优化完成，把结果保存下来
+    # with open('data/new_keymap.txt', encoding='utf-8', mode='w') as newKeymapFile:
+    #     for key, key_map in state:
+    #         newKeymapFile.write(key + '\t' + key_map + '\n')
     with open('data/new_keymap.txt', encoding='utf-8', mode='w') as newKeymapFile:
-        for key, key_map in state_arr:
+        for key,key_map in state.items():
             newKeymapFile.write(key + '\t' + key_map + '\n')
 
     # 以键分组存和字典
     key_map = {}
+    # with open('data/new_keymap.json', encoding='utf-8', mode='w') as f:
+    #     for char, key in state:
+    #         key_map[key] = key_map.get(key, []) + [char]
+    #     json.dump(key_map, f, ensure_ascii=False)
     with open('data/new_keymap.json', encoding='utf-8', mode='w') as f:
-        for char, key in state_arr:
+        for char,key in state.items():
             key_map[key] = key_map.get(key, []) + [char]
-            # if key_map not in key_map:
-            #     key_map[key] = []
-            # key_map[key].append(key)
         json.dump(key_map, f, ensure_ascii=False)
-
 
     full_code = build_full_code(state, decompositionLines)
     brief_code = build_brief_code(full_code)
