@@ -75,30 +75,30 @@ def build_full_code(component_k, decomposition_lines):
     for line in decomposition_lines:
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
         strokes = stroke_arr_small[char]
-        # strokes_last = stroke_arr_small_last[char]
-        # 第一码：拼音首字母
+        strokes_last = stroke_arr_small_last[char]
+        # 第一码：第一个字根的位置
         first_code = component_k[s1]
         if (s3):
-            # 三个字根，YYYYZ，声形形形+末笔
+            # 三个字根，YYYZ，形形形笔
             c1 = first_code
             c2 = component_k[s1]
             c3 = component_k[s2]
-            # c4 = component_k[s3]
-            qm = c1 + c2 + c3 + strokes[0]
+            qm = c1 + c2 + c3 + strokes_last[0]
             fullCode.append((char, qm))
         elif(s2):
-            # 两个字根，YY[形形]，声形+末笔
+            # 两个字根，YYZ...Z，形形笔笔笔
             c1 = first_code
             c2 = component_k[s2]
             # c3 = component_k[s2]
             # c4 = component_k[s2]
-            qm = c1 + c2 + strokes[:3]
+            qm = c1 + c2 + strokes[:2]
             fullCode.append((char, qm))
         elif (s1):
             # 一个字根，Y[Y笔]笔笔笔
             c1 = first_code
+            # stroke_char[char]字第一笔的笔画数字：如：5
             c2 = componentKey[stroke_char[char]]
-            qm = c1 + c2 + strokes[:3]
+            qm = c1 + c2 + strokes[1:3]
             fullCode.append((char, qm))
     return fullCode
 
@@ -130,7 +130,7 @@ def build_brief_code(fullCode):
         elif (code_4 not in c):
             c[code_4] = 1
             brief_code.append((char, code_4))
-        elif (code_5 not in c and code[2] not in small_key):
+        elif (code_5 not in c and code[2] in small_key):
             c[code_5] = 1
             brief_code.append((char, code_5))
         else:
@@ -186,19 +186,16 @@ class ComponentsDistributionProblem(Annealer):
 
     def move(self):
         l = list(self.state.keys())
-        # a = random.choice(l)
-        # b = random.choice(l)
-        # for i in opti:
-        #     self.state[i] = random.choice(choose)
-        # self.state['以'] = random.choice(choose)
-
+        a = random.choice(l)
+        b = random.choice(l)
+        self.state[a], self.state[b] = self.state[b], self.state[a]
 #
 #
 if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1, 'updates': 1}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
