@@ -74,7 +74,8 @@ def build_full_code(component_k, decomposition_lines):
     fullCode = []
     for line in decomposition_lines:
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
-        strokes = stroke_arr_small_last[char]
+        strokes = stroke_arr_small[char]
+        # strokes_last = stroke_arr_small_last[char]
         # 第一码：拼音首字母
         first_code = componentKey[char_py[char]]
         if (s3):
@@ -86,17 +87,18 @@ def build_full_code(component_k, decomposition_lines):
             qm = c1 + c2 + c3 + c4 + strokes[0]
             fullCode.append((char, qm))
         elif(s2):
-            # 两个字根，YYYZ，声形形+末笔
+            # 两个字根，YYYYZ，声形形形末笔
             c1 = first_code
             c2 = component_k[s1]
             c3 = component_k[s2]
-            qm = c1 + c2 + c3 + strokes[0]
+            c4 = component_k[s2]
+            qm = c1 + c2 + c3 + c4 + strokes[0]
             fullCode.append((char, qm))
         elif (s1):
-            # 一个字根，YY，声形
+            # 一个字根，YY，声形笔笔笔
             c1 = first_code
             c2 = component_k[s1]
-            qm = c1 + c2
+            qm = c1 + c2 + strokes[:3]
             fullCode.append((char, qm))
     return fullCode
 
