@@ -22,7 +22,7 @@ new_char_py = {}
 for c in chars_2:
     new_char_py[c] = char_py[c]
 
-print(new_char_py)
+# print(new_char_py)
 
 with open('data/char_py.txt', encoding='utf-8', mode='w') as f:
     for char,py in new_char_py.items():
@@ -37,3 +37,7 @@ difference = list(set(chars_1).difference(set(chars_2)))
 with open('data/char_py_first.txt', encoding='utf-8', mode='w') as f:
     for char,py in new_char_py.items():
         f.write('%s\t%s\n' % (char, py[0]))
+
+with open('data/char_py_last.txt', encoding='utf-8', mode='w') as f:
+    for char,py in new_char_py.items():
+        f.write('%s\t%s\n' % (char, py[-2]))

@@ -42,6 +42,16 @@ with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
         stroke_arr_big[arr[0]] = str_big_stroke
         stroke_char[arr[0]] = stroke[0]
 
+stroke_arr_small_last = {}
+with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
+    for line in strokeFile:
+        arr = line.strip('\r\n').split('\t')
+        stroke = arr[1]
+        # 取末笔画数字
+        stroke_arr_small_last[arr[0]] = small_key_map[stroke[-1]]
+
+# print(stroke_arr_small_last)
+
 # 读取字根
 with open('asserts/decomposition.txt', encoding='utf-8', mode='r') as componentFile:
     decompositionLines = [line for line in componentFile]
@@ -53,35 +63,40 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
         char, py = line.strip('\r\n').split('\t')
         char_py[char] = py
 
+# char_py_last = {}
+# # 读取字-拼音
+# with open('data/char_py_last.txt', encoding='utf-8', mode='r') as f:
+#     for line in f:
+#         char, py = line.strip('\r\n').split('\t')
+#         char_py_last[char] = py
 
 def build_full_code(component_k, decomposition_lines):
     fullCode = []
     for line in decomposition_lines:
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
-        strokes = stroke_arr_small[char]
+        strokes = stroke_arr_small_last[char]
+        # 第一码：拼音首字母
         first_code = componentKey[char_py[char]]
-        # 三个字根，YYYZ，声形形笔
         if (s3):
+            # 三个字根，YYYYZ，声形形形+末笔
             c1 = first_code
-            # print("s2: %", s2)
-            # print(s1)
             c2 = component_k[s1]
-            # print("s3: %", s3)
+            c3 = component_k[s2]
+            c4 = component_k[s3]
+            qm = c1 + c2 + c3 + c4 + strokes[0]
+            fullCode.append((char, qm))
+        elif(s2):
+            # 两个字根，YYYZ，声形形+末笔
+            c1 = first_code
+            c2 = component_k[s1]
             c3 = component_k[s2]
             qm = c1 + c2 + c3 + strokes[0]
             fullCode.append((char, qm))
-            # c1 = first_code
-            # c2 = component_k[s1]
-            # qm = c1 + c2 + strokes[:3]
-            # fullCode.append((char, qm))
         elif (s1):
-            ## 声形笔笔笔
+            # 一个字根，YY，声形
             c1 = first_code
-            # print(s1)
             c2 = component_k[s1]
-            # c2 = component_k[stroke_char[char]]
-            # c2 = stroke_arr_big[char][0]
-            qm = c1 + c2 + strokes[:2]
+            qm = c1 + c2
             fullCode.append((char, qm))
     return fullCode
 
