@@ -70,35 +70,31 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
 #         char, py = line.strip('\r\n').split('\t')
 #         char_py_last[char] = py
 
+###
+# 1. 选取的字根依次编码后大于等于 3 码，则取前 3 码（超过 3 码的情况是因为有双编码字根）。例：说 = 【讠丷 儿】= 【u k a】= uka；絷 = 【执 幺 小】=【zi s v】= zis ；
+# 2. 选取的字根依次编码后为 2 码，则补拼音首字母。例：我 = 【手 戈】 = 【j l】= jlw；占 = 【占】= 【zn】 = znz ；
+# 3. 选取的字根依次编码后为 1 码，则补拼音首字母和末字母。例：一 = 【一】 = 【t】= tyi 。
 def build_full_code(component_k, decomposition_lines):
     fullCode = []
     for line in decomposition_lines:
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
-        strokes = stroke_arr_small[char]
-        strokes_last = stroke_arr_small_last[char]
-        # 第一码：第一个字根的位置
-        first_code = component_k[s1]
+        # strokes = stroke_arr_small[char]
+        # strokes_last = stroke_arr_small_last[char]
         if (s3):
-            # 三个字根，YYYZ，形形形笔
-            c1 = first_code
-            c2 = component_k[s1]
-            c3 = component_k[s2]
-            qm = c1 + c2 + c3 + strokes_last[0]
+            c1 = component_k[s1]
+            c2 = component_k[s2]
+            c3 = component_k[s3]
+            qm = c1 + c2 + c3
             fullCode.append((char, qm))
         elif(s2):
-            # 两个字根，YYZ...Z，形形笔笔笔
-            c1 = first_code
+            c1 = component_k[s1]
             c2 = component_k[s2]
-            # c3 = component_k[s2]
-            # c4 = component_k[s2]
-            qm = c1 + c2 + strokes[:2]
+            c3 = py[0]
+            qm = c1 + c2 + c3
             fullCode.append((char, qm))
         elif (s1):
-            # 一个字根，Y[Y笔]笔笔笔
-            c1 = first_code
-            # stroke_char[char]字第一笔的笔画数字：如：5
-            c2 = componentKey[stroke_char[char]]
-            qm = c1 + c2 + strokes[1:3]
+            c1 = component_k[s1]
+            qm = c1 + py
             fullCode.append((char, qm))
     return fullCode
 
@@ -113,29 +109,33 @@ small_key = {'a', 'e', 'i', 'o', 'u'}
 
 # 简码
 def build_brief_code(fullCode):
-    brief_code = []
-    c = {}
-
-    for char, code in fullCode:
-        code_2 = code[:2]
-        code_3 = code[:3]
-        code_4 = code[:4]
-        code_5 = code[:5]
-        if (code_2 not in c):
-            c[code_2] = 1
-            brief_code.append((char, code_2))
-        elif (code_3 not in c and code[2] in small_key):
-            c[code_3] = 1
-            brief_code.append((char, code_3))
-        elif (code_4 not in c):
-            c[code_4] = 1
-            brief_code.append((char, code_4))
-        elif (code_5 not in c and code[2] in small_key):
-            c[code_5] = 1
-            brief_code.append((char, code_5))
-        else:
-            brief_code.append((char, code))
-    return brief_code
+    # brief_code = []
+    # c = {}
+    #
+    # for char, code in fullCode:
+    #     code_1 = code[:1]
+    #     code_2 = code[:2]
+    #     code_3 = code[:3]
+    #     # code_4 = code[:4]
+    #     # code_5 = code[:5]
+    #     if (code_1 not in c):
+    #         c[code_1] = 1
+    #         brief_code.append((char, code_1))
+    #     elif (code_2 not in c):
+    #         c[code_2] = 1
+    #         brief_code.append((char, code_2))
+    #     elif (code_3 not in c):
+    #         c[code_3] = 1
+    #         brief_code.append((char, code_3))
+    #     # elif (code_4 not in c):
+    #     #     c[code_4] = 1
+    #     #     brief_code.append((char, code_4))
+    #     # elif (code_5 not in c and code[2] in small_key):
+    #     #     c[code_5] = 1
+    #     #     brief_code.append((char, code_5))
+    #     else:
+    #         brief_code.append((char, code))
+    return fullCode
 
 
 brief_code = build_brief_code(fullCode)
@@ -186,16 +186,16 @@ class ComponentsDistributionProblem(Annealer):
 
     def move(self):
         l = list(self.state.keys())
-        a = random.choice(l)
-        b = random.choice(l)
-        self.state[a], self.state[b] = self.state[b], self.state[a]
+        # a = random.choice(l)
+        # b = random.choice(l)
+        # self.state[a], self.state[b] = self.state[b], self.state[a]
 #
 #
 if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
