@@ -51,15 +51,16 @@
 }
 
 .box .list .my-ul > li:nth-child(1) {
-    margin-left: 36px;
+    margin-left: 50px;
 }
 
 .box .list .my-ul > li:nth-child(11) {
-    margin-left: 36px;
+    margin-left: 50px;
 }
 
 .box .list .my-ul > li:nth-child(21) {
-    margin-left: 235px;
+    margin-left: 50px;
+    /*margin-left: 235px;*/
 }
 
 .box .list .zi-ul {
