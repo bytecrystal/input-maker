@@ -150,6 +150,12 @@ def stats(brief_code):
     cm_cnt_a = 0
     # 前1000重码数
     cm_cnt_1000 = 0
+    # 前2000重码数
+    cm_cnt_2000 = 0
+    # 前3000重码数
+    cm_cnt_3000 = 0
+    # 前4000重码数
+    cm_cnt_4000 = 0
     line_index = 0
     # 前650的四码数
     code_cnt_4_650 = 0
@@ -164,17 +170,39 @@ def stats(brief_code):
             cm_cnt_a += 1
             if (line_index <= 1000):
                 cm_cnt_1000 += 1
+            elif(line_index <= 2000):
+                cm_cnt_2000 += 1
+            elif(line_index <= 3000):
+                cm_cnt_3000 += 1
+            elif(line_index <= 4000):
+                cm_cnt_4000 += 1
         line_index += 1
-    print(code_cnt_4_650)
-    print("重码数: %d" % cm_cnt_a)
+    # print("前540%d" % code_cnt_4_650)
+    print("前1000重码数：%d" % cm_cnt_1000)
+    print("前2000重码数：%d" % cm_cnt_2000)
+    print("前3000重码数：%d" % cm_cnt_3000)
+    print("前4000重码数：%d" % cm_cnt_4000)
+    print("总的重码数: %d" % cm_cnt_a)
+    print("-----------------------------------")
 
-    # print(cm_cnt_1000)
     # print(code_cnt_4_650)
-    return code_cnt_4_650 + cm_cnt_a
+    # return cm_cnt_a + cm_cnt_3000
+    return cm_cnt_1000 * 10 + cm_cnt_2000 * 7 * cm_cnt_3000 * 5 + cm_cnt_4000 * 2 + cm_cnt_a
 
 
 stats(brief_code)
 
+component_changed = []
+with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
+    for line in f:
+        char = line.strip('\r\n')
+        component_changed.append(char)
+
+keys = [
+    'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
+    'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';',
+    'z', 'x', 'c', 'v', 'b', 'n', 'm'
+]
 class ComponentsDistributionProblem(Annealer):
     def __int__(self, state):
         super(ComponentsDistributionProblem, self).__init__(state)
@@ -186,16 +214,19 @@ class ComponentsDistributionProblem(Annealer):
 
     def move(self):
         l = list(self.state.keys())
-        # a = random.choice(l)
+        a = random.choice(l)
+        if a in component_changed:
+            self.state[a] = random.choice(keys)
         # b = random.choice(l)
-        # self.state[a], self.state[b] = self.state[b], self.state[a]
+        # if a in component_change.keys() or b in component_change.keys():
+        #     self.state[a], self.state[b] = self.state[b], self.state[a]
 #
 #
 if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)

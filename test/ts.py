@@ -77,7 +77,8 @@ for i in l:
             bm[dz.get(j,j)] = 1
         else:
             xc += 1
-            print(dz.get(j,0))
+            if ((int)(i[1]) <= 1500):
+                print(dz.get(j,0))
         if len(dz.get(j,'0000')) == 1:
             n1 += 1
             p1+=i[0].get(j,'0000')
@@ -114,6 +115,7 @@ for i in l:
             if k in cszh:
                 cs += i[0].get(j,'0000')
     jjdl = (zjdl/pa)/((jc/pa)-1)
+    print("前" + i[1] + "百选重-----------------------------------------：", xc)
     f.write(i[1]+'\t'+str(n1)+'\t'+str(n2)+'\t'+str(n3)+'\t'+str(n4)+'\t'+str(n5)+'\t'+str(xc)+'\t'+str(jc/pa)+'\t'+str(zjdl/pa)+'\t'+str(jjdl)+'\t'+str(hj/zjj)+'\t'+str(dkp/zjj)+'\t'+str(xkp/zjj)+'\t'+str(xzgr/zjj)+'\t'+str(cs/zjj)+'\n')
     n1a += n1
     n2a += n2
@@ -136,6 +138,7 @@ for i in l:
     paa += pa
     zjja += zjj
 jjdla = zjdla/(jca-1)
+print('总选重：%d' % xca)
 f.write('总计'+'\t'+str(p1a)+'\t'+str(p2a)+'\t'+str(p3a)+'\t'+str(p4a)+'\t'+str(p5a)+'\t'+str(xca)+'\t'+str(jca/paa)+'\t'+str(zjdla/paa)+'\t'+str(jjdla)+'\t'+str(hja/zjja)+'\t'+str(dkpa/zjja)+'\t'+str(xkpa/zjja)+'\t'+str(xzgra/zjja)+'\t'+str(csa/zjja)+'\n')
 s = ['q','w','e','r','t','y','u','i','o','p','_']
 z = ['a','s','d','f','g','h','j','k','l',';','\'']
