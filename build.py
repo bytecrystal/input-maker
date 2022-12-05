@@ -63,6 +63,7 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
         char, py = line.strip('\r\n').split('\t')
         char_py[char] = py
 
+
 # char_py_last = {}
 # # 读取字-拼音
 # with open('data/char_py_last.txt', encoding='utf-8', mode='r') as f:
@@ -86,7 +87,7 @@ def build_full_code(component_k, decomposition_lines):
             c3 = component_k[s3]
             qm = c1 + c2 + c3
             fullCode.append((char, qm))
-        elif(s2):
+        elif (s2):
             c1 = component_k[s1]
             c2 = component_k[s2]
             c3 = py[0]
@@ -136,6 +137,7 @@ def build_brief_code(fullCode):
     #     else:
     #         brief_code.append((char, code))
     return fullCode
+    # return brief_code
 
 
 brief_code = build_brief_code(fullCode)
@@ -143,8 +145,235 @@ with open('data/brief_code.txt', encoding='utf-8', mode='w') as briefCodeFile:
     for char, code in brief_code:
         briefCodeFile.write('%s\t%s\n' % (char, code))
 
+ajew = {}
+f = open('test/ew.txt', encoding='utf-8', mode='r')
+for line in f:
+    aj, ew = line.strip('\r\n').split('\t')
+    ajew[aj] = float(ew)
+f.close()
+
+f = open('test/zp2.txt', encoding='utf-8', mode='r')
+pl1 = {}
+pl2 = {}
+pl3 = {}
+pl4 = {}
+pl5 = {}
+zp_a = {}
+for line in f:
+    z, p, x = line.strip('\r\n').split('\t')
+    x = float(x)
+    p = float(p) / 1000000000
+    if x <= 300:
+        pl1[z] = p
+    elif x <= 500:
+        pl2[z] = p
+    elif x <= 1500:
+        pl3[z] = p
+    elif x <= 3000:
+        pl4[z] = p
+    elif x <= 6000:
+        pl5[z] = p
+
+    zp_a[z] = p
+f.close()
+
+hjzh = ['ah', 'ai', 'aj', 'ak', 'al', 'am', 'an', 'ao', 'ap', 'au', 'ay', 'a/', 'a;', 'bh', 'bi', 'bj', 'bk', 'bl',
+        'bm', 'bn', 'bo', 'bp', 'bu', 'by', 'b/', 'b;', 'ch', 'ci', 'cj', 'ck', 'cl', 'cm', 'cn', 'co', 'cp', 'cu',
+        'cy', 'c/', 'c;', 'dh', 'di', 'dj', 'dk', 'dl', 'dm', 'dn', 'do', 'dp', 'du', 'dy', 'd/', 'd;', 'eh', 'ei',
+        'ej', 'ek', 'el', 'em', 'en', 'eo', 'ep', 'eu', 'ey', 'e/', 'e;', 'fh', 'fi', 'fj', 'fk', 'fl', 'fm', 'fn',
+        'fo', 'fp', 'fu', 'fy', 'f/', 'f;', 'gh', 'gi', 'gj', 'gk', 'gl', 'gm', 'gn', 'go', 'gp', 'gu', 'gy', 'g/',
+        'g;', 'ha', 'hb', 'hc', 'hd', 'he', 'hf', 'hg', 'hq', 'hr', 'hs', 'ht', 'hv', 'hw', 'hx', 'hz', 'ia', 'ib',
+        'ic', 'id', 'ie', 'if', 'ig', 'iq', 'ir', 'is', 'it', 'iv', 'iw', 'ix', 'iz', 'ja', 'jb', 'jc', 'jd', 'je',
+        'jf', 'jg', 'jq', 'jr', 'js', 'jt', 'jv', 'jw', 'jx', 'jz', 'ka', 'kb', 'kc', 'kd', 'ke', 'kf', 'kg', 'kq',
+        'kr', 'ks', 'kt', 'kv', 'kw', 'kx', 'kz', 'la', 'lb', 'lc', 'ld', 'le', 'lf', 'lg', 'lq', 'lr', 'ls', 'lt',
+        'lv', 'lw', 'lx', 'lz', 'ma', 'mb', 'mc', 'md', 'me', 'mf', 'mg', 'mq', 'mr', 'ms', 'mt', 'mv', 'mw', 'mx',
+        'mz', 'na', 'nb', 'nc', 'nd', 'ne', 'nf', 'ng', 'nq', 'nr', 'ns', 'nt', 'nv', 'nw', 'nx', 'nz', 'oa', 'ob',
+        'oc', 'od', 'oe', 'of', 'og', 'oq', 'or', 'os', 'ot', 'ov', 'ow', 'ox', 'oz', 'pa', 'pb', 'pc', 'pd', 'pe',
+        'pf', 'pg', 'pq', 'pr', 'ps', 'pt', 'pv', 'pw', 'px', 'pz', 'qh', 'qi', 'qj', 'qk', 'ql', 'qm', 'qn', 'qo',
+        'qp', 'qu', 'qy', 'q/', 'q;', 'rh', 'ri', 'rj', 'rk', 'rl', 'rm', 'rn', 'ro', 'rp', 'ru', 'ry', 'r/', 'r;',
+        'sh', 'si', 'sj', 'sk', 'sl', 'sm', 'sn', 'so', 'sp', 'su', 'sy', 's/', 's;', 'th', 'ti', 'tj', 'tk', 'tl',
+        'tm', 'tn', 'to', 'tp', 'tu', 'ty', 't/', 't;', 'ua', 'ub', 'uc', 'ud', 'ue', 'uf', 'ug', 'uq', 'ur', 'us',
+        'ut', 'uv', 'uw', 'ux', 'uz', 'vh', 'vi', 'vj', 'vk', 'vl', 'vm', 'vn', 'vo', 'vp', 'vu', 'vy', 'v/', 'v;',
+        'wh', 'wi', 'wj', 'wk', 'wl', 'wm', 'wn', 'wo', 'wp', 'wu', 'wy', 'w/', 'w;', 'xh', 'xi', 'xj', 'xk', 'xl',
+        'xm', 'xn', 'xo', 'xp', 'xu', 'xy', 'x/', 'x;', 'ya', 'yb', 'yc', 'yd', 'ye', 'yf', 'yg', 'yq', 'yr', 'ys',
+        'yt', 'yv', 'yw', 'yx', 'yz', 'zh', 'zi', 'zj', 'zk', 'zl', 'zm', 'zn', 'zo', 'zp', 'zu', 'zy', 'z/', 'z;',
+        ',a', ',b', ',c', ',d', ',e', ',f', ',g', ',q', ',r', ',s', ',t', ',v', ',w', ',x', ',z', '/a', '/b', '/c',
+        '/d', '/e', '/f', '/g', '/q', '/r', '/s', '/t', '/v', '/w', '/x', '/z', ';a', ';b', ';c', ';d', ';e', ';f',
+        ';g', ';q', ';r', ';s', ';t', ';v', ';w', ';x', ';z']
+dkpzh = ['br', 'bt', 'ce', 'ec', 'mu', 'my', 'nu', 'ny', 'p/', 'qz', 'rb', 'rv', 'tb', 'tv', 'um', 'un', 'vr', 'vt',
+         'wx', 'xw', 'ym', 'yn', 'zq', ',i', '/p']
+xkpzh = ['qa', 'za', 'fb', 'gb', 'vb', 'dc', 'cd', 'ed', 'de', 'bf', 'gf', 'rf', 'tf', 'vf', 'bg', 'fg', 'rg', 'tg',
+         'vg', 'jh', 'mh', 'nh', 'uh', 'yh', 'ki', 'hj', 'mj', 'nj', 'uj', 'yj', 'ik', 'ol', 'hm', 'jm', 'nm', 'hn',
+         'jn', 'mn', 'lo', ';p', 'aq', 'fr', 'gr', 'tr', 'ws', 'xs', 'ft', 'gt', 'rt', 'hu', 'ju', 'yu', 'bv', 'fv',
+         'gv', 'sw', 'sx', 'hy', 'jy', 'uy', 'az', 'k,', ';/', 'p;', '/;']
+xzgrzh = ['aa', 'ac', 'ad', 'ae', 'aq', 'as', 'aw', 'ax', 'az', 'ca', 'cq', 'cz', 'da', 'dq', 'dz', 'ea', 'eq',
+          'ez', 'ip', 'i/', 'i;', 'kp', 'k/', 'k;', 'lp', 'l/', 'l;', 'op', 'o/', 'o;', 'pi', 'pk', 'pl', 'po',
+          'pp', 'p;', 'qa', 'qc', 'qd', 'qe', 'qq', 'qs', 'qw', 'qx', 'sa', 'sq', 'sz', 'wa', 'wq', 'wz', 'xa',
+          'xq', 'xz', 'za', 'zc', 'zd', 'ze', 'zs', 'zw', 'zx', 'zz', ',p', ',/', ',;', '/i', '/k', '/l', '/o',
+          '//', '/;', ';i', ';k', ';l', ';o', ';p', ';/', ';;']
+cszh = ['ct', ',y', 'tc', 'y,', 'cr', ',u', 'rc', 'u,', 'cw', ',o', 'wc', 'o,', 'qc', ',p', 'cq', 'p,', 'qx', 'p.',
+        'xq', '.p', 'xe', '.i', 'ex', 'i.', 'xr', '.u', 'rx', 'u.', 'xt', '.y', 'tx', 'y.']
+
+def get_params(brief_code):
+    dz = {}
+    for kv in brief_code:
+        # print(kv[0])
+        z = kv[0]
+        m = kv[1]
+        if z in dz:
+            if len(m) < len(dz[z]):
+                dz[z] = m
+            else:
+                pass
+        else:
+            dz[z] = m
+    # for line in f:
+    #     z, m = line.strip('\r\n').split('\t')
+
+
+    l = [[pl1, '300'], [pl2, '500'], [pl3, '1500'], [pl4, '3000'], [pl5, '6000']]
+    yl = {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0, 'h': 0, 'i': 0, 'j': 0, 'k': 0, 'l': 0, 'm': 0,
+          'n': 0, 'o': 0, 'p': 0, 'q': 0, 'r': 0, 's': 0, 't': 0, 'u': 0, 'v': 0, 'w': 0, 'x': 0, 'y': 0, 'z': 0,
+          ',': 0, '.': 0, ';': 0, '/': 0, '\'': 0, '_': 0, '0': 0}
+    bm = {}
+    n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    xca_500 = 0
+    xca_1500 = 0
+    xca_3000 = 0
+    xca_6000 = 0
+    hja_300 = 0.00
+    dkp_300 = 0.00
+    xkp_300 = 0.00
+    xzgr_300 = 0.00
+    for i in l:
+        n1 = 0
+        n2 = 0
+        n3 = 0
+        n4 = 0
+        n5 = 0
+        p1 = 0
+        p2 = 0
+        p3 = 0
+        p4 = 0
+        p5 = 0
+        n = [n1, n2, n3, n4, n5]
+        hj = 0
+        dkp = 0
+        xkp = 0
+        xzgr = 0
+        cs = 0
+        xc = 0
+        jc = 0
+        zjdl = 0
+        pa = 0
+        zjj = 0
+        for j in i[0]:
+            pa += i[0].get(j, 0)
+            jc += i[0].get(j, 0) * len(dz.get(j, '0000'))
+            if dz.get(j, j) not in bm:
+                bm[dz.get(j, j)] = 1
+            else:
+                xc += 1
+                # if ((int)(i[1]) <= 1500):
+                #     print(dz.get(j, 0))
+            if len(dz.get(j, '0000')) == 1:
+                n1 += 1
+                p1 += i[0].get(j, '0000')
+            if len(dz.get(j, '0000')) == 2:
+                n2 += 1
+                p2 += i[0].get(j, '0000')
+                # if i[1] == '3000' or i[1] == '6000':
+                #     print(j + '\t' + dz[j])
+            if len(dz.get(j, '0000')) == 3:
+                n3 += 1
+                p3 += i[0].get(j, '0000')
+            if len(dz.get(j, '0000')) == 4:
+                n4 += 1
+                p4 += i[0].get(j, '0000')
+            if len(dz.get(j, '0000')) == 5:
+                n5 += 1
+                p5 += i[0].get(j, '0000')
+            zh = []
+            for k in dz.get(j, '0000'):
+                yl[k] += i[0].get(j, '0000')
+            for k in range(len(dz.get(j, '0000')) - 1):
+                zh.append(dz.get(j, '0000')[k] + dz.get(j, '0000')[k + 1])
+            for k in zh:
+                zjdl += i[0].get(j, '0000') * ajew[k]
+                zjj += i[0].get(j, '0000')
+                if k in hjzh or '_' in k:
+                    hj += i[0].get(j, '0000')
+                if k in dkpzh:
+                    dkp += i[0].get(j, '0000')
+                if k in xkpzh:
+                    xkp += i[0].get(j, '0000')
+                if k in xzgrzh:
+                    xzgr += i[0].get(j, '0000')
+                if k in cszh:
+                    cs += i[0].get(j, '0000')
+        # jjdl = (zjdl / pa) / ((jc / pa) - 1)
+        if i[1] == '300':
+            hja_300 += round(hj / zjj, 2)
+            xzgr_300 += round(xzgr / zjj, 2)
+            dkp_300 += round(dkp / zjj, 2)
+            xkp_300 += round(xkp / zjj, 2)
+        if i[1] == '500':
+            xca_500 += xc
+        elif i[1] == '1500':
+            xca_1500 += xc
+        elif i[1] == '3000':
+            xca_3000 += xc
+        elif i[1] == '6000':
+            xca_6000 += xc
+        # print("前" + i[1] + "百选重-----------------------------------------：", xc)
+        # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
+        #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
+        #     dkp / zjj) + '\t' + str(xkp / zjj) + '\t' + str(xzgr / zjj) + '\t' + str(cs / zjj) + '\n')
+        n1a += n1
+        n2a += n2
+        n3a += n3
+        n4a += n4
+        n5a += n5
+        p1a += p1
+        p2a += p2
+        p3a += p3
+        p4a += p4
+        p5a += p5
+        xca += xc
+        jca += jc
+        zjdla += zjdl
+        hja += hj
+        dkpa += dkp
+        xkpa += xkp
+        xzgra += xzgr
+        csa += cs
+        paa += pa
+        zjja += zjj
+    jjdla = zjdla / (jca - 1)
+    print("前500百选重-----------------------------------------：", xca_500)
+    print("前1500百选重-----------------------------------------：", xca_1500)
+    print("前3000百选重-----------------------------------------：", xca_3000)
+    print("前6000百选重-----------------------------------------：", xca_6000)
+    print("左右互击率：%s" % hja_300)
+    print("同指大跨排：%s" % dkp_300)
+    print("同指小跨排：%s" % xkp_300)
+    print("小指干扰率：%s" % xzgr_300)
+
+    # print("")
+    # 加权
+    return xca_500 * 100 \
+           + xca_1500 * 10 \
+           + xca_3000 * 2 \
+           + xca_6000 * 0.6 \
+           - hja_300 * 1000 \
+           + dkp_300 * 5000 \
+           + xkp_300 * 2000 \
+           + xzgr_300 * 2000
+    # return 0
+
 
 def stats(brief_code):
+    # return get_params(brief_code)
     c = {}
     # 总的重码数
     cm_cnt_a = 0
@@ -159,6 +388,11 @@ def stats(brief_code):
     line_index = 0
     # 前650的四码数
     code_cnt_4_650 = 0
+    hja_500 = 0.00
+    dkp_500 = 0.00
+    xkp_500 = 0.00
+    xzgr_500 = 0.00
+    cs_500 = 0.00
     for char, code in brief_code:
         if (line_index <= 650):
             if (len(code) == 4):
@@ -170,24 +404,44 @@ def stats(brief_code):
             cm_cnt_a += 1
             if (line_index <= 1000):
                 cm_cnt_1000 += 1
-            elif(line_index <= 2000):
+            elif (line_index <= 2000):
                 cm_cnt_2000 += 1
-            elif(line_index <= 3000):
+            elif (line_index <= 3000):
                 cm_cnt_3000 += 1
-            elif(line_index <= 4000):
+            elif (line_index <= 4000):
                 cm_cnt_4000 += 1
+        if (line_index <= 1500):
+            zh = []
+            for k in range(len(code) - 1):
+                zh.append(code[k] + code[k + 1])
+            for k in zh:
+                if k in hjzh or '_' in k:
+                    hja_500 += zp_a[char]
+                if k in dkpzh:
+                    dkp_500 += zp_a[char]
+                if k in xkpzh:
+                    xkp_500 += zp_a[char]
+                if k in xzgrzh:
+                    xzgr_500 += zp_a[char]
+                if k in cszh:
+                    cs_500 += zp_a[char]
+
         line_index += 1
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数：%d" % cm_cnt_1000)
     print("前2000重码数：%d" % cm_cnt_2000)
     print("前3000重码数：%d" % cm_cnt_3000)
     print("前4000重码数：%d" % cm_cnt_4000)
-    print("总的重码数: %d" % cm_cnt_a)
+    print("左右互击率：%s" % round(hja_500, 4))
+    print("同指大跨排：%s" % round(dkp_500, 4))
+    print("同指小跨排：%s" % round(xkp_500, 4))
+    print("小指干扰率：%s" % round(xzgr_500, 4))
+    print("总的重码数: %d" % round(cm_cnt_a, 4))
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
     # return cm_cnt_a + cm_cnt_3000
-    return cm_cnt_1000 * 10 + cm_cnt_2000 * 7 * cm_cnt_3000 * 5 + cm_cnt_4000 * 2 + cm_cnt_a
+    return cm_cnt_1000 * 10 + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 + cm_cnt_a - hja_500 * 2000 + dkp_500 * 2000 + xkp_500 * 200 + xzgr_500 * 200 + cs_500 * 200;
 
 
 stats(brief_code)
@@ -203,6 +457,8 @@ keys = [
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';',
     'z', 'x', 'c', 'v', 'b', 'n', 'm'
 ]
+
+
 class ComponentsDistributionProblem(Annealer):
     def __int__(self, state):
         super(ComponentsDistributionProblem, self).__init__(state)
@@ -220,13 +476,15 @@ class ComponentsDistributionProblem(Annealer):
         # b = random.choice(l)
         # if a in component_change.keys() or b in component_change.keys():
         #     self.state[a], self.state[b] = self.state[b], self.state[a]
+
+
 #
 #
 if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -239,7 +497,7 @@ if __name__ == '__main__':
     #     for key, key_map in state:
     #         newKeymapFile.write(key + '\t' + key_map + '\n')
     with open('data/new_keymap.txt', encoding='utf-8', mode='w') as newKeymapFile:
-        for key,key_map in state.items():
+        for key, key_map in state.items():
             newKeymapFile.write(key + '\t' + key_map + '\n')
 
     # 以键分组存和字典
@@ -249,7 +507,7 @@ if __name__ == '__main__':
     #         key_map[key] = key_map.get(key, []) + [char]
     #     json.dump(key_map, f, ensure_ascii=False)
     with open('data/new_keymap.json', encoding='utf-8', mode='w') as f:
-        for char,key in state.items():
+        for char, key in state.items():
             key_map[key] = key_map.get(key, []) + [char]
         json.dump(key_map, f, ensure_ascii=False)
 

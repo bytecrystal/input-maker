@@ -91,6 +91,7 @@ for i in l:
             n3 += 1
             p3+=i[0].get(j,'0000')
         if len(dz.get(j,'0000')) == 4:
+            # print(dz.get(j,'0000'))
             n4 += 1
             p4+=i[0].get(j,'0000')
         if len(dz.get(j,'0000')) == 5:
@@ -116,6 +117,7 @@ for i in l:
                 cs += i[0].get(j,'0000')
     jjdl = (zjdl/pa)/((jc/pa)-1)
     print("前" + i[1] + "百选重-----------------------------------------：", xc)
+    # print(n4)
     f.write(i[1]+'\t'+str(n1)+'\t'+str(n2)+'\t'+str(n3)+'\t'+str(n4)+'\t'+str(n5)+'\t'+str(xc)+'\t'+str(jc/pa)+'\t'+str(zjdl/pa)+'\t'+str(jjdl)+'\t'+str(hj/zjj)+'\t'+str(dkp/zjj)+'\t'+str(xkp/zjj)+'\t'+str(xzgr/zjj)+'\t'+str(cs/zjj)+'\n')
     n1a += n1
     n2a += n2
