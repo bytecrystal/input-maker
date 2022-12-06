@@ -470,7 +470,7 @@ def stats(brief_code):
     # print(code_cnt_4_650)
     # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
     # return cm_cnt_a + cm_cnt_3000
-    return cm_cnt_3000 * 1 + cm_cnt_a - hja_500 * 100 + dkp_500 * 200 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
+    return cm_cnt_1000 * 1.2 + cm_cnt_2000 * 1.1 +  cm_cnt_3000 * 1 + cm_cnt_a - hja_500 * 100 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
 
 
 stats(brief_code)
@@ -521,7 +521,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 100, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
