@@ -483,13 +483,12 @@ with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
         comps = char.split('\t')
         component_changed_map[comps[0]] = comps
         component_changed.append(char)
-print(component_changed_map)
+# print(component_changed_map)
 keys = [
     'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';',
     'z', 'x', 'c', 'v', 'b', 'n', 'm'
 ]
-
 
 class ComponentsDistributionProblem(Annealer):
     def __int__(self, state):
