@@ -139,6 +139,34 @@ def build_brief_code(fullCode):
     return fullCode
     # return brief_code
 
+def get_brief_code(full_code):
+    bf_code = []
+    c = {}
+
+    for char, code in full_code:
+        code_1 = code[:1]
+        code_2 = code[:2]
+        code_3 = code[:3]
+        # code_4 = code[:4]
+        # code_5 = code[:5]
+        if (code_1 not in c):
+            c[code_1] = 1
+            bf_code.append((char, code_1))
+        elif (code_2 not in c):
+            c[code_2] = 1
+            bf_code.append((char, code_2))
+        elif (code_3 not in c):
+            c[code_3] = 1
+            bf_code.append((char, code_3))
+        # elif (code_4 not in c):
+        #     c[code_4] = 1
+        #     brief_code.append((char, code_4))
+        # elif (code_5 not in c and code[2] in small_key):
+        #     c[code_5] = 1
+        #     brief_code.append((char, code_5))
+        else:
+            bf_code.append((char, code))
+    return bf_code
 
 brief_code = build_brief_code(fullCode)
 with open('data/brief_code.txt', encoding='utf-8', mode='w') as briefCodeFile:
@@ -428,10 +456,10 @@ def stats(brief_code):
 
         line_index += 1
     # print("前540%d" % code_cnt_4_650)
-    print("前1000重码数：%d" % cm_cnt_1000)
-    print("前2000重码数：%d" % cm_cnt_2000)
-    print("前3000重码数：%d" % cm_cnt_3000)
-    print("前4000重码数：%d" % cm_cnt_4000)
+    print("前1000重码数: %d" % cm_cnt_1000)
+    print("前2000重码数: %d" % cm_cnt_2000)
+    print("前3000重码数: %d" % cm_cnt_3000)
+    print("前4000重码数: %d" % cm_cnt_4000)
     print("左右互击率：%s" % round(hja_500, 4))
     print("同指大跨排：%s" % round(dkp_500, 4))
     print("同指小跨排：%s" % round(xkp_500, 4))
@@ -440,18 +468,22 @@ def stats(brief_code):
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
+    # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
     # return cm_cnt_a + cm_cnt_3000
-    return cm_cnt_1000 * 10 + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 + cm_cnt_a - hja_500 * 2000 + dkp_500 * 2000 + xkp_500 * 200 + xzgr_500 * 200 + cs_500 * 200;
+    return cm_cnt_3000 * 1 + cm_cnt_a - hja_500 * 100 + dkp_500 * 200 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
 
 
 stats(brief_code)
 
 component_changed = []
+component_changed_map = {}
 with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
     for line in f:
         char = line.strip('\r\n')
+        comps = char.split('\t')
+        component_changed_map[comps[0]] = comps
         component_changed.append(char)
-
+print(component_changed_map)
 keys = [
     'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';',
@@ -471,8 +503,13 @@ class ComponentsDistributionProblem(Annealer):
     def move(self):
         l = list(self.state.keys())
         a = random.choice(l)
-        if a in component_changed:
-            self.state[a] = random.choice(keys)
+        k = random.choice(keys)
+        for kv in component_changed_map.items():
+            if (a in kv[1]):
+                for b in kv[1]:
+                    self.state[b] = k
+        # if a in component_changed:
+        #     self.state[a] =
         # b = random.choice(l)
         # if a in component_change.keys() or b in component_change.keys():
         #     self.state[a], self.state[b] = self.state[b], self.state[a]
@@ -484,7 +521,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 100, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -512,7 +549,7 @@ if __name__ == '__main__':
         json.dump(key_map, f, ensure_ascii=False)
 
     full_code = build_full_code(state, decompositionLines)
-    brief_code = build_brief_code(full_code)
+    brief_code = get_brief_code(full_code)
     with open('data/new_brief_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\t%s\n' % (char, code))
