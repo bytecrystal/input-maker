@@ -58,3 +58,6 @@ print(difference)
 print(u'\ue843')
 print(u'\ue831')
 print(u'\ue831')
+
+a = '中国人好abc,abc'
+print(a[0])

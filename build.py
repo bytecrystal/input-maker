@@ -77,6 +77,7 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
 # 3. 选取的字根依次编码后为 1 码，则补拼音首字母和末字母。例：一 = 【一】 = 【t】= tyi 。
 def build_full_code(component_k, decomposition_lines):
     fullCode = []
+    full_code_map = {}
     for line in decomposition_lines:
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
         # strokes = stroke_arr_small[char]
@@ -87,23 +88,21 @@ def build_full_code(component_k, decomposition_lines):
             c3 = component_k[s3]
             qm = c1 + c2 + c3
             fullCode.append((char, qm))
+            full_code_map[char] = qm
         elif (s2):
             c1 = component_k[s1]
             c2 = component_k[s2]
             c3 = py[0]
             qm = c1 + c2 + c3
             fullCode.append((char, qm))
+            full_code_map[char] = qm
         elif (s1):
             c1 = component_k[s1]
             qm = c1 + py
             fullCode.append((char, qm))
-    return fullCode
+            full_code_map[char] = qm
+    return (fullCode, full_code_map)
 
-
-fullCode = build_full_code(componentKey, decompositionLines)
-with open('data/full_code.txt', encoding='utf-8', mode='w') as fullCodeFile:
-    for char, code in fullCode:
-        fullCodeFile.write('%s\t%s\n' % (char, code))
 
 small_key = {'a', 'e', 'i', 'o', 'u'}
 
@@ -168,10 +167,6 @@ def get_brief_code(full_code):
             bf_code.append((char, code))
     return bf_code
 
-brief_code = build_brief_code(fullCode)
-with open('data/brief_code.txt', encoding='utf-8', mode='w') as briefCodeFile:
-    for char, code in brief_code:
-        briefCodeFile.write('%s\t%s\n' % (char, code))
 
 ajew = {}
 f = open('test/ew.txt', encoding='utf-8', mode='r')
@@ -400,7 +395,7 @@ def get_params(brief_code):
     # return 0
 
 
-def stats(brief_code):
+def stats(brief_code, ci_map):
     # return get_params(brief_code)
     c = {}
     # 总的重码数
@@ -438,7 +433,7 @@ def stats(brief_code):
                 cm_cnt_3000 += 1
             elif (line_index <= 4000):
                 cm_cnt_4000 += 1
-        if (line_index <= 1500):
+        if (line_index <= 500):
             zh = []
             for k in range(len(code) - 1):
                 zh.append(code[k] + code[k + 1])
@@ -455,25 +450,62 @@ def stats(brief_code):
                     cs_500 += zp_a[char]
 
         line_index += 1
+    ci_a = {}
+    ci_cm_cmt_a = 0
+    ci_line_index = 5000
+    ci_hja = 0
+    ci_dkp = 0
+    ci_xkp = 0
+    ci_xzgr = 0
+    ci_cs = 0
+    for kv in ci_map.items():
+        char = kv[0]
+        code = kv[1]
+        if (code not in ci_a):
+            ci_a[code] = 1
+        else:
+            ci_cm_cmt_a += 1
+        if (ci_line_index <= 5000):
+            zh = []
+            for k in range(len(code) - 1):
+                zh.append(code[k] + code[k + 1])
+            for k in zh:
+                if k in hjzh or '_' in k:
+                    ci_hja += 1
+                if k in dkpzh:
+                    ci_dkp += 1
+                if k in xkpzh:
+                    ci_xkp += 1
+                if k in xzgrzh:
+                    ci_xzgr += 1
+                if k in cszh:
+                    ci_cs += 1
+
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数: %d" % cm_cnt_1000)
     print("前2000重码数: %d" % cm_cnt_2000)
     print("前3000重码数: %d" % cm_cnt_3000)
     print("前4000重码数: %d" % cm_cnt_4000)
-    print("左右互击率：%s" % round(hja_500, 4))
-    print("同指大跨排：%s" % round(dkp_500, 4))
+    print("左右互击数：%s" % round(hja_500, 4))
+    print("同指大跨排数：%s" % round(dkp_500, 4))
     print("同指小跨排：%s" % round(xkp_500, 4))
     print("小指干扰率：%s" % round(xzgr_500, 4))
-    print("总的重码数: %d" % round(cm_cnt_a, 4))
+    print("总的重码数: %d" % cm_cnt_a)
+
+    print("词--左右互击数：%s" % ci_hja)
+    print("词--同指大跨排数：%s" % ci_dkp)
+    # print("词--同指小跨排：%s" % round(ci_xkp, 4))
+    # print("词--小指干扰率：%s" % round(ci_xzgr, 4))
+    print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
     # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
     # return cm_cnt_a + cm_cnt_3000
-    return cm_cnt_1000 * 1.2 + cm_cnt_2000 * 1.1 +  cm_cnt_3000 * 1 + cm_cnt_a - hja_500 * 100 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
+    return ci_cm_cmt_a / 2 + cm_cnt_a - ci_hja / 40 / 2 + ci_dkp / 2 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
 
 
-stats(brief_code)
+# stats(brief_code)
 
 component_changed = []
 component_changed_map = {}
@@ -490,14 +522,44 @@ keys = [
     'z', 'x', 'c', 'v', 'b', 'n', 'm'
 ]
 
+ci_list = []
+# 读取词表
+with open('asserts/ci.txt', encoding='utf-8', mode='r') as f:
+    for line in f:
+        l_c = line.strip('\r\n')
+        ci_list.append(l_c)
+
+
+# 造词
+def build_ci_by_full_code(full_code_map):
+    ci_map = {}
+    for ci in ci_list:
+        lc = len(ci)
+        if (lc == 2):
+            # 一个字取两码：A1a1B1b1
+            ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
+        elif (lc == 3):
+            # 每个字取首码
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+        elif (lc == 4):
+            ci_map[ci] = full_code_map[ci[0][0]] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
+        elif (lc > 4):
+            ci_map[ci] = full_code_map[ci[0][0]] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
+    # for char, code in full_code:
+    return ci_map
+
+
 class ComponentsDistributionProblem(Annealer):
     def __int__(self, state):
         super(ComponentsDistributionProblem, self).__init__(state)
 
     def energy(self):
-        full_c = build_full_code(self.state, decompositionLines)
+        full_res = build_full_code(self.state, decompositionLines)
+        full_c = full_res[0]
         brief_c = build_brief_code(full_c)
-        return stats(brief_c)
+        full_c_map = full_res[1]
+        ci_c = build_ci_by_full_code(full_c_map)
+        return stats(brief_c, ci_c)
 
     def move(self):
         l = list(self.state.keys())
@@ -520,7 +582,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -547,15 +609,36 @@ if __name__ == '__main__':
             key_map[key] = key_map.get(key, []) + [char]
         json.dump(key_map, f, ensure_ascii=False)
 
-    full_code = build_full_code(state, decompositionLines)
+    full_res = build_full_code(state, decompositionLines)
+    full_code = full_res[0]
     brief_code = get_brief_code(full_code)
     with open('data/new_brief_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\t%s\n' % (char, code))
+    with open('data/full_code.txt', encoding='utf-8', mode='w') as fullCodeFile:
+        for char, code in full_code:
+            fullCodeFile.write('%s\t%s\n' % (char, code))
+
+    full_code_map = full_res[1]
+    ci_map = build_ci_by_full_code(full_code_map)
+    with open('data/ci_code.txt', encoding='utf-8', mode='w') as fiCodeFile:
+        for kv in ci_map.items():
+            fiCodeFile.write('%s\t%s\n' % (kv[0], kv[1]))
+    # fullCode = build_full_code(componentKey, decompositionLines)[0]
+
+    # brief_code = build_brief_code(fullCode)
+    # with open('data/brief_code.txt', encoding='utf-8', mode='w') as briefCodeFile:
+    #     for char, code in brief_code:
+    #         briefCodeFile.write('%s\t%s\n' % (char, code))
 
     with open('data/new_brief_code_char.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\n' % (char))
+
+    with open('data/new_brief_code_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
+        for char, code in brief_code:
+            newBriefCodeFile.write('%s\n' % (code))
+
 
     with open('data/new_brief_code_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
