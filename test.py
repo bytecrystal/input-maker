@@ -61,3 +61,28 @@ print(u'\ue831')
 
 a = '中国人好abc,abc'
 print(a[0])
+
+all_key = 'abcdefghijklmnopqrstuvwxyz'
+all_double_key = [x + y for x in all_key for y in all_key]
+
+# print(all_double_key)
+
+code_map = {}
+with open('data/new_brief_code.txt', encoding='utf-8', mode='r') as f:
+    for line in f:
+        li = line.strip('\r\n')
+        arr = li.split('\t')
+        char = arr[0]
+        code = arr[1]
+        code_map[char] = code
+
+codes = {}
+jm_cm_cnt = 0
+for v in code_map.values():
+    if (v not in codes.keys()):
+        codes[v] = 1
+    else:
+        jm_cm_cnt += 1
+
+print("简码的重码数: %d" % jm_cm_cnt)
+
