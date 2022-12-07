@@ -433,7 +433,7 @@ def stats(brief_code, ci_map):
                 cm_cnt_3000 += 1
             elif (line_index <= 4000):
                 cm_cnt_4000 += 1
-        if (line_index <= 500):
+        if (line_index <= 1000):
             zh = []
             for k in range(len(code) - 1):
                 zh.append(code[k] + code[k + 1])
@@ -458,28 +458,28 @@ def stats(brief_code, ci_map):
     ci_xkp = 0
     ci_xzgr = 0
     ci_cs = 0
-    for kv in ci_map.items():
-        # char = kv[0]
-        code = kv[1]
-        if (code not in ci_a):
-            ci_a[code] = 1
-        else:
-            ci_cm_cmt_a += 1
-        if (ci_line_index <= 20000):
-            zh = []
-            for k in range(len(code) - 1):
-                zh.append(code[k] + code[k + 1])
-            for k in zh:
-                if k in hjzh or '_' in k:
-                    ci_hja += 1
-                if k in dkpzh:
-                    ci_dkp += 1
-                if k in xkpzh:
-                    ci_xkp += 1
-                if k in xzgrzh:
-                    ci_xzgr += 1
-                if k in cszh:
-                    ci_cs += 1
+    # for kv in ci_map.items():
+    #     # char = kv[0]
+    #     code = kv[1]
+    #     if (code not in ci_a):
+    #         ci_a[code] = 1
+    #     else:
+    #         ci_cm_cmt_a += 1
+    #     if (ci_line_index <= 20000):
+    #         zh = []
+    #         for k in range(len(code) - 1):
+    #             zh.append(code[k] + code[k + 1])
+    #         for k in zh:
+    #             if k in hjzh or '_' in k:
+    #                 ci_hja += 1
+    #             if k in dkpzh:
+    #                 ci_dkp += 1
+    #             if k in xkpzh:
+    #                 ci_xkp += 1
+    #             if k in xzgrzh:
+    #                 ci_xzgr += 1
+    #             if k in cszh:
+    #                 ci_cs += 1
 
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数: %d" % cm_cnt_1000)
@@ -492,18 +492,19 @@ def stats(brief_code, ci_map):
     print("小指干扰率：%s" % round(xzgr_500, 4))
     print("总的重码数: %d" % cm_cnt_a)
 
-    print("词--左右互击数：%s" % ci_hja)
-    print("词--同指大跨排数：%s" % ci_dkp)
-    print("词--同指小跨排数：%s" % ci_xkp)
-    print("词--小指干扰数：%s" % ci_xzgr)
-    print("词--总的重码数: %d" % ci_cm_cmt_a)
+    # print("词--左右互击数：%s" % ci_hja)
+    # print("词--同指大跨排数：%s" % ci_dkp)
+    # print("词--同指小跨排数：%s" % ci_xkp)
+    # print("词--小指干扰数：%s" % ci_xzgr)
+    # print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
     # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
     # return cm_cnt_a + cm_cnt_3000
-    return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
-           - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
+    # return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
+    #        - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
+    return cm_cnt_a - hja_500 * 50 + dkp_500 * 200 + xkp_500 * 50 + xzgr_500 * 200 + cs_500 * 50
 
 
 # stats(brief_code)
@@ -559,7 +560,8 @@ class ComponentsDistributionProblem(Annealer):
         full_c = full_res[0]
         brief_c = build_brief_code(full_c)
         full_c_map = full_res[1]
-        ci_c = build_ci_by_full_code(full_c_map)
+        # ci_c = build_ci_by_full_code(full_c_map)
+        ci_c = {}
         return stats(brief_c, ci_c)
 
     def move(self):
