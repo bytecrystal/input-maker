@@ -459,13 +459,13 @@ def stats(brief_code, ci_map):
     ci_xzgr = 0
     ci_cs = 0
     for kv in ci_map.items():
-        char = kv[0]
+        # char = kv[0]
         code = kv[1]
         if (code not in ci_a):
             ci_a[code] = 1
         else:
             ci_cm_cmt_a += 1
-        if (ci_line_index <= 5000):
+        if (ci_line_index <= 20000):
             zh = []
             for k in range(len(code) - 1):
                 zh.append(code[k] + code[k + 1])
@@ -494,15 +494,16 @@ def stats(brief_code, ci_map):
 
     print("词--左右互击数：%s" % ci_hja)
     print("词--同指大跨排数：%s" % ci_dkp)
-    # print("词--同指小跨排：%s" % round(ci_xkp, 4))
-    # print("词--小指干扰率：%s" % round(ci_xzgr, 4))
+    print("词--同指小跨排数：%s" % ci_xkp)
+    print("词--小指干扰数：%s" % ci_xzgr)
     print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
     # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
     # return cm_cnt_a + cm_cnt_3000
-    return ci_cm_cmt_a / 2 + cm_cnt_a - ci_hja / 40 / 2 + ci_dkp / 2 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
+    return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
+           - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
 
 
 # stats(brief_code)
@@ -542,9 +543,9 @@ def build_ci_by_full_code(full_code_map):
             # 每个字取首码
             ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
         elif (lc == 4):
-            ci_map[ci] = full_code_map[ci[0][0]] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
         elif (lc > 4):
-            ci_map[ci] = full_code_map[ci[0][0]] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
     # for char, code in full_code:
     return ci_map
 
@@ -582,7 +583,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
