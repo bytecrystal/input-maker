@@ -514,7 +514,7 @@ def stats(brief_code, ci_map):
     # return cm_cnt_a + cm_cnt_3000
     # return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
     #        - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
-    return cm_cnt_a * 5 - hja_500 * 50 - jm_cnt  + dkp_500 * 200 + xkp_500 * 100 + xzgr_500 * 200 + cs_500 * 200 \
+    return cm_cnt_a * 10 - hja_500 * 50 - jm_cnt  + dkp_500 * 200 + xkp_500 * 100 + xzgr_500 * 200 + cs_500 * 200 \
 - ci_hja / 25 + ci_dkp / 50 + ci_xkp / 200 + ci_xzgr / 200 + ci_cs / 20 + ci_cm_cmt_a / 5
 
 
