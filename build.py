@@ -436,7 +436,7 @@ def stats(brief_code, ci_map):
                 cm_cnt_3000 += 1
             elif (line_index <= 4000):
                 cm_cnt_4000 += 1
-        if (line_index <= 1000):
+        if (line_index <= 4000):
             zh = []
             for k in range(len(code) - 1):
                 zh.append(code[k] + code[k + 1])
@@ -465,48 +465,49 @@ def stats(brief_code, ci_map):
     ci_xkp = 0
     ci_xzgr = 0
     ci_cs = 0
-    for kv in ci_map.items():
-        # char = kv[0]
-        code = kv[1]
-        if (code not in ci_a):
-            ci_a[code] = 1
-        else:
-            ci_cm_cmt_a += 1
-        if (ci_line_index <= 20000):
-            zh = []
-            for k in range(len(code) - 1):
-                zh.append(code[k] + code[k + 1])
-            for k in zh:
-                if k in hjzh or '_' in k:
-                    ci_hja += 1
-                if k in dkpzh:
-                    ci_dkp += 1
-                if k in xkpzh:
-                    ci_xkp += 1
-                if k in xzgrzh:
-                    ci_xzgr += 1
-                if k in cszh:
-                    ci_cs += 1
+    # for kv in ci_map.items():
+    #     # char = kv[0]
+    #     code = kv[1]
+    #     if (code not in ci_a):
+    #         ci_a[code] = 1
+    #     else:
+    #         ci_cm_cmt_a += 1
+    #     if (ci_line_index <= 20000):
+    #         zh = []
+    #         for k in range(len(code) - 1):
+    #             zh.append(code[k] + code[k + 1])
+    #         for k in zh:
+    #             if k in hjzh or '_' in k:
+    #                 ci_hja += 1
+    #             if k in dkpzh:
+    #                 ci_dkp += 1
+    #             if k in xkpzh:
+    #                 ci_xkp += 1
+    #             if k in xzgrzh:
+    #                 ci_xzgr += 1
+    #             if k in cszh:
+    #                 ci_cs += 1
 
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数: %d" % cm_cnt_1000)
     print("前2000重码数: %d" % cm_cnt_2000)
     print("前3000重码数: %d" % cm_cnt_3000)
     print("前4000重码数: %d" % cm_cnt_4000)
-    print("左右互击数：%s" % round(hja_500, 4))
-    print("同指大跨排数：%s" % round(dkp_500, 4))
-    print("同指小跨排：%s" % round(xkp_500, 4))
+    print("左右互击率：%s" % round(hja_500, 4))
+    print("同指大跨排率：%s" % round(dkp_500, 4))
+    print("同指小跨排率：%s" % round(xkp_500, 4))
     print("小指干扰率：%s" % round(xzgr_500, 4))
+    print("错手率：%s" % round(cs_500, 4))
     jm_cnt = len(jm)
     print("前500字总的二简数: %d" % jm_cnt)
     print("总的重码数: %d" % cm_cnt_a)
 
-    print("词--左右互击数：%s" % ci_hja)
-    print("词--同指大跨排数：%s" % ci_dkp)
-    print("词--同指小跨排数：%s" % ci_xkp)
-    print("词--小指干扰数：%s" % ci_xzgr)
-    print("词--错手：%s" % ci_cs)
-    print("词--总的重码数: %d" % ci_cm_cmt_a)
+    # print("词--左右互击数：%s" % ci_hja)
+    # print("词--同指大跨排数：%s" % ci_dkp)
+    # print("词--同指小跨排数：%s" % ci_xkp)
+    # print("词--小指干扰数：%s" % ci_xzgr)
+    # print("词--错手：%s" % ci_cs)
+    # print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
 
     # print(code_cnt_4_650)
@@ -514,8 +515,9 @@ def stats(brief_code, ci_map):
     # return cm_cnt_a + cm_cnt_3000
     # return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
     #        - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
-    return cm_cnt_a * 10 - hja_500 * 50 - jm_cnt  + dkp_500 * 200 + xkp_500 * 100 + xzgr_500 * 200 + cs_500 * 200 \
-- ci_hja / 25 + ci_dkp / 50 + ci_xkp / 200 + ci_xzgr / 200 + ci_cs / 20 + ci_cm_cmt_a / 5
+#     return cm_cnt_a * 10 - hja_500 * 50 - jm_cnt  + dkp_500 * 200 + xkp_500 * 100 + xzgr_500 * 200 + cs_500 * 200 \
+# - ci_hja / 25 + ci_dkp / 50 + ci_xkp / 200 + ci_xzgr / 200 + ci_cs / 20 + ci_cm_cmt_a / 5
+    return cm_cnt_a - hja_500 * 1000 + dkp_500 * 2000 - jm_cnt * 10
 
 
 
@@ -523,13 +525,17 @@ def stats(brief_code, ci_map):
 
 component_changed = []
 component_changed_map = {}
+# component_changed_list = []
 with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
     for line in f:
         char = line.strip('\r\n')
         comps = char.split('\t')
         component_changed_map[comps[0]] = comps
         component_changed.append(char)
+        # component_changed_list.append(comps)
 # print(component_changed_map)
+
+# print(component_changed_list)
 keys = [
     'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
@@ -572,8 +578,8 @@ class ComponentsDistributionProblem(Annealer):
         full_c = full_res[0]
         brief_c = build_brief_code(full_c)
         full_c_map = full_res[1]
-        ci_c = build_ci_by_full_code(full_c_map)
-        # ci_c = {}
+        # ci_c = build_ci_by_full_code(full_c_map)
+        ci_c = {}
         return stats(brief_c, ci_c)
 
     def move(self):
@@ -597,7 +603,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
