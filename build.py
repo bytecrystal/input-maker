@@ -398,20 +398,13 @@ all_key = 'abcdefghijklmnopqrstuvwxyz'
 all_double_key = [x + y for x in all_key for y in all_key]
 
 def stats(brief_code, ci_map):
-    # return get_params(brief_code)
     c = {}
-    # 总的重码数
     cm_cnt_a = 0
-    # 前1000重码数
     cm_cnt_1000 = 0
-    # 前2000重码数
     cm_cnt_2000 = 0
-    # 前3000重码数
     cm_cnt_3000 = 0
-    # 前4000重码数
     cm_cnt_4000 = 0
     line_index = 0
-    # 前650的四码数
     code_cnt_4_650 = 0
     hja_500 = 0.00
     dkp_500 = 0.00
@@ -426,7 +419,6 @@ def stats(brief_code, ci_map):
         if (code not in c):
             c[code] = 1
         else:
-            # print(char, code)
             cm_cnt_a += 1
             if (line_index <= 1000):
                 cm_cnt_1000 += 1
@@ -451,7 +443,7 @@ def stats(brief_code, ci_map):
                     xzgr_500 += zp_a[char]
                 if k in cszh:
                     cs_500 += zp_a[char]
-            # if (line_index <= 500):
+        if (line_index <= 1500):
             if (code[:2] not in jm and code[:2] in all_double_key):
                 jm.append(code[:2])
 
@@ -459,7 +451,7 @@ def stats(brief_code, ci_map):
         line_index += 1
     ci_a = {}
     ci_cm_cmt_a = 0
-    ci_line_index = 5000
+    ci_line_index = 0
     ci_hja = 0
     ci_dkp = 0
     ci_xkp = 0
@@ -468,11 +460,7 @@ def stats(brief_code, ci_map):
     # for kv in ci_map.items():
     #     # char = kv[0]
     #     code = kv[1]
-    #     if (code not in ci_a):
-    #         ci_a[code] = 1
-    #     else:
-    #         ci_cm_cmt_a += 1
-    #     if (ci_line_index <= 20000):
+    #     if (ci_line_index <= 10000):
     #         zh = []
     #         for k in range(len(code) - 1):
     #             zh.append(code[k] + code[k + 1])
@@ -487,6 +475,11 @@ def stats(brief_code, ci_map):
     #                 ci_xzgr += 1
     #             if k in cszh:
     #                 ci_cs += 1
+    #         if (code not in ci_a):
+    #             ci_a[code] = 1
+    #         else:
+    #             ci_cm_cmt_a += 1
+    #     ci_line_index += 1
 
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数: %d" % cm_cnt_1000)
@@ -509,33 +502,18 @@ def stats(brief_code, ci_map):
     # print("词--错手：%s" % ci_cs)
     # print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
-
-    # print(code_cnt_4_650)
-    # + cm_cnt_2000 * 7 * cm_cnt_3000 * 6 + cm_cnt_4000 * 2 +
-    # return cm_cnt_a + cm_cnt_3000
-    # return ci_cm_cmt_a / 10 + cm_cnt_a + cm_cnt_3000 * 1.1 + cm_cnt_2000 * 1.3 + cm_cnt_1000 * 1.5\
-    #        - ci_hja / 500 + ci_dkp / 20 + ci_xkp / 200 + ci_xzgr / 200 - hja_500 * 200 + dkp_500 * 2000 + xkp_500 * 50 + xzgr_500 * 50 + cs_500 * 50
-#     return cm_cnt_a * 10 - hja_500 * 50 - jm_cnt  + dkp_500 * 200 + xkp_500 * 100 + xzgr_500 * 200 + cs_500 * 200 \
-# - ci_hja / 25 + ci_dkp / 50 + ci_xkp / 200 + ci_xzgr / 200 + ci_cs / 20 + ci_cm_cmt_a / 5
-    return cm_cnt_a - hja_500 * 1000 + dkp_500 * 2000 - jm_cnt * 10
-
-
-
-# stats(brief_code)
+    # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
+    #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
 
 component_changed = []
 component_changed_map = {}
-# component_changed_list = []
 with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
     for line in f:
         char = line.strip('\r\n')
         comps = char.split('\t')
         component_changed_map[comps[0]] = comps
         component_changed.append(char)
-        # component_changed_list.append(comps)
-# print(component_changed_map)
 
-# print(component_changed_list)
 keys = [
     'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
@@ -590,11 +568,6 @@ class ComponentsDistributionProblem(Annealer):
             if (a in kv[1]):
                 for b in kv[1]:
                     self.state[b] = k
-        # if a in component_changed:
-        #     self.state[a] =
-        # b = random.choice(l)
-        # if a in component_change.keys() or b in component_change.keys():
-        #     self.state[a], self.state[b] = self.state[b], self.state[a]
 
 
 #

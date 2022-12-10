@@ -39,7 +39,7 @@ for line in f:
         pl3[z] = p
     elif x<=3000:
         pl4[z] = p
-    elif x<=6000:
+    elif x<=7000:
         pl5[z] = p
 f.close()
 f = open('jg.txt',encoding = 'utf-8', mode = 'w')
