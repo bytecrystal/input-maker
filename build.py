@@ -86,13 +86,14 @@ def build_full_code(component_k, decomposition_lines):
             c1 = component_k[s1]
             c2 = component_k[s2]
             c3 = component_k[s3]
-            qm = c1 + c2 + c3
+            qm = c1 + c2 + c3 + py[0]
             fullCode.append((char, qm))
             full_code_map[char] = qm
         elif (s2):
             c1 = component_k[s1]
             c2 = component_k[s2]
-            c3 = py[0]
+            # c3 = py[0]
+            c3 = py
             qm = c1 + c2 + c3
             fullCode.append((char, qm))
             full_code_map[char] = qm
@@ -504,6 +505,8 @@ def stats(brief_code, ci_map):
     print("-----------------------------------")
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
+    return  cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
+    - jm_cnt * 3
 
 component_changed = []
 component_changed_map = {}
