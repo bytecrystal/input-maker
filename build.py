@@ -113,34 +113,34 @@ small_key = {'a', 'e', 'i', 'o', 'u'}
 
 # 简码
 def build_brief_code(fullCode):
-    # brief_code = []
-    # c = {}
-    #
-    # for char, code in fullCode:
-    #     code_1 = code[:1]
-    #     code_2 = code[:2]
-    #     code_3 = code[:3]
-    #     # code_4 = code[:4]
-    #     # code_5 = code[:5]
-    #     if (code_1 not in c):
-    #         c[code_1] = 1
-    #         brief_code.append((char, code_1))
-    #     elif (code_2 not in c):
-    #         c[code_2] = 1
-    #         brief_code.append((char, code_2))
-    #     elif (code_3 not in c):
-    #         c[code_3] = 1
-    #         brief_code.append((char, code_3))
-    #     # elif (code_4 not in c):
-    #     #     c[code_4] = 1
-    #     #     brief_code.append((char, code_4))
-    #     # elif (code_5 not in c and code[2] in small_key):
-    #     #     c[code_5] = 1
-    #     #     brief_code.append((char, code_5))
-    #     else:
-    #         brief_code.append((char, code))
-    return fullCode
-    # return brief_code
+    brief_code = []
+    c = {}
+
+    for char, code in fullCode:
+        code_1 = code[:1]
+        code_2 = code[:2]
+        code_3 = code[:3]
+        # code_4 = code[:4]
+        # code_5 = code[:5]
+        if (code_1 not in c):
+            c[code_1] = 1
+            brief_code.append((char, code_1))
+        elif (code_2 not in c):
+            c[code_2] = 1
+            brief_code.append((char, code_2))
+        elif (code_3 not in c):
+            c[code_3] = 1
+            brief_code.append((char, code_3))
+        # elif (code_4 not in c):
+        #     c[code_4] = 1
+        #     brief_code.append((char, code_4))
+        # elif (code_5 not in c and code[2] in small_key):
+        #     c[code_5] = 1
+        #     brief_code.append((char, code_5))
+        else:
+            brief_code.append((char, code))
+    # return fullCode
+    return brief_code
 
 def get_brief_code(full_code):
     bf_code = []
@@ -417,7 +417,7 @@ def stats(brief_code, ci_map):
     cs_500 = 0.00
     jm = []
     for char, code in brief_code:
-        if (line_index <= 650):
+        if (line_index <= 1500):
             if (len(code) == 4):
                 code_cnt_4_650 += 1
         if (code not in c):
@@ -497,6 +497,7 @@ def stats(brief_code, ci_map):
     print("错手率：%s" % round(cs_500, 4))
     jm_cnt = len(jm)
     print("前500字总的二简数: %d" % jm_cnt)
+    print("前500字四码个数: %d" % code_cnt_4_650)
     print("总的重码数: %d" % cm_cnt_a)
 
     print("词--左右互击数：%s" % ci_hja)
@@ -508,9 +509,9 @@ def stats(brief_code, ci_map):
     print("-----------------------------------")
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
-    return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 2 \
+    return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 8 \
     - jm_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
-    - ci_hja / 70
+    - ci_hja / 70 + code_cnt_4_650 * 10
 
 component_changed = []
 component_changed_map = {}
