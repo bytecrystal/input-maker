@@ -1,0 +1,18 @@
+# Rime dictionary: c_42
+# encoding: utf-8
+
+---
+name: comet
+version: "1"
+sort: original
+columns:
+  - text
+  - code
+encoder:
+  exclude_patterns:
+    - '^x.*$'
+    - '^z.*$'
+import_tables:
+  - comet.words
+  - comet.phrases
+...

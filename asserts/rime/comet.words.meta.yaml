@@ -1,0 +1,16 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+---
+name: comet.words
+version: 1.0
+use_preset_vocabulary: false
+sort: original
+columns:
+  - text
+  - code
+  - stem
+encoder:
+  exclude_patterns:
+    - '^x.*$'
+    - '^z.*$'
+...

@@ -597,7 +597,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -627,9 +627,17 @@ if __name__ == '__main__':
     full_res = build_full_code(state, decompositionLines)
     full_code = full_res[0]
     brief_code = get_brief_code(full_code)
+    brief_1_code = []
     with open('data/new_brief_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\t%s\n' % (char, code))
+            if (len(code) == 1):
+                brief_1_code.append((char, code))
+
+    with open('data/single_brief_code.txt', encoding='utf-8', mode='w') as singleCodeFile:
+        for char, code in brief_1_code:
+            singleCodeFile.write('%s\t%s\n' % (char, code))
+
     with open('data/full_code.txt', encoding='utf-8', mode='w') as fullCodeFile:
         for char, code in full_code:
             fullCodeFile.write('%s\t%s\n' % (char, code))
