@@ -75,6 +75,8 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
 # 1. 选取的字根依次编码后大于等于 3 码，则取前 3 码（超过 3 码的情况是因为有双编码字根）。例：说 = 【讠丷 儿】= 【u k a】= uka；絷 = 【执 幺 小】=【zi s v】= zis ；
 # 2. 选取的字根依次编码后为 2 码，则补拼音首字母。例：我 = 【手 戈】 = 【j l】= jlw；占 = 【占】= 【zn】 = znz ；
 # 3. 选取的字根依次编码后为 1 码，则补拼音首字母和末字母。例：一 = 【一】 = 【t】= tyi 。
+
+stroke_zm = {'1': '一', '2': '丨', '3': '丿', '4': '丶', '5': '乛'}
 def build_full_code(component_k, decomposition_lines):
     fullCode = []
     full_code_map = {}
@@ -99,7 +101,8 @@ def build_full_code(component_k, decomposition_lines):
             full_code_map[char] = qm
         elif (s1):
             c1 = component_k[s1]
-            qm = c1 + py
+            c4 = component_k[stroke_zm[stroke_char[char]]]
+            qm = c1 + py + c4
             fullCode.append((char, qm))
             full_code_map[char] = qm
     return (fullCode, full_code_map)
@@ -458,29 +461,29 @@ def stats(brief_code, ci_map):
     ci_xkp = 0
     ci_xzgr = 0
     ci_cs = 0
-    # for kv in ci_map.items():
-    #     # char = kv[0]
-    #     code = kv[1]
-    #     if (ci_line_index <= 10000):
-    #         zh = []
-    #         for k in range(len(code) - 1):
-    #             zh.append(code[k] + code[k + 1])
-    #         for k in zh:
-    #             if k in hjzh or '_' in k:
-    #                 ci_hja += 1
-    #             if k in dkpzh:
-    #                 ci_dkp += 1
-    #             if k in xkpzh:
-    #                 ci_xkp += 1
-    #             if k in xzgrzh:
-    #                 ci_xzgr += 1
-    #             if k in cszh:
-    #                 ci_cs += 1
-    #         if (code not in ci_a):
-    #             ci_a[code] = 1
-    #         else:
-    #             ci_cm_cmt_a += 1
-    #     ci_line_index += 1
+    for kv in ci_map.items():
+        # char = kv[0]
+        code = kv[1]
+        if (ci_line_index <= 10000):
+            zh = []
+            for k in range(len(code) - 1):
+                zh.append(code[k] + code[k + 1])
+            for k in zh:
+                if k in hjzh or '_' in k:
+                    ci_hja += 1
+                if k in dkpzh:
+                    ci_dkp += 1
+                if k in xkpzh:
+                    ci_xkp += 1
+                if k in xzgrzh:
+                    ci_xzgr += 1
+                if k in cszh:
+                    ci_cs += 1
+            if (code not in ci_a):
+                ci_a[code] = 1
+            else:
+                ci_cm_cmt_a += 1
+        ci_line_index += 1
 
     # print("前540%d" % code_cnt_4_650)
     print("前1000重码数: %d" % cm_cnt_1000)
@@ -496,17 +499,17 @@ def stats(brief_code, ci_map):
     print("前500字总的二简数: %d" % jm_cnt)
     print("总的重码数: %d" % cm_cnt_a)
 
-    # print("词--左右互击数：%s" % ci_hja)
-    # print("词--同指大跨排数：%s" % ci_dkp)
-    # print("词--同指小跨排数：%s" % ci_xkp)
-    # print("词--小指干扰数：%s" % ci_xzgr)
-    # print("词--错手：%s" % ci_cs)
-    # print("词--总的重码数: %d" % ci_cm_cmt_a)
+    print("词--左右互击数：%s" % ci_hja)
+    print("词--同指大跨排数：%s" % ci_dkp)
+    print("词--同指小跨排数：%s" % ci_xkp)
+    print("词--小指干扰数：%s" % ci_xzgr)
+    print("词--错手：%s" % ci_cs)
+    print("词--总的重码数: %d" % ci_cm_cmt_a)
     print("-----------------------------------")
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
     return  cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
-    - jm_cnt * 3
+    - jm_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a
 
 component_changed = []
 component_changed_map = {}
@@ -559,8 +562,8 @@ class ComponentsDistributionProblem(Annealer):
         full_c = full_res[0]
         brief_c = build_brief_code(full_c)
         full_c_map = full_res[1]
-        # ci_c = build_ci_by_full_code(full_c_map)
-        ci_c = {}
+        ci_c = build_ci_by_full_code(full_c_map)
+        # ci_c = {}
         return stats(brief_c, ci_c)
 
     def move(self):
