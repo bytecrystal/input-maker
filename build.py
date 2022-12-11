@@ -464,7 +464,7 @@ def stats(brief_code, ci_map):
     for kv in ci_map.items():
         # char = kv[0]
         code = kv[1]
-        if (ci_line_index <= 10000):
+        if (ci_line_index <= 20000):
             zh = []
             for k in range(len(code) - 1):
                 zh.append(code[k] + code[k + 1])
@@ -508,8 +508,9 @@ def stats(brief_code, ci_map):
     print("-----------------------------------")
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
-    return  cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
-    - jm_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a
+    return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 2 \
+    - jm_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
+    - ci_hja / 70
 
 component_changed = []
 component_changed_map = {}
@@ -544,7 +545,9 @@ def build_ci_by_full_code(full_code_map):
             ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
         elif (lc == 3):
             # 每个字取首码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # 3字词是前两字第一码 + 第三字前两码
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
         elif (lc == 4):
             ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
         elif (lc > 4):
