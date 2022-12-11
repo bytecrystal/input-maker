@@ -419,10 +419,10 @@ def stats(brief_code, ci_map):
     jm_1500 = []
     jm_600 = []
     for char, code in brief_code:
-        if (line_index <= 1500):
+        if (line_index <= 1600):
             if (len(code) == 4):
                 code_cnt_4_650 += 1
-        elif (line_index <= 6000):
+        if (line_index <= 6000):
             if (len(code) == 4):
                 code_cnt_4_6000 += 1
         if (code not in c):
@@ -522,7 +522,7 @@ def stats(brief_code, ci_map):
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
     return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 8 \
     - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
-    - ci_hja / 70 + code_cnt_4_650 * 7 + code_cnt_4_6000
+    - ci_hja / 70 + code_cnt_4_650 * 4 + code_cnt_4_6000
 
 component_changed = []
 component_changed_map = {}
@@ -597,7 +597,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
