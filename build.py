@@ -410,16 +410,21 @@ def stats(brief_code, ci_map):
     cm_cnt_4000 = 0
     line_index = 0
     code_cnt_4_650 = 0
+    code_cnt_4_6000 = 0
     hja_500 = 0.00
     dkp_500 = 0.00
     xkp_500 = 0.00
     xzgr_500 = 0.00
     cs_500 = 0.00
-    jm = []
+    jm_1500 = []
+    jm_600 = []
     for char, code in brief_code:
         if (line_index <= 1500):
             if (len(code) == 4):
                 code_cnt_4_650 += 1
+        elif (line_index <= 6000):
+            if (len(code) == 4):
+                code_cnt_4_6000 += 1
         if (code not in c):
             c[code] = 1
         else:
@@ -448,8 +453,11 @@ def stats(brief_code, ci_map):
                 if k in cszh:
                     cs_500 += zp_a[char]
         if (line_index <= 1500):
-            if (code[:2] not in jm and code[:2] in all_double_key):
-                jm.append(code[:2])
+            if (code[:2] not in jm_1500 and code[:2] in all_double_key):
+                jm_1500.append(code[:2])
+            if (line_index <= 600):
+                if (code[:2] not in jm_600 and code[:2] in all_double_key):
+                    jm_600.append(code[:2])
 
 
         line_index += 1
@@ -495,9 +503,12 @@ def stats(brief_code, ci_map):
     print("同指小跨排率：%s" % round(xkp_500, 4))
     print("小指干扰率：%s" % round(xzgr_500, 4))
     print("错手率：%s" % round(cs_500, 4))
-    jm_cnt = len(jm)
-    print("前500字总的二简数: %d" % jm_cnt)
+    jm_1500_cnt = len(jm_1500)
+    jm_600_cnt = len(jm_600)
+    print("前1500字总的二简数: %d" % jm_1500_cnt)
+    print("前600字总的二简数: %d" % jm_600_cnt)
     print("前500字四码个数: %d" % code_cnt_4_650)
+    print("前6000字四码个数: %d" % code_cnt_4_6000)
     print("总的重码数: %d" % cm_cnt_a)
 
     print("词--左右互击数：%s" % ci_hja)
@@ -510,8 +521,8 @@ def stats(brief_code, ci_map):
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
     return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 8 \
-    - jm_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
-    - ci_hja / 70 + code_cnt_4_650 * 10
+    - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
+    - ci_hja / 70 + code_cnt_4_650 * 7 + code_cnt_4_6000
 
 component_changed = []
 component_changed_map = {}

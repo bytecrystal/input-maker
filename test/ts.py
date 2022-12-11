@@ -4,7 +4,7 @@ for line in f:
     aj,ew = line.strip('\r\n').split('\t')
     ajew[aj] = float(ew)
 f.close()
-f = open('../data/new_brief_code.txt', encoding = 'utf-8', mode = 'r')
+f = open('../data/full_code.txt', encoding = 'utf-8', mode = 'r')
 dz = {}
 for line in f:
     z,m = line.strip('\r\n').split('\t')
