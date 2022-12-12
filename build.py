@@ -53,7 +53,7 @@ with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
 # print(stroke_arr_small_last)
 
 # 读取字根
-with open('asserts/decomposition.txt', encoding='utf-8', mode='r') as componentFile:
+with open('data/new_decomposition.txt', encoding='utf-8', mode='r') as componentFile:
     decompositionLines = [line for line in componentFile]
 
 char_py = {}
@@ -409,6 +409,7 @@ def stats(brief_code, ci_map):
     cm_cnt_3000 = 0
     cm_cnt_4000 = 0
     line_index = 0
+    code_cnt_4_500 = 0
     code_cnt_4_650 = 0
     code_cnt_4_6000 = 0
     hja_500 = 0.00
@@ -418,10 +419,20 @@ def stats(brief_code, ci_map):
     cs_500 = 0.00
     jm_1500 = []
     jm_600 = []
+    jm_500 = []
+    jm_300 = []
+    jm_50_1 = []
+    # jm_1500_cnt = 0
+    # jm_1500_cnt = 0
+    # jm_500_cnt = 0
+    # jm_300_cnt = 0
     for char, code in brief_code:
         if (line_index <= 1600):
             if (len(code) == 4):
                 code_cnt_4_650 += 1
+        if (line_index <= 800):
+            if (len(code) == 4):
+                code_cnt_4_500 += 1
         if (line_index <= 6000):
             if (len(code) == 4):
                 code_cnt_4_6000 += 1
@@ -455,10 +466,18 @@ def stats(brief_code, ci_map):
         if (line_index <= 1500):
             if (code[:2] not in jm_1500 and code[:2] in all_double_key):
                 jm_1500.append(code[:2])
-            if (line_index <= 600):
-                if (code[:2] not in jm_600 and code[:2] in all_double_key):
-                    jm_600.append(code[:2])
-
+        if (line_index <= 600):
+            if (code[:2] not in jm_600 and code[:2] in all_double_key):
+                jm_600.append(code[:2])
+        if line_index <= 500:
+            if (code[:2] not in jm_500 and code[:2] in all_double_key):
+                jm_500.append(code[:2])
+        if line_index <= 300:
+            if (code[:2] not in jm_300 and code[:2] in all_double_key):
+                jm_300.append(code[:2])
+        if (line_index <= 50):
+            if (code[0] not in jm_50_1 and code[0] in list(all_key)):
+                jm_50_1.append(code[0])
 
         line_index += 1
     ci_a = {}
@@ -505,9 +524,16 @@ def stats(brief_code, ci_map):
     print("错手率：%s" % round(cs_500, 4))
     jm_1500_cnt = len(jm_1500)
     jm_600_cnt = len(jm_600)
+    jm_500_cnt = len(jm_500)
+    jm_300_cnt = len(jm_300)
+    jm_50_1_cnt = len(jm_50_1)
+    print("前50字总的一简数: %d" % jm_50_1_cnt)
     print("前1500字总的二简数: %d" % jm_1500_cnt)
     print("前600字总的二简数: %d" % jm_600_cnt)
-    print("前500字四码个数: %d" % code_cnt_4_650)
+    print("前500字总的二简数: %d" % jm_500_cnt)
+    print("前300字总的二简数: %d" % jm_300_cnt)
+    print("前500字四码个数: %d" % code_cnt_4_500)
+    print("前1600字四码个数: %d" % code_cnt_4_650)
     print("前6000字四码个数: %d" % code_cnt_4_6000)
     print("总的重码数: %d" % cm_cnt_a)
 
@@ -520,9 +546,9 @@ def stats(brief_code, ci_map):
     print("-----------------------------------")
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
-    return  cm_cnt_a + cm_cnt_1000 * 5 + cm_cnt_2000 * 4 + cm_cnt_3000 * 3 + cm_cnt_4000 * 8 \
+    return  cm_cnt_a + cm_cnt_1000 * 7 + cm_cnt_2000 * 6 + cm_cnt_3000 * 8 + cm_cnt_4000 * 4 \
     - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
-    - ci_hja / 70 + code_cnt_4_650 * 4 + code_cnt_4_6000
+    - ci_hja / 70 + code_cnt_4_650 * 4 + code_cnt_4_6000 - jm_300_cnt * 3 - jm_500_cnt * 2 + code_cnt_4_500 * 8
 
 component_changed = []
 component_changed_map = {}
