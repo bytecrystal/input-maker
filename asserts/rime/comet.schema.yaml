@@ -43,121 +43,137 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
-    - affix_segmentor@reverse_lookup
-    - affix_segmentor@pinyin_lookup
-    - affix_segmentor@bihua_lookup
+#    - affix_segmentor@reverse_lookup
+#    - affix_segmentor@pinyin_lookup
+#    - affix_segmentor@bihua_lookup
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-    - script_translator@pinyin_lookup
-    - script_translator@bihua_lookup
+#    - script_translator@pinyin_lookup
+#    - script_translator@bihua_lookup
   filters:
     - simplifier
     - uniquifier
-    - simplifier@emoji_suggestion
+#    - simplifier@emoji_suggestion
     - simplifier@zh_trad
-    - reverse_lookup_filter@pinyin_reverse_lookup
-    - reverse_lookup_filter@bihua_reverse_lookup
-    
+#    - reverse_lookup_filter@pinyin_reverse_lookup
+#    - reverse_lookup_filter@bihua_reverse_lookup
+
 speller:
   alphabet: "qwertasdfgzxcvbyuiophjklnm"
-  initials: "qwertasdfgzxcvbyuiophjklnm"
+#  initials: "qwertasdfgzxcvbyuiophjklnm"
   auto_select: true
   max_code_length: 4 #顶字上屏 （在QQ聊天窗口出问题，会吃字，如“末笔识别”，会只留下“识别”。暂未找到解决办法。）
   auto_select_unique_candidate: true #无重码自动上屏
-  delimiter: " ;'"
+  delimiter: ";'"
 
 
 translator:
   dictionary: comet
-  enable_charset_filter: true
+  db_class: tabledb
+  initial_quality: 100000
+  #  dictionary: pinyin_simp
+#  preedit_format:
+#    - xform/([nl])v/$1ü/
+#    - xform/([nl])ue/$1üe/
+#    - xform/([jqxy])v/$1u/
+  enable_charset_filter: false
   enable_sentence: false
   enable_encoder: false
   encode_commit_history: false
-  enable_completion: false
-#  disable_user_dict_for_patterns:
-#    - "^z.*$"
-  enable_user_dict: false #禁止词序调整
+  enable_completion: true
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+#  enable_user_dict: false #禁止词序调整
 
-emoji_suggestion:
-  opencc_config: emoji.json
-  option_name: emoji_suggestion
-  tips: all
-  tags:
-    - abc
-    - pinyin_lookup
+fixed:
+  __include: /translator
+  initial_quality: 1000
+  enable_encoder: false
+  enable_user_dict: false
+#
+#emoji_suggestion:
+#  opencc_config: emoji.json
+#  option_name: emoji_suggestion
+#  tips: all
+#  tags:
+#    - abc
+#    - pinyin_lookup
 
 zh_trad:
   opencc_config: s2tw.json
   option_name: zh_trad
   tags:
     - abc
+#
+#pinyin_lookup:
+#  tag: pinyin_lookup
+#  dictionary: luna_pinyin
+#  enable_user_dict: false
+#  tips: "〔拼音〕"
 
-
-pinyin_lookup:
-  tag: pinyin_lookup
-  dictionary: pinyin_simp
-  enable_user_dict: false
-  tips: "〔拼音〕"
-
-bihua_lookup:
-  tag: bihua_lookup
-  dictionary: stroke
-  enable_user_dict: false
-  tips: "〔笔画〕"
+#bihua_lookup:
+#  tag: bihua_lookup
+#  dictionary: stroke
+#  enable_user_dict: false
+#  tips: "〔笔画〕"
 
 # 反查
-reverse_lookup: 
-  tag: reverse_lookup
+reverse_lookup:
+  dictionary: pinyin_simp
   prefix: "`"
-  suffix: ";"
-  tips: "【反查】"
-  extra_tags:
-    - pinyin_lookup
-    - bihua_lookup
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
 
-pinyin_reverse_lookup:
-  tags: [ pinyin_lookup ] 
-  overwrite_comment: true
-  dictionary: &dict
-  enable_user_dict: false
-  comment_format:
-    - "xform/$/〕/"
-    - "xform/^/〔/"
-
-bihua_reverse_lookup:
-  tags: [ bihua_lookup ] 
-  overwrite_comment: true
-  dictionary: *dict
-  enable_user_dict: false
-  comment_format:
-    - "xform/$/〕/"
-    - "xform/^/〔/"
-    - "xform/~//"
+#pinyin_reverse_lookup:
+#  tags: [ pinyin_lookup ]
+#  overwrite_comment: true
+#  dictionary: &dict
+#  enable_user_dict: false
+#  comment_format:
+#    - "xform/$/〕/"
+#    - "xform/^/〔/"
+#
+#bihua_reverse_lookup:
+#  tags: [ bihua_lookup ]
+#  overwrite_comment: true
+#  dictionary: *dict
+#  enable_user_dict: false
+#  comment_format:
+#    - "xform/$/〕/"
+#    - "xform/^/〔/"
+#    - "xform/~//"
 
 # 标点
 punctuator:
   import_preset: symbols
 
 # 杂项
+#recognizer:
+#  import_preset: default
+#  patterns:
+#    punct: "^/[0-9]*[a-z]*$"
+#    pinyin: "`[a-z']*;?$"
 recognizer:
   import_preset: default
   patterns:
-    punct: "^/[0-9]*[a-z]*$"
-    pinyin: "`[a-z']*;?$"
+    reverse_lookup: "`[a-z]*'?$"
+    punct: "^/[a-z]*$"
 
 
 key_binder:
   import_preset: default
   bindings:
-    - {accept: Return, send: Escape, when: composing}
+#    - {accept: Return, send: Escape, when: composing}
     - {accept: semicolon, send: 2, when: has_menu} #分號選第二重碼
     - {accept: apostrophe, send: 3, when: has_menu} #引號選第三重碼
-    - {accept: bracketleft, send: Page_Up, when: paging}
-    - {accept: bracketright, send: Page_Down, when: has_menu}
+#    - {accept: bracketleft, send: Page_Up, when: paging}
+#    - {accept: bracketright, send: Page_Down, when: has_menu}
 
 menu:
-  page_size: 6
+  page_size: 9

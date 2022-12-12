@@ -150,7 +150,7 @@ with open('build/opencc/division.txt', 'w') as filterDivision:
     for char, code in div:
         filterDivision.write('%s\t%s\n' % (char, code))
 
-for name in ('comet.schema', 'symbols_for_c'):
+for name in ('comet.schema', 'symbols_for_c', 'pinyin_simp.dict', 'pinyin_simp.schema'):
     shutil.copyfile('../asserts/rime/%s.yaml' % name, 'build/%s.yaml' % name)
 for name in ('division', 'emoji'):
     shutil.copyfile('../asserts/rime/%s.json' % name, 'build/opencc/%s.json' % name)
