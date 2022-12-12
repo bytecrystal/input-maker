@@ -41,7 +41,7 @@
     margin-bottom: 10px;
     padding: 5px;
     /* ps */
-    background-color: #e4ece0;
+    background-color: #f9f9f9;
     border-radius: 10px;
     border: 1px solid #ccc;
 }
@@ -73,7 +73,7 @@
 .box .list .zi-ul > li {
     float: left;
     margin-left: 2px;
-    color: #0000ff;
+    color: #000;
 }
 
 .box .list .zi-ul > li:first-child {
