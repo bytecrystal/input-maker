@@ -76,7 +76,7 @@
 同时	dtye
 情况	qiko
 真的	ehlw
-关系	kkwh
+关系	rkwh
 组织	hhho
 不同	ibdt
 这么	nawv
@@ -111,7 +111,7 @@
 使用	flry
 作为	fyku
 只是	oeyt
-有关	fikk
+有关	firk
 两个	wlnd
 环境	ciht
 科学	dbbi
@@ -268,7 +268,7 @@
 让我	amzi
 终于	hfhy
 中心	odvx
-关注	kkvn
+关注	rkvn
 达到	kath
 并不	rsib
 我就	zimv
@@ -396,7 +396,7 @@
 机会	rdnx
 只能	oevi
 分享	efmi
-关于	kkhy
+关于	rkhy
 几个	djnd
 全面	uqqk
 减少	kivs
@@ -442,7 +442,7 @@
 中央	odvy
 越来	oifk
 越来越	ofoi
-联合	skro
+联合	srro
 共同	qedt
 报告	zpcg
 设备	adfe
@@ -523,10 +523,10 @@
 体育	frni
 自由	wjey
 妈妈	xbxb
-联系	skwh
+联系	srwh
 而不	qdib
 良好	zvxi
-关键	kktk
+关键	rktk
 肿瘤	iold
 这次	nakr
 汽车	vnbc
@@ -583,7 +583,7 @@
 合理	rocc
 宣传	utfp
 指导	zsbe
-相关	rjkk
+相关	rjrk
 新闻	bjds
 表达	ptka
 党的	bmlw
@@ -699,7 +699,7 @@
 证明	atyi
 及时	ajye
 建议	khaz
-机关	rdkk
+机关	rdrk
 又是	lyyt
 恢复	qfcy
 丰富	afuo
@@ -946,7 +946,7 @@
 模型	rctg
 不可能	ievi
 文明	nwyi
-关心	kkvx
+关心	rkvx
 一只	tyoe
 制造	pdca
 早上	yemt
@@ -984,7 +984,7 @@
 双方	lljf
 我觉得	zbdy
 和平	dohk
-训练	auhi
+训练	auhu
 放在	jffh
 有机	fird
 检验	rrbr
@@ -1595,7 +1595,7 @@
 颜色	bwjy
 祖国	ghgc
 部队	bopn
-有关部门	fkbd
+有关部门	frbd
 处女	fmxn
 协议	euaz
 粮食	kzjs
@@ -1790,7 +1790,7 @@
 彼此	dhos
 新款	bjhq
 方针	jfte
-关节	kksp
+关节	rksp
 目光	jmzt
 心脏	vxil
 适用	pary
@@ -2155,7 +2155,7 @@
 秩序	dclv
 能量	viyt
 还真	iaeh
-联通	skvr
+联通	srvr
 有力	fiul
 等着	whpj
 默默	sksk
@@ -2269,7 +2269,7 @@
 男孩	euix
 常见	bknj
 门口	dmok
-锻炼	tdwi
+锻炼	tdwu
 整理	rfcc
 上课	mtay
 年底	cold
@@ -2401,7 +2401,7 @@
 通道	vrrw
 陌生	pqwp
 伤不起	fiob
-送给	kkhr
+送给	rkhr
 染色	vejy
 国有企业	gfnc
 据说	zmak
@@ -2790,7 +2790,7 @@
 小时候	vyfm
 复发	cykf
 变形	alts
-练习	hicx
+练习	hucx
 从中	nnod
 魅力	lmul
 好听	xioj
@@ -3023,7 +3023,7 @@
 干燥	hgwo
 毫不	mpib
 正好	toxi
-无关	hxkk
+无关	hxrk
 后者	qojz
 蛋糕	lokp
 赢得	nudy
@@ -3162,7 +3162,7 @@
 人性	nrqw
 失恋	csav
 谈话	awap
-联盟	skyi
+联盟	sryi
 校长	rnuc
 反腐	xllf
 精神文明	kgny
@@ -3425,7 +3425,7 @@
 不就	ibmv
 分散	efqi
 获取	smsl
-互联	thsk
+互联	thsr
 信息化	fwfs
 大脑	kdin
 拥抱	zrzw
@@ -3466,7 +3466,7 @@
 忽视	wmgn
 这场	naha
 股市	idnk
-送到	kkth
+送到	rkth
 点头	mdbt
 就看	mvzj
 展现	mqcn
@@ -3561,7 +3561,7 @@
 互联网	tsdl
 淡淡	vwvw
 吸烟	oawg
-教练	jihi
+教练	jihu
 主导	nzbe
 太大	kzkd
 却又	hvly
@@ -3913,7 +3913,7 @@
 重量	pcyt
 签到	wrth
 精心	kivx
-联赛	skug
+联赛	srug
 既是	vjyt
 细节	hesp
 广西	lglx
@@ -3938,7 +3938,7 @@
 一向	tyao
 上级	mtha
 这样一个	nrtn
-发送	kfkk
+发送	kfrk
 教室	jiut
 尽可能	cevi
 吻合	owro
@@ -4121,7 +4121,7 @@
 天真	tkeh
 热爱	idzf
 头脑	btin
-苏联	susk
+苏联	susr
 转载	bpei
 巴西	yblx
 封建	iekh
@@ -4249,7 +4249,7 @@
 贵州	nguz
 艺术家	srum
 何以	fewy
-联想	skrj
+联想	srrj
 就不能	mivi
 之路	yzif
 遵守	reue
@@ -4641,7 +4641,7 @@
 又说	lyak
 大开	kdts
 荣誉	mrbe
-没关系	vkwh
+没关系	vrwh
 罗马	knbm
 何时	feye
 家属	ummw
@@ -4828,7 +4828,7 @@
 中小企业	ovnc
 花了	sflz
 赶到	ohth
-关键是	ktyt
+关键是	rtyt
 身体健康	hffl
 民营	bumo
 了当	lzzk
@@ -4916,7 +4916,7 @@
 在内的	felw
 调研	adqt
 既要	vjlx
-郑州	kkuz
+郑州	rkuz
 小白	vxlb
 灵感	kwit
 不符	ibwf
@@ -4997,9 +4997,9 @@
 腹部	icbo
 鲜明	xpyi
 精神文明建设	kgna
-关怀	kkqi
+关怀	rkqi
 什么人	fwnr
-关闭	kkde
+关闭	rkde
 个个	ndnd
 动员	xuou
 食堂	jsbh
@@ -5160,7 +5160,7 @@
 相遇	rjed
 码头	qbbt
 过敏	each
-开关	tskk
+开关	tsrk
 不经	ibhb
 但有	fyfi
 香蕉	dysq
@@ -5332,7 +5332,7 @@
 就走	mvoz
 受到了	ztlz
 大幅度	kkls
-联邦	skap
+联邦	srap
 不只	iboe
 你就是	fmyt
 薄膜	yyic
@@ -5502,7 +5502,7 @@
 可靠性	ecqw
 滋味	vrof
 初级	gpha
-关联	kksk
+关联	rksr
 整整	rfrf
 棉花	rlsf
 逃避	kkmb
@@ -5670,7 +5670,7 @@
 一举	tybe
 君子	kwiz
 镜子	ttiz
-关系到	kwth
+关系到	rwth
 人民医院	nbtp
 双重	llpc
 这时候	nyfm
@@ -5996,7 +5996,7 @@
 计量	aeyt
 夏季	qjdi
 胆囊	iyeo
-联络	skhf
+联络	srhf
 降临	pfgw
 授予	zzvo
 专柜	pvrt
@@ -6227,7 +6227,7 @@
 此类	oskk
 中长	oduc
 创伤	jgfc
-赠送	ukkk
+赠送	ukrk
 良心	zvvx
 病程	ltdo
 一再	tycd
@@ -6515,7 +6515,7 @@
 荧光	mwzt
 不小心	ivvx
 人际	nrpq
-衰老	gojs
+衰老	nojs
 年版	cokx
 宏观调控	ulaz
 不确定	iqut
@@ -6629,7 +6629,7 @@
 入口	wzok
 吓得	oxdy
 三点	hsmd
-合作关系	rfkw
+合作关系	rfrw
 弯曲	atyg
 先锋	pmtf
 张力	tuul
@@ -6804,10 +6804,10 @@
 掀起	zjob
 理事	cceo
 往下	dnxx
-有关规定	fktu
+有关规定	frtu
 沙漠	vvvc
 深受	vuzl
-关键词	ktac
+关键词	rtac
 北约	kshw
 廉洁	lrvc
 融入	tdwz
@@ -6943,7 +6943,7 @@
 很多事	dneo
 就一定	mtut
 这辈子	naiz
-海关	vckk
+海关	vcrk
 吃饱	ocjw
 法学	vhbi
 收了	qflz
@@ -7020,7 +7020,7 @@
 改制	bfpd
 态势	kziu
 物体	pwfr
-密切相关	uurk
+密切相关	uurr
 投产	zdbw
 减弱	kitk
 温和	vydo
@@ -7048,7 +7048,7 @@
 感性	itqw
 不甘	ibst
 也未	oyfw
-输送	brkk
+输送	brrk
 谁说	aqak
 右侧	fofu
 各级政府	fhtl
@@ -7158,7 +7158,7 @@
 易于	ywhy
 战线	miht
 归纳	gkhe
-送来	kkfk
+送来	rkfk
 尊敬	reso
 紧迫	glla
 有情	fiqi
@@ -7401,7 +7401,7 @@
 西湖	lxvm
 歌词	eeac
 登上	btmt
-公安机关	eurk
+公安机关	eurr
 一瓶	tyrs
 还不如	iixo
 心事	vxeo
@@ -7890,7 +7890,7 @@
 明亮	yimd
 遇到了	etlz
 缺氧	pvnp
-传送	fpkk
+传送	fprk
 抵制	zdpd
 调度	adls
 玛丽	cbtd
@@ -8252,9 +8252,9 @@
 大姐	kdxh
 长途	ucla
 征求	dtgz
-关爱	kkzf
+关爱	rkzf
 谁知道	acrw
-攻关	gfkk
+攻关	gfrk
 中分	odef
 窒息	utwj
 讽刺	adrd
@@ -8442,7 +8442,7 @@
 助理	hucc
 上海人	mvnr
 狠抓	mvzo
-至关重要	tkpl
+至关重要	trpl
 耳边	seua
 无私	hxdv
 宵夜	uznf
@@ -8601,7 +8601,7 @@
 病史	ltol
 届时	meye
 女王	xncw
-熟练	mehi
+熟练	mehu
 副市长	onuc
 小腿	vxiv
 也应该	olax
@@ -8755,7 +8755,7 @@
 合格率	rrnh
 多说	nnak
 缘故	hhmf
-相关性	rkqw
+相关性	rrqw
 港澳	vqva
 两侧	wlfu
 也觉得	obdy
@@ -8939,7 +8939,7 @@
 不佳	ibfi
 常有	bkfi
 掌门	bzdm
-衰竭	goby
+衰竭	noby
 对于我	lhzi
 克林顿	mruf
 旅馆	jwju
@@ -9066,7 +9066,7 @@
 研究成果	quiy
 躺着	hzpj
 迷失	kacs
-关键的	ktlw
+关键的	rtlw
 印尼	dpms
 效能	ncvi
 号线	ovht
@@ -9165,7 +9165,7 @@
 伪装	fkrh
 底线	ldht
 镇痛	telv
-联手	skzs
+联手	srzs
 首席	rwls
 亦有	ayfi
 不同意	idby
@@ -9317,7 +9317,7 @@
 七八	uqeb
 一班	tycq
 从业人员	ncno
-关税	kkdk
+关税	rkdk
 并存	rsfi
 乡下	hwxx
 动静	xuij
@@ -9436,7 +9436,7 @@
 城市建设	hnka
 小手	vxzs
 犹太	mjkz
-有关方面	fkjq
+有关方面	frjq
 奔波	kevh
 该是	axyt
 五六	uwne
@@ -9592,7 +9592,7 @@
 只有这样	ofnr
 知情	coqi
 学到	bith
-送礼	kkgx
+送礼	rkgx
 一首歌	tree
 日元	yruy
 可选	ekpm
@@ -9806,7 +9806,7 @@
 在这样的	fnrl
 澳洲	vavu
 赛事	ugeo
-关键在于	ktfh
+关键在于	rtfh
 光泽	ztvl
 监护	gwzg
 眼球	jvcg
@@ -10036,7 +10036,7 @@
 访华	ajfs
 环境污染	chvv
 纵横	hnrq
-联网	skdl
+联网	srdl
 太小	kzvx
 听力	ojul
 太强	kztp
@@ -10087,7 +10087,7 @@
 植入	rewz
 冒着	yjpj
 防洪	pjvq
-不关	ibkk
+不关	ibrk
 乘坐	dknn
 下一步	xtov
 最优	ysfj
@@ -10168,7 +10168,7 @@
 话剧	apmm
 进食	gajs
 音乐会	bdnx
-人际关系	npkw
+人际关系	nprw
 股价	idfn
 代表大会	ypkn
 洗手	vpzs
@@ -10220,7 +10220,7 @@
 任用	fury
 之余	yzly
 战斗力	mbul
-行政机关	dtrk
+行政机关	dtrr
 日子里	yicl
 迫使	lafl
 猫咪	msok
@@ -10242,7 +10242,7 @@
 编程	hgdo
 机械化	rrfs
 受灾	zluw
-膝关节	iksp
+膝关节	irsp
 中国人的	ognl
 碉堡了	qflz
 响了	oalz
@@ -10416,7 +10416,7 @@
 局限性	mpqw
 看中	zjod
 丰厚	afxy
-主教练	njhi
+主教练	njhu
 昂贵	ydng
 上交	mtnc
 过错	eatq
@@ -10743,7 +10743,7 @@
 出让	kcam
 加紧	sjgl
 你认为	faku
-国家机关	gurk
+国家机关	gurr
 素养	phpz
 很痛	dvlv
 阵容	pbur
@@ -11171,7 +11171,7 @@
 铁道部	trbo
 恰好	qrxi
 刀具	pdhe
-把关	zykk
+把关	zyrk
 二期	peji
 背部	ksbo
 同你	dtfj
@@ -11371,7 +11371,7 @@
 对啊	leop
 两周	wldh
 误区	aotl
-检察机关	rurk
+检察机关	rurr
 巡逻	uakn
 你愿意	fxby
 可疑	eksc
@@ -11551,7 +11551,7 @@
 有余	fily
 预先	vopm
 去见	hvnj
-关门	kkdm
+关门	rkdm
 坐车	nnbc
 点名	mdno
 长官	ucuw
@@ -11855,7 +11855,7 @@
 素材	phre
 依赖性	frqw
 餐桌	mlmy
-放送	jfkk
+放送	jfrk
 已由	byey
 这一刻	ntxg
 真要	ehlx
@@ -11900,7 +11900,7 @@
 不提	ibzy
 了事	lzeo
 十余	esly
-送出	kkkc
+送出	rkkc
 建起	khob
 初级阶段	ghpd
 反革命	xqro
@@ -11952,7 +11952,7 @@
 白雪	lbek
 已达到	bkth
 二楼	perk
-关节炎	ksww
+关节炎	rsww
 航道	unrw
 亲身	bqhs
 上世	mtis
@@ -12080,7 +12080,7 @@
 装扮	rhze
 喝多	oynn
 昼夜	cynf
-大关	kdkk
+大关	kdrk
 时节	yesp
 极不	raib
 山庄	pslh
@@ -12199,13 +12199,13 @@
 着火	pjwh
 要不然	linz
 按钮	zuth
-直接关系	ezkw
+直接关系	ezrw
 志趣	hvos
 只眼	oejv
 指点	zsmd
 保定	fout
 一粒	tykb
-送去	kkhv
+送去	rkhv
 跳动	ikxu
 都让	jpam
 好奇心	xkvx
@@ -12242,7 +12242,7 @@
 中科院	odpu
 充血	nmwd
 实质上	uxmt
-衰退	gova
+衰退	nova
 年级	coha
 感知	itco
 补水	gmgs
@@ -12371,7 +12371,7 @@
 讲到	agth
 野蛮	cvan
 有啥	fior
-郑重	kkpc
+郑重	rkpc
 印花	dpsf
 初次	gpkr
 中国市场	ognh
@@ -12439,7 +12439,7 @@
 飞翔	ykpc
 引人注目	tnvj
 看透	zjda
-什么关系	fwkw
+什么关系	fwrw
 有灵	fikw
 亚运	cyxa
 药师	shgt
@@ -12631,7 +12631,7 @@
 下部	xxbo
 应邀	lblf
 嗓音	olby
-司法机关	cvrk
+司法机关	cvrr
 白糖	lbkl
 民国	bugc
 递增	kthk
@@ -12697,7 +12697,7 @@
 你们说	ffak
 凤姐	dlxh
 先天性	ptqw
-妇联	xksk
+妇联	xksr
 四级	gmha
 回路	goif
 现在开始	cftx
@@ -12710,7 +12710,7 @@
 星光	ywzt
 挥霍	zueq
 兑换	kozj
-配送	lbkk
+配送	lbrk
 善待	prdh
 时髦	yedp
 张纸	tuhd
@@ -13006,7 +13006,7 @@
 然後	nzdh
 俗话	frap
 菠萝	yhsk
-公关	evkk
+公关	evrk
 可望	ekni
 亲亲	bqbq
 方能	jfvi
@@ -13076,7 +13076,7 @@
 因为是	gkyt
 好呀	xiot
 事发	eokf
-事关	eokk
+事关	eork
 满是	vsyt
 世界贸易	iedy
 重叠	pcll
@@ -13279,7 +13279,7 @@
 海带	vcru
 居委会	mdnx
 不在于	ifhy
-关机	kkrd
+关机	rkrd
 新房	bjgj
 眼线	jvht
 连日	bayr
@@ -13321,7 +13321,7 @@
 流向	vnao
 日语	yrau
 筹资	wakr
-关键时刻	ktyx
+关键时刻	rtyx
 专程	pvdo
 恍然	qznz
 现代科学	cydb
@@ -13419,7 +13419,7 @@
 总结经验	khhb
 雷达	eeka
 前有	rifi
-关切	kkup
+关切	rkup
 周岁	dhpn
 升降	wspf
 始终是	xhyt
@@ -13890,7 +13890,7 @@
 前年	rico
 而作	qdfy
 局限于	mphy
-过关	eakk
+过关	eark
 仅在	flfh
 哪能	oavi
 期待着	jdpj
@@ -14092,7 +14092,7 @@
 合照	royp
 重温	pcvy
 自尊心	wrvx
-修炼	ffwi
+修炼	ffwu
 内向	enao
 忍着	pzpj
 超额	opuf
@@ -14324,7 +14324,7 @@
 山下	psxx
 救人	gznr
 一并	tyrs
-两岸关系	wpkw
+两岸关系	wprw
 接纳	zbhe
 千克	pqmm
 掌控	bzzu
@@ -14414,7 +14414,7 @@
 体育场	fnha
 条腿	friv
 高度评价	mlaf
-有关系	fkwh
+有关系	frwh
 为好	kuxi
 依法治国	fvvg
 女足	xniz
@@ -14430,7 +14430,7 @@
 恩格斯	grjj
 好办	xiue
 多长	nnuc
-排练	zahi
+排练	zahu
 准了	kqlz
 通常是	vbyt
 床边	lrua
@@ -14738,7 +14738,7 @@
 成千	icpq
 低分	fdef
 想成	rjic
-对联	lesk
+对联	lesr
 多高	nnmg
 朝鲜人	exnr
 成名	icno
@@ -15128,7 +15128,7 @@
 壁画	mbte
 相配	rjlb
 和谈	doaw
-运送	xakk
+运送	xark
 五彩	uwzr
 深有	vufi
 零下	enxx
@@ -15314,7 +15314,7 @@
 皆有	slfi
 芹菜	sjsz
 出走	kcoz
-关在	kkfh
+关在	rkfh
 更喜欢	lclr
 有的时候	flyf
 公公	evev
@@ -15685,7 +15685,7 @@
 人事部	nebo
 行业协会	dcen
 挽留	zjdp
-送往	kkdn
+送往	rkdn
 检察官	ruuw
 心悸	vxqd
 单向	kyao
@@ -15987,7 +15987,7 @@
 宠爱	uhzf
 公交车	enbc
 心甘情愿	vsqx
-有关人员	fkno
+有关人员	frno
 教练员	jhou
 政治经济	tvhv
 警官	sfuw
@@ -16003,7 +16003,7 @@
 之後	yzdh
 记下	abxx
 中央领导	ovnb
-送达	kkka
+送达	rkka
 当个	zknd
 太晚	kzyj
 能及	viaj
@@ -16155,7 +16155,7 @@
 那时的	aylw
 打假	zofm
 一分钱	tett
-有关法律	fkvd
+有关法律	frvd
 接头	zbbt
 社会问题	gndy
 供血	fqwd
@@ -16246,7 +16246,7 @@
 孟子	idiz
 今天中午	ntop
 争端	jkbp
-送回	kkgo
+送回	rkgo
 弄到	csth
 头大	btkd
 适于	pahy
@@ -16442,7 +16442,7 @@
 不管怎样	iwyr
 随你	pffj
 连个	band
-伙伴关系	ffkw
+伙伴关系	ffrw
 深信	vufa
 抽筋	zewi
 大力推进	kuzg
@@ -16480,14 +16480,14 @@
 粥样	tkrp
 举例	befn
 争气	jknq
-联欢	sklr
+联欢	srlr
 轴线	beht
 无害	hxua
 刺痛	rdlv
 早熟	yeme
 相貌	rjml
 自然而然	wnqn
-关了	kklz
+关了	rklz
 罐头	psbt
 不语	ibau
 多难	nnlq
@@ -16657,7 +16657,7 @@
 波浪	vhvz
 骗了	bglz
 哟哟	ohoh
-有关单位	fkkf
+有关单位	frkf
 逃脱	kkik
 来历	fkxu
 之和	yzdo
@@ -16676,7 +16676,7 @@
 下图	xxgf
 马克思列宁主义	bmez
 本子	rtiz
-机关干部	rkhb
+机关干部	rrhb
 小胖	vxij
 毒药	phsh
 师妹	gtxf
@@ -16828,7 +16828,7 @@
 美梦	pkrn
 睡得着	jdpj
 听证	ojat
-前苏联	rssk
+前苏联	rssr
 中位	odfb
 恭喜发财	qcku
 几秒	djdv
@@ -16861,7 +16861,7 @@
 他们之间	ffyd
 疑似	scfw
 调用	adry
-熔炼	wuwi
+熔炼	wuwu
 个案	ndux
 大肆	kddv
 好让	xiam
@@ -16948,7 +16948,7 @@
 世界纪录	iehk
 乔石	wkqs
 此情	osqi
-足联	izsk
+足联	izsr
 上书	mtlp
 春耕	pyfg
 上大学	mkbi
@@ -16984,7 +16984,7 @@
 开拓创新	tzjb
 可不能	eivi
 或用	iory
-相联	rjsk
+相联	rjsr
 不负责任	ixpf
 齐齐	ngng
 互为	thku
@@ -17033,13 +17033,13 @@
 为时	kuye
 睁眼	jjjv
 既然是	vnyt
-党政机关	btrk
+党政机关	btrr
 翻滚	wevg
 奔向	keao
 过热	eaid
 这倒	naft
 摄像头	zfbt
-密切关系	uukw
+密切关系	uurw
 眨眼	jwjv
 老天爷	jtcp
 奖惩	rndt
@@ -17047,7 +17047,7 @@
 手电	zsyx
 厚重	xypc
 呼啸	owok
-没有关系	vfkw
+没有关系	vfrw
 岸边	pxua
 霉菌	ecsg
 吴邦国	oagc
@@ -17113,7 +17113,7 @@
 你他妈	ffxb
 高密	mguv
 遗体	nafr
-生产关系	wbkw
+生产关系	wbrw
 唱得	oydy
 扔掉	zazm
 泪奔	vjke
@@ -17124,7 +17124,7 @@
 人命	nrro
 内陆	enph
 到处都是	tfjy
-相关部门	rkbd
+相关部门	rrbd
 第三天	whtk
 段话	ddap
 市场价格	nhfr
@@ -17135,7 +17135,7 @@
 从早	nnye
 滔滔	vzvz
 用意	ryby
-关照	kkyp
+关照	rkyp
 无暇	hxym
 晚间	yjdy
 满地	vsho
@@ -17182,7 +17182,7 @@
 传给	fphr
 毁掉	lgzm
 什么原因	fwxg
-送入	kkwz
+送入	rkwz
 笔记本电脑	wari
 尤以	jzwy
 变相	alrj
@@ -17190,7 +17190,7 @@
 颤动	ntxu
 道具	rwhe
 有为	fiku
-衰减	goki
+衰减	noki
 求知	gzco
 大院	kdpu
 救救	gzgz
@@ -17370,9 +17370,9 @@
 赐予	uyvo
 急得	jkdy
 订票	aolq
-送进	kkga
+送进	rkga
 生活习惯	wvcq
-联谊	skau
+联谊	srau
 中兴	odbe
 工作站	gfbm
 本省	rtvj
@@ -17477,7 +17477,7 @@
 飞奔	ykke
 声势	msiu
 科教兴国	djbg
-派送	vxkk
+派送	vxrk
 第三者	whjz
 产业结构调整	bchr
 没发现	vkcn
@@ -17750,7 +17750,7 @@
 进驻	gabn
 这里面	ncqk
 调查报告	arzc
-社会关系	gnkw
+社会关系	gnrw
 散布	qifk
 石蜡	qsnq
 处死	fmns
@@ -17792,7 +17792,7 @@
 童装	bcrh
 几只	djoe
 作废	fylk
-提炼	zywi
+提炼	zywu
 不告诉	icaj
 斗地主	bhnz
 了些什么	lofw
@@ -17950,7 +17950,7 @@
 遗弃	nans
 经济生活	hvwv
 它以	uswy
-联接	skzb
+联接	srzb
 花期	sfji
 读物	aepw
 更爱	lyzf
@@ -18080,7 +18080,7 @@
 世界银行	ietd
 出入境	kwht
 就学	mvbi
-双边关系	lukw
+双边关系	lurw
 瞪大	jbkd
 湛江	vjvg
 诞辰	awxt
@@ -18088,7 +18088,7 @@
 四人帮	gnap
 基因型	jgtg
 总不能	kivi
-联结	skhc
+联结	srhc
 外籍	nmwf
 逆境	krht
 兮兮	evev
@@ -18104,7 +18104,7 @@
 飞起	ykob
 一击	tyhf
 专访	pvaj
-磨练	lrhi
+磨练	lrhu
 哪去	oahv
 仍能	favi
 低谷	fdrg
@@ -18213,7 +18213,7 @@
 探针	zute
 牲畜	pwhe
 刚一	dlty
-中美关系	opkw
+中美关系	oprw
 电厂	yxxc
 皱起	jkob
 游乐	vjdv
@@ -18222,7 +18222,7 @@
 这个可以有	nnef
 更没有	lvfi
 肇事	gfeo
-关头	kkbt
+关头	rkbt
 私奔	dvke
 烟火	wgwh
 之名	yzno
@@ -18426,7 +18426,7 @@
 仍以	fawy
 爱恋	zfav
 五毛	uwpm
-通关	vrkk
+通关	vrrk
 教员	jiou
 废品	lkoo
 桃子	rkiz
@@ -18503,7 +18503,7 @@
 严寒	cwug
 应运	lbxa
 自语	wjau
-城关	hikk
+城关	hirk
 当官	zkuw
 领导集体	nbqf
 主子	nziz
@@ -18745,7 +18745,7 @@
 绵绵	hlhl
 长年	ucco
 那么难	awlq
-关键技术	ktzr
+关键技术	rtzr
 科索沃	devw
 正是由于	tyeh
 高铁	mgtc
@@ -18996,7 +18996,7 @@
 诚挚	aiiz
 加工业	sgcy
 找上	zimt
-年关	cokk
+年关	cork
 篇章	wgtz
 斯坦	jjhy
 月起	iyob
@@ -19054,7 +19054,7 @@
 大刀	kdpd
 有一套	ftkd
 只鸡	oelj
-关掉	kkzm
+关掉	rkzm
 国际惯例	gpqf
 惊愕	qmqo
 凝重	kvpc
@@ -19098,7 +19098,7 @@
 韩庚	eelk
 才到	ecth
 性子	qwiz
-最关键	yktk
+最关键	yrtk
 交流会	nvnx
 求人	gznr
 南都	mrjp
@@ -19486,7 +19486,7 @@
 油炸	vewy
 课题组	ayhh
 接上	zbmt
-送货	kkfs
+送货	rkfs
 趁机	onrd
 许多地方	anhj
 分支机构	eerr
@@ -19547,7 +19547,7 @@
 狗血	mwwd
 排尿	zamg
 寄来	ukfk
-联播	skzw
+联播	srzw
 听我说	ozak
 学姐	bixh
 厌烦	xkwq
@@ -19627,7 +19627,7 @@
 查到	ryth
 狗屁	mwms
 液态	vnkz
-难关	lqkk
+难关	lqrk
 妥当	zxzk
 大戏	kdli
 威风	itdf
@@ -19785,7 +19785,7 @@
 沿用	vdry
 摆着	zkpj
 挫伤	znfc
-郑州市	kunk
+郑州市	runk
 千余	pqly
 涂上	vlmt
 留存	dpfi
@@ -19832,8 +19832,8 @@
 心理咨询	vcka
 充盈	nmal
 工作能力	gfvu
-接送	zbkk
-关系密切	kwuu
+接送	zbrk
+关系密切	rwuu
 没来得及	vfda
 没什么好	vfwx
 抹去	zfhv

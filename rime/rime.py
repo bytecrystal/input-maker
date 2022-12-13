@@ -156,3 +156,35 @@ for name in ('division', 'emoji'):
     shutil.copyfile('../asserts/rime/%s.json' % name, 'build/opencc/%s.json' % name)
 for name in ('emoji_category', 'emoji_word'):
     shutil.copyfile('../asserts/rime/%s.txt' % name, 'build/opencc/%s.txt' % name)
+
+key = 'abcdefghijklmnopqrstuvwxyz'
+# print(all3)
+first_code = {}
+for x in key:
+    for char, code in briefCode:
+        if code == x:
+            first_code[char] = x + "\t" + fullCodeMap[char]
+# print(first_code)
+all2 = [x + y for x in key for y in key]
+# print(all2)
+second_code = {}
+for x in all2:
+    for char, code in briefCode:
+        if code == x:
+            second_code[char] = x + "\t" + fullCodeMap[char]
+# print(second_code)
+all3 = [x + y + z for x in key for y in key for z in key]
+third_code = {}
+for x in all3:
+    for char, code in briefCode:
+        if code == x:
+            third_code[char] = x + "\t" + fullCodeMap[char]
+
+# print(third_code)
+all4 = [x + y + z + w for x in key for y in key for z in key for w in key]
+fourth_code = {}
+for x in all4:
+    for char, code in briefCode:
+        if code == x:
+            fourth_code[char] = x + "\t" + fullCodeMap[char]
+print(fourth_code)
