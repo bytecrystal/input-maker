@@ -133,7 +133,7 @@
 出来	kcfk
 而且	qdhq
 控制	zupd
-东西	bvlx
+东西	ivlx
 能力	viul
 部门	bodm
 支持	elzh
@@ -984,7 +984,7 @@
 双方	lljf
 我觉得	zbdy
 和平	dohk
-训练	auhu
+训练	auhi
 放在	jffh
 有机	fird
 检验	rrbr
@@ -1215,7 +1215,7 @@
 总结	kohc
 就业	mvcy
 公路	evif
-广东	lgbv
+广东	lgiv
 十二	espe
 收到	qfth
 配合	lbro
@@ -1260,7 +1260,7 @@
 勋章	outz
 呵呵	oeoe
 有没有	fvfi
-山东	psbv
+山东	psiv
 忽然	wmnz
 说道	akrw
 的确	lwqj
@@ -1846,7 +1846,7 @@
 不容	ibur
 注重	vnpc
 公布	evfk
-毛泽东	pvbv
+毛泽东	pviv
 聪明	skyi
 敏感	chit
 没想	vdrj
@@ -2025,7 +2025,7 @@
 笑道	wwrw
 大多数	knkx
 娱乐	xodv
-东方	bvjf
+东方	ivjf
 证实	atub
 更为	lyku
 反而	xlqd
@@ -2269,7 +2269,7 @@
 男孩	euix
 常见	bknj
 门口	dmok
-锻炼	tdwu
+锻炼	tdwi
 整理	rfcc
 上课	mtay
 年底	cold
@@ -2640,7 +2640,7 @@
 幼儿	hume
 大于	kdhy
 经费	hbtg
-东北	bvks
+东北	ivks
 有限公司	fpec
 表现为	pcku
 就没有	mvfi
@@ -2790,7 +2790,7 @@
 小时候	vyfm
 复发	cykf
 变形	alts
-练习	hucx
+练习	hicx
 从中	nnod
 魅力	lmul
 好听	xioj
@@ -3218,7 +3218,7 @@
 任何人	ffnr
 手上	zsmt
 大胆	kdiy
-东南	bvmr
+东南	ivmr
 收缩	qfhu
 当天	zktk
 较低	bnfd
@@ -3561,7 +3561,7 @@
 互联网	tsdl
 淡淡	vwvw
 吸烟	oawg
-教练	jihu
+教练	jihi
 主导	nzbe
 太大	kzkd
 却又	hvly
@@ -3812,7 +3812,7 @@
 高等教育	mwjn
 排队	zapn
 招标	zprq
-股东	idbv
+股东	idiv
 那只	apoe
 要想	lxrj
 十八	eseb
@@ -4258,7 +4258,7 @@
 卫星	ptyw
 女士	xnhs
 心动	vxxu
-山东省	pbvj
+山东省	pivj
 不同程度	iddl
 他们是	ffyt
 脱离	iknf
@@ -4540,7 +4540,7 @@
 选拔	pmzk
 反腐败	xluf
 血流	wdvn
-东京	bvmv
+东京	ivmv
 副主任	onfu
 李鹏	riii
 美术	pkrz
@@ -4783,7 +4783,7 @@
 你把	fjzy
 和尚	dozs
 直至	ehtv
-好东西	xblx
+好东西	xilx
 第一天	wttk
 要以	lxwy
 伴随	fjpf
@@ -5025,7 +5025,7 @@
 上皮	mthp
 管理体制	wcfp
 发热	kfid
-东部	bvbo
+东部	ivbo
 控制系统	zpwh
 本届	rtme
 门诊	dman
@@ -5056,7 +5056,7 @@
 小儿	vxme
 频繁	ovcf
 激光	vlzt
-浦东	vybv
+浦东	vyiv
 领导班子	nbci
 想不到	rith
 决议	kvaz
@@ -5121,7 +5121,7 @@
 电梯	yxrk
 衡量	djyt
 动画	xute
-广东省	lbvj
+广东省	livj
 了些	lzos
 属性	mwqw
 干脆	hgij
@@ -5568,7 +5568,7 @@
 登录	btkg
 不稳定	idut
 发电	kfyx
-什么东西	fwbl
+什么东西	fwil
 建筑物	kwpw
 周五	dhuw
 还有一个	iftn
@@ -5966,7 +5966,7 @@
 还有什么	iffw
 永远是	zuyt
 出租车	kdbc
-毛泽东思想	pvbr
+毛泽东思想	pvir
 先行	pmdu
 育种	nido
 设想	adrj
@@ -6121,7 +6121,7 @@
 提交	zync
 喉咙	omoh
 播种	zwdo
-中东	odbv
+中东	odiv
 手下	zsxx
 复古	cymg
 祈祷	gjga
@@ -7927,7 +7927,7 @@
 伊斯	fkjj
 各组	fghh
 皮下	hpxx
-华东	fsbv
+华东	fsiv
 硬盘	qlud
 最后一次	yqtk
 拉手	zbzs
@@ -7936,7 +7936,7 @@
 珠宝	cfuc
 北京大学	kmkb
 国际化	gpfs
-吃东西	oblx
+吃东西	oilx
 只因	oegk
 所见	xmnj
 阿胶	pein
@@ -8263,7 +8263,7 @@
 反之	xlyz
 世贸	isdp
 配件	lbfp
-东南亚	bmcy
+东南亚	imcy
 讲解	agjr
 我见	zinj
 迅速发展	yrkm
@@ -8542,7 +8542,7 @@
 各族	fgjc
 一招	tyzp
 看了看	zlzj
-东风	bvdf
+东风	ivdf
 男主	eunz
 督促	mlfi
 粉红	kehg
@@ -8601,7 +8601,7 @@
 病史	ltol
 届时	meye
 女王	xncw
-熟练	mehu
+熟练	mehi
 副市长	onuc
 小腿	vxiv
 也应该	olax
@@ -8613,7 +8613,7 @@
 首选	rwpm
 这样子	nriz
 对党	lebm
-冷冻	knkb
+冷冻	knki
 不可避免	iemj
 眼下	jvxx
 向后	aoqo
@@ -9348,7 +9348,7 @@
 全面建设小康社会	uqkn
 无缘	hxhh
 演奏	vupt
-东海	bvvc
+东海	ivvc
 牵着	kupj
 彩票	zrlq
 减压	kixh
@@ -9672,7 +9672,7 @@
 展望	mqni
 没做	vdfm
 多是	nnyt
-陈旧	pbdy
+陈旧	pidy
 流血	vnwd
 那里的	aclw
 新颖	bjsd
@@ -9968,7 +9968,7 @@
 九点	ejmd
 主机	nzrd
 浮现	vzcn
-东莞	bvyu
+东莞	ivyu
 长短	ucct
 挂了	zilz
 周三	dhhs
@@ -9977,7 +9977,7 @@
 都是浮云	jyvx
 照样	yprp
 发生过	kwea
-陈翔	pbpc
+陈翔	pipc
 猛烈	ming
 敞开	zfts
 转移到	bdth
@@ -10237,7 +10237,7 @@
 钻进	tmga
 心境	vxht
 达不到	kith
-东亚	bvcy
+东亚	ivcy
 该说	axak
 编程	hgdo
 机械化	rrfs
@@ -10416,7 +10416,7 @@
 局限性	mpqw
 看中	zjod
 丰厚	afxy
-主教练	njhu
+主教练	njhi
 昂贵	ydng
 上交	mtnc
 过错	eatq
@@ -10563,7 +10563,7 @@
 非常重要的	abpl
 泪流	vjvn
 复方	cyjf
-买东西	lblx
+买东西	lilx
 外经	nmhb
 我们一定	zftu
 为使	kufl
@@ -11003,7 +11003,7 @@
 被认为是	gaky
 不含	ibnl
 粘附	kmpf
-东东	bvbv
+东东	iviv
 丹参	dnvk
 刹那	lrap
 弹簧	tkwq
@@ -11514,7 +11514,7 @@
 北海	ksvc
 但同	fydt
 昨夜	yynf
-东盟	bvyi
+东盟	ivyi
 已将	byrn
 全集	uqqr
 产妇	bwxk
@@ -11567,7 +11567,7 @@
 咳咳	oxox
 爱死	zfns
 同心	dtvx
-陈述	pbrz
+陈述	pirz
 什么也没	fwov
 兽医	ketc
 回过头	gebt
@@ -11629,7 +11629,7 @@
 基本原则	jrxu
 尼克	msmm
 噩梦	corn
-这东西	nblx
+这东西	nilx
 准确性	kqqw
 沐浴	vrvr
 分辨率	ebnh
@@ -12188,7 +12188,7 @@
 康熙	lktb
 并于	rshy
 研究对象	qulx
-冻死	kbns
+冻死	kins
 修饰	ffjc
 辖区	butl
 区县	tlhv
@@ -12791,7 +12791,7 @@
 皇家	lcum
 姊妹	xwxf
 开开心心	ttvv
-毛泽东同志	pvbh
+毛泽东同志	pvih
 飞速	ykro
 果汁	yrve
 剪切	riup
@@ -13731,7 +13731,7 @@
 促成	fiic
 挥发	zukf
 唯美	oqpk
-这些东西	nobl
+这些东西	noil
 过生日	ewyr
 女包	xnwb
 挡不住	zifn
@@ -13931,7 +13931,7 @@
 旁人	bjnr
 游人	vjnr
 涵盖	vlpd
-京东	mvbv
+京东	mviv
 非公有制经济	aefv
 安好	uxxi
 繁重	cfpc
@@ -14092,12 +14092,12 @@
 合照	royp
 重温	pcvy
 自尊心	wrvx
-修炼	ffwu
+修炼	ffwi
 内向	enao
 忍着	pzpj
 超额	opuf
 转走	bpoz
-很多东西	dnbl
+很多东西	dnil
 朴实	rmub
 代言人	yanr
 西方的	ljlw
@@ -14208,13 +14208,13 @@
 航行	undu
 它们是	ufyt
 装有	rhfi
-陈列	pbng
+陈列	ping
 鼓起	crob
 制度建设	plka
 店主	lmnz
 应试	lbai
 客场	ufha
-东山	bvps
+东山	ivps
 并从	rsnn
 这是我的	nyzl
 睁大	jjkd
@@ -14385,7 +14385,7 @@
 高端	mgbp
 果树	yrrl
 毫不犹豫	mimv
-向东	aobv
+向东	aoiv
 比尔	sbjv
 国库	gclb
 各区	fgtl
@@ -14430,7 +14430,7 @@
 恩格斯	grjj
 好办	xiue
 多长	nnuc
-排练	zahu
+排练	zahi
 准了	kqlz
 通常是	vbyt
 床边	lrua
@@ -14607,7 +14607,7 @@
 立足于	bihy
 求求	gzgz
 平坦	hkhy
-新陈	bjpb
+新陈	bjpi
 谣言	azay
 每逢	chfa
 无以	hxwy
@@ -16186,7 +16186,7 @@
 工作日	gfyr
 信息网络	fwdh
 真是的	eylw
-冻结	kbhc
+冻结	kihc
 生活环境	wvch
 不要因为	ilgk
 健美	fkpk
@@ -16241,7 +16241,7 @@
 大个	kdnd
 不完美	iupk
 一方面是	tjqy
-有些东西	fobl
+有些东西	foil
 健康状况	flrk
 孟子	idiz
 今天中午	ntop
@@ -16861,7 +16861,7 @@
 他们之间	ffyd
 疑似	scfw
 调用	adry
-熔炼	wuwu
+熔炼	wuwi
 个案	ndux
 大肆	kddv
 好让	xiam
@@ -16902,7 +16902,7 @@
 地沟	hovw
 冬瓜	fkog
 考查	jvry
-冰冻	kgkb
+冰冻	kgki
 吃上	ocmt
 对得起	ldob
 想不起	riob
@@ -17792,7 +17792,7 @@
 童装	bcrh
 几只	djoe
 作废	fylk
-提炼	zywu
+提炼	zywi
 不告诉	icaj
 斗地主	bhnz
 了些什么	lofw
@@ -18104,7 +18104,7 @@
 飞起	ykob
 一击	tyhf
 专访	pvaj
-磨练	lrhu
+磨练	lrhi
 哪去	oahv
 仍能	favi
 低谷	fdrg
@@ -18383,7 +18383,7 @@
 入库	wzlb
 灌输	vsbr
 我们不是	zfiy
-这种东西	ndbl
+这种东西	ndil
 临时工	gygg
 发亮	kfmd
 紧缺	glpv
@@ -18581,7 +18581,7 @@
 新进	bjga
 出世	kcis
 收音	qfby
-东道	bvrw
+东道	ivrw
 尼泊尔	mvjv
 洞口	vdok
 朗诵	zvav
@@ -18848,7 +18848,7 @@
 柳州	rduz
 皆是	slyt
 宣讲	utag
-一栋	tyrb
+一栋	tyri
 营业厅	mcxo
 三只	hsoe
 抗争	znjk
@@ -19646,7 +19646,7 @@
 呼喊	owoi
 才可能	eevi
 沉稳	vudj
-东欧	bvtl
+东欧	ivtl
 广为	lgku
 算不算	wiwj
 牛人	pnnr
@@ -19677,7 +19677,7 @@
 没机会	vrnx
 学识	biao
 站到	bmth
-浦东新区	vbbt
+浦东新区	vibt
 停了下来	flxf
 拉下	zbxx
 主题曲	nyyg
