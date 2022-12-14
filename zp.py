@@ -10,6 +10,7 @@ decomposition = {}
 with open('./asserts/decomposition.txt', encoding='utf-8', mode='r') as f:
     for zi in zi_set:
         for line in f:
+            # print(line)
             char, s1, s2, s3, py, isPartial = line.strip('\r\n').split('\t')
             decomposition[char] = line
 

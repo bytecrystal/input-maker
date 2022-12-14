@@ -488,6 +488,11 @@ def stats(brief_code, ci_map):
     ci_xkp = 0
     ci_xzgr = 0
     ci_cs = 0
+    ci_hja_1000 = 0
+    ci_dkp_1000 = 0
+    ci_xkp_1000 = 0
+    ci_xzgr_1000 = 0
+    ci_cs_1000 = 0
     for kv in ci_map.items():
         # char = kv[0]
         code = kv[1]
@@ -498,14 +503,24 @@ def stats(brief_code, ci_map):
             for k in zh:
                 if k in hjzh or '_' in k:
                     ci_hja += 1
+                    if ci_line_index <= 1000:
+                        ci_hja_1000 += 1
                 if k in dkpzh:
                     ci_dkp += 1
+                    if ci_line_index <= 1000:
+                        ci_dkp_1000 += 1
                 if k in xkpzh:
                     ci_xkp += 1
+                    if ci_line_index <= 1000:
+                        ci_xkp_1000 += 1
                 if k in xzgrzh:
                     ci_xzgr += 1
+                    if ci_line_index <= 1000:
+                        ci_xzgr_1000 += 1
                 if k in cszh:
                     ci_cs += 1
+                    if ci_line_index <= 1000:
+                        ci_cs_1000 += 1
             if (code not in ci_a):
                 ci_a[code] = 1
             else:
@@ -537,6 +552,11 @@ def stats(brief_code, ci_map):
     print("前6000字四码个数: %d" % code_cnt_4_6000)
     print("总的重码数: %d" % cm_cnt_a)
 
+    print("词前1000--左右互击数：%s" % ci_hja_1000)
+    print("词前1000--大跨排数：%s" % ci_dkp_1000)
+    print("词前1000--小跨排数：%s" % ci_xkp_1000)
+    print("词前1000--小指干扰数：%s" % ci_xzgr_1000)
+    print("词前1000--错手数：%s" % ci_cs_1000)
     print("词--左右互击数：%s" % ci_hja)
     print("词--同指大跨排数：%s" % ci_dkp)
     print("词--同指小跨排数：%s" % ci_xkp)
@@ -547,8 +567,10 @@ def stats(brief_code, ci_map):
     # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
     #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
     return  cm_cnt_a + cm_cnt_1000 * 7 + cm_cnt_2000 * 6 + cm_cnt_3000 * 8 + cm_cnt_4000 * 4 \
-    - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a\
-    - ci_hja / 70 + code_cnt_4_650 * 4 + code_cnt_4_6000 - jm_300_cnt * 3 - jm_500_cnt * 2 + code_cnt_4_500 * 8
+    - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a * 4\
+    - ci_hja / 10 + ci_dkp + ci_xkp + ci_xzgr + ci_cs +  code_cnt_4_650 * 4 + code_cnt_4_6000 - jm_300_cnt * 3 - jm_500_cnt * 2\
+            + code_cnt_4_500 * 8 - ci_hja_1000\
+    + ci_dkp_1000 * 8 + ci_xkp_1000 * 2 + ci_xzgr_1000 * 3 + ci_cs_1000 - jm_50_1_cnt * 5
 
 component_changed = []
 component_changed_map = {}
@@ -623,7 +645,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
