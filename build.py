@@ -241,10 +241,73 @@ xzgrzh = ['aa', 'ac', 'ad', 'ae', 'aq', 'as', 'aw', 'ax', 'az', 'ca', 'cq', 'cz'
 cszh = ['ct', ',y', 'tc', 'y,', 'cr', ',u', 'rc', 'u,', 'cw', ',o', 'wc', 'o,', 'qc', ',p', 'cq', 'p,', 'qx', 'p.',
         'xq', '.p', 'xe', '.i', 'ex', 'i.', 'xr', '.u', 'rx', 'u.', 'xt', '.y', 'tx', 'y.']
 
-def get_params(brief_code):
+
+all_key = 'abcdefghijklmnopqrstuvwxyz'
+all_double_key = [x + y for x in all_key for y in all_key]
+
+dangliang={} # 导入当量数据
+with open('./asserts/dlb.txt',encoding='utf-8') as t:
+    for line in t.readlines():
+        j,v=line.strip('\r\n').split('\t')
+        dangliang[j]=float(v)
+
+
+f = open('./asserts/cp.txt',encoding='utf-8', mode = 'r')
+tl = [i.strip('\r\n').split('\t') for i in f]
+# f.close()
+
+# ci_list = []
+# with open('asserts/cp.txt', encoding='utf-8', mode='r') as f:
+#     for line in f:
+#         l_c = line.strip('\r\n')
+#         ci_list.append(l_c)
+# 造词
+def build_ci_by_full_code(full_code_map):
+    cybm = []
+    for cp in tl:
+        ci = cp[0]
+        lc = len(ci)
+        if (lc == 2):
+            # 一个字取两码：A1a1B1b1
+            cybm.append((full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2], int(cp[1])))
+        elif (lc == 3):
+            # 每个字取首码
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # 3字词是前两字第一码 + 第三字前两码
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
+        elif (lc == 4):
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0], int(cp[1])))
+        elif (lc > 4):
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0], int(cp[1])))
+    # for char, code in full_code:
+    return cybm
+
+def jsdl(bm): # 计算一串编码的总当量
+    s=0
+    for l in range(len(bm)-1):
+        u=bm[l]+bm[l+1]
+        s=s+dangliang[u]
+    return s
+
+# 这个算法就更简单了，set 函数自动去重，list - set 就是选重数
+def xcs(l):
+    uni = set(x[0] for x in l)
+    return len(l) - len(uni)
+
+# 这个算法就是 sum 函数的应用
+def jqdl(l):
+    zdl = sum(x[0] * x[1] for x in l)
+    zp = sum(x[1] for x in l)
+    return zdl/zp
+
+def dysc(z): # 打印后在“结果.txt”里添加字段
+    print(z)
+    # with open('结果.txt','a',encoding='utf-8') as t:
+    #     t.write(z+'\n')
+
+def stats(brief_code, cybm):
     dz = {}
     for kv in brief_code:
-        # print(kv[0])
         z = kv[0]
         m = kv[1]
         if z in dz:
@@ -254,24 +317,12 @@ def get_params(brief_code):
                 pass
         else:
             dz[z] = m
-    # for line in f:
-    #     z, m = line.strip('\r\n').split('\t')
-
-
     l = [[pl1, '300'], [pl2, '500'], [pl3, '1500'], [pl4, '3000'], [pl5, '6000']]
     yl = {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0, 'h': 0, 'i': 0, 'j': 0, 'k': 0, 'l': 0, 'm': 0,
           'n': 0, 'o': 0, 'p': 0, 'q': 0, 'r': 0, 's': 0, 't': 0, 'u': 0, 'v': 0, 'w': 0, 'x': 0, 'y': 0, 'z': 0,
           ',': 0, '.': 0, ';': 0, '/': 0, '\'': 0, '_': 0, '0': 0}
     bm = {}
     n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    xca_500 = 0
-    xca_1500 = 0
-    xca_3000 = 0
-    xca_6000 = 0
-    hja_300 = 0.00
-    dkp_300 = 0.00
-    xkp_300 = 0.00
-    xzgr_300 = 0.00
     for i in l:
         n1 = 0
         n2 = 0
@@ -301,8 +352,8 @@ def get_params(brief_code):
                 bm[dz.get(j, j)] = 1
             else:
                 xc += 1
-                # if ((int)(i[1]) <= 1500):
-                #     print(dz.get(j, 0))
+                if ((int)(i[1]) <= 1500):
+                    print(dz.get(j, 0))
             if len(dz.get(j, '0000')) == 1:
                 n1 += 1
                 p1 += i[0].get(j, '0000')
@@ -310,11 +361,12 @@ def get_params(brief_code):
                 n2 += 1
                 p2 += i[0].get(j, '0000')
                 # if i[1] == '3000' or i[1] == '6000':
-                #     print(j + '\t' + dz[j])
+                    # print(j + '\t' + dz[j])
             if len(dz.get(j, '0000')) == 3:
                 n3 += 1
                 p3 += i[0].get(j, '0000')
             if len(dz.get(j, '0000')) == 4:
+                # print(dz.get(j,'0000'))
                 n4 += 1
                 p4 += i[0].get(j, '0000')
             if len(dz.get(j, '0000')) == 5:
@@ -338,21 +390,7 @@ def get_params(brief_code):
                     xzgr += i[0].get(j, '0000')
                 if k in cszh:
                     cs += i[0].get(j, '0000')
-        # jjdl = (zjdl / pa) / ((jc / pa) - 1)
-        if i[1] == '300':
-            hja_300 += round(hj / zjj, 2)
-            xzgr_300 += round(xzgr / zjj, 2)
-            dkp_300 += round(dkp / zjj, 2)
-            xkp_300 += round(xkp / zjj, 2)
-        if i[1] == '500':
-            xca_500 += xc
-        elif i[1] == '1500':
-            xca_1500 += xc
-        elif i[1] == '3000':
-            xca_3000 += xc
-        elif i[1] == '6000':
-            xca_6000 += xc
-        # print("前" + i[1] + "百选重-----------------------------------------：", xc)
+        jjdl = (zjdl / pa) / ((jc / pa) - 1)
         # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
         #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
         #     dkp / zjj) + '\t' + str(xkp / zjj) + '\t' + str(xzgr / zjj) + '\t' + str(cs / zjj) + '\n')
@@ -377,200 +415,60 @@ def get_params(brief_code):
         paa += pa
         zjja += zjj
     jjdla = zjdla / (jca - 1)
-    print("前500百选重-----------------------------------------：", xca_500)
-    print("前1500百选重-----------------------------------------：", xca_1500)
-    print("前3000百选重-----------------------------------------：", xca_3000)
-    print("前6000百选重-----------------------------------------：", xca_6000)
-    print("左右互击率：%s" % hja_300)
-    print("同指大跨排：%s" % dkp_300)
-    print("同指小跨排：%s" % xkp_300)
-    print("小指干扰率：%s" % xzgr_300)
-
-    # print("")
-    # 加权
-    return xca_500 * 100 \
-           + xca_1500 * 10 \
-           + xca_3000 * 2 \
-           + xca_6000 * 0.6 \
-           - hja_300 * 1000 \
-           + dkp_300 * 5000 \
-           + xkp_300 * 2000 \
-           + xzgr_300 * 2000
-    # return 0
-
-all_key = 'abcdefghijklmnopqrstuvwxyz'
-all_double_key = [x + y for x in all_key for y in all_key]
-
-def stats(brief_code, ci_map):
-    c = {}
-    cm_cnt_a = 0
-    cm_cnt_1000 = 0
-    cm_cnt_2000 = 0
-    cm_cnt_3000 = 0
-    cm_cnt_4000 = 0
-    line_index = 0
-    code_cnt_4_500 = 0
-    code_cnt_4_650 = 0
-    code_cnt_4_6000 = 0
-    hja_500 = 0.00
-    dkp_500 = 0.00
-    xkp_500 = 0.00
-    xzgr_500 = 0.00
-    cs_500 = 0.00
-    jm_1500 = []
-    jm_600 = []
-    jm_500 = []
-    jm_300 = []
-    jm_50_1 = []
-    # jm_1500_cnt = 0
-    # jm_1500_cnt = 0
-    # jm_500_cnt = 0
-    # jm_300_cnt = 0
-    for char, code in brief_code:
-        if (line_index <= 1600):
-            if (len(code) == 4):
-                code_cnt_4_650 += 1
-        if (line_index <= 800):
-            if (len(code) == 4):
-                code_cnt_4_500 += 1
-        if (line_index <= 6000):
-            if (len(code) == 4):
-                code_cnt_4_6000 += 1
-        if (code not in c):
-            c[code] = 1
-        else:
-            cm_cnt_a += 1
-            if (line_index <= 1000):
-                cm_cnt_1000 += 1
-            elif (line_index <= 2000):
-                cm_cnt_2000 += 1
-            elif (line_index <= 3000):
-                cm_cnt_3000 += 1
-            elif (line_index <= 4000):
-                cm_cnt_4000 += 1
-        if (line_index <= 4000):
-            zh = []
-            for k in range(len(code) - 1):
-                zh.append(code[k] + code[k + 1])
-            for k in zh:
-                if k in hjzh or '_' in k:
-                    hja_500 += zp_a[char]
-                if k in dkpzh:
-                    dkp_500 += zp_a[char]
-                if k in xkpzh:
-                    xkp_500 += zp_a[char]
-                if k in xzgrzh:
-                    xzgr_500 += zp_a[char]
-                if k in cszh:
-                    cs_500 += zp_a[char]
-        if (line_index <= 1500):
-            if (code[:2] not in jm_1500 and code[:2] in all_double_key):
-                jm_1500.append(code[:2])
-        if (line_index <= 600):
-            if (code[:2] not in jm_600 and code[:2] in all_double_key):
-                jm_600.append(code[:2])
-        if line_index <= 500:
-            if (code[:2] not in jm_500 and code[:2] in all_double_key):
-                jm_500.append(code[:2])
-        if line_index <= 300:
-            if (code[:2] not in jm_300 and code[:2] in all_double_key):
-                jm_300.append(code[:2])
-        if (line_index <= 50):
-            if (code[0] not in jm_50_1 and code[0] in list(all_key)):
-                jm_50_1.append(code[0])
-
-        line_index += 1
-    ci_a = {}
-    ci_cm_cmt_a = 0
-    ci_line_index = 0
-    ci_hja = 0
-    ci_dkp = 0
-    ci_xkp = 0
-    ci_xzgr = 0
-    ci_cs = 0
-    ci_hja_1000 = 0
-    ci_dkp_1000 = 0
-    ci_xkp_1000 = 0
-    ci_xzgr_1000 = 0
-    ci_cs_1000 = 0
-    for kv in ci_map.items():
-        # char = kv[0]
-        code = kv[1]
-        if (ci_line_index <= 20000):
-            zh = []
-            for k in range(len(code) - 1):
-                zh.append(code[k] + code[k + 1])
-            for k in zh:
-                if k in hjzh or '_' in k:
-                    ci_hja += 1
-                    if ci_line_index <= 1000:
-                        ci_hja_1000 += 1
-                if k in dkpzh:
-                    ci_dkp += 1
-                    if ci_line_index <= 1000:
-                        ci_dkp_1000 += 1
-                if k in xkpzh:
-                    ci_xkp += 1
-                    if ci_line_index <= 1000:
-                        ci_xkp_1000 += 1
-                if k in xzgrzh:
-                    ci_xzgr += 1
-                    if ci_line_index <= 1000:
-                        ci_xzgr_1000 += 1
-                if k in cszh:
-                    ci_cs += 1
-                    if ci_line_index <= 1000:
-                        ci_cs_1000 += 1
-            if (code not in ci_a):
-                ci_a[code] = 1
-            else:
-                ci_cm_cmt_a += 1
-        ci_line_index += 1
-
-    # print("前540%d" % code_cnt_4_650)
-    print("前1000重码数: %d" % cm_cnt_1000)
-    print("前2000重码数: %d" % cm_cnt_2000)
-    print("前3000重码数: %d" % cm_cnt_3000)
-    print("前4000重码数: %d" % cm_cnt_4000)
-    print("左右互击率：%s" % round(hja_500, 4))
-    print("同指大跨排率：%s" % round(dkp_500, 4))
-    print("同指小跨排率：%s" % round(xkp_500, 4))
-    print("小指干扰率：%s" % round(xzgr_500, 4))
-    print("错手率：%s" % round(cs_500, 4))
-    jm_1500_cnt = len(jm_1500)
-    jm_600_cnt = len(jm_600)
-    jm_500_cnt = len(jm_500)
-    jm_300_cnt = len(jm_300)
-    jm_50_1_cnt = len(jm_50_1)
-    print("前50字总的一简数: %d" % jm_50_1_cnt)
-    print("前1500字总的二简数: %d" % jm_1500_cnt)
-    print("前600字总的二简数: %d" % jm_600_cnt)
-    print("前500字总的二简数: %d" % jm_500_cnt)
-    print("前300字总的二简数: %d" % jm_300_cnt)
-    print("前500字四码个数: %d" % code_cnt_4_500)
-    print("前1600字四码个数: %d" % code_cnt_4_650)
-    print("前6000字四码个数: %d" % code_cnt_4_6000)
-    print("总的重码数: %d" % cm_cnt_a)
-
-    print("词前1000--左右互击数：%s" % ci_hja_1000)
-    print("词前1000--大跨排数：%s" % ci_dkp_1000)
-    print("词前1000--小跨排数：%s" % ci_xkp_1000)
-    print("词前1000--小指干扰数：%s" % ci_xzgr_1000)
-    print("词前1000--错手数：%s" % ci_cs_1000)
-    print("词--左右互击数：%s" % ci_hja)
-    print("词--同指大跨排数：%s" % ci_dkp)
-    print("词--同指小跨排数：%s" % ci_xkp)
-    print("词--小指干扰数：%s" % ci_xzgr)
-    print("词--错手：%s" % ci_cs)
-    print("词--总的重码数: %d" % ci_cm_cmt_a)
-    print("-----------------------------------")
-    # return cm_cnt_a + cm_cnt_1000 * 4 + cm_cnt_2000 * 3 + cm_cnt_3000 * 2 + cm_cnt_4000\
-    #        - hja_500 * 10000 + dkp_500 * 8000 - jm_cnt * 3 + xzgr_500 * 1000
-    return  cm_cnt_a + cm_cnt_1000 * 7 + cm_cnt_2000 * 6 + cm_cnt_3000 * 8 + cm_cnt_4000 * 4 \
-    - jm_1500_cnt * 3 - hja_500 * 5000 + dkp_500 * 8000 - jm_600_cnt * 4 + xzgr_500 * 5000 + xkp_500 * 6000 + cs_500 * 8000 + ci_cm_cmt_a * 4\
-    - ci_hja / 10 + ci_dkp + ci_xkp + ci_xzgr + ci_cs +  code_cnt_4_650 * 4 + code_cnt_4_6000 - jm_300_cnt * 3 - jm_500_cnt * 2\
-            + code_cnt_4_500 * 8 - ci_hja_1000\
-    + ci_dkp_1000 * 8 + ci_xkp_1000 * 2 + ci_xzgr_1000 * 3 + ci_cs_1000 - jm_50_1_cnt * 5
+    print('总选重：%d' % xca)
+    print('键长：%f' % jca)
+    print('字均当量：%f' % zjdla)
+    print('键均当量：%f' % jjdla)
+    print('左右互击：%f' % hja)
+    print('同指大跨排：%f' % dkpa)
+    print('小跨排：%f' % xkpa)
+    print('小指干扰：%f' % xzgra)
+    print('错手：%f' % csa)
+    weight = (jca + zjdla + jjdla) * 100 + xca
+    ci_weight = 0
+    if len(cybm) > 0:
+        cydl = [(jsdl(i[0]), i[1]) for i in cybm]
+        j1, j2, j3, j4, j5, j6 = cybm[:2000], cybm[:5000], cybm[:10000], cybm[:20000], cybm[:40000], cybm[:60000]
+        k1, k2, k3, k4, k5, k6 = cydl[:2000], cydl[2000:5000], cydl[5000:10000], cydl[10000:20000], cydl[20000:40000], cydl[40000:60000]
+        kn3, kn6 = cydl[:10000], cydl[:60000]
+        # 前1万
+        j3d = {}
+        j3dx = j3[::-1]
+        for i in j3dx:
+            j3d[i[0]] = i[1]
+        xc3 = 1 - (sum(j3d.values()) / sum(x[1] for x in j3))
+        # 前6万
+        j6d = {}
+        j6dx = j6[::-1]
+        for i in j6dx:
+            j6d[i[0]] = i[1]
+        xc6 = 1 - (sum(j6d.values()) / sum(x[1] for x in j6))
+        # 然后算不加权选重
+        x1, x2, x3, x4, x5, x6 = tuple(map(xcs, (j1, j2, j3, j4, j5, j6)))
+        xn1 = x1
+        xn2 = x2 - x1
+        xn3 = x3 - x2
+        xn4 = x4 - x3
+        xn5 = x5 - x4
+        xn6 = x6 - x5
+        d1, d2, d3, d4, d5, d6 = tuple(map(jqdl, (k1, k2, k3, k4, k5, k6)))
+        dxj = jqdl(kn3)
+        dzj = jqdl(kn6)
+        dysc(
+            '1-2k\t%s\t%.2f\n' % (xn1, d1) +
+            '2k-5k\t%s\t%.2f\n' % (xn2, d2) +
+            '5k-10k\t%s\t%.2f\n' % (xn3, d3) +
+            '小计\t%s\t%.2f\n' % (x3, dxj) +
+            '加权比重\t%.2f%%\n\n' % (xc3 * 100) +
+            '10k-20k\t%s\t%.2f\n' % (xn4, d4) +
+            '20k-40k\t%s\t%.2f\n' % (xn5, d5) +
+            '40k-60k\t%s\t%.2f\n' % (xn6, d6) +
+            '总计\t%s\t%.2f\n' % (x6, dzj) +
+            '加权比重\t%.2f%%\n' % (xc6 * 100)
+        )
+        ci_weight += x3 / 10 + x6 / 200 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+    print('--------------------------------')
+    return weight + ci_weight
 
 component_changed = []
 component_changed_map = {}
@@ -587,33 +485,12 @@ keys = [
     'z', 'x', 'c', 'v', 'b', 'n', 'm'
 ]
 
-ci_list = []
-# 读取词表
-with open('asserts/ci.txt', encoding='utf-8', mode='r') as f:
-    for line in f:
-        l_c = line.strip('\r\n')
-        ci_list.append(l_c)
-
-
-# 造词
-def build_ci_by_full_code(full_code_map):
-    ci_map = {}
-    for ci in ci_list:
-        lc = len(ci)
-        if (lc == 2):
-            # 一个字取两码：A1a1B1b1
-            ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
-        elif (lc == 3):
-            # 每个字取首码
-            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
-            # 3字词是前两字第一码 + 第三字前两码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
-        elif (lc == 4):
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
-        elif (lc > 4):
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
-    # for char, code in full_code:
-    return ci_map
+# ci_list = []
+# # 读取词表
+# with open('asserts/ci.txt', encoding='utf-8', mode='r') as f:
+#     for line in f:
+#         l_c = line.strip('\r\n')
+#         ci_list.append(l_c)
 
 
 class ComponentsDistributionProblem(Annealer):
@@ -625,9 +502,9 @@ class ComponentsDistributionProblem(Annealer):
         full_c = full_res[0]
         brief_c = build_brief_code(full_c)
         full_c_map = full_res[1]
-        ci_c = build_ci_by_full_code(full_c_map)
+        cybm = build_ci_by_full_code(full_c_map)
         # ci_c = {}
-        return stats(brief_c, ci_c)
+        return stats(brief_c, cybm)
 
     def move(self):
         l = list(self.state.keys())
@@ -639,13 +516,35 @@ class ComponentsDistributionProblem(Annealer):
                     self.state[b] = k
 
 
-#
+def zu_ci(full_code_map):
+    ci_map = {}
+    for cp in tl:
+        ci = cp[0]
+        lc = len(ci)
+        if (lc == 2):
+            # 一个字取两码：A1a1B1b1
+            ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
+        elif (lc == 3):
+            # 每个字取首码
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # 3字词是前两字第一码 + 第三字前两码
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
+        elif (lc == 4):
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + \
+                         full_code_map[ci[3]][0]
+        elif (lc > 4):
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + \
+                         full_code_map[ci[-1]][0]
+    # for char, code in full_code:
+    return ci_map
+
+
 #
 if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 2000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 10000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -691,7 +590,7 @@ if __name__ == '__main__':
             fullCodeFile.write('%s\t%s\n' % (char, code))
 
     full_code_map = full_res[1]
-    ci_map = build_ci_by_full_code(full_code_map)
+    ci_map = zu_ci(full_code_map)
     with open('data/ci_code.txt', encoding='utf-8', mode='w') as fiCodeFile:
         for kv in ci_map.items():
             fiCodeFile.write('%s\t%s\n' % (kv[0], kv[1]))
