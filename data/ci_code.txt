@@ -223,7 +223,7 @@
 不知道	ovqm
 基础	qhqp
 任何	tttk
-一般	iyzp
+一般	iydp
 加强	fjpa
 经过	ahkn
 工程	kgzo
@@ -348,7 +348,7 @@
 整个	yuue
 拥有	kaxu
 除了	dezk
-带来	glyd
+带来	vlyd
 改变	jurg
 办法	sijh
 结构	apyg
@@ -515,7 +515,7 @@
 刚刚	pgpg
 土地	hthl
 大学	jdfp
-尽管	vdel
+尽管	gdel
 以下	syox
 说明	edwu
 下降	oxdu
@@ -913,7 +913,7 @@
 给予	aebe
 之中	nzgz
 供应	tumf
-官员	lgog
+官员	lrog
 面临	qyve
 开放	irou
 漂亮	jhsp
@@ -1020,7 +1020,7 @@
 即将	ldqn
 平台	hdbo
 样子	ycpz
-追求	gnme
+追求	rnme
 使得	tgnw
 维护	aakt
 等待	ehnh
@@ -1057,7 +1057,7 @@
 其它	qqlm
 兄弟	oldp
 登记	ziej
-车辆	cccz
+车辆	cccr
 当天	xdij
 感动	pigs
 难道	gaqm
@@ -1186,7 +1186,7 @@
 公告	ibpg
 生态	mcje
 主持人	fkur
-两国	zlua
+两国	rlua
 进步	anzj
 姐姐	xhxh
 人数	urfx
@@ -1498,7 +1498,7 @@
 看出	kqpc
 足够	czgo
 世界杯	pvyo
-尽快	vdhk
+尽快	gdhk
 预防	bedo
 小学	jxfp
 更为	gwds
@@ -1654,7 +1654,7 @@
 血管	mkel
 武装	ipqh
 主场	fzha
-两岸	zlio
+两岸	rlio
 舞台	vnbo
 无疑	hemv
 走到	zzih
@@ -1735,7 +1735,7 @@
 剩下	zdox
 恋爱	rexx
 极大	yajd
-尽量	vdwi
+尽量	gdwi
 小孩	jxps
 好友	xpxg
 只好	oixp
@@ -1800,7 +1800,7 @@
 呼吸	omoa
 到达	ihjn
 技能	kfbu
-官方	lgof
+官方	lrof
 委托	zxkm
 工商	kgus
 可见	kkkj
@@ -1964,7 +1964,7 @@
 人体	urty
 清晰	jcwy
 加速	fjyo
-带动	glgs
+带动	vlgs
 前后	quvo
 竞争力	bisl
 远远	dndn
@@ -1998,7 +1998,7 @@
 第二天	epij
 包装	gbqh
 结论	apeu
-博文	fhfw
+博文	fafw
 越南	zpsq
 热烈	djnv
 众人	ucur
@@ -2017,7 +2017,7 @@
 较好	cfxp
 体会	tyug
 消除	jxde
-带领	glub
+带领	vlub
 旅客	omlu
 送给	qjae
 进球	anam
@@ -2118,7 +2118,7 @@
 局长	sduc
 上课	biew
 百姓	qwxm
-航空	zflk
+航空	dflk
 民众	jtuc
 风景	pfws
 分离	iffh
@@ -2794,7 +2794,7 @@
 功夫	kszf
 混合	jweo
 科学家	zfls
-博士	fhhs
+博士	fahs
 测量	jgwi
 夜间	ftpw
 校长	yfuc
@@ -2964,7 +2964,7 @@
 啊啊	odod
 颁奖	iqqn
 饮料	ipfl
-两者	zlmz
+两者	rlmz
 传递	tpdp
 宏观	lxgk
 输出	cepc
@@ -3087,7 +3087,7 @@
 拓展	kqsu
 花了	rtzk
 出于	pchy
-官兵	lghi
+官兵	lrhi
 权证	ygei
 红包	akgb
 全都	tqmd
@@ -3114,7 +3114,7 @@
 天堂	ijfh
 共和国	uzua
 设计师	eevi
-法官	jhlg
+法官	jhlr
 提问	kwpo
 视为	ckds
 主角	fzia
@@ -3129,7 +3129,7 @@
 债务	tcus
 叫做	ohth
 定价	litu
-携带	kagl
+携带	kavl
 新人	bhur
 脂肪	umuo
 当作	xdty
@@ -3166,7 +3166,7 @@
 家乡	lsam
 每人	vzur
 大厅	jdoe
-骄傲	vmtj
+骄傲	vmtl
 车队	ccdu
 开幕	irao
 大道	jdqm
@@ -3262,7 +3262,7 @@
 科学技术	zfky
 公安机关	ilyq
 变动	rggs
-航班	zfah
+航班	dfah
 惊讶	hsei
 传奇	tpjk
 任意	ttoe
@@ -3314,7 +3314,7 @@
 辽宁	zkle
 外部	nbbo
 中年	gzvj
-收盘	huzk
+收盘	hudk
 战场	bpha
 谈话	ezei
 脚步	uhzj
@@ -3374,10 +3374,10 @@
 升高	mrsg
 分裂	ifnv
 中方	gzof
-一带	iygl
+一带	iyvl
 现行	aknt
 回应	uomf
-追究	gnlg
+追究	rnlg
 路口	cuok
 震惊	nohs
 安置	lxyf
@@ -3480,7 +3480,7 @@
 模糊	yafh
 借鉴	tuve
 资助	dphs
-师傅	vith
+师傅	vita
 引入	peme
 宾馆	lhil
 绝大多数	ajnf
@@ -3589,7 +3589,7 @@
 同学们	pftp
 健身	tdns
 阻力	dhsl
-航天	zfij
+航天	dfij
 不已	objy
 人格	uryu
 可用	kkay
@@ -3605,7 +3605,7 @@
 陈水扁	dmtk
 无力	hesl
 马克思主义	vhve
-硬盘	qgzk
+硬盘	qgdk
 乘坐	zdch
 院长	dluc
 码头	qvlt
@@ -3648,9 +3648,9 @@
 案例	lxtn
 掀起	khzj
 复习	vwdx
-尺寸	vckc
+尺寸	gckc
 隐患	dioo
-尽可能	vkbu
+尽可能	gkbu
 冰箱	dmei
 首发	qmlf
 致使	ihtg
@@ -3931,7 +3931,7 @@
 头痛	ltmb
 摩羯座	mcmc
 远处	dnub
-带回	gluo
+带回	vluo
 失踪	vscl
 借助	tuhs
 以内	sybn
@@ -3972,7 +3972,7 @@
 前途	quey
 安全生产	ltmb
 罢了	yhzk
-地带	hlgl
+地带	hlvl
 上场	biha
 有问题	xpwz
 大都	jdmd
@@ -4008,7 +4008,7 @@
 妹子	xypz
 反击	oghh
 当选	xdwl
-开盘	irzk
+开盘	irdk
 折磨	khmy
 出行	pcnt
 鲜明	lcwu
@@ -4146,7 +4146,7 @@
 长春	uccw
 股本	upyi
 毒品	czor
-辅助	chhs
+辅助	cahs
 少量	jswi
 特大	whjd
 负面	igqy
@@ -4232,7 +4232,7 @@
 遵循	qkno
 下调	oxep
 剧情	shhc
-逮捕	dmkh
+逮捕	dmka
 突发	ljlf
 决不	dkob
 深夜	jlft
@@ -4272,9 +4272,9 @@
 下雪	oxnd
 无所谓	hoev
 难忘	gafe
-宽带	lrgl
+宽带	lrvl
 书面	zdqy
-店铺	mbgh
+店铺	mbga
 用力	aysl
 观望	gkfu
 皇上	rabi
@@ -4287,7 +4287,7 @@
 痕迹	mlrn
 中华民族	gtjo
 场合	haeo
-迟到	vnih
+迟到	gnih
 扫描	kdkr
 生病	mcmi
 联手	nqks
@@ -4295,7 +4295,7 @@
 借口	tuok
 水分	msif
 燃料	zefl
-器官	rjlg
+器官	rjlr
 深处	jlub
 为首	dsqm
 冒险	wqde
@@ -4493,7 +4493,7 @@
 跟随	cldx
 发展中国家	lsgl
 乐队	xjdu
-航空公司	zlid
+航空公司	dlid
 分化	iftm
 罕见	lhkj
 依照	tcwn
@@ -4554,7 +4554,7 @@
 拿来	eoyd
 房源	tojo
 电动	wegs
-尽情	vdhc
+尽情	gdhc
 套装	jcqh
 开门	irpm
 没关系	jqma
@@ -4604,7 +4604,7 @@
 相差	ixck
 典礼	puce
 颇有	aqxu
-赌博	gmfh
+赌博	gmfa
 也曾	lydw
 学费	fppv
 姿势	dpds
@@ -4618,7 +4618,7 @@
 无敌	heiu
 土豆	htio
 回升	uomr
-键盘	gdzk
+键盘	gddk
 条约	uyag
 狭窄	szly
 微风	rppf
@@ -4627,7 +4627,7 @@
 烟花	zurt
 增高	hdsg
 开玩笑	iaem
-微薄	rpxh
+微薄	rpxa
 有害	xuls
 原先	orwl
 林业	ylry
@@ -4686,7 +4686,7 @@
 前方	quof
 变为	rgds
 大臣	jdne
-飞船	ndzp
+飞船	nddp
 主意	fzoe
 收缩	hual
 逃避	ddsb
@@ -4768,7 +4768,7 @@
 回避	uosb
 分泌	ifje
 长久	ucie
-航线	zfai
+航线	dfai
 密集	leay
 长安	uclx
 牙齿	iezu
@@ -4825,7 +4825,7 @@
 显著性	wrhm
 水晶	msww
 创下	yvox
-带走	glzz
+带走	vlzz
 旋转	ozcp
 熊猫	bmsr
 灾难	lzga
@@ -4950,7 +4950,7 @@
 四月	uluy
 学位	fptb
 童话	btei
-推迟	kavn
+推迟	kagn
 乒乓球	hham
 实体	llty
 宗旨	ltmw
@@ -4986,7 +4986,7 @@
 透过	zakn
 有益	xuqi
 吃惊	ovhs
-带头	gllt
+带头	vllt
 展出	supc
 吉林	pjyl
 上游	bijo
@@ -5093,7 +5093,7 @@
 反馈	ogik
 面部	qybo
 先锋	wlgu
-军官	lclg
+军官	lclr
 章程	ofzo
 阳台	dwbo
 注意力	josl
@@ -5172,7 +5172,7 @@
 窗外	lwnb
 采集	xyay
 面貌	qysr
-民航	jtzf
+民航	jtdf
 往年	nfvj
 经纪人	aaur
 大爷	jdyd
@@ -5184,13 +5184,13 @@
 额度	lumr
 等候	ehts
 稳步	zizj
-两地	zlhl
+两地	rlhl
 九段	gjcp
 取胜	ngum
 超标	znyt
 舍得	ehnw
 上月	biuy
-船票	zpht
+船票	dpht
 好莱坞	xrho
 吻合	ogeo
 英格兰	ryqp
@@ -5296,7 +5296,7 @@
 景象	wslx
 朱广沪	ymjt
 快快	hkhk
-嗷嗷	ojoj
+嗷嗷	olol
 必定	emli
 东南亚	csry
 无锡	hegw
@@ -5409,7 +5409,7 @@
 事迹	korn
 适时	inwk
 鄙视	ouck
-尽力	vdsl
+尽力	gdsl
 不适	obin
 老总	mmdo
 大奖赛	jqla
@@ -5477,7 +5477,7 @@
 周刊	phhv
 珍珠	auay
 重重	itit
-船舶	zpzr
+船舶	dpdr
 撤销	kfgx
 繁华	vutm
 抬起	kbzj
@@ -5620,7 +5620,7 @@
 度假	mrts
 关键词	qged
 实质性	lohm
-胳膊	uuuh
+胳膊	uuua
 有兴趣	xfzn
 拿出来	epyd
 竞选	bowl
@@ -5765,7 +5765,7 @@
 门户	pmth
 开关	irqj
 卓越	bwzp
-两边	zlsn
+两边	rlsn
 有道理	xqat
 细心	avex
 倒数	tifx
@@ -5779,7 +5779,7 @@
 水位	mstb
 书店	zdmb
 智商	vous
-导航	jkzf
+导航	jkdf
 第一步	eizj
 郊区	fyng
 解读	iaef
@@ -5794,7 +5794,7 @@
 信托	tekm
 被评为	ceds
 身旁	nsbo
-舰队	zkdu
+舰队	dkdu
 脑海	ufjv
 先前	wlqu
 图形	uuir
@@ -5852,7 +5852,7 @@
 院子	dlpz
 加紧	fjvg
 幼稚	asza
-逆转	dlcp
+逆转	dacp
 心爱	exxx
 满满	jrjr
 说服	edud
@@ -5981,9 +5981,9 @@
 体育馆	tfil
 热潮	djjf
 葡萄牙	rrie
-千瓦	iqcw
+千瓦	iqiw
 上空	bilk
-追逐	gnsn
+追逐	rnsn
 衰老	fomm
 位居	tbsh
 之情	nzhc
@@ -6074,7 +6074,7 @@
 此间	zmpw
 讲解	eaia
 转为	cpds
-薄弱	xhpd
+薄弱	xapd
 伤势	tvds
 会晤	ugwn
 全球化	tatm
@@ -6103,7 +6103,7 @@
 白宫	rblo
 手表	ksco
 小泉	jxrm
-辅导	chjk
+辅导	cajk
 照射	wnnk
 外电	nbwe
 旺盛	wapd
@@ -6187,7 +6187,7 @@
 接轨	kbcg
 附加	dtfj
 天啊	ijod
-搬迁	kzin
+搬迁	kdin
 强奸	paxh
 数千	fxiq
 鉴别	vekv
@@ -6202,7 +6202,7 @@
 扭转	kzcp
 杀害	gyls
 时空	wklk
-派遣	jokg
+派遣	jokr
 投降	kpdu
 绿地	adhl
 泉州	rmkz
@@ -6222,7 +6222,7 @@
 愈合	eueo
 东盟	cjwu
 杯子	yopz
-神舟	cwzz
+神舟	cwdz
 内科	bnzl
 精选	fcwl
 快报	hkkd
@@ -6265,7 +6265,7 @@
 坦言	hwey
 卡通	boba
 寒假	lats
-滞后	jgvo
+滞后	jvvo
 统计学	aefp
 副作用	vtay
 血浆	mkqn
@@ -6280,7 +6280,7 @@
 计划生育	epmf
 阻挡	dhkx
 饮用	ipay
-束缚	yoah
+束缚	yoaa
 建行	dhnt
 人民日报	ujwk
 此处	zmub
@@ -6299,7 +6299,7 @@
 助手	hsks
 三亚	ysry
 持平	khhd
-旗舰	oqzk
+旗舰	oqdk
 前日	quwr
 打架	kefy
 慎重	hfit
@@ -6393,7 +6393,7 @@
 务工	uskg
 立马	blvm
 至关重要	iqih
-熬夜	jjft
+熬夜	ljft
 立足	blcz
 芒果	rfwy
 部落	boxu
@@ -6480,7 +6480,7 @@
 洛阳	judw
 无视	heck
 可疑	kkmv
-长官	uclg
+长官	uclr
 警车	rucc
 闭上	pkbi
 敬请	roec
@@ -6521,7 +6521,7 @@
 进城	anhp
 艰巨	glns
 忧虑	hkte
-潜艇	jzzt
+潜艇	jzdt
 卫冕	diwi
 身着	nscq
 纠缠	aham
@@ -6596,7 +6596,7 @@
 畅通	weba
 持有人	kxur
 富人	lvur
-追踪	gncl
+追踪	rncl
 倒入	time
 排斥	kshe
 规矩	zkvn
@@ -6622,7 +6622,7 @@
 瞄准	qrda
 京报	sjkd
 国安	ualx
-利物浦	zwjh
+利物浦	zwja
 重申	itwe
 心意	exoe
 乘车	zdcc
@@ -6696,7 +6696,7 @@
 恰当	hexd
 电压	weoh
 来得及	ynaj
-浦东	jhcj
+浦东	jacj
 矿产	qmbm
 不只是	oowi
 牛仔裤	wtcm
@@ -6731,7 +6731,7 @@
 老者	mmmz
 羽毛球	nram
 考场	mbha
-船上	zpbi
+船上	dpbi
 名片	nopp
 编剧	atsh
 老夫	mmzf
@@ -6754,13 +6754,13 @@
 第一家	eils
 必需	emnq
 听话	ohei
-官司	lgdi
+官司	lrdi
 印度尼西亚	xmsr
 造影	pnwj
 万科	qdzl
 欢喜	gppq
 勤奋	rcjv
-迟迟	vnvn
+迟迟	gngn
 紧接着	vkcq
 好坏	xpho
 普通人	qbur
@@ -6769,7 +6769,7 @@
 心酸	exhb
 自助	mqhs
 故乡	huam
-不尽	obvd
+不尽	obgd
 实事	llko
 书写	zdlb
 悬挂	hbkr
@@ -6854,7 +6854,7 @@
 学业	fpry
 笑笑	emem
 礼仪	cete
-拼搏	kqkh
+拼搏	kqka
 外人	nbur
 力求	slme
 湖北省	jdjq
@@ -6960,7 +6960,7 @@
 噪音	oroy
 卫生间	dmpw
 以至于	sihy
-追问	gnpo
+追问	rnpo
 债权	tcyg
 由此可见	vzkk
 手套	ksjc
@@ -7008,10 +7008,10 @@
 京剧	sjsh
 饰品	ivor
 德国队	nudu
-尽头	vdlt
+尽头	gdlt
 陈某	dcri
 有毒	xucz
-光盘	xizk
+光盘	xidk
 问卷	pocj
 呼声	omss
 浓郁	joxu
@@ -7230,7 +7230,7 @@
 赶往	zhnf
 优于	tkhy
 平日	hdwr
-尽早	vdwf
+尽早	gdwf
 目睹	qmqm
 脱落	udxu
 急于	idhy
@@ -7278,7 +7278,7 @@
 庆典	mjpu
 间隔	pwdi
 布莱尔	xrij
-这般	fnzp
+这般	fndp
 加油站	fjbb
 按钮	klgz
 权限	ygdl
@@ -7391,7 +7391,7 @@
 升起	mrzj
 炫耀	zaxl
 汕头	jilt
-船只	zpoi
+船只	dpoi
 月薪	uyrb
 引用	peay
 上限	bidl
@@ -7418,7 +7418,7 @@
 刘少奇	fjjk
 西门子	hppz
 入睡	meqi
-尺度	vcmr
+尺度	gcmr
 解剖	iabo
 箱子	eipz
 糖果	fmwy
@@ -7461,7 +7461,7 @@
 军民	lcjt
 不愧	obhr
 一路上	icbi
-早盘	wfzk
+早盘	wfdk
 拉萨	kbrd
 款项	htkq
 纪检	ajye
@@ -7502,7 +7502,7 @@
 瞧瞧	qaqa
 疯子	mppz
 放映	ouwk
-迟早	vnwf
+迟早	gnwf
 复查	vwyw
 进驻	anvf
 贫穷	igls
@@ -7511,7 +7511,7 @@
 振荡	koxa
 白菜	rbrx
 编译	ateg
-捕捉	khkc
+捕捉	kakc
 职业教育	nrmf
 欺诈	qpey
 贴心	gbex
@@ -7581,7 +7581,7 @@
 高尔夫球	siza
 万物	qdwg
 桂林	yryl
-渔船	jlzp
+渔船	jldp
 现阶段	adcp
 矿工	qmkg
 评议	ehee
@@ -7675,7 +7675,7 @@
 取缔	ngab
 钢筋	gpeu
 不仅仅	ottg
-检察官	yllg
+检察官	yllr
 流血	jfmk
 妇联	xdnq
 开头	irlt
@@ -7780,7 +7780,7 @@
 卡片	bopp
 更改	gwju
 保住	totf
-一般来说	izye
+一般来说	idye
 弱者	pdmz
 平原	hdor
 归还	vdon
@@ -7843,7 +7843,7 @@
 突变	ljrg
 顺差	kqck
 人流	urjf
-连带	cngl
+连带	cnvl
 穿刺	liyp
 站立	bbbl
 肠道	uaqm
@@ -7928,7 +7928,7 @@
 句子	gopz
 傻子	twpz
 力学	slfp
-被捕	cakh
+被捕	caka
 闭幕	pkao
 特长	whuc
 全国性	tuhm
@@ -7950,7 +7950,7 @@
 求职	meno
 市级	foaa
 演技	jlkf
-航天员	ziog
+航天员	diog
 年限	vjdl
 摇摇头	kklt
 电缆	weae
@@ -8058,7 +8058,7 @@
 面具	qyhi
 书画	zdiv
 宣判	liyv
-执行官	dnlg
+执行官	dnlr
 召回	nzuo
 郑州市	qkfo
 胚胎	uoub
@@ -8090,7 +8090,7 @@
 自尊	mqqk
 规避	zksb
 左路	xkcu
-追赶	gnzh
+追赶	rnzh
 一派	iyjo
 打倒	keti
 宝石	laqs
@@ -8315,7 +8315,7 @@
 吃药	ovra
 黄牌	uvpr
 创造出	yppc
-延迟	mzvn
+延迟	mzgn
 知己	vojj
 摸索	kafl
 劝说	gsed
@@ -8561,7 +8561,7 @@
 潜能	jzbu
 今夜	uzft
 果汁	wyjf
-博弈	fhrr
+博弈	farr
 密封	lerk
 增持	hdkh
 果真	wyfh
@@ -8592,7 +8592,7 @@
 赵本山	zyis
 白衣	rbcy
 赢家	fgls
-抓捕	kmkh
+抓捕	kmka
 病程	mizo
 乳腺癌	xumo
 国美	uacj
@@ -8716,7 +8716,7 @@
 成功率	pkfa
 沐浴	jyje
 先天	wlij
-转盘	cpzk
+转盘	cpdk
 野蛮	tbrk
 男单	vsdw
 大巴	jdwb
@@ -8976,7 +8976,7 @@
 并不会	qoug
 胶原	ufor
 第二阶	epdu
-船员	zpog
+船员	dpog
 淘金	jgtj
 触动	iags
 成龙	pdal
@@ -8986,7 +8986,7 @@
 造假	pnts
 典范	puxj
 风气	pfuq
-收盘价	hztu
+收盘价	hdtu
 工夫	kgzf
 内分泌	bije
 微观	rpgk
@@ -8998,9 +8998,9 @@
 凌乱	dhie
 黄昏	uvxt
 滑坡	jyha
-贪官	uzlg
+贪官	uzlr
 药材	rayk
-日内瓦	wbcw
+日内瓦	wbiw
 沉思	jlve
 入微	merp
 小车	jxcc
@@ -9053,7 +9053,7 @@
 体征	tyni
 善意	cqoe
 名气	nouq
-飞利浦	nzjh
+飞利浦	nzja
 复印件	vxtw
 应聘	mfnv
 元首	dyqm
@@ -9077,7 +9077,7 @@
 不确定性	oqlh
 排球	ksam
 看一看	kikq
-战舰	bpzk
+战舰	bpdk
 逃走	ddzz
 疏散	zzuu
 彰显	ofwr
@@ -9174,7 +9174,7 @@
 成交价	pftu
 保险业	tdry
 西岸	hxio
-宇航员	lzog
+宇航员	ldog
 少儿	jsle
 量化	witm
 送礼	qjce
@@ -9214,14 +9214,14 @@
 固有	uhxu
 半数	ybfx
 物种	wgzg
-追加	gnfj
+追加	rnfj
 共鸣	uioo
 深感	jlpi
 戏曲	gpwv
 汉堡	jgto
 明信片	wtpp
 服药	udra
-搬家	kzls
+搬家	kdls
 伤员	tvog
 稽查	zeyw
 病史	miog
@@ -9229,7 +9229,7 @@
 互利	izzv
 恨不得	honw
 下功夫	okzf
-航天飞机	ziny
+航天飞机	diny
 闯入	pvme
 侦破	tbqa
 理所当然	aoxn
@@ -9301,7 +9301,7 @@
 身处	nsub
 团员	ukog
 天河	ijjk
-航行	zfnt
+航行	dfnt
 嚣张	rqpu
 免疫力	imsl
 不甘心	orex
@@ -9314,7 +9314,7 @@
 理科	atzl
 下台	oxbo
 及格	ajyu
-带队	gldu
+带队	vldu
 露面	ncqy
 禁毒	ytcz
 典雅	puie
@@ -9368,7 +9368,7 @@
 寂静	ljci
 姥姥	xmxm
 产地	bmhl
-高官	sglg
+高官	sglr
 奢望	jmfu
 紧缩	vgal
 一步步	izzj
@@ -9427,7 +9427,7 @@
 自然科学	mnzf
 不符	obet
 悠闲	tupy
-追上	gnbi
+追上	rnbi
 知晓	vowp
 统战	afbp
 建起	dhzj
@@ -9531,7 +9531,7 @@
 样板	ycyo
 订阅	eepd
 动向	gswo
-盘点	zkbj
+盘点	dkbj
 浮躁	jxco
 定下	liox
 跌倒	cvti
@@ -9553,7 +9553,7 @@
 制动	wpgs
 流下	jfox
 工作效率	ktff
-两手	zlks
+两手	rlks
 雕刻	phsv
 白发	rblf
 充斥	flhe
@@ -9579,7 +9579,7 @@
 索要	flhx
 意料	oefl
 时会	wkug
-腰带	uhgl
+腰带	uhvl
 隐约	diag
 契约	snag
 渲染	jljg
@@ -9620,7 +9620,7 @@
 申请人	weur
 文体	fwty
 教委	mpzx
-滞留	jgxn
+滞留	jvxn
 国脚	uauh
 纵横	acyu
 名次	nodp
@@ -9678,7 +9678,7 @@
 建设银行	degn
 矿井	qmaj
 低落	txxu
-追随	gndx
+追随	rndx
 十佳	fstr
 中国日报	guwk
 晴天	wcij
@@ -9740,11 +9740,11 @@
 风水	pfms
 所为	osds
 冒充	wqfl
-警官	rulg
+警官	rulr
 野心	tbex
 应变	mfrg
 交友	fyxg
-航运	zfgn
+航运	dfgn
 炒股	zjup
 默认	vjeu
 超前	znqu
@@ -9925,7 +9925,7 @@
 发车	lfcc
 失调	vsep
 警报	rukd
-瓦斯	cwqh
+瓦斯	iwqh
 性爱	hmxx
 公牛	ibwn
 骨质	ygof
@@ -9957,7 +9957,7 @@
 计数	effx
 报废	kdml
 消协	jxfs
-昼夜	vwft
+昼夜	gwft
 品德	ornf
 车速	ccyo
 晚年	wivj
@@ -9977,7 +9977,7 @@
 骗取	vtng
 右脚	xouh
 沙尘	jjjh
-地盘	hlzk
+地盘	hldk
 卫生院	dmdl
 咽喉	ouos
 收视率	hcfa
@@ -10126,10 +10126,10 @@
 源自	jomq
 不只	oboi
 总医院	dndl
-铺设	ghep
+铺设	gaep
 拦住	kqtf
 静态	cije
-无尽	hevd
+无尽	hegd
 夜宵	ftlx
 买不起	zozj
 悄悄地	hhhl
@@ -10145,7 +10145,7 @@
 管理费	eapv
 印证	xdei
 洒脱	jhud
-船长	zpuc
+船长	dpuc
 屏障	sqdo
 甘草	rirw
 涉足	jzcz
@@ -10182,12 +10182,12 @@
 田园	vtud
 近视	hnck
 朴素	ybca
-咱俩	omtz
+咱俩	omtr
 吕布	ooxo
 光纤	xiai
 夜色	ftiw
 零下	nuox
-我俩	kptz
+我俩	kptr
 高清	sgjc
 长剑	ucef
 伍兹	tnqa
@@ -10342,7 +10342,7 @@
 人行道	unqm
 对称	gkzi
 世界末日	pvyw
-薄膜	xhua
+薄膜	xaua
 接送	kbqj
 机枪	ypyy
 折合	kheo
@@ -10368,7 +10368,7 @@
 认得	eunw
 潮湿	jfjw
 受害	xgls
-两头	zllt
+两头	rllt
 中央军委	gklz
 年货	vjtm
 请客	eclu
@@ -10428,7 +10428,7 @@
 人道	urqm
 制片人	wpur
 有关单位	xqdt
-两面	zlqy
+两面	rlqy
 不约而同	oaqp
 植被	yfca
 总产量	dbwi
@@ -10495,7 +10495,7 @@
 尤文图斯	kfuq
 首度	qmmr
 无异	hejr
-两旁	zlbo
+两旁	rlbo
 忙于	hfhy
 改观	jugk
 小屋	jxsi
@@ -10573,7 +10573,7 @@
 私自	zbmq
 伊始	tdxb
 测验	jgve
-超薄	znxh
+超薄	znxa
 近千	hniq
 连环	cnao
 构思	ygve
@@ -10593,7 +10593,7 @@
 漳州	jokz
 当务之急	xuni
 体谅	tyes
-航海	zfjv
+航海	dfjv
 汇款	jnht
 陈旧	dcew
 防卫	dodi
@@ -10657,7 +10657,7 @@
 叫嚣	ohrq
 装配	qhhj
 技术性	kyhm
-纽带	azgl
+纽带	azvl
 母女	zmxn
 通气	bauq
 新陈代谢	bdoe
@@ -10708,7 +10708,7 @@
 农机	ooyp
 副教授	vmkx
 交通部	fbbo
-两样	zlyc
+两样	rlyc
 贵人	kgur
 广东队	mcdu
 独立性	sbhm
@@ -10742,7 +10742,7 @@
 纪念馆	auil
 警卫	rudi
 出钱	pcgi
-煎熬	qujj
+煎熬	qulj
 柯南	yksq
 跻身	cfns
 乔布斯	mxqh
@@ -10752,7 +10752,7 @@
 呐喊	obop
 金星	tjwm
 第三者	eymz
-方向盘	owzk
+方向盘	owdk
 豪门	sspm
 细小	avjx
 文人	fwur
@@ -10870,7 +10870,7 @@
 朴实	ybll
 青年人	cvur
 阻挠	dhkp
-指挥官	kklg
+指挥官	kklr
 索取	flng
 塔利班	hzah
 枸杞	ygyj
@@ -10927,7 +10927,7 @@
 教研室	mqli
 曙光	wyxi
 拉拉	kbkb
-军舰	lczk
+军舰	lcdk
 强壮	paqh
 劫持	hbkh
 真真	fhfh
@@ -10961,7 +10961,7 @@
 配偶	hjtv
 岸边	iosn
 新奇	bhjk
-皮带	apgl
+皮带	apvl
 流露	jfnc
 了得	zknw
 老干部	mhbo
@@ -11035,8 +11035,8 @@
 发音	lfoy
 兴奋剂	fjfv
 退货	lntm
-轻薄	chxh
-底盘	mxzk
+轻薄	chxa
+底盘	mxdk
 孵化	xxtm
 反问	ogpo
 学好	fpxp
@@ -11122,7 +11122,7 @@
 矿物	qmwg
 光棍儿	xyle
 累累	vava
-航道	zfqm
+航道	dfqm
 吃吃	ovov
 二线	peai
 畜生	avmc
@@ -11173,7 +11173,7 @@
 唐代	mdod
 洁净	jpdi
 科威特	zpwh
-韧带	pdgl
+韧带	pdvl
 交易会	fwug
 宠爱	laxx
 求解	meia
@@ -11205,7 +11205,7 @@
 阻塞	dhla
 输血	cemk
 希特勒	gwis
-盘子	zkpz
+盘子	dkpz
 膳食	ucis
 毅力	bssl
 驻扎	vfke
@@ -11227,7 +11227,7 @@
 高标准	syda
 交战	fybp
 热气	djuq
-海带	jvgl
+海带	jvvl
 欢快	gphk
 不公	obib
 灿灿	zizi
@@ -11254,7 +11254,7 @@
 眼看着	qkcq
 内饰	bniv
 日均	wrhg
-迟疑	vnmv
+迟疑	gnmv
 畏惧	vohh
 人味	uroy
 坦诚	hwep
@@ -11307,7 +11307,7 @@
 育种	fuzg
 射出	nkpc
 登机	ziyp
-淋漓尽致	jjvi
+淋漓尽致	jjgi
 革委会	izug
 低开	txir
 突如其来	lxqy
@@ -11362,7 +11362,7 @@
 政变	izrg
 同事们	pktp
 通行证	bnei
-追溯	gnjd
+追溯	rnjd
 骆驼	vuvl
 编辑部	acbo
 血迹	mkrn
@@ -11522,7 +11522,7 @@
 铜牌	gppr
 建设性	dehm
 英格兰队	ryqd
-游艇	jozt
+游艇	jodt
 吃上	ovbi
 刚果	pgwy
 中度	gzmr
@@ -11592,7 +11592,7 @@
 南路	sqcu
 生理盐水	mahm
 力图	sluu
-追寻	gndk
+追寻	rndk
 世界卫生组织	pvda
 小贝	jxgb
 夹杂	zdgy
@@ -11609,8 +11609,8 @@
 狼狈	sesg
 周总理	pdat
 毛呢	rmos
-领带	ubgl
-帆船	opzp
+领带	ubvl
+帆船	opdp
 排序	ksmb
 见义勇为	kebd
 善后	cqvo
@@ -11661,7 +11661,7 @@
 后遗症	vkmi
 明儿	wule
 不妙	obxj
-我们俩	kttz
+我们俩	kttr
 商贩	usgo
 扭头	kzlt
 俨然	trne
@@ -11800,7 +11800,7 @@
 造福	pncv
 歌剧	kksh
 风流	pfjf
-追捕	gnkh
+追捕	rnka
 飞天	ndij
 来历	ydos
 南京日报	sswk
@@ -11884,7 +11884,7 @@
 烽烟	zuzu
 光圈	xiuc
 法西斯	jhqh
-追回	gnuo
+追回	rnuo
 奇才	jkkc
 欧佩克	nthl
 容颜	lebm
@@ -11939,7 +11939,7 @@
 不健全	ottq
 消退	jxln
 味精	oyfc
-阻滞	dhjg
+阻滞	dhjv
 卸妆	vzqx
 营业厅	sroe
 什叶派	tojo
@@ -12018,7 +12018,7 @@
 就餐	sjbg
 印制	xdwp
 散户	uuth
-外交官	nflg
+外交官	nflr
 话筒	eiep
 离退休	flty
 卫生部门	dmbp
@@ -12068,7 +12068,7 @@
 木兰	ymqp
 深入人心	jmue
 第四个	euue
-两端	zlbi
+两端	rlbi
 极好	yaxp
 神态	cwje
 惠州	hwkz
@@ -12165,7 +12165,7 @@
 相通	ixba
 军工	lckg
 福州市	ckfo
-盘整	zkyu
+盘整	dkyu
 良知	elvo
 区委	ngzx
 财税	gkzd
@@ -12215,7 +12215,7 @@
 金黄色	tuiw
 廉洁	mqjp
 落成	xupd
-附带	dtgl
+附带	dtvl
 自然而然	mnqn
 肮脏	ufum
 液化	jftm
@@ -12313,7 +12313,7 @@
 市民们	fjtp
 流动人口	jguo
 不配	obhj
-带入	glme
+带入	vlme
 筹措	esku
 头皮	ltap
 行之有效	nnxf
@@ -12381,9 +12381,9 @@
 纵容	acle
 无序	hemb
 马自达	vmjn
-李敖	ypja
+李敖	ypla
 殖民	nfjt
-详尽	ecvd
+详尽	ecgd
 全然	tqne
 眼影	qlwj
 无用	heay
@@ -12417,7 +12417,7 @@
 心想事成	eikp
 喃喃	osos
 代销	odgx
-搏斗	khld
+搏斗	kald
 陈涛	dcjs
 卫士	dihs
 字体	lpty
@@ -12446,7 +12446,7 @@
 公办	ibsi
 订立	eebl
 重演	itjl
-用尽	ayvd
+用尽	aygd
 坚韧	vgpd
 悬殊	hbny
 大年初一	jvci
@@ -12560,9 +12560,9 @@
 远大	dnjd
 放眼	ouql
 第一种	eizg
-搬运	kzgn
+搬运	kdgn
 肆意	cboe
-宇航局	lzsd
+宇航局	ldsd
 调味	epoy
 脑筋	ufeu
 现役	aknp
@@ -12592,7 +12592,7 @@
 有勇气	xbuq
 马列主义	vnfe
 赶忙	zhhf
-官场	lgha
+官场	lrha
 惊悚	hshy
 上人	biur
 多边	nnsn
@@ -12615,7 +12615,7 @@
 专卖	pbfz
 红十字会	aflu
 佳节	trrd
-凸现	wtak
+凸现	ktak
 先走	wlzz
 欠款	pqht
 别克	kvhl
@@ -12663,7 +12663,7 @@
 弄清	arjc
 化成	tmpd
 最高法院	wsjd
-追查	gnyw
+追查	rnyw
 石块	qshk
 杂志社	ghch
 异样	jryc
@@ -12678,7 +12678,7 @@
 归于	vdhy
 肝细胞	uaug
 抛开	kgir
-南航	sqzf
+南航	sqdf
 宝剑	laef
 议长	eeuc
 工农兵	kohi
@@ -12717,7 +12717,7 @@
 请示	ects
 党代会	foug
 席卷	mrcj
-胎盘	ubzk
+胎盘	ubdk
 莫大	amjd
 句号	goob
 校友	yfxg
@@ -12777,7 +12777,7 @@
 能见度	bkmr
 有失	xuvs
 一如	iyxo
-小盘	jxzk
+小盘	jxdk
 只管	oiel
 仍可	takk
 看守	kqlk
@@ -12798,7 +12798,7 @@
 饱受	igxg
 变压器	rorj
 制作人	wtur
-千瓦时	icwk
+千瓦时	iiwk
 黄金周	utph
 小提琴	jkaa
 铭记	gnej
@@ -12818,14 +12818,14 @@
 合伙人	etur
 各人	ugur
 轻重	chit
-两厢	zloi
+两厢	rloi
 宋代	lyod
 改动	jugs
 办公桌	sibw
 西域	hxhp
 脚踝	uhcw
 更进一步	gaiz
-英尺	rkvc
+英尺	rkgc
 汉口	jgok
 名利	nozv
 愈来愈	eyeu
@@ -12860,7 +12860,7 @@
 概况	yldo
 下半时	oywk
 不平	obhd
-薄荷	xhrt
+薄荷	xart
 看得见	knkj
 碱性	qphm
 峡谷	izeg
@@ -12978,7 +12978,7 @@
 办公厅	sioe
 统帅	afvo
 栏杆	yqyh
-官僚	lgtj
+官僚	lrtj
 存货	xptm
 燃放	zeou
 照耀	wnxl
@@ -13115,7 +13115,7 @@
 怒吼	xgop
 攀登	yyzi
 去处	hbub
-略带	vugl
+略带	vuvl
 外貌	nbsr
 杂草	gyrw
 超音速	zoyo
@@ -13136,7 +13136,7 @@
 动听	gsoh
 怨恨	njhl
 证券交易所	ecfo
-叛逆	yodl
+叛逆	yoda
 旅游者	ojmz
 凳子	zipz
 原著	orrm
@@ -13162,12 +13162,12 @@
 词典	edpu
 汹涌	jgjb
 大连市	jcfo
-带球	glam
+带球	vlam
 驾驶证	fvei
 首例	qmtn
 动能	gsbu
 上瘾	bimd
-船队	zpdu
+船队	dpdu
 村镇	ykgf
 形体	irty
 出力	pcsl
@@ -13196,7 +13196,7 @@
 赚取	gqng
 二审	pelw
 成天	pdij
-舰艇	zkzt
+舰艇	dkdt
 评测	ehjg
 许诺	ewer
 足彩	czxy
@@ -13280,7 +13280,7 @@
 咀嚼	ohox
 绵羊	arcy
 客栈	luyi
-捕鱼	khly
+捕鱼	kaly
 道士	qmhs
 耶路撒冷	nckd
 室温	lijw
@@ -13316,7 +13316,7 @@
 法医	jhnv
 惊动	hsgs
 煤电	zrwe
-停滞	tsjg
+停滞	tsjv
 一致性	iihm
 羊绒	cyap
 求职者	mnmz
@@ -13357,13 +13357,13 @@
 竞猜	bosc
 胡椒	huyb
 惊慌	hshr
-盘旋	zkoz
+盘旋	dkoz
 国青队	ucdu
 练兵	athi
 餐饮业	biry
 日落	wrxu
 老友	mmxg
-追击	gnhh
+追击	rnhh
 修正案	tilx
 体型	tyiv
 液压	jfoh
@@ -13372,7 +13372,7 @@
 丛书	cizd
 破旧	qaew
 杰作	yjty
-安全带	ltgl
+安全带	ltvl
 分得	ifnw
 媲美	xwcj
 透析	zayh
@@ -13390,7 +13390,7 @@
 互通	izba
 唐僧	mdtd
 女人们	xutp
-博得	fhnw
+博得	fanw
 过冬	knud
 上下班	boah
 降下	duox
@@ -13403,7 +13403,7 @@
 动不动	gogs
 公章	ibof
 展馆	suil
-方舟子	ozpz
+方舟子	odpz
 分泌物	ijwg
 面纱	qyaj
 矿物质	qwof
@@ -13440,7 +13440,7 @@
 第九届	egsv
 不失为	ovds
 维系	aama
-两下	zlox
+两下	rlox
 依赖性	tyhm
 如若	xorx
 税后	zdvo
@@ -13508,7 +13508,7 @@
 原版	orpo
 退缩	lnal
 王牌	awpr
-迟钝	vngt
+迟钝	gngt
 联队	nqdu
 水手	msks
 控诉	kleh
@@ -13531,7 +13531,7 @@
 游泳池	jjjl
 击落	hhxu
 疤痕	mwml
-高傲	sgtj
+高傲	sgtl
 第一版	eipo
 一晃	iywx
 查清	ywjc
@@ -13582,7 +13582,7 @@
 南站	sqbb
 喜讯	pqen
 欠佳	pqtr
-你们俩	tttz
+你们俩	tttr
 稻田	zxvt
 团团	ukuk
 棘手	ypks
@@ -13598,7 +13598,7 @@
 急躁	idco
 技工	kfkg
 溶剂	jlfv
-公尺	ibvc
+公尺	ibgc
 甘油	rijv
 开挖	irkl
 大棚	jdyu
@@ -13673,7 +13673,7 @@
 脚趾	uhcz
 冯小刚	djpg
 银杏	glyo
-那般	adzp
+那般	addp
 移位	zntb
 对劲	gkhk
 瓷砖	dpqp
@@ -13688,9 +13688,9 @@
 眼袋	qloc
 于你	hyti
 一个一个	iuiu
-当官	xdlg
+当官	xdlr
 出错	pcgu
-方舟	ofzz
+方舟	ofdz
 殿堂	sufh
 咋办	oysi
 学界	fpvu
@@ -13831,7 +13831,7 @@
 一心一意	ieio
 不可忽视	okgc
 气派	uqjo
-追到	gnih
+追到	rnih
 外国语	nuen
 师长	viuc
 电话会议	weue
@@ -13843,7 +13843,7 @@
 斯里兰卡	qtqb
 供养	tuce
 退耕	lnya
-遣返	kgog
+遣返	krog
 出版物	ppwg
 雪糕	ndfc
 识字	eolp
@@ -13949,7 +13949,7 @@
 播报	kmkd
 第二步	epzj
 垃圾桶	hhyb
-录像带	dtgl
+录像带	dtvl
 说服力	eusl
 墙角	hfia
 涂上	jebi
@@ -13999,7 +13999,7 @@
 小鬼	jxrl
 劝阻	gsdh
 经不起	aozj
-五官	nwlg
+五官	nwlr
 客源	lujo
 浓重	joit
 惆怅	hphu
@@ -14078,7 +14078,7 @@
 轮番	cumf
 霸主	nifz
 器件	rjtw
-敷衍	honj
+敷衍	aonj
 清晰度	jwmr
 近些年	hzvj
 交费	fypv
@@ -14091,7 +14091,7 @@
 萧山	rdis
 封杀	rkgy
 失职	vsno
-感官	pilg
+感官	pilr
 大西洋	jhjc
 哀悼	cohb
 便民	tgjt
@@ -14107,7 +14107,7 @@
 小块	jxhk
 硝烟	qxzu
 再问	appo
-能带	bugl
+能带	buvl
 吝啬	fofq
 解放前	ioqu
 大汗	jdjh
@@ -14152,7 +14152,7 @@
 彭帅	pqvo
 编程	atzo
 广州日报	mkwk
-轮船	cuzp
+轮船	cudp
 总司令	ddub
 山峰	isiu
 开行	irnt
@@ -14327,7 +14327,7 @@
 林地	ylhl
 企业界	urvu
 官僚主义	ltfe
-造船	pnzp
+造船	pndp
 讲授	eakx
 契合	sneo
 长跑	uccg
@@ -14339,7 +14339,7 @@
 忠告	gepg
 市场价	fhtu
 法术	jhye
-带头人	glur
+带头人	vlur
 青海省	cjjq
 祈求	chme
 魔王	myaw
@@ -14355,13 +14355,13 @@
 欧冠	ngld
 美少女	cjxn
 哭笑不得	reon
-迟缓	vnax
+迟缓	gnax
 胸膛	uguf
 观察员	glog
 狙击	shhh
 失明	vswu
 分外	ifnb
-脉搏	uekh
+脉搏	ueka
 眼界	qlvu
 查办	ywsi
 登时	ziwk
@@ -14468,7 +14468,7 @@
 中雨	gzny
 转告	cppg
 异味	jroy
-逆境	dlho
+逆境	daho
 说不清	eojc
 深圳证券交易所	jheo
 技术员	kyog
@@ -14565,7 +14565,7 @@
 物料	wgfl
 威信	pite
 日月	wruy
-小船	jxzp
+小船	jxdp
 放行	ount
 押金	kvtj
 获奖者	rqmz
@@ -14633,7 +14633,7 @@
 琵琶	aaaa
 一目了然	iqzn
 声乐	ssxj
-官府	lgmt
+官府	lrmt
 祖父	chyf
 大话	jdei
 切实可行	tlkn
@@ -14689,7 +14689,7 @@
 按期	klqu
 征婚	nixx
 剪裁	qufp
-黄埔	uvhh
+黄埔	uvha
 亚泰	rycm
 私奔	zbjf
 流行音乐	jnox
@@ -14762,7 +14762,7 @@
 男童	vsbt
 眼睑	qlqe
 史学	ogfp
-傲慢	tjhw
+傲慢	tlhw
 麦田	cuvt
 胆小	uwjx
 断层	fesg
@@ -14774,7 +14774,7 @@
 相恋	ixre
 无理	heat
 谢亚龙	eral
-薄薄	xhxh
+薄薄	xaxa
 胶片	ufpp
 中成药	gpra
 外露	nbnc
@@ -14864,7 +14864,7 @@
 责成	cgpd
 稿子	zspz
 阳光明媚	dxwx
-尽是	vdwi
+尽是	gdwi
 高强度	spmr
 综述	alye
 取样	ngyc
@@ -14913,7 +14913,7 @@
 因果	ujwy
 俏皮	txap
 渎职	jfno
-单薄	dwxh
+单薄	dwxa
 秀发	zalf
 白兔	rblt
 避孕	sbap
@@ -15017,7 +15017,7 @@
 助力	hssl
 安全部队	ltbd
 笼子	eapz
-瓦解	cwia
+瓦解	iwia
 张口	puok
 斗士	ldhs
 刀子	ndpz
@@ -15075,7 +15075,7 @@
 股东权益	ucyq
 扎根	keyl
 弄清楚	ajyz
-教官	mplg
+教官	mplr
 挂帅	krvo
 名模	noya
 威严	pirm
@@ -15212,7 +15212,7 @@
 各色	ugiw
 专著	pbrm
 征兆	nidd
-上船	bizp
+上船	bidp
 个体工商户	utkt
 小腹	jxuv
 酒瓶	jhqr
@@ -15359,8 +15359,8 @@
 中草药	grra
 慌张	hrpu
 林场	ylha
-搬出	kzpc
-巡航	knzf
+搬出	kdpc
+巡航	kndf
 反向	ogwo
 功底	ksmx
 刺激性	yjhm
@@ -15440,7 +15440,7 @@
 泥石流	jqjf
 并行	qrnt
 节操	rdko
-通航	bazf
+通航	badf
 非线性	sahm
 乡土	amht
 逗留	ioxn
@@ -15450,7 +15450,7 @@
 通透	baza
 外甥	nbmc
 试样	epyc
-捕捞	khks
+捕捞	kaks
 雷电	nvwe
 甲骨文	vyfw
 支农	fgoo
@@ -15530,7 +15530,7 @@
 运动鞋	ggir
 团体赛	utla
 暗道	woqm
-两用	zlay
+两用	rlay
 立功	blks
 音乐家	oxls
 阀门	ptpm
@@ -15782,7 +15782,7 @@
 小丑	jxzc
 暴行	wunt
 派别	jokv
-驱逐舰	vszk
+驱逐舰	vsdk
 涂鸦	jeie
 扑克	kbhl
 比基尼	mqsm
@@ -15822,12 +15822,12 @@
 金秋	tjzz
 潮州	jfkz
 远洋	dnjc
-护航	ktzf
+护航	ktdf
 娃儿	xrle
 生还	mcon
 编者	atmz
 免不了	iozk
-一国两制	iuzw
+一国两制	iurw
 不知情	ovhc
 脏话	umei
 礼堂	cefh
@@ -15854,7 +15854,7 @@
 温格	jwyu
 右派	xojo
 福音	cvoy
-他们俩	tttz
+他们俩	tttr
 千伏	iqtj
 供奉	tuch
 迷迷糊糊	ffff
@@ -15914,7 +15914,7 @@
 楼宇	yflh
 卖力	fzsl
 主干道	fhqm
-妖孽	xmrg
+妖孽	xmrr
 浇水	jpms
 巷子	uipz
 温州市	jkfo
@@ -15985,7 +15985,7 @@
 透气	zauq
 庆贺	mjfg
 可人	kkur
-百般	qwzp
+百般	qwdp
 文化教育	ftmf
 查验	ywve
 梯度	ydmr
@@ -16073,7 +16073,7 @@
 独具	skhi
 交情	fyhc
 中情局	ghsd
-直航	fhzf
+直航	fhdf
 怕死	hrnm
 外事	nbko
 独裁	skfp
@@ -16156,7 +16156,7 @@
 戴维斯	faqh
 病毒性	mchm
 低价位	tttb
-盘算	zkeq
+盘算	dkeq
 契丹	snpf
 势在必行	dxen
 折断	khfe
@@ -16239,7 +16239,7 @@
 心急	exid
 给以	aesy
 南岸	sqio
-续航	afzf
+续航	afdf
 佛祖	tpch
 看管	kqel
 拉姆斯菲尔德	kxqn
@@ -16334,7 +16334,7 @@
 要人	hxur
 心悸	exhz
 夏普	qqqr
-淄博	jkfh
+淄博	jkfa
 一帆风顺	iopk
 反法西斯	ojhq
 小分队	jidu
@@ -16358,7 +16358,7 @@
 布料	xofl
 毕生	mfmc
 拉票	kbht
-捕获	khrs
+捕获	kars
 吹牛	opwn
 挨打	kbke
 编者按	amkl
@@ -16380,7 +16380,7 @@
 痛楚	mbyz
 迈阿密	qdle
 雨量	nywi
-胸脯	uguh
+胸脯	ugua
 巩膜	kpua
 墓葬	ahrn
 发言权	leyg
@@ -16396,7 +16396,7 @@
 牧场	wuha
 插座	kimc
 前述	quye
-航空母舰	zlzz
+航空母舰	dlzd
 敌方	iuof
 硬朗	qgel
 无赖	heyo
@@ -16424,7 +16424,7 @@
 应用软件	mact
 鞍钢	ilgp
 混双	jwgg
-核潜艇	yjzt
+核潜艇	yjdt
 口角	okia
 瞧不起	qozj
 东方卫视	codc
@@ -16445,7 +16445,7 @@
 蓝军	rvlc
 口吻	okog
 肾上腺素	vbuc
-中航	gzzf
+中航	gzdf
 减去	dphb
 红心	akex
 检出率	ypfa
@@ -16538,7 +16538,7 @@
 学堂	fpfh
 红光	akxi
 疑难	mvga
-官吏	lggo
+官吏	lrgo
 发胖	lfuy
 锂电池	gwjl
 集市	ayfo
@@ -16583,7 +16583,7 @@
 害虫	lskc
 扯淡	kzjz
 盛装	pdqh
-淡薄	jzxh
+淡薄	jzxa
 医用	nvay
 赛制	lawp
 重塑	itdu
@@ -16591,7 +16591,7 @@
 林某	ylri
 含泪	uzjq
 路基	cuqh
-铺开	ghir
+铺开	gair
 嘲讽	ofep
 多事	nnko
 世道	psqm
@@ -16731,7 +16731,7 @@
 酒量	jhwi
 几近	pjhn
 怕什么	htmb
-磁带	qqgl
+磁带	qqvl
 陈皮	dcap
 霹雳	nsno
 药水	rams
@@ -16989,7 +16989,7 @@
 寺院	hkdl
 润滑	jpjy
 天际	ijdt
-全盘	tqzk
+全盘	tqdk
 金融资产	tidb
 劳动党	sgfl
 大计	jdef
@@ -17019,7 +17019,7 @@
 小规模	jzya
 琼斯	asqh
 黑头	vhlt
-带路	glcu
+带路	vlcu
 讯问	enpo
 出嫁	pcxl
 念书	uzzd
@@ -17068,7 +17068,7 @@
 环城	aohp
 名录	nodm
 王府井	amaj
-耗尽	yrvd
+耗尽	yrgd
 占道	bzqm
 疑点	mvbj
 总编	doat
@@ -17105,7 +17105,7 @@
 拉扯	kbkz
 切合	tneo
 畅快	wehk
-官邸	lgxt
+官邸	lrxt
 报批	kdkm
 投档	kpyx
 扬子晚报	kpwk
@@ -17115,10 +17115,10 @@
 气度	uqmr
 教职工	mnkg
 新居	bhsh
-一般性	izhm
+一般性	idhm
 无话可说	heke
 轴线	cvai
-逆向	dlwo
+逆向	dawo
 专长	pbuc
 攻占	kubz
 获益	rsqi
@@ -17195,7 +17195,7 @@
 显赫	wrhr
 吞下	ijox
 霉菌	nvru
-康师傅	mvth
+康师傅	mvta
 挥动	klgs
 民主化	jftm
 上冲	bidg
@@ -17310,7 +17310,7 @@
 好学	xpfp
 雄伟	xbtp
 路费	cupv
-博大	fhjd
+博大	fajd
 联袂	nqck
 独处	skub
 松散	yiuu
@@ -17391,7 +17391,7 @@
 陷害	dils
 火场	zhha
 声声	ssss
-两难	zlga
+两难	rlga
 肝素	uhca
 高尔夫球场	sizh
 垫底	dhmx
@@ -17526,12 +17526,12 @@
 螺丝	kvaa
 女士们	xhtp
 施罗德	oynf
-照搬	wnkz
+照搬	wnkd
 思想家	vils
 挺身而出	knqp
 光光	xixi
 第一手	eiks
-搬走	kzzz
+搬走	kdzz
 衣裳	cyfc
 冒雨	wqny
 铁板	gvyo
@@ -17593,7 +17593,7 @@
 刊载	hvfp
 悲愤	sehf
 中越	gzzp
-博览	fhve
+博览	fave
 桃花运	yrgn
 概述	ylye
 浅浅	jiji
@@ -17653,14 +17653,14 @@
 脱口而出	uoqp
 杂乱	gyie
 开球	iram
-消遣	jxkg
+消遣	jxkr
 本月底	yumx
 交配	fyhj
 复试	vwep
 门卫	pmdi
 繁杂	vugy
 下马	oxvm
-铺垫	ghdh
+铺垫	gadh
 使节	tgrd
 纯化	attm
 塔斯社	hqch
@@ -17719,7 +17719,7 @@
 使用费	tapv
 情操	hcko
 驻外	vfnb
-瘢痕	mzml
+瘢痕	mdml
 管理法	eajh
 斯诺克	qehl
 辽阔	zkpj
@@ -17748,7 +17748,7 @@
 击球	hham
 自嘲	mqof
 苍天	ryij
-竭尽全力	bvts
+竭尽全力	bgts
 控制不住	kwot
 应聘者	mnmz
 轰然	cgne
@@ -17952,7 +17952,7 @@
 加仑	fjum
 绝无	aihe
 大出血	jpmk
-龙舟	alzz
+龙舟	aldz
 士卒	hsfc
 钉子	gepz
 尿液	smjf
@@ -18014,7 +18014,7 @@
 一道道	iqqm
 仿制	towp
 悬疑	hbmv
-博爱	fhxx
+博爱	faxx
 纸币	axmo
 劳动法	sgjh
 李大仁	yjtp
@@ -18095,7 +18095,7 @@
 纪要	ajhx
 奋不顾身	joon
 做工作	tkty
-逆行	dlnt
+逆行	dant
 白云区	rgng
 乐章	xjof
 闭关	pkqj
@@ -18193,7 +18193,7 @@
 谈一	eziy
 败诉	gueh
 大势所趋	jdoz
-博彩	fhxy
+博彩	faxy
 萌生	rwmc
 维他命	ateo
 初冬	cnud
@@ -18230,7 +18230,7 @@
 新纪录	badm
 免受	ioxg
 实是	llwi
-机舱	ypzy
+机舱	ypdy
 解雇	iata
 动动	gsgs
 费时	pvwk
@@ -18280,7 +18280,7 @@
 童子	btpz
 刮目相看	iqik
 科协	zlfs
-追忆	gnhn
+追忆	rnhn
 初步调查	czey
 路网	cupg
 清一色	jiiw
@@ -18353,7 +18353,7 @@
 由来	vyyd
 婚检	xxye
 袁世凯	hpij
-考官	mblg
+考官	mblr
 打探	kekl
 垂体	iuty
 能行	bunt
@@ -18376,7 +18376,7 @@
 共同社	upch
 黑木耳	vyne
 羞愧	czhr
-舟山	zzis
+舟山	dzis
 官员们	lotp
 郭跃	spcm
 挚爱	dkxx
@@ -18453,7 +18453,7 @@
 份子	tipz
 恒温	hijw
 荣威	sypi
-快艇	hkzt
+快艇	hkdt
 投奔	kpjf
 前奏	quci
 雪上加霜	nbfn
@@ -18479,7 +18479,7 @@
 黄疸	uvmw
 天窗	ijlw
 史实	ogll
-舵手	zlks
+舵手	dlks
 股份转让	utce
 占优势	btds
 革命家	iels
@@ -18557,7 +18557,7 @@
 换算	kieq
 谢绝	enai
 吴仪	oite
-近在咫尺	hxvv
+近在咫尺	hxgg
 暗淡	wojz
 成行	pdnt
 还击	onhh
@@ -18868,7 +18868,7 @@
 但凡	twpe
 灯火	zezh
 累及	vaaj
-两翼	zlnv
+两翼	rlnv
 体表	tyco
 亲口	bqok
 纹理	afat
@@ -18877,7 +18877,7 @@
 试问	eppo
 太岁	jein
 脑门	ufpm
-伎俩	tftz
+伎俩	tftr
 水仙	msti
 分析家	iyls
 文胸	fwug
@@ -18899,8 +18899,8 @@
 补办	cbsi
 古籍	hgey
 上海站	bjbb
-一般而言	izqe
-难熬	gajj
+一般而言	idqe
+难熬	galj
 装饰品	qior
 高热	sgdj
 雨夹雪	nznd
@@ -18958,7 +18958,7 @@
 别让	kveb
 梅开二度	yipm
 血红蛋白	mazr
-两性	zlhm
+两性	rlhm
 终点站	abbb
 下回	oxuo
 市属	fosm
@@ -19024,7 +19024,7 @@
 庇护	mmkt
 周线	phai
 荒废	rfml
-拘捕	kgkh
+拘捕	kgka
 初选	cnwl
 舞剧	vnsh
 脱位	udtb
@@ -19047,7 +19047,7 @@
 理发店	almb
 售货员	atog
 老农	mmoo
-棋盘	yqzk
+棋盘	yqdk
 滑行	jynt
 凶器	ghrj
 成绩单	padw
@@ -19105,7 +19105,7 @@
 套用	jcay
 停泊	tsjr
 气魄	uqrr
-吊带	oogl
+吊带	oovl
 潘石屹	jqiv
 胃病	vumi
 醋酸	huhb
@@ -19190,7 +19190,7 @@
 嘴脸	omue
 助学金	hftj
 常数	fofx
-搜捕	krkh
+搜捕	krka
 集镇	aygf
 情急	hcid
 诋毁	exrk
@@ -19277,7 +19277,7 @@
 衡阳	nidw
 西班牙队	haid
 生人	mcur
-尽兴	vdfi
+尽兴	gdfi
 锅底	gomx
 隐忍	dine
 次序	dpmb
@@ -19307,7 +19307,7 @@
 恍然	hxne
 采煤	xyzr
 只差	oick
-磁盘	qqzk
+磁盘	qqdk
 亚洲地区	rjhn
 水星	mswm
 下一场	oiha
@@ -19446,7 +19446,7 @@
 同月	piuy
 保本	toyi
 宝典	lapu
-丝带	aagl
+丝带	aavl
 孔令辉	puxl
 瘙痒	mgmc
 舞弊	vndu
@@ -19481,20 +19481,20 @@
 行将	ntqn
 迥异	pojr
 合唱团	eouk
-呆滞	oyjg
+呆滞	oyjv
 画卷	ivcj
 大水	jdms
 怨气	njuq
 木工	ymkg
-科特迪瓦	zwvc
+科特迪瓦	zwvi
 好得多	xnnn
-航程	zfzo
+航程	dfzo
 张小姐	pjxh
 反扑	ogkb
 超声波	zsja
 二胡	pehu
 凄惨	dfhb
-应有尽有	mxvx
+应有尽有	mxgx
 虹口	kkok
 水利部	mzbo
 不来梅	oyyv
@@ -19630,7 +19630,7 @@
 历史学家	oofl
 用不了	aozk
 企划	uzpv
-王朔	awdl
+王朔	awda
 隐居	dish
 解放区	iong
 视神经	ccah
@@ -19650,7 +19650,7 @@
 擦洗	kljw
 神勇	cwba
 退后	lnvo
-杜甫	yhhf
+杜甫	yhaf
 声势浩大	sdjj
 那会儿	aule
 约束力	aysl
@@ -19733,11 +19733,11 @@
 微调	rpep
 岳阳	hidw
 替身	zzns
-不尽如人意	ovxo
+不尽如人意	ogxo
 馆藏	ilrp
 冷天	duij
 传遍	tptk
-做官	thlg
+做官	thlr
 粥样硬化	pyqt
 未遂	ywqs
 找死	kpnm
@@ -19831,7 +19831,7 @@
 体位	tytb
 吃喝玩乐	ooax
 深意	jloe
-哺乳	ohxp
+哺乳	oaxp
 货品	tmor
 检查人员	yyuo
 人武	urip
@@ -19993,7 +19993,7 @@
 神气	cwuq
 开走	irzz
 秦羽	czny
-收官	hulg
+收官	hulr
 少校	jsyf
 限制性	dwhm
 善解人意	ciuo
@@ -20032,7 +20032,7 @@
 奸商	xhus
 婚介	xxuv
 河床	jkmy
-追星	gnwm
+追星	rnwm
 投靠	kpps
 炼钢	ztgp
 战区	bpng
@@ -20053,7 +20053,7 @@
 恪守	hulk
 违法违纪	pjpa
 求医	menv
-沉船	jlzp
+沉船	jldp
 女真	xnfh
 也门	lypm
 淳朴	jsyb
@@ -20093,7 +20093,7 @@
 人潮	urjf
 履约	snag
 促进会	taug
-第二盘	epzk
+第二盘	epdk
 浑浊	jljk
 前门	qupm
 天极	ijya
@@ -20121,7 +20121,7 @@
 高深	sgjl
 损毁	kork
 星系	wmma
-两口子	zopz
+两口子	ropz
 脾脏	urum
 晨练	woat
 栩栩如生	yyxm
@@ -20131,10 +20131,10 @@
 火苗	zhrv
 神父	cwyf
 明示	wuts
-辅料	chfl
+辅料	cafl
 无时无刻	hwhs
 海参	jvbj
-兄弟俩	odtz
+兄弟俩	odtr
 攻下	kuox
 不自在	omxh
 暖意	wxoe
@@ -20169,7 +20169,7 @@
 爬行	mwnt
 储藏	terp
 放声	ouss
-士官	hslg
+士官	hslr
 母牛	zmwn
 出外	pcnb
 失血	vsmk
@@ -20352,10 +20352,10 @@
 届满	svjr
 施救	olme
 种植业	zyry
-奇迹般	jrzp
+奇迹般	jrdp
 推销员	kgog
 谢意	enoe
-费尽	pvvd
+费尽	pvgd
 不送	obqj
 憨厚	zuow
 岳母	hizm
@@ -20489,7 +20489,7 @@
 海螺	jvkv
 职教	nomp
 股股	upup
-面带微笑	qgre
+面带微笑	qvre
 工作服	ktud
 沼泽	jnjg
 复合型	veiv
@@ -20503,7 +20503,7 @@
 杂粮	gyfe
 惊愕	hshr
 脑缺血	uwmk
-莆田	rhvt
+莆田	ravt
 旱灾	whlz
 神灵	cwdz
 打工者	kkmz
@@ -20526,14 +20526,14 @@
 胰腺炎	uuzz
 大嫂	jdxr
 西雅图	hiuu
-游船	jozp
+游船	jodp
 胜利者	uzmz
 沸水	jpms
 长腿	ucul
 外文	nbfw
 太阳穴	jdlx
 狂人	saur
-带好	glxp
+带好	vlxp
 天仙	ijti
 二流	pejf
 军士	lchs
@@ -20635,7 +20635,7 @@
 纽约市	aafo
 尸检	ssye
 风湿	pfjw
-算盘	eqzk
+算盘	eqdk
 中校	gzyf
 白棋	rbyq
 冷冰冰	dddm
@@ -20653,7 +20653,7 @@
 椰子	ynpz
 无业	hery
 金杯	tjyo
-中盘	gzzk
+中盘	gzdk
 清高	jcsg
 字画	lpiv
 国家法	uljh
@@ -20715,7 +20715,7 @@
 加载	fjfp
 名城	nohp
 相似之处	itnu
-胶带	ufgl
+胶带	ufvl
 闯红灯	paze
 翻腾	mvuc
 推举	kafi
@@ -20766,7 +20766,7 @@
 中医院	gndl
 孤身	pmns
 风机	pfyp
-赵宏博	zlfh
+赵宏博	zlfa
 工分	kgif
 决策层	desg
 异口同声	jops
@@ -20808,7 +20808,7 @@
 教父	mpyf
 盗用	dpay
 如出一辙	xpic
-绷带	augl
+绷带	auvl
 面谈	qyez
 咬住	oftf
 起跑	zjcg
@@ -20860,7 +20860,7 @@
 烧成	zppd
 胸中	uggz
 韩鹏	ffuu
-横盘	yuzk
+横盘	yudk
 随笔	dxer
 倒挂	tikr
 跋涉	cljz
@@ -20945,7 +20945,7 @@
 春城晚报	chwk
 和蔼	zore
 报名者	knmz
-抛盘	kgzk
+抛盘	kgdk
 蒲公英	xirk
 次之	dpnz
 对不住	gotf
@@ -21070,7 +21070,7 @@
 边坡	snha
 古都	hgmd
 落伍	xutn
-搏击	khhh
+搏击	kahh
 低产	txbm
 大学生们	jfmt
 别有用心	kxae
@@ -21080,7 +21080,7 @@
 殷切	odtn
 会费	ugpv
 张老师	pmvi
-脐带	ufgl
+脐带	ufvl
 跳板	cdyo
 施政	oliz
 入眠	meqj
@@ -21097,7 +21097,7 @@
 己任	jjtt
 安居乐业	lsxr
 比高	mbsg
-两极分化	zyit
+两极分化	ryit
 芳心	roex
 吞咽	ijou
 宝贝们	lgtp
@@ -21130,7 +21130,7 @@
 拆分	khif
 提纲	kwap
 黄石	uvqs
-鞋带	irgl
+鞋带	irvl
 公正性	iihm
 去留	hbxn
 大兵	jdhi
@@ -21154,8 +21154,8 @@
 男声	vsss
 私心	zbex
 青草	cqrw
-诺亚方舟	eroz
-卧铺	negh
+诺亚方舟	erod
+卧铺	nega
 东吴	cjoi
 迎宾	xdlh
 高盛	sgpd
@@ -21209,7 +21209,7 @@
 风化	pftm
 饭前	ioqu
 评说	ehed
-追缴	gnar
+追缴	rnar
 泡茶	jgru
 集散	ayuu
 摊开	kgir
@@ -21227,7 +21227,7 @@
 分厂	ifoc
 血尿	mksm
 防暴	dowu
-追肥	gnuw
+追肥	rnuw
 徒劳	nzss
 套牢	jclw
 风风雨雨	ppnn
@@ -21254,7 +21254,7 @@
 牛角	wnia
 瓣膜	bmua
 恬静	hici
-巡洋舰	kjzk
+巡洋舰	kjdk
 花花公子	rrip
 扑倒	kbti
 姻缘	xuaz
@@ -21316,7 +21316,7 @@
 周家	phls
 影坛	wjhg
 贫乏	igmn
-藏獒	rpjj
+藏獒	rplj
 第二部	epbo
 蔚蓝	rsrv
 何谓	tkev
@@ -21336,7 +21336,7 @@
 支点	fgbj
 境况	hodo
 附上	dtbi
-水涨船高	mjzs
+水涨船高	mjds
 喜闻乐见	ppxk
 本草	yirw
 趴下	ciox
@@ -21530,7 +21530,7 @@
 保龄球	tzam
 精益求精	fqmf
 申城	wehp
-系带	magl
+系带	mavl
 饭盒	ioeo
 东汉	cjjg
 大人们	jutp
@@ -21580,7 +21580,7 @@
 让路	ebcu
 清廉	jcmq
 挺直	ktfh
-刻薄	svxh
+刻薄	svxa
 活体	jity
 氯化	udtm
 旅游胜地	ojuh
@@ -21613,7 +21613,7 @@
 亲和	bqzo
 来意	ydoe
 长期性	uqhm
-官职	lgno
+官职	lrno
 自居	mqsh
 击伤	hhtv
 超负荷	zirt
@@ -21650,7 +21650,7 @@
 浮雕	jxph
 排挤	kskf
 香山	zwis
-占地盘	bhzk
+占地盘	bhdk
 哈里	oetl
 人民战争	ujbi
 卸载	vzfp
@@ -21670,7 +21670,7 @@
 赫德	hrnf
 赔礼道歉	gcqq
 微利	rpzv
-带兵	glhi
+带兵	vlhi
 款款	htht
 鸡皮疙瘩	gamm
 我行我素	knkc
@@ -21690,7 +21690,7 @@
 点菜	bjrx
 直直	fhfh
 往昔	nfuw
-航天局	zisd
+航天局	disd
 发电厂	lwoc
 名堂	nofh
 漂白	jhrb
@@ -21767,7 +21767,7 @@
 领口	ubok
 修辞	tuib
 畅销书	wgzd
-亚热带	rdgl
+亚热带	rdvl
 云云	gygy
 操作性	kthm
 胆敢	uwzn
@@ -21791,7 +21791,7 @@
 铁骑	gvvj
 相称	ixzi
 扑朔迷离	kdff
-不迟	obvn
+不迟	obgn
 噩耗	aryr
 全称	tqzi
 罗刹	yngy
@@ -21831,7 +21831,7 @@
 购书	ggzd
 信贷资金	todt
 汗颜	jhbm
-滞销	jggx
+滞销	jvgx
 谨防	erdo
 戏法	gpjh
 死去活来	nhjy
@@ -21867,7 +21867,7 @@
 随从	dxcc
 分赴	ifzb
 像不像	totl
-携带者	kgmz
+携带者	kvmz
 鸿沟	jkjg
 近海	hnjv
 发难	lfga
@@ -21907,7 +21907,7 @@
 腔调	ulep
 服输	udce
 感同身受	ppnx
-椎间盘突出	ypzp
+椎间盘突出	ypdp
 微粒	rpfb
 短语	vien
 郑某	qjri
@@ -21995,7 +21995,7 @@
 刘伟	fvtp
 热气腾腾	duuu
 贸易公司	xwid
-受尽	xgvd
+受尽	xggd
 江城	jkhp
 他国	tlua
 唐山市	mifo
@@ -22060,7 +22060,7 @@
 文艺界	frvu
 五花肉	nrbu
 弧度	pmmr
-赛艇	lazt
+赛艇	ladt
 百万富翁	qqli
 胆识	uweo
 过街	knnr
@@ -22186,7 +22186,7 @@
 夺去	jkhb
 何而来	tqyd
 因故	ujhu
-苗圃	rvuh
+苗圃	rvua
 混合物	jewg
 粉煤灰	fzxz
 快一点	hibj
@@ -22241,7 +22241,7 @@
 白求恩	rmuj
 银灰	glxz
 方阵	ofdc
-意犹未尽	osyv
+意犹未尽	osyg
 艰苦创业	gryr
 枫叶	ypof
 自然村	mnyk
@@ -22265,7 +22265,7 @@
 左心室	xeli
 茂名	rpno
 驶过	vokn
-两脚	zluh
+两脚	rluh
 常德	fonf
 运动服	ggud
 集约	ayag
@@ -22395,7 +22395,7 @@
 梁静茹	jcrx
 自治州	mjkz
 森森	yyyy
-航展	zfsu
+航展	dfsu
 曾几何时	dptw
 郁金香	xtzw
 边缘化	satm
@@ -22426,7 +22426,7 @@
 恶习	redx
 猥亵	svcd
 出谋划策	pepe
-船头	zplt
+船头	dplt
 从业者	crmz
 阿罗约	dyag
 烘托	zukm
@@ -22493,7 +22493,7 @@
 必由之路	evnc
 省力	jqsl
 水泄不通	mjob
-上铺	bigh
+上铺	biga
 高唱	sgow
 必然趋势	enzd
 震颤	nofi
@@ -22509,7 +22509,7 @@
 大仙	jdti
 向阳	wodw
 商检	usye
-午盘	wwzk
+午盘	wwdk
 风口	pfok
 有戏	xugp
 米勒	fmis
@@ -22548,7 +22548,7 @@
 侦查员	tyog
 浑然	jlne
 暴富	wulv
-极尽	yavd
+极尽	yagd
 种苗	zgrv
 藐视	rsck
 食疗	ismz
@@ -22616,7 +22616,7 @@
 羟基	chqh
 牌匾	prnt
 打点	kebj
-上官	bilg
+上官	bilr
 哭诉	rjeh
 山门	ispm
 包办	gbsi
@@ -22646,7 +22646,7 @@
 转染	cpjg
 派系	joma
 牺牲品	wwor
-宇航	lhzf
+宇航	lhdf
 总装	doqh
 克林斯曼	hyqw
 中肯	gzzu
@@ -22703,7 +22703,7 @@
 小龙女	jaxn
 早班	wfah
 相位	ixtb
-宦官	lnlg
+宦官	lnlr
 小图	jxuu
 人丛	urci
 植物人	ywur
@@ -22712,7 +22712,7 @@
 谋略	ervu
 富康	lvmd
 兄弟姐妹们	odxt
-阜阳	gfdw
+阜阳	rfdw
 株式会社	ypuc
 亮色	spiw
 热处理	duat
@@ -22730,7 +22730,7 @@
 对照品	gwor
 行头	ntlt
 撬开	krir
-盘问	zkpo
+盘问	dkpo
 上房	bito
 数亿	fxtn
 天水	ijms
@@ -22778,7 +22778,7 @@
 中国化	gutm
 琼脂	asum
 半壁江山	ysji
-船舱	zpzy
+船舱	dpdy
 微血管	rmel
 食道	isqm
 正巧	izkb
@@ -22876,7 +22876,7 @@
 金马	tjvm
 尿布	smxo
 打趣	kezn
-薄片	xhpp
+薄片	xapp
 秋千	zziq
 讲堂	eafh
 木桶	ymyb
@@ -22886,7 +22886,7 @@
 克里	hltl
 如上	xobi
 反对者	ogmz
-批捕	kmkh
+批捕	kmka
 里氏	tlxt
 美院	cjdl
 旅社	omch
@@ -23005,7 +23005,7 @@
 百货公司	qtid
 玻利维亚	azar
 留置	xnyf
-拼盘	kqzk
+拼盘	kqdk
 大办	jdsi
 地摊	hlkg
 自负盈亏	miap
@@ -23036,10 +23036,10 @@
 瑞典队	apdu
 王仕鹏	atuu
 调频	epzj
-盘踞	zkcs
+盘踞	dkcs
 比特	mbwh
 聚丙烯	nizg
-商船	uszp
+商船	usdp
 先秦	wlcz
 拔除	klde
 不顺眼	okql
@@ -23070,7 +23070,7 @@
 姓李	xmyp
 枪战	yybp
 行囊	ntfo
-声带	ssgl
+声带	ssvl
 杂音	gyoy
 金像奖	ttqn
 愣住了	htzk
@@ -23083,10 +23083,10 @@
 平衡点	hnbj
 着水	cqms
 华莱士	trhs
-一般说来	izey
+一般说来	idey
 邓丽君	gidm
 成熟期	psqu
-一网打尽	ipkv
+一网打尽	ipkg
 格林斯潘	yyqj
 大校	jdyf
 方林	ofyl
@@ -23179,7 +23179,7 @@
 身不由己	novj
 豪杰	ssyj
 例会	tnug
-作孽	tyrg
+作孽	tyrr
 斡旋	ffoz
 回程	uozo
 消耗量	jywi
@@ -23210,7 +23210,7 @@
 场场	haha
 茶树	ruyg
 徐工	nekg
-迟尚斌	vxfi
+迟尚斌	gxfi
 望而却步	fqhz
 名优	notk
 蓬松	ruyi
@@ -23243,7 +23243,7 @@
 反共	ogui
 组织化学	aatf
 第四版	eupo
-货船	tmzp
+货船	tmdp
 萧月生	rumc
 联接	nqkb
 休想	tyie
@@ -23300,12 +23300,12 @@
 审问	lwpo
 呼气	omuq
 大药房	jrto
-带病	glmi
+带病	vlmi
 李世石	ypqs
 司长	diuc
 流汗	jfjh
 冷凝	dudb
-带子	glpz
+带子	vlpz
 农业社	orch
 忧心	hkex
 月刊	uyhv
@@ -23334,7 +23334,7 @@
 围坐	upch
 松手	yiks
 歇息	wemq
-铺路	ghcu
+铺路	gacu
 隔断	dife
 喂食	ovis
 附图	dtuu
@@ -23461,7 +23461,7 @@
 破天荒	qirf
 名目	noqm
 可可西里	kkht
-历尽	osvd
+历尽	osgd
 别开生面	kimq
 粉笔	fier
 何地	tkhl
@@ -23528,7 +23528,7 @@
 羽毛球队	nrad
 整年	yuvj
 资金不足	dtoc
-追悼会	ghug
+追悼会	rhug
 调离	epfh
 孝心	mpex
 双刃剑	gnef
@@ -23539,7 +23539,7 @@
 渐变	jcrg
 不厌其烦	ooqz
 诗文	ehfw
-信微博	trfh
+信微博	trfa
 数千万	fiqd
 撑腰	kfuh
 人声	urss
@@ -23562,7 +23562,7 @@
 近代史	hoog
 货色	tmiw
 发包	lfgb
-两相	zlix
+两相	rlix
 咖啡因	oouj
 孟买	pkzl
 第二产业	epbr
@@ -23637,11 +23637,11 @@
 亟待解决	znid
 山泉	isrm
 浩大	jpjd
-开盘价	iztu
+开盘价	idtu
 恳请	leec
 战战兢兢	bbhh
 军旅	lcom
-原博	orfh
+原博	orfa
 古道	hgqm
 杨晨	yawo
 吃光	ovxi
@@ -23738,7 +23738,7 @@
 妻儿	fdle
 个唱	ueow
 夜生活	fmji
-盘查	zkyw
+盘查	dkyw
 赌徒	gmnz
 缭绕	ajap
 切碎	tnqf
@@ -23750,7 +23750,7 @@
 管理站	eabb
 韩流	ffjf
 文化人	ftur
-床铺	mygh
+床铺	myga
 无上	hebi
 跳绳	cdao
 环游	aojo
@@ -23778,7 +23778,7 @@
 毛竹	rmez
 归侨	vdtm
 喜迎	pqxd
-盘古	zkhg
+盘古	dkhg
 五彩缤纷	nxaa
 军情	lchc
 承保	zmto
@@ -23843,7 +23843,7 @@
 换气	kiuq
 标本兼治	yyqj
 合法化	ejtm
-顺带	kqgl
+顺带	kqvl
 土改	htju
 丈母娘	gzxe
 演播室	jkli
@@ -23909,7 +23909,7 @@
 端详	biec
 挂职	krno
 羊城晚报	chwk
-可逆	kkdl
+可逆	kkda
 作词	tyed
 蛮横	rkyu
 写意	lboe
@@ -23941,7 +23941,7 @@
 联邦调查局	nses
 民风	jtpf
 糊弄	fhar
-起航	zjzf
+起航	zjdf
 刺刀	ypnd
 细嫩	avxy
 增补	hdcb
@@ -23997,7 +23997,7 @@
 初赛	cnla
 嬷嬷	xmxm
 堤防	hwdo
-船体	zpty
+船体	dpty
 利索	zvfl
 倏然	tune
 清宫	jclo
@@ -24017,7 +24017,7 @@
 面面相觑	qqit
 关外	qjnb
 婚恋	xxre
-隔离带	dfgl
+隔离带	dfvl
 粗粮	fhfe
 仕途	they
 哀怨	conj
@@ -24081,12 +24081,12 @@
 信义	teeg
 把玩	kwad
 可乘之机	kzny
-航空兵	zlhi
+航空兵	dlhi
 李勇	ypba
 三资企业	ydur
 异动	jrgs
 亡国	fwua
-武官	iplg
+武官	iplr
 花冠	rtld
 金石	tjqs
 大抵	jdkx
@@ -24130,7 +24130,7 @@
 开课	irew
 汗珠	jhay
 以太网	sjpg
-逆市	dlfo
+逆市	dafo
 亲朋	bquu
 为害	dsls
 平抑	hdkx
@@ -24142,7 +24142,7 @@
 吴国	oiua
 高架桥	sfym
 自给	mqae
-绞尽脑汁	avuj
+绞尽脑汁	aguj
 古井	hgaj
 谨记	erej
 谐音	emoy
@@ -24176,7 +24176,7 @@
 千山	iqis
 交感神经	fpca
 嘻嘻哈哈	oooo
-舰船	zkzp
+舰船	dkdp
 暗箱	woei
 目测	qmjg
 无论何时	hetw
@@ -24219,7 +24219,7 @@
 重于	ithy
 本分	yiif
 密闭	lepk
-官军	lglc
+官军	lrlc
 右派分子	xjip
 屠夫	smzf
 石器	qsrj
@@ -24384,7 +24384,7 @@
 女仆	xntb
 助教	hsmp
 穆沙拉夫	zjkz
-尽心	vdex
+尽心	gdex
 内务	bnus
 本来面目	yyqq
 移开	znir
@@ -24408,7 +24408,7 @@
 繁复	vuvw
 垂危	iuio
 中尉	gzst
-帆船赛	ozla
+帆船赛	odla
 汉江	jgjk
 挥洒	kljh
 家系	lsma
@@ -24448,7 +24448,7 @@
 耳聋	nean
 起落	zjxu
 城头	hplt
-遨游	jnjo
+遨游	lnjo
 杀价	gytu
 肠子	uapz
 花生油	rmjv
@@ -24476,7 +24476,7 @@
 拉杆	kbyh
 中队长	gduc
 斑马线	avai
-首盘	qmzk
+首盘	qmdk
 军心	lcex
 海外版	jnpo
 干流	hgjf
@@ -24537,7 +24537,7 @@
 烧焦	zpaj
 猫腻	srup
 挨骂	kbrv
-尽职	vdno
+尽职	gdno
 拜师	kivi
 红斑	akaf
 李清	ypjc
@@ -24696,7 +24696,7 @@
 虚名	trno
 鹌鹑	jesp
 特等	wheh
-判官	yvlg
+判官	yvlr
 出主意	pfoe
 果皮	wyap
 冰棍	dmyw
@@ -24736,7 +24736,7 @@
 病患	mioo
 插画	kiiv
 三明	yswu
-外敷	nbho
+外敷	nbao
 尖叫声	joss
 得病	nwmi
 封建主义	rdfe
@@ -24749,7 +24749,7 @@
 故宫博物院	hlfd
 圣保罗	gtyn
 脑膜	ufua
-船闸	zppv
+船闸	dppv
 户部	thbo
 欢聚一堂	gnif
 受够	xggo
@@ -24785,7 +24785,7 @@
 保尔森	tiyy
 五脏	nwum
 内服	bnud
-尽责	vdcg
+尽责	gdcg
 对虾	gkko
 菲戈	rspg
 胡某	huri
@@ -24822,7 +24822,7 @@
 碰碰	qqqq
 拉倒	kbti
 品系	orma
-返航	ogzf
+返航	ogdf
 对数	gkfx
 心血来潮	emyj
 染红	jgak
@@ -24934,7 +24934,7 @@
 关进	qjan
 灌肠	jrua
 交加	fyfj
-一举两得	ifzn
+一举两得	ifrn
 副理事长	vaku
 有价证券	xtec
 厂子	ocpz
@@ -25045,7 +25045,7 @@
 兴旺发达	fwlj
 监听	veoh
 仰视	txck
-椎间盘	ypzk
+椎间盘	ypdk
 棕榈	ylyp
 槟榔	ylye
 适逢	inus
@@ -25079,7 +25079,7 @@
 心绪	exam
 禁运	ytgn
 饕餮	otnu
-两极	zlya
+两极	rlya
 全数	tqfx
 亢进	fpan
 大道理	jqat
@@ -25092,7 +25092,7 @@
 先发制人	wlwu
 计生	efmc
 工装	kgqh
-国航	uazf
+国航	uadf
 花鸟	rton
 硫化	qftm
 娃子	xrpz
@@ -25101,7 +25101,7 @@
 静观	cigk
 阿妹	dkxy
 常住人口	ftuo
-托盘	kmzk
+托盘	kmdk
 小费	jxpv
 紧接	vgkb
 大婶	jdxl
@@ -25141,7 +25141,7 @@
 救生	memc
 国家股	ulup
 扫帚	kddl
-无穷无尽	hlhv
+无穷无尽	hlhg
 短命	vieo
 苏州河	rkjk
 二月份	puti
@@ -25190,8 +25190,8 @@
 名正言顺	niek
 狗仔队	stdu
 三叶草	yorw
-舱门	zypm
-大官	jdlg
+舱门	dypm
+大官	jdlr
 联办	nqsi
 全神贯注	tczj
 学艺	fprn
@@ -25202,7 +25202,7 @@
 窥视	lzck
 堤坝	hwhg
 第二日	epwr
-百官	qwlg
+百官	qwlr
 按说	kled
 青联	cqnq
 白鹤	rbla
@@ -25224,7 +25224,7 @@
 停车费	tcpv
 扑通	kbba
 传神	tpcw
-辅佐	chtx
+辅佐	catx
 粗放型	foiv
 女作家	xtls
 喷涂	ofje
@@ -25272,7 +25272,7 @@
 天文学	iffp
 结缔组织	aaaa
 农牧业	owry
-乘船	zdzp
+乘船	zddp
 青鸟	cqon
 李群	ypdm
 预习	bedx
@@ -25373,7 +25373,7 @@
 兖州	fikz
 恭祝	uico
 唐家璇	mlao
-履带	sngl
+履带	snvl
 宣传员	ltog
 挪动	kags
 邀请函	rezm
@@ -25424,7 +25424,7 @@
 返工	ogkg
 暗想	woie
 毛茸茸	rrrn
-逆差	dlck
+逆差	dack
 供过于求	tkhm
 北国	dmua
 自曝	mqww
@@ -25483,7 +25483,7 @@
 销声匿迹	gsnr
 卡西欧	bhng
 高要求	shme
-尽心尽力	vevs
+尽心尽力	gegs
 三份	ysti
 脸孔	uepe
 个人赛	uula
@@ -25526,7 +25526,7 @@
 修理厂	taoc
 咚咚	ouou
 咋舌	oyis
-盘跌	zkcv
+盘跌	dkcv
 白嫩	rbxy
 行政区	ning
 荣膺	symt
@@ -25568,7 +25568,7 @@
 香港市场	zjfh
 依依	tctc
 崔健	iatd
-般配	zphj
+般配	dphj
 情义	hceg
 光子	xipz
 李民	ypjt
@@ -25647,7 +25647,7 @@
 小心谨慎	jeeh
 交售	fyao
 电平	wehd
-浅薄	jixh
+浅薄	jixa
 徒刑	nzir
 蒙特利尔	swzi
 东至	cjib
@@ -25670,10 +25670,10 @@
 吊唁	oooe
 水兵	mshi
 微结构	rayg
-第一盘	eizk
+第一盘	eidk
 浸透	jdza
 青天	cqij
-官商	lgus
+官商	lrus
 李金华	yttm
 吸水	oams
 相亲相爱	ibix
@@ -25686,8 +25686,8 @@
 行文	ntfw
 一边倒	isti
 乔木	mjym
-录音带	dogl
-远航	dnzf
+录音带	dovl
+远航	dndf
 停滞不前	tjoq
 流浪汉	jjjg
 松子	yipz
@@ -25721,7 +25721,7 @@
 战况	bpdo
 熟料	sgfl
 拘谨	kger
-第一辆	eicz
+第一辆	eicr
 用水量	amwi
 发笑	lfem
 考古学家	mhfl
@@ -25781,7 +25781,7 @@
 疯狗	mpsg
 恩情	ujhc
 偏方	ttof
-累赘	vajg
+累赘	valg
 药理学	rafp
 超越的	zzrg
 盗抢	dpky
@@ -25833,7 +25833,7 @@
 高台	sgbo
 华南地区	tshn
 心弦	expa
-捕杀	khgy
+捕杀	kagy
 横流	yujf
 横空出世	ylpp
 林家	ylls
@@ -25927,7 +25927,7 @@
 油水	jvms
 种草	zgrw
 古诗	hgeh
-姐妹俩	xxtz
+姐妹俩	xxtr
 处女作	uxty
 支离破碎	ffqq
 谢浪	enje
@@ -25959,7 +25959,7 @@
 引申	pewe
 铤而走险	gqzd
 大家伙	jltz
-两手抓	zkkm
+两手抓	rkkm
 困苦	uyrh
 斩钉截铁	cgfg
 先行者	wnmz
@@ -25987,7 +25987,7 @@
 愤恨	hfhl
 后辈	vosc
 灾难性	lghm
-广博	mgfh
+广博	mgfa
 炮台	zgbo
 雪莲	ndrc
 手语	ksen
@@ -26051,7 +26051,7 @@
 玩味	adoy
 装运	qhgn
 骨膜	ygua
-两栖	zlyh
+两栖	rlyh
 肃穆	djzr
 铜钱	gpgi
 林乐丰	yxsf
@@ -26090,7 +26090,7 @@
 树丛	ygci
 企业化	urtm
 余生	eymc
-皇甫	rahf
+皇甫	raaf
 不忙	obhf
 流沙	jfjj
 面壁	qysb
@@ -26101,7 +26101,7 @@
 受聘	xgnv
 长治久安	ujil
 再来一次	ayid
-逆流	dljf
+逆流	dajf
 干裂	hgnv
 生育期	mfqu
 花销	rtgx
@@ -26182,7 +26182,7 @@
 招架	knfy
 顾家	ojls
 铁丝网	gapg
-基辅	qhch
+基辅	qhca
 仁兄	tpol
 唱戏	owgp
 上文	bifw
@@ -26217,7 +26217,7 @@
 办妥	sixx
 购汇	ggjn
 阻滞剂	djfv
-两败俱伤	zgtt
+两败俱伤	rgtt
 低洼	txjr
 盖过	ckkn
 制造者	wpmz
@@ -26225,7 +26225,7 @@
 合作化	ettm
 摸爬滚打	kmjk
 辈出	scpc
-两重	zlit
+两重	rlit
 围观者	ugmz
 办结	siap
 忧患意识	hooe
@@ -26235,10 +26235,10 @@
 穆罕默德	zlvn
 青石	cqqs
 阿托品	dkor
-博学	fhfp
+博学	fafp
 挚友	dkxg
 哥儿	kkle
-舰长	zkuc
+舰长	dkuc
 坡跟	hacl
 图解	uuia
 总政治部	dijb
@@ -26248,7 +26248,7 @@
 特立独行	wbsn
 死鱼	nmly
 机具	yphi
-老师傅	mvth
+老师傅	mvta
 外科医生	nznm
 赶场	zhha
 富农	lvoo
@@ -26295,7 +26295,7 @@
 养家	cels
 牛津	wnjd
 中阿	gzdk
-渊博	jvfh
+渊博	jvfa
 考拉	mbkb
 白云山	rgis
 交椅	fyyj
@@ -26319,7 +26319,7 @@
 门框	pmyn
 旧货	ewtm
 气急败坏	uigh
-小两口	jzok
+小两口	jrok
 云端	gybi
 倭寇	tzld
 疲乏	mamn
@@ -26512,7 +26512,7 @@
 惹不起	rozj
 呵斥	okhe
 离合器	ferj
-东航	cjzf
+东航	cjdf
 羁绊	yiay
 派生	jomc
 小资产阶级	jdba
@@ -26540,7 +26540,7 @@
 特种兵	wzhi
 赵女士	zxhs
 完完全全	lltt
-首航	qmzf
+首航	qmdf
 储蓄所	tros
 内乱	bnie
 香江	zwjk
@@ -26594,7 +26594,7 @@
 假使	tstg
 变本加厉	ryfo
 刘老师	fmvi
-追随者	gdmz
+追随者	rdmz
 溢于言表	jhec
 核素	ysca
 不备	obuv
@@ -26604,15 +26604,15 @@
 强战	pabp
 教条	mpuy
 鲜亮	lcsp
-领航	ubzf
+领航	ubdf
 论战	eubp
 甲酸	vjhb
 见地	kjhl
-哺育	ohfu
+哺育	oafu
 普陀区	qdng
 粉饼	fiiq
 留影	xnwj
-航空业	zlry
+航空业	dlry
 受罚	xgye
 夜叉	ftge
 腹壁	uvsb
@@ -26648,7 +26648,7 @@
 老吴	mmoi
 轴心	cvex
 筒子们	eptp
-市两	fozl
+市两	forl
 统一性	aihm
 嗅到	omih
 西班牙语	haie
@@ -26704,7 +26704,7 @@
 挖潜	kljz
 活捉	jikc
 软软的	ccrg
-傲然	tjne
+傲然	tlne
 萧强	rdpa
 果农	wyoo
 穴道	lxqm
@@ -26803,7 +26803,7 @@
 哀叹	coog
 满怀信心	jhte
 理论界	aevu
-杨浦	yajh
+杨浦	yaja
 倒过来	tkyd
 海产品	jbor
 娇媚	xmxs
@@ -27025,7 +27025,7 @@
 生水	mcms
 露骨	ncyg
 火枪	zhyy
-驾驶舱	fvzy
+驾驶舱	fvdy
 版权所有	pyox
 成色	pdiw
 授精	kxfc
@@ -27034,7 +27034,7 @@
 气胸	uqug
 受惊	xghs
 高楼大厦	syjo
-护卫舰	kdzk
+护卫舰	kddk
 值此	tfzm
 老年性	mvhm
 播音员	koog
@@ -27070,13 +27070,13 @@
 客人们	lutp
 不闻不问	opop
 诺维茨基	earq
-灰烬	xzzv
+灰烬	xzzg
 总务	dous
 流光	jfxi
 私底下	zmox
 吴越	oizp
 施工队	okdu
-带电	glwe
+带电	vlwe
 神明	cwwu
 只可	oikk
 王超	awzn
@@ -27154,7 +27154,7 @@
 克扣	hlko
 本源	yijo
 罐车	wrcc
-搏杀	khgy
+搏杀	kagy
 浅蓝	jirv
 西江	hxjk
 寄语	ljen
@@ -27172,7 +27172,7 @@
 飞机场	nyha
 警备	ruuv
 邪气	ieuq
-渡船	jmzp
+渡船	jmdp
 过少	knjs
 衍生物	nmwg
 大吃大喝	jojo
@@ -27191,8 +27191,8 @@
 泄气	jpuq
 体校	tyyf
 到任	ihtt
-溥仪	jhte
-稀薄	zgxh
+溥仪	jate
+稀薄	zgxa
 不饱和脂肪酸	oizh
 转成	cppd
 旱地	whhl
@@ -27228,7 +27228,7 @@
 善事	cqko
 深为	jlds
 公文包	ifgb
-车船	cczp
+车船	ccdp
 金银花	tgrt
 愤然	hfne
 和龙	zoal
@@ -27258,7 +27258,7 @@
 王之	awnz
 倾泻	tmjl
 朗朗	elel
-战船	bpzp
+战船	bpdp
 避讳	sbep
 贪污罪	ujys
 拘役	kgnp
@@ -27268,7 +27268,7 @@
 百感交集	qpfa
 滇池	jfjl
 艾冬梅	ruyv
-哈瓦那	ocad
+哈瓦那	oiad
 查尔顿	yith
 中国大使馆	guji
 写写	lblb
@@ -27323,7 +27323,7 @@
 高某	sgri
 楚留香	yxzw
 括号	kiob
-万般	qdzp
+万般	qddp
 牟取	bwng
 领先者	uwmz
 百分率	qifa
@@ -27389,7 +27389,7 @@
 增益	hdqi
 晕过去	wkhb
 专业队	prdu
-白昼	rbvw
+白昼	rbgw
 牟取暴利	bnwz
 齐聚	fvng
 包头市	glfo
@@ -27408,7 +27408,7 @@
 助人	hsur
 风口浪尖	pojj
 冷轧	duce
-一般来讲	izye
+一般来讲	idye
 眼药水	qrms
 陈良宇	delh
 目的性	qrhm
@@ -27445,7 +27445,7 @@
 俞斌	eufi
 合身	eons
 找事	kpko
-遣送	kgqj
+遣送	krqj
 谦和	eqzo
 保险箱	tdei
 当量	xdwi
@@ -27464,7 +27464,7 @@
 北非	dmsf
 保质	toof
 缉毒	aocz
-文官	fwlg
+文官	fwlr
 私藏	zbrp
 午间	wwpw
 后处理	vuat
@@ -27491,7 +27491,7 @@
 绝代	aiod
 呼朋唤友	ouox
 马小乐	vjxj
-上盘	bizk
+上盘	bidk
 蛤蟆	keka
 凯歌	ijkk
 画笔	iver
@@ -27541,7 +27541,7 @@
 总领事馆	duki
 七段	tqcp
 高品位	sotb
-航天器	zirj
+航天器	dirj
 续聘	afnv
 原样	oryc
 开春	ircw
@@ -27590,7 +27590,7 @@
 工农红军	koal
 戴尔公司	fiid
 砍断	qpfe
-流通盘	jbzk
+流通盘	jbdk
 天文馆	ifil
 鬼魂	rlgr
 漫画家	jils
@@ -27599,7 +27599,7 @@
 浴池	jejl
 彷佛	notp
 素不相识	coie
-启航	tozf
+启航	todf
 李岚清	yijc
 婉拒	xlkn
 杨振宁	ykle
@@ -27687,7 +27687,7 @@
 迁出	inpc
 牛粪	wnfu
 批斗	kmld
-瓦伦西亚	cthr
+瓦伦西亚	ithr
 间歇性	pwhm
 凯文	ijfw
 维吾尔	anij
@@ -27768,7 +27768,7 @@
 孟加拉	pfkb
 荣立	sybl
 野花	tbrt
-划船	pvzp
+划船	pvdp
 宋军	lylc
 发软	lfcp
 远郊	dnfy
@@ -27843,7 +27843,7 @@
 浴场	jeha
 才学	kcfp
 肖恩	xuuj
-尽数	vdfx
+尽数	gdfx
 机关报	yqkd
 甜菜	irrx
 卑劣	rbjs
@@ -27852,7 +27852,7 @@
 太尉	jest
 沉默不语	jvoe
 陈氏	dcxt
-铺面	ghqy
+铺面	gaqy
 简章	epof
 衢州	nqkz
 晶粒	wwfb
@@ -27888,7 +27888,7 @@
 渔夫	jlzf
 阵发性	dlhm
 败血症	gmmi
-划艇	pvzt
+划艇	pvdt
 眼儿	qlle
 欢天喜地	giph
 夫子庙	zpmv
@@ -27970,7 +27970,7 @@
 议席	eemr
 星云	wmgy
 预存	bexp
-头等舱	lezy
+头等舱	ledy
 失色	vsiw
 无言以对	hesg
 见方	kjof
@@ -28057,7 +28057,7 @@
 汤加	jafj
 采编	xyat
 天花	ijrt
-如此这般	xzfz
+如此这般	xzfd
 申花俱乐部	wrtb
 傻乎乎	tmmd
 数据采集	fkxa
@@ -28171,7 +28171,7 @@
 猎杀	sugy
 可别	kkkv
 闸北	pvdm
-护盘	ktzk
+护盘	ktdk
 巡逻队	kydu
 复诊	vweu
 胆囊炎	ufzz
@@ -28441,7 +28441,7 @@
 银元	gldy
 美中不足	cgoc
 遍地开花	thir
-佩带	tpgl
+佩带	tpvl
 一言九鼎	iegq
 晾晒	wswh
 天书	ijzd
@@ -28456,11 +28456,11 @@
 全麻	tqmy
 英军	rklc
 潜行	jznt
-傲气	tjuq
+傲气	tluq
 岌岌可危	iiki
 水溶液	mjjf
 扮相	kiix
-司令官	dulg
+司令官	dulr
 兔年	ltvj
 爬过	mwkn
 花炮	rtzg
@@ -28472,7 +28472,7 @@
 术士	yehs
 品学兼优	ofqt
 清廷	jctn
-浦江	jhjk
+浦江	jajk
 王千军	ailc
 秧田	zkvt
 优胜	tkum
@@ -28487,13 +28487,13 @@
 上饶	biip
 第一附属医院	eidd
 过桥	knym
-两利	zlzv
+两利	rlzv
 特设	whep
 淋湿	jyjw
 荧幕	szao
 顾全大局	otjs
 超球	znam
-自尽	mqvd
+自尽	mqgd
 挺立	ktbl
 好不容易才	xolk
 天竺	ijep
@@ -28525,7 +28525,7 @@
 第二家	epls
 人工智能	ukvb
 斯特恩	qwuj
-官家	lgls
+官家	lrls
 晚礼服	wcud
 如日中天	xwgi
 长啸	ucod
@@ -28662,7 +28662,7 @@
 全封闭	trpk
 小日子	jwpz
 售票处	ahub
-带鱼	glly
+带鱼	vlly
 大刀阔斧	jnpy
 麻黄	myuv
 饭团	iouk
@@ -28706,7 +28706,7 @@
 小朱	jxyz
 交互式	fipk
 临江	vejk
-两回事	zuko
+两回事	ruko
 天下无敌	iohi
 端午	biww
 离合	fheo
@@ -28738,7 +28738,7 @@
 领情	ubhc
 刚毅	pgbs
 短跑	vicg
-同归于尽	pvhv
+同归于尽	pvhg
 外翻	nbmv
 地表水	hcms
 保释	tomf
@@ -28748,7 +28748,7 @@
 纪念章	auof
 太和	jezo
 铁路线	gcai
-追风	gnpf
+追风	rnpf
 萎靡	rzmy
 解惑	iapo
 不外	obnb
@@ -28797,7 +28797,7 @@
 专题片	pwpp
 商标法	uyjh
 玉溪	aejx
-铺子	ghpz
+铺子	gapz
 名士	nohs
 早产儿	wble
 波澜壮阔	jjqp
@@ -28814,7 +28814,7 @@
 一隅	iydv
 内环境	baho
 翩翩起舞	ttzv
-夹带	zdgl
+夹带	zdvl
 现世	akps
 一拍即合	ikle
 章法	ofjh
@@ -28847,7 +28847,7 @@
 圣殿	ghsu
 毛爷爷	ryyd
 球市	amfo
-竭尽	bwvd
+竭尽	bwgd
 附院	dtdl
 油茶	jvru
 曾志伟	dhtp
@@ -28916,14 +28916,14 @@
 张健	putd
 一无是处	ihwu
 设防	epdo
-反哺	ogoh
+反哺	ogoa
 器重	rjit
 私分	zbif
 颧骨	rayg
 没命	jpeo
 非洲人	sjur
 热乎乎	dmmd
-蚌埠	kshg
+蚌埠	kshr
 气势汹汹	udjj
 辩证唯物主义	beoe
 尼赫鲁	shlw
@@ -29012,7 +29012,7 @@
 团团转	uucp
 大肚子	jupz
 苦味	rhoy
-时带	wkgl
+时带	wkvl
 江西日报	jhwk
 怒骂	xgrv
 修宪	tulw
@@ -29202,7 +29202,7 @@
 搞不清	kojc
 执法者	djmz
 糙米	fpfm
-摩托艇	mkzt
+摩托艇	mkdt
 体察	tylz
 数不胜数	fouf
 生息	mcmq
@@ -29239,7 +29239,7 @@
 当空	xdlk
 玉佩	aetp
 写下来	loyd
-追悼	gnhb
+追悼	rnhb
 上电视	bwck
 大赦	jdhr
 铁锹	gvgz
@@ -29278,7 +29278,7 @@
 地地道道	hhqq
 闯王	pvaw
 堂弟	fhdp
-船厂	zpoc
+船厂	dpoc
 公民权利	ijyz
 习武	dxip
 死战	nmbp
@@ -29301,7 +29301,7 @@
 塔吉克斯坦	hphh
 北戴河	dfjk
 秧歌	zkkk
-战列舰	bnzk
+战列舰	bndk
 恢宏	hxlx
 临港	veju
 骨气	yguq
@@ -29316,7 +29316,7 @@
 东宫	cjlo
 许多地区	enhn
 金德队	tndu
-小舟	jxzz
+小舟	jxdz
 崇文区	ifng
 大有可为	jxkd
 女尸	xnss
@@ -29436,7 +29436,7 @@
 软绵绵	caar
 前车之鉴	qcnv
 提花	kwrt
-标尺	ytvc
+标尺	ytgc
 根子	ylpz
 责难	cgga
 释迦牟尼	mfbs
@@ -29483,7 +29483,7 @@
 蔡振华	rktm
 偷来	teyd
 张朝阳	pfdw
-青浦	cqjh
+青浦	cqja
 抛锚	kggr
 罪状	ysqj
 收银员	hgog
@@ -29504,7 +29504,7 @@
 同甘共苦	prur
 结点	apbj
 大洋洲	jjjk
-琉璃瓦	aacw
+琉璃瓦	aaiw
 悬而未决	hqyd
 系列化	mntm
 从速	ccyo
@@ -29589,14 +29589,14 @@
 减肥药	dura
 绰绰有余	aaxe
 无法无天	hjhi
-三三两两	yyzz
+三三两两	yyrr
 损友	koxg
 战壕	bphs
 郑斌	qjfi
 台山	bois
 厮守	oqlk
-阳朔	dwdl
-博导	fhjk
+阳朔	dwda
+博导	fajk
 浙江卫视	jjdc
 言下之意	eono
 炮灰	zgxz
@@ -29622,12 +29622,12 @@
 南山区	sing
 缉私	aozb
 口哨	okox
-不尽人意	ovuo
+不尽人意	oguo
 文工团	fkuk
 得意洋洋	nojj
 下中农	ogoo
 现身说法	anej
-两江	zljk
+两江	rljk
 一败涂地	igjh
 毁损	rkko
 童谣	btex
@@ -29674,7 +29674,7 @@
 建德	dhnf
 不可一世	okip
 不务正业	ouir
-背带	dmgl
+背带	dmvl
 一天一夜	iiif
 痛哭流涕	mrjj
 附加赛	dfla
@@ -29692,7 +29692,7 @@
 进进出出	aapp
 走进去	zahb
 卷心菜	cerx
-飞艇	ndzt
+飞艇	nddt
 惊厥	hsod
 数以千计	fsie
 草本	rwyi
@@ -29712,7 +29712,7 @@
 黑猩猩	vssw
 存留	xpxn
 兴奋性	fjhm
-搏动	khgs
+搏动	kags
 眼福	qlcv
 胡润	hujp
 转接	cpkb
@@ -29744,7 +29744,7 @@
 国家大事	uljk
 集思广益	avmq
 软着陆	ccdh
-感激不尽	pjov
+感激不尽	pjog
 语无伦次	ehtd
 螺杆	kvyh
 建功立业	dkbr
@@ -29790,7 +29790,7 @@
 水头	mslt
 教书育人	mzfu
 取景器	nwrj
-热带雨林	dgny
+热带雨林	dvny
 港澳地区	jjhn
 陈枫	dcyp
 忌惮	jehd
@@ -29826,7 +29826,7 @@
 唐家	mdls
 风月	pfuy
 贝类	gbfj
-尽收眼底	vhqm
+尽收眼底	ghqm
 难为情	gdhc
 胶质瘤	uomx
 华西都市报	thmk
@@ -29849,7 +29849,7 @@
 集美区	acng
 老样子	mypz
 抽动	kvgs
-航向	zfwo
+航向	dfwo
 中旅	gzom
 免交	iofy
 电话亭	wese
@@ -29883,7 +29883,7 @@
 南都	sqmd
 小憩	jxim
 肖邦	xusd
-辅食	chis
+辅食	cais
 女孩子们	xppt
 图示	uuts
 郑渊洁	qjjp
@@ -29912,7 +29912,7 @@
 新馆	bhil
 凋谢	dpen
 磁共振	quko
-进退两难	alzg
+进退两难	alrg
 中国香港队	guzd
 益州	qikz
 嘀嗒	ouor
@@ -29929,7 +29929,7 @@
 怒喝	xgow
 明证	wuei
 染指	jgkm
-盘龙	zkal
+盘龙	dkal
 不法行为	ojnd
 鼓手	pqks
 反派	ogjo
@@ -29972,7 +29972,7 @@
 终了	auzk
 水电费	mwpv
 蝗虫	krkc
-白带	rbgl
+白带	rbvl
 专业银行	prgn
 硬汉	qgjg
 成亲	pdbq
@@ -30096,7 +30096,7 @@
 淮海路	jjcu
 铁打	gvke
 萍乡	xham
-肩带	tugl
+肩带	tuvl
 长丰	ucsf
 乘务	zdus
 要地	hxhl
@@ -30352,7 +30352,7 @@
 忙不过来	hoky
 贴合	gbeo
 猝不及防	soad
-宇宙飞船	llnz
+宇宙飞船	llnd
 左传	xktp
 子民	pzjt
 公开化	iitm
@@ -30433,7 +30433,7 @@
 侯颖	tsmz
 梯形	ydir
 文秘	fwze
-傲视	tjck
+傲视	tlck
 面议	qyee
 冥冥	lwlw
 放晴	ouwc
@@ -30555,13 +30555,13 @@
 前缘	quaz
 波兰队	jqdu
 农忙	oohf
-蚩尤	like
+蚩尤	aike
 雷厉风行	nopn
 挛缩	rkal
 第六感	efpi
 徐毅	nebs
 海瑞	jvai
-果盘	wyzk
+果盘	wydk
 戴帽子	fopz
 民营化	jstm
 华普	tmqr
@@ -30620,7 +30620,7 @@
 木棒	ymyc
 学部	fpbo
 迷彩	fnxy
-升官	mrlg
+升官	mrlr
 男男女女	vvxx
 女警	xnru
 保养品	tcor
@@ -30637,7 +30637,7 @@
 甲子	vjpz
 抬升	kbmr
 相合	ixeo
-博取	fhng
+博取	fang
 减除	dpde
 轮毂	cuhc
 老成	mmpd
@@ -30648,7 +30648,7 @@
 五体投地	ntkh
 扰动	kkgs
 黄圣依	ugtc
-咫尺	vovc
+咫尺	gogc
 关系网	qmpg
 申辩	webe
 柏芝	yrrn
@@ -30770,7 +30770,7 @@
 老翁	mmib
 女性化	xhtm
 夙愿	pnor
-铺装	ghqh
+铺装	gaqh
 休憩	tyim
 寒潮	lajf
 王琳	away
@@ -30790,7 +30790,7 @@
 大城	jdhp
 初装费	cqpv
 陈云林	dgyl
-傅彪	thtp
+傅彪	tatp
 纯美	atcj
 法权	jhyg
 写稿	lbzs
@@ -30914,7 +30914,7 @@
 转产	cpbm
 炊事	zpko
 观感	gkpi
-林带	ylgl
+林带	ylvl
 李靖	ypbc
 发源	lfjo
 贱卖	gifz
@@ -30978,11 +30978,11 @@
 蒙迪欧	svng
 心连心	ecex
 和平共处五项原则	zhug
-尺码	vcqv
+尺码	gcqv
 乘客们	zltp
 可燃	kkze
 林风	ylpf
-下铺	oxgh
+下铺	oxga
 亚欧	ryng
 江丙坤	jihw
 亚美尼亚	rcsr
@@ -31039,13 +31039,13 @@
 有机磷	xyqf
 崂山	isis
 谭望嵩	efis
-穷尽	lsvd
+穷尽	lsgd
 俄联邦	tnsd
 常事	foko
 不依	obtc
 余姚	eyxd
 心花怒放	erxo
-黄浦	uvjh
+黄浦	uvja
 求助于	mhhy
 埃弗顿	hpth
 不可磨灭	okmi
@@ -31301,7 +31301,7 @@
 愚人节	vurd
 多米尼加	nfsf
 蜡像	kutl
-追求者	gmmz
+追求者	rmmz
 陈小春	djcw
 好景不长	xwou
 胡戈	hupg
@@ -31341,7 +31341,7 @@
 划痕	pvml
 保护伞	tkud
 麝香	tmzw
-两全	zltq
+两全	rltq
 声色	ssiw
 意蕴	oera
 失神	vscw
@@ -31374,11 +31374,11 @@
 所向披靡	owkm
 法老	jhmm
 小徐	jxne
-尽职尽责	vnvc
+尽职尽责	gngc
 沉香	jlzw
 梅艳芳	ysro
 公理	ibat
-匍匐	ghgv
+匍匐	gagv
 司机们	dytp
 青紫	cqzm
 天蓝	ijrv
@@ -31430,7 +31430,7 @@
 满世界	jpvu
 不省人事	ojuk
 苗期	rvqu
-造孽	pnrg
+造孽	pnrr
 工整	kgyu
 不胜枚举	ouyf
 鉴证	veei
@@ -31478,7 +31478,7 @@
 半途而废	yeqm
 即行	ldnt
 孔泉	perm
-摊铺	kggh
+摊铺	kgga
 赴约	zbag
 信步	tezj
 端用户	bath
@@ -31489,7 +31489,7 @@
 熊掌	bmfk
 甘多	rinn
 囡囡	uxux
-尺子	vcpz
+尺子	gcpz
 派头	jolt
 胡言乱语	heie
 定神	licw
@@ -31536,13 +31536,13 @@
 经营部	asbo
 不吃不喝	oooo
 短篇小说	veje
-带坏	glho
+带坏	vlho
 儿女们	lxtp
 哈尼亚	osry
 汗马功劳	jvks
 小曲	jxwv
 蝈蝈	kuku
-薄板	xhyo
+薄板	xayo
 张广宁	pmle
 丰功伟绩	skta
 发行公司	lnid
@@ -31617,7 +31617,7 @@
 场费	hapv
 中低收入者	gthm
 攻心	kuex
-客舱	luzy
+客舱	ludy
 稍纵即逝	zalk
 鳞片	lfpp
 起程	zjzo
@@ -31672,7 +31672,7 @@
 刘军	fvlc
 闻名于世	pnhp
 曲圣卿	wgxl
-太傅	jeth
+太傅	jeta
 郑允浩	qbjp
 哈里斯	otqh
 潘晓婷	jwxs
@@ -31758,7 +31758,7 @@
 决选	dkwl
 四等奖	ueqn
 南巡	sqkn
-座舱	mczy
+座舱	mcdy
 副词	vved
 仅见	tgkj
 撕掉	kqkb
@@ -31768,7 +31768,7 @@
 小妮子	jxpz
 批评家	kels
 农业合作化	oret
-热敷	djho
+热敷	djao
 铁饭碗	giql
 海选	jvwl
 新闻公报	bpik
@@ -31805,7 +31805,7 @@
 称奇	zijk
 痛心疾首	memq
 交办	fysi
-王师傅	avth
+王师傅	avta
 同党	pifl
 酸味	hboy
 阴郁	duxu
@@ -31816,7 +31816,7 @@
 一言一行	iein
 租房子	ztpz
 墨子	vhpz
-尽善尽美	vcvc
+尽善尽美	gcgc
 港商	juus
 生活资料	mjdf
 爵位	xltb
@@ -31838,7 +31838,7 @@
 力点	slbj
 漫无目的	jhqr
 绣球	azam
-瓦砾	cwqx
+瓦砾	iwqx
 开卷	ircj
 林枫	ylyp
 寂寥	ljln
@@ -31857,7 +31857,7 @@
 脂质体	uoty
 少男少女	jvjx
 断气	feuq
-铺盖	ghck
+铺盖	gack
 贸促会	xtug
 生物质	mwof
 雄激素	xjca
@@ -31867,7 +31867,7 @@
 虹桥机场	kyyh
 丹麦队	pcdu
 喷气式	oupk
-彩带	xygl
+彩带	xyvl
 土库曼斯坦	hmwh
 文士	fwhs
 陆明	dhwu
@@ -31905,7 +31905,7 @@
 楼兰	yfqp
 商标权	uyyg
 骡子	vvpz
-圆盘	uozk
+圆盘	uodk
 磅礴	qbqx
 半信半疑	ytym
 望尘莫及	fjaa
@@ -32047,7 +32047,7 @@
 妮子	xspz
 储蓄率	trfa
 不睬	obqx
-逆风	dlpf
+逆风	dapf
 赵子龙	zpal
 转租	cpzh
 塞纳	laab
@@ -32091,12 +32091,12 @@
 防御性	dnhm
 李娟	ypxo
 趁此	zuzm
-带劲	glhk
+带劲	vlhk
 放下来	ooyd
 嬉笑	xpem
 谷类	egfj
 维新	aabh
-寇博	ldfh
+寇博	ldfa
 老郭	mmsp
 同安县	plhb
 恶俗	rete
@@ -32150,7 +32150,7 @@
 加法	fjjh
 径自	nhmq
 猫眼	srql
-官道	lgqm
+官道	lrqm
 填词	hfed
 干笑	hgem
 应和	mfzo
@@ -32311,7 +32311,7 @@
 拖沓	kvmw
 梧州	ynkz
 卸货	vztm
-大法官	jjlg
+大法官	jjlr
 纽约市场	aafh
 卢克	bshl
 猜错	scgu
@@ -32323,7 +32323,7 @@
 散心	uuex
 连续不断	caof
 小唐	jxmd
-筋疲力尽	emsv
+筋疲力尽	emsg
 电控	wekl
 幻灭	adiz
 崽子	ivpz
@@ -32368,7 +32368,7 @@
 父母们	yztp
 爱用	xxay
 念经	uzah
-气滞	uqjg
+气滞	uqjv
 苏美	rscj
 露点	ncbj
 打烊	kezc
@@ -32407,7 +32407,7 @@
 忽必烈	genv
 异想天开	jiii
 小半	jxyb
-银两	glzl
+银两	glrl
 惊世骇俗	hpvt
 藏家	rpls
 见证人	keur
@@ -32418,7 +32418,7 @@
 多普达	nqjn
 隋菲菲	drrs
 脚后跟	uvcl
-张师傅	pvth
+张师傅	pvta
 卫国	diua
 街市	nrfo
 怀化	hotm
@@ -32449,7 +32449,7 @@
 信鸽	teeo
 贵客	kglu
 乔家	mjls
-副官	vvlg
+副官	vvlr
 长治	ucjb
 仿照	town
 陈彤	dcpf
@@ -32487,7 +32487,7 @@
 干面	hgqy
 关塔那摩监狱	qhas
 赵勇	zgba
-自傲	mqtj
+自傲	mqtl
 电瓶车	wqcc
 缕缕	afaf
 郭小四	sjul
@@ -32555,7 +32555,7 @@
 无所不在	hoox
 奋发图强	jlup
 甲等	vjeh
-沙盘	jjzk
+沙盘	jjdk
 怡人	hbur
 东张西望	cphf
 落地窗	xhlw
@@ -32586,7 +32586,7 @@
 缔约	abag
 三叉戟	ygff
 潘岳	jmhi
-入不敷出	mohp
+入不敷出	moap
 王小波	ajja
 草鞋	rwir
 新闻稿	bpzs
@@ -32763,7 +32763,7 @@
 转过身去	cknh
 安安	lxlx
 禁闭	ytpk
-带钱	glgi
+带钱	vlgi
 槐树	yryg
 制成品	wpor
 真品	fhor
@@ -32801,7 +32801,7 @@
 走过场	zkha
 厘米	otfm
 对开	gkir
-外埠	nbhg
+外埠	nbhr
 专升本	pmyi
 古书	hgzd
 断章取义	fone
@@ -32884,7 +32884,7 @@
 引文	pefw
 闽西	pkhx
 内讧	bnek
-轮盘	cuzk
+轮盘	cudk
 荷兰银行	rqgn
 入秋	mezz
 花式	rtpk
@@ -32999,10 +32999,10 @@
 一落千丈	ixig
 安分	lxif
 呜咽	ooou
-外带	nbgl
+外带	nbvl
 龙年戴龙	avfa
 北海市	djfo
-肉搏	bukh
+肉搏	buka
 投影仪	kwte
 沙门氏菌	jpxr
 枯黄	yhuv
@@ -33246,7 +33246,7 @@
 从众	ccuc
 发兵	lfhi
 正德	iznf
-接盘	kbzk
+接盘	kbdk
 圆心	uoex
 病友	mixg
 特里谢	wten
@@ -33419,7 +33419,7 @@
 应接不暇	mkow
 超导	znjk
 临摹	veak
-迟滞	vnjg
+迟滞	gnjv
 钱柜	giyn
 半瓶	ybqr
 强占	pabz
@@ -33444,7 +33444,7 @@
 伤风	tvpf
 中小套型	gjji
 国安俱乐部	ultb
-翻船	mvzp
+翻船	mvdp
 次品	dpor
 王睿	awbl
 暴晒	wuwh
@@ -33454,12 +33454,12 @@
 轻装上阵	cqbd
 抛物线	kwai
 莱曼	rywy
-追索	gnfl
+追索	rnfl
 无计可施	heko
 保险法	tdjh
 心烦意乱	ezoi
 配给	hjae
-盘片	zkpp
+盘片	dkpp
 何曾	tkdw
 碑文	qrfw
 队队	dudu
@@ -33492,7 +33492,7 @@
 非营利性	sszh
 吞吞吐吐	iioo
 华生	tmmc
-姗姗来迟	xxyv
+姗姗来迟	xxyg
 拱墅区	ktng
 均匀性	hghm
 五常	nwfo
@@ -33643,7 +33643,7 @@
 新都	bhmd
 快板	hkyo
 婉言谢绝	xeea
-一饮而尽	iiqv
+一饮而尽	iiqg
 凭证式	tepk
 细胞株	auyy
 断水	fems
@@ -33653,7 +33653,7 @@
 大顺	jdkq
 平顺	hdkq
 先辈	wlsc
-李师傅	yvth
+李师傅	yvta
 商社	usch
 打呼噜	kool
 远超过	dzkn
@@ -33667,8 +33667,8 @@
 霞光	nexi
 跑腿	cgul
 痛骂	mbrv
-凸出	wtpc
-铺平	ghhd
+凸出	ktpc
+铺平	gahd
 隐晦	diwv
 抠门	knpm
 受难	xgga
@@ -33725,7 +33725,7 @@
 衡水	nims
 折中	khgz
 谬误	eneo
-翻两番	mzmf
+翻两番	mrmf
 举世闻名	fppn
 碧玉	arae
 台车	bocc
@@ -33781,7 +33781,7 @@
 斯坦福大学	qhcf
 克雷斯波	hnqj
 人工呼吸	ukoo
-施瓦辛格	ocby
+施瓦辛格	oiby
 水雷	msnv
 杨勇	yaba
 嫂嫂	xrxr
@@ -33794,7 +33794,7 @@
 原苏联	ornq
 髋臼	ylrj
 骨骼肌	yyup
-追兵	gnhi
+追兵	rnhi
 湿气	jwuq
 梵高	ypsg
 豁然	lone
@@ -33837,7 +33837,7 @@
 姓刘	xmfv
 延庆	mzmj
 重犯	itsj
-造船厂	pzoc
+造船厂	pdoc
 成材	pdyk
 景仰	wstx
 高能耗	sbyr
@@ -33884,7 +33884,7 @@
 城关镇	hqgf
 五四运动	nugg
 畏难	voga
-第一艘	eizr
+第一艘	eidr
 铁拳	gvck
 字面	lpqy
 轧机	ceyp
@@ -33933,7 +33933,7 @@
 拖后腿	kvul
 五角场	niha
 康宁	mdle
-航速	zfyo
+航速	dfyo
 沃尔福威茨	jicr
 佳丽们	titp
 新华日报	btwk
@@ -34022,7 +34022,7 @@
 全国冠军	tull
 起风	zjpf
 法学家	jfls
-海航	jvzf
+海航	jvdf
 薛凌云	rdgy
 大礼堂	jcfh
 梅花鹿	yrtm
@@ -34105,10 +34105,10 @@
 浮选	jxwl
 对光	gkxi
 按兵不动	khog
-卡纳瓦罗	bacy
+卡纳瓦罗	baiy
 中极	gzya
 针线	gfai
-罪孽	ysrg
+罪孽	ysrr
 发夹	lfzd
 枪决	yydk
 临沂市	vjfo
@@ -34122,7 +34122,7 @@
 布阵	xodc
 陡地	dzhl
 逃难	ddga
-掌舵	fkzl
+掌舵	fkdl
 合眼	eoql
 抵赖	kxyo
 张敏	puvz
@@ -34136,14 +34136,14 @@
 朱丽叶	yiof
 穷凶极恶	lgyr
 敲锣打鼓	sgkp
-吃尽	ovvd
+吃尽	ovgd
 敢死队	zndu
 大兴安岭	jfli
 一念之间	iunp
 无足轻重	hcci
 踏青	cmcq
 产假	bmts
-下盘	oxzk
+下盘	oxdk
 分层次	isdp
 温岭	jwiu
 烈酒	nvjh
@@ -34214,7 +34214,7 @@
 洞穿	jpli
 黄埔军校	uhly
 苜蓿	rqxt
-瓦房	cwto
+瓦房	iwto
 晚起	wizj
 洪都拉斯	jmkq
 快乐快乐	hxhx
@@ -34233,7 +34233,7 @@
 怔住	hitf
 优化组合	ttae
 大志	jdhe
-瓦片	cwpp
+瓦片	iwpp
 窃窃私语	llze
 减震	dpno
 第一顿	eith
@@ -34330,7 +34330,7 @@
 耶和华	nztm
 饭量	iowi
 留美	xncj
-两手空空	zkll
+两手空空	rkll
 大失所望	jvof
 旷课	wmew
 斜率	eyfa
@@ -34358,7 +34358,7 @@
 眼罩	qlyb
 卡恩	bouj
 人声鼎沸	usqj
-尽在不言中	vxog
+尽在不言中	gxog
 李云	ypgy
 发愣	lfhy
 为学	dsfp
@@ -34449,14 +34449,14 @@
 控制区	kwng
 剑侠	eftz
 湘菜	jirx
-曲阜	wvgf
+曲阜	wvrf
 奥克兰	whqp
 务工者	ukmz
 洛桑	jugg
 难料	gafl
 三聚	ysng
 变幻莫测	raaj
-卡瓦	bocw
+卡瓦	boiw
 企业级	uraa
 尸首	ssqm
 淋巴管	jwel
@@ -34534,7 +34534,7 @@
 酸度	hbmr
 当儿	xdle
 法家	jhls
-浦口	jhok
+浦口	jaok
 万不得已	qonj
 机不可失	yokv
 记恨	ejhl
@@ -34554,7 +34554,7 @@
 特困生	wumc
 燕青	rocq
 单恋	dwre
-清官	jclg
+清官	jclr
 检点	yebj
 牙髓	ieyx
 偏转	ttcp
@@ -34584,7 +34584,7 @@
 牛车	wncc
 何勇	tkba
 足月	czuy
-装船	qhzp
+装船	qhdp
 憋气	duuq
 纠缠不清	aaoj
 亦然	ryne
@@ -34670,7 +34670,7 @@
 氤氲	uuuw
 南开区	sing
 杀生	gymc
-铺位	ghtb
+铺位	gatb
 拉里贾尼	kths
 垦区	lhng
 部分和	bizo
@@ -34774,7 +34774,7 @@
 相国	ixua
 径流	nhjf
 铁心	gvex
-追偿	gntx
+追偿	rntx
 轧制	cewp
 过细	knav
 英烈	rknv
@@ -34817,7 +34817,7 @@
 阿斗	dkld
 安眠	lxqj
 吉奥森	pwyy
-仪表盘	tczk
+仪表盘	tcdk
 张伟平	pthd
 古蒂	hgrb
 凯利	ijzv
@@ -34924,7 +34924,7 @@
 防毒	docz
 拍档	kryx
 农机具	oyhi
-木船	ymzp
+木船	ymdp
 王主任	aftt
 喉头	oslt
 磁力	qqsl
@@ -34934,7 +34934,7 @@
 颂扬	ibka
 小动脉	jgue
 伏地	tjhl
-下船	oxzp
+下船	oxdp
 怀恋	hore
 地方志	hohe
 回填	uohf
@@ -34958,13 +34958,13 @@
 轻音乐	coxj
 对位	gktb
 耐用消费品	qajo
-软盘	cpzk
+软盘	cpdk
 雷暴	nvwu
 受伤者	xtmz
 河西区	jhng
 万华	qdtm
 石景山区	qwin
-尽力而为	vsqd
+尽力而为	gsqd
 神志不清	choj
 作陪	tydb
 摄影棚	kwyu
@@ -34995,7 +34995,7 @@
 李汉	ypjg
 师范大学	vxjf
 死寂	nmlj
-缉捕	aokh
+缉捕	aoka
 弱项	pdkq
 东华	cjtm
 浮想联翩	jint
@@ -35091,7 +35091,7 @@
 肩并肩	tqtu
 优等	tkeh
 避雨	sbny
-温带	jwgl
+温带	jwvl
 劈开	sbir
 入住率	mtfa
 手痒	ksmc
@@ -35104,7 +35104,7 @@
 收税	huzd
 纽曼	azwy
 打靶	keiw
-兵分两路	hizc
+兵分两路	hirc
 张昌平	pwhd
 掂量	kmwi
 腋窝	uflo
@@ -35122,7 +35122,7 @@
 打铁	kegv
 执拗	dzka
 第十四届	efus
-分蘖	ifrg
+分蘖	ifrr
 达州	jnkz
 欣然接受	hnkx
 三足鼎立	ycqb
@@ -35162,7 +35162,7 @@
 山民	isjt
 冲冲	dgdg
 本季	yizp
-客官	lulg
+客官	lulr
 题字	wzlp
 压强	ohpa
 曹禺	uwvp
@@ -35199,7 +35199,7 @@
 新会	bhug
 湖南大学	jsjf
 沙田	jjvt
-如意算盘	xoez
+如意算盘	xoed
 到庭	ihmt
 耳鼻喉科	nmoz
 白搭	rbkr
@@ -35217,7 +35217,7 @@
 粤港	wfju
 小鸟依人	jotu
 报恩	kduj
-船坞	zpho
+船坞	dpho
 无孔不入	hpom
 晋级赛	rala
 老婆子	mjpz
@@ -35252,7 +35252,7 @@
 登峰造极	zipy
 录影	dmwj
 菲亚特	rrwh
-盘膝	zkuy
+盘膝	dkuy
 气旋	uqoz
 联合国儿童基金会	neuu
 热天	djij
@@ -35301,10 +35301,10 @@
 困顿	uyth
 踢开	cwir
 安全帽	ltow
-阜新	gfbh
+阜新	rfbh
 长崎	ucij
 当口	xdok
-营盘	sozk
+营盘	sodk
 华雄	tmxb
 人杰	uryj
 剑拔弩张	ekxp
@@ -35315,7 +35315,7 @@
 亚龙湾	rajr
 名古屋	nhsi
 钳子	grpz
-以点带面	sbgq
+以点带面	sbvq
 良缘	elaz
 鸣笛	ooev
 突进	ljan
@@ -35359,7 +35359,7 @@
 全天	tqij
 偏于	tthy
 跨学科	cfzl
-追思	gnve
+追思	rnve
 代劳	odss
 乙醚	nyhf
 笔挺	erkt
@@ -35388,7 +35388,7 @@
 先睹为快	wqdh
 须要	rqhx
 露珠	ncay
-两两	zlzl
+两两	rlrl
 发明家	lwls
 堤岸	hwio
 金饰	tjiv
@@ -35609,7 +35609,7 @@
 洋务	jcus
 行政诉讼法	niej
 发家	lfls
-北航	dmzf
+北航	dmdf
 林志	ylhe
 蓝田	rvvt
 合奏	eoci
@@ -35631,7 +35631,7 @@
 自生自灭	mmmi
 角力	iasl
 第一架	eify
-三天两头	yizl
+三天两头	yirl
 科伦坡	ztha
 平衡木	hnym
 张少宇	pjlh
@@ -35752,7 +35752,7 @@
 电筒	weep
 泥岩	jsiq
 保家卫国	tldu
-尽然	vdne
+尽然	gdne
 投资区	kdng
 贺礼	fgce
 中阳	gzdw
@@ -35765,9 +35765,9 @@
 乱象	ielx
 急流	idjf
 达赖喇嘛	jyoo
-磐石	zpqs
+磐石	dpqs
 大力士	jshs
-菲利浦	rzjh
+菲利浦	rzja
 公选	ibwl
 群岛	dmoi
 恶补	recb
@@ -35795,7 +35795,7 @@
 月季	uyzp
 腐竹	mtez
 马耳他	vntl
-巡逻艇	kyzt
+巡逻艇	kydt
 安保	lxto
 资本化	dytm
 贱货	gitm
@@ -35829,7 +35829,7 @@
 光芒四射	xrun
 秦卓	czbw
 回锅	uogo
-赘述	jgye
+赘述	lgye
 使臣	tgne
 批转	kmcp
 投案	kplx
@@ -35947,13 +35947,13 @@
 血象	mklx
 花甲	rtvj
 辣手	byks
-小两	jxzl
+小两	jxrl
 逐条	snuy
 扑哧	kboh
 刑警队	irdu
 单项奖	dkqn
 着重于	cihy
-薄雾	xhnu
+薄雾	xanu
 血本无归	myhv
 魔爪	mymz
 女佣	xnta
@@ -35987,7 +35987,7 @@
 刘建生	fdmc
 王国维	auaa
 迸发出	qlpc
-阜阳市	gdfo
+阜阳市	rdfo
 全岛	tqoi
 大数	jdfx
 龙海	aljv
@@ -36138,7 +36138,7 @@
 夺眶而出	jqqp
 种蛋	zgzz
 黄淮	uvja
-万般无奈	qzhj
+万般无奈	qdhj
 门当户对	pxtg
 起居室	zsli
 飞瀑	ndjw
@@ -36184,7 +36184,7 @@
 原创性	oyhm
 飚升	pzmr
 华而不实	tqol
-逆光	dlxi
+逆光	daxi
 耻笑	nzem
 药瓶	raqr
 紫癜	zmms
@@ -36256,7 +36256,7 @@
 电信设备	wteu
 茶叶蛋	rozz
 飞虎队	ntdu
-小艇	jxzt
+小艇	jxdt
 得人心	nuex
 移入	znme
 闭路电视	pcwc
@@ -36297,7 +36297,7 @@
 主观性	fghm
 娄底	fxmx
 鹿鼎记	tqej
-得寸进尺	nkav
+得寸进尺	nkag
 来函	ydzm
 泼妇	jlxd
 胡杨	huya
@@ -36364,7 +36364,7 @@
 号子	obpz
 满载而归	jfqv
 立秋	blzz
-舰只	zkoi
+舰只	dkoi
 页岩	qyiq
 刻字	svlp
 话梅	eiyv
@@ -36459,7 +36459,7 @@
 走亲戚	zbpb
 入梦	meyn
 打从	kecc
-第三盘	eyzk
+第三盘	eydk
 牙本质	iyof
 热管	djel
 沈澄	jojz
@@ -36499,7 +36499,7 @@
 楚平	yzhd
 诗学	ehfp
 仰光	txxi
-六盘水	fzms
+六盘水	fdms
 硅酸盐	qhhb
 探戈	klpg
 达标率	jyfa
@@ -36517,9 +36517,9 @@
 阅览	pdve
 结构化	aytm
 秋游	zzjo
-航拍	zfkr
+航拍	dfkr
 警署	ruym
-乘胜追击	zugh
+乘胜追击	zurh
 李大钊	yjgv
 罗纳尔迪尼奥	yaiw
 惹恼	rxhf
@@ -36537,7 +36537,7 @@
 醇香	hszw
 杨炎	yazz
 开发部	ilbo
-船工	zpkg
+船工	dpkg
 美滋滋	cjjq
 抵偿	kxtx
 吧唧	owol
@@ -36575,7 +36575,7 @@
 预付款	btht
 育龄妇女	fzxx
 染色质	jiof
-两广	zlmg
+两广	rlmg
 包下	gbox
 海内	jvbn
 停发	tslf
@@ -36603,7 +36603,7 @@
 银团	gluk
 外感	nbpi
 叉子	gepz
-两面性	zqhm
+两面性	rqhm
 扩大化	kjtm
 消灾	jxlz
 吕某	oori
@@ -36634,7 +36634,7 @@
 简略	epvu
 观礼	gkce
 翌年	nbvj
-三言两语	yeze
+三言两语	yere
 偶一	tviy
 孝道	mpqm
 咬紧牙关	oviq
@@ -36685,7 +36685,7 @@
 投票率	khfa
 代笔	oder
 内城	bnhp
-捕食	khis
+捕食	kais
 水冷	msdu
 于涛	hyjs
 玉树	aeyg
@@ -36706,7 +36706,7 @@
 售货	aotm
 虎将	tpqn
 儿孙	lepj
-华航	tmzf
+华航	tmdf
 苏家	rsls
 苎麻	ximy
 得志	nwhe
@@ -36741,7 +36741,7 @@
 公立学校	ibfy
 冰镇	dmgf
 策应	eymf
-官位	lgtb
+官位	lrtb
 匪首	nsqm
 司乘人员	dzuo
 八宝山	ilis
@@ -36805,13 +36805,13 @@
 复发性	vlhm
 猎犬	suje
 朱天	yzij
-模棱两可	yyzk
+模棱两可	yyrk
 熏蒸	ivrz
 邹春兰	icqp
-前功尽弃	qkvf
+前功尽弃	qkgf
 重做	itth
 眉飞色舞	sniv
-潜水艇	jmzt
+潜水艇	jmdt
 退位	lntb
 影剧院	wsdl
 止渴	zzjw
@@ -36823,7 +36823,7 @@
 黯然失色	vnvi
 奥林匹克运动会	wynu
 那根	adyl
-两截	zlfp
+两截	rlfp
 新闻晚报	bpwk
 越界	zpvu
 包公	gbib
@@ -36842,7 +36842,7 @@
 吹散	opuu
 漂洗	jhjw
 见诸报端	kekb
-凹凸不平	hwoh
+凹凸不平	hkoh
 一股劲	iuhk
 吱声	ofss
 音乐界	oxvu
@@ -36851,7 +36851,7 @@
 败仗	gutg
 石绿	qsad
 启动子	tgpz
-两码事	zqko
+两码事	rqko
 赤脚医生	hunm
 哀思	cove
 率直	fafh
@@ -36966,7 +36966,7 @@
 接济	kbjf
 墨鱼	vhly
 天启	ijto
-通盘	bazk
+通盘	badk
 周吉平	pphd
 重化工业	itkr
 徐向前	nwqu
@@ -36999,7 +36999,7 @@
 天幕	ijao
 宠坏	laho
 久经	ieah
-运输船	gczp
+运输船	gcdp
 怒不可遏	xokw
 巨头们	nltp
 抗大	kfjd
@@ -37112,7 +37112,7 @@
 耻骨	nzyg
 十二月份	fput
 莫言	amey
-官人	lgur
+官人	lrur
 拉丹	kbpf
 总的说来	drey
 记录片	edpp
@@ -37123,7 +37123,7 @@
 词穷	edls
 斯科拉里	qzkt
 脑神经	ucah
-围捕	upkh
+围捕	upka
 太公	jeib
 说不得	eonw
 王珞丹	aapf
@@ -37140,7 +37140,7 @@
 干儿子	hlpz
 粗纤维	faaa
 抵押金	kktj
-调遣	epkg
+调遣	epkr
 单线	dwai
 江汉	jkjg
 西南角	hsia
@@ -37160,7 +37160,7 @@
 满人	jrur
 决明子	dwpz
 陪读	dbef
-县官	hblg
+县官	hblr
 梵蒂冈	yrpg
 厌世	ojps
 毁于一旦	rhiw
@@ -37194,7 +37194,7 @@
 玄武岩	aiiq
 温江	jwjk
 自为	mqds
-费尽心机	pvey
+费尽心机	pgey
 侯赛因	tluj
 不等式	oepk
 深南	jlsq
@@ -37241,7 +37241,7 @@
 精心制作	fewt
 居民委员会	sjzu
 镇子	gfpz
-盘锦	zkgr
+盘锦	dkgr
 总店	domb
 肺病	uimi
 市街	fonr
@@ -37264,7 +37264,7 @@
 表里	cotl
 下咽	oxou
 爱丁堡	xeto
-盘山	zkis
+盘山	dkis
 曲靖	wvbc
 单列	dwnv
 工业国	krua
@@ -37280,7 +37280,7 @@
 将信将疑	qtqm
 发酸	lfhb
 针孔	gfpe
-性器官	hrlg
+性器官	hrlr
 熏得	ivnw
 相关者	iqmz
 颤巍巍	fiix
@@ -37316,7 +37316,7 @@
 科员	zlog
 蒙混过关	sjkq
 鲜虾	lcko
-紧追不舍	vgoe
+紧追不舍	vroe
 戏子	gppz
 新闻局	bpsd
 议院	eedl
@@ -37325,7 +37325,7 @@
 蓟县	rlhb
 孤独感	pspi
 四分五裂	uinn
-自作孽	mtrg
+自作孽	mtrr
 唐骏	mdvb
 剖开	boir
 娇妻	xmfd
@@ -37353,7 +37353,7 @@
 水门	mspm
 存续期	xaqu
 镊子	gnpz
-厚薄	owxh
+厚薄	owxa
 老何	mmtk
 萧翎	rdub
 入土	meht
@@ -37410,12 +37410,12 @@
 抱头痛哭	klmr
 话别	eikv
 曝光率	wxfa
-实盘	llzk
+实盘	lldk
 专属经济区	psan
 相形	ixir
 运动员们	ggot
 提点	kwbj
-刘师傅	fvth
+刘师傅	fvta
 动怒	gsxg
 从宽	cclr
 伦敦金属交易所	tsto
@@ -37435,23 +37435,23 @@
 说破	edqa
 自作主张	mtfp
 翻书	mvzd
-间盘	pwzk
+间盘	pwdk
 竭诚	bwep
 第十六届	effs
 日至	wrib
 其乐无穷	qxhl
-船东	zpcj
-拼尽全力	kvts
+船东	dpcj
+拼尽全力	kgts
 十堰	fshn
 不一而足	oiqc
 萧寒	rdla
-两则	zlgv
+两则	rlgv
 忽然之间	gnnp
 檀香	yfzw
 水蒸气	mruq
 可用性	kahm
 山东半岛	icyo
-六盘水市	fzmf
+六盘水市	fdmf
 体例	tytn
 索普	flqr
 葛征	rgni
@@ -37583,11 +37583,11 @@
 改错	jugu
 相投	ixkp
 基恩	qhuj
-两条腿走路	zuuc
+两条腿走路	ruuc
 没跑	jpcg
 绚丽多彩	ainx
 强强	papa
-拖泥带水	kjgm
+拖泥带水	kjvm
 狂轰滥炸	scjz
 常见于	fkhy
 厚积薄发	ozxl
@@ -37609,11 +37609,11 @@
 蟾蜍	kike
 万里路	qtcu
 遗骸	knys
-蒲团	xhuk
+蒲团	xauk
 许昱华	ewtm
 头头是道	llwq
 明后天	wvij
-航路	zfcu
+航路	dfcu
 人身保险	untd
 搪瓷	kmdp
 鸿基	jkqh
@@ -37789,7 +37789,7 @@
 重婚	itxx
 维拉	aakb
 嚎啕大哭	oojr
-毫不迟疑	sovm
+毫不迟疑	sogm
 钦差	gpck
 肉粥	bupf
 实业家	lrls
@@ -37837,7 +37837,7 @@
 大河报	jjkd
 不堪入目	ohmq
 侦察员	tlog
-经济舱	ajzy
+经济舱	ajdy
 子座	pzmc
 明艳	wusi
 第一日	eiwr
@@ -37851,8 +37851,8 @@
 马丁斯	veqh
 嘎啦	oqok
 火冒三丈	zwyg
-玉带	aegl
-罗盘	ynzk
+玉带	aevl
+罗盘	yndk
 南太平洋	sjhj
 拿开	eoir
 间变	pwrg
@@ -37870,7 +37870,7 @@
 做活	thji
 手推车	kkcc
 发射场	lnha
-船身	zpns
+船身	dpns
 茅山	rbis
 卡尔扎伊	bikt
 颈项	hkkq
@@ -37880,7 +37880,7 @@
 以近	syhn
 兰大	qpjd
 晋城	rwhp
-裤带	cmgl
+裤带	cmvl
 金华市	ttfo
 渡轮	jmcu
 白族	rbov
@@ -37935,7 +37935,7 @@
 转眼之间	cqnp
 电化	wetm
 担惊受怕	khxh
-捕头	khlt
+捕头	kalt
 路南	cusq
 懂行	hrnt
 排污费	kjpv
@@ -38061,7 +38061,7 @@
 亚特兰大奥运会	rwqu
 尖利	jjzv
 霍地	nahl
-花圃	rtuh
+花圃	rtua
 要犯	hxsj
 填空题	hlwz
 玻璃钢	aagp
@@ -38091,8 +38091,8 @@
 守望者	lfmz
 私设	zbep
 危险期	idqu
-船主	zpfz
-独占鳌头	sbjl
+船主	dpfz
+独占鳌头	sbll
 数列	fxnv
 点睛	bjqc
 怕事	hrko
@@ -38149,7 +38149,7 @@
 缺心眼	weql
 客座教授	lmmk
 奶水	xams
-浦西	jhhx
+浦西	jahx
 刺探	ypkl
 读读	efef
 一走了之	izzn
@@ -38159,7 +38159,7 @@
 慰问品	spor
 粒粒	fbfb
 热力学	dsfp
-客船	luzp
+客船	ludp
 小谢	jxen
 神通广大	cbmj
 清明上河图	jwbu
@@ -38182,7 +38182,7 @@
 投缘	kpaz
 奋发向上	jlwb
 奉化	chtm
-领航者	uzmz
+领航者	udmz
 药箱	raei
 近战	hnbp
 龙的传人	artu
@@ -38255,7 +38255,7 @@
 赶出去	zphb
 在此之后	xznv
 一不怕苦	iohr
-博罗	fhyn
+博罗	fayn
 北大荒	djrf
 狂胜	saum
 宫外孕	lnap
@@ -38278,7 +38278,7 @@
 义乌市	eofo
 五一节	nird
 为人师表	duvc
-一辆辆	iccz
+一辆辆	iccr
 由头	vylt
 五角星	niwm
 塞入	lame
@@ -38359,7 +38359,7 @@
 枉然	yane
 散会	uuug
 祝人气	cuuq
-鞠躬尽瘁	invm
+鞠躬尽瘁	ingm
 曲江	wvjk
 好胜	xpum
 北美市场	dcfh
@@ -38375,7 +38375,7 @@
 望风	fupf
 铝箔	goej
 不仁	obtp
-里带	tlgl
+里带	tlvl
 费孝通	pmba
 隐士	dihs
 出超	pczn
@@ -38441,7 +38441,7 @@
 生物碱	mwqp
 半世	ybps
 凯蒂	ijrb
-你追我赶	tgkz
+你追我赶	trkz
 后土	voht
 舒爽	ehjg
 黄金海岸	utji
@@ -38528,7 +38528,7 @@
 收益率曲线	hqfa
 普陀山	qdis
 发际	lfdt
-判若两人	yrzu
+判若两人	yrru
 探索性	kfhm
 立地	blhl
 介词	uved
@@ -38544,7 +38544,7 @@
 反之亦然	onrn
 一元化	idtm
 德艺双	nrgg
-两全其美	ztqc
+两全其美	rtqc
 梁山伯	jitr
 无坚不摧	hvok
 鲍文	lgfw
@@ -38580,7 +38580,7 @@
 逃学	ddfp
 无可非议	hkse
 游学	jofp
-表盘	cozk
+表盘	codk
 灵丹妙药	dpxr
 生儿育女	mlfx
 莫过	amkn
@@ -38680,7 +38680,7 @@
 足金	cztj
 小打小闹	jkjp
 事业费	krpv
-一般见识	izke
+一般见识	idke
 迎头赶上	xlzb
 泛指	jmkm
 数罪并罚	fyqy
@@ -38801,7 +38801,7 @@
 雷公藤	niru
 秋高气爽	zsuj
 嘴馋	omii
-同舟共济	pzuj
+同舟共济	pduj
 期货业	qtry
 天伦	ijtu
 子网	pzpg
@@ -38900,7 +38900,7 @@
 道外区	qnng
 打哈欠	kopq
 封印	rkxd
-中远两湾城	gdzh
+中远两湾城	gdrh
 瑞士银行	ahgn
 殖民主义者	njfm
 林晓	ylwp
@@ -38984,7 +38984,7 @@
 牧野	wutb
 军港	lcju
 领路	ubcu
-当铺	xdgh
+当铺	xdga
 弗吉尼亚州	ppsk
 文史类	fofj
 常抓不懈	fkoh
@@ -39033,7 +39033,7 @@
 牛气	wnuq
 深圳机场	jhyh
 过关斩将	kqcq
-存盘	xpzk
+存盘	xpdk
 底稿	mxzs
 友协	xgfs
 干瘪	hgmm
@@ -39054,7 +39054,7 @@
 修通	tuba
 赣江	oujk
 血路	mkcu
-绑带	asgl
+绑带	asvl
 清江	jcjk
 抹煞	kyiu
 繁盛	vupd
@@ -39076,7 +39076,7 @@
 第一城	eihp
 偶发	tvlf
 报界	kdvu
-铺轨	ghcg
+铺轨	gacg
 肠粘膜	ufua
 拉门	kbpm
 动物们	gwtp
@@ -39092,7 +39092,7 @@
 容光焕发	lxzl
 传感	tppi
 肠胃炎	uvzz
-反舰导弹	ozjp
+反舰导弹	odjp
 垦殖	lhnf
 变造	rgpn
 马马虎虎	vvtt
@@ -39116,7 +39116,7 @@
 布冯	xodv
 变局	rgsd
 急中生智	igmv
-带往	glnf
+带往	vlnf
 女垒	xnbb
 小熊猫	jbsr
 切换到	tkih
@@ -39151,7 +39151,7 @@
 茶室	ruli
 苏有朋	rxuu
 胶州	ufkz
-盘剥	zkdm
+盘剥	dkdm
 决定论	dleu
 超级市场	zafh
 炽烈	zonv
@@ -39350,7 +39350,7 @@
 再则	apgv
 复生	vwmc
 女色	xniw
-带刺	glyp
+带刺	vlyp
 雄鹿队	xtdu
 资本论	dyeu
 玩火	adzh
@@ -39374,7 +39374,7 @@
 东北大学	cdjf
 恋恋	rere
 伏案	tjlx
-尽如人意	vxuo
+尽如人意	gxuo
 活动周	jgph
 同路人	pcur
 溶血性	jmhm
@@ -39404,12 +39404,12 @@
 捣鼓	kopq
 三河	ysjk
 一代代	iood
-博物	fhwg
+博物	fawg
 检测器	yjrj
 小何	jxtk
 余先生	ewmc
 上海铁路局	bjgs
-录影带	dwgl
+录影带	dwvl
 身先士卒	nwhf
 破伤风	qtpf
 精练	fcat
@@ -39456,7 +39456,7 @@
 领命	ubeo
 生养	mcce
 叶某	ofri
-尉迟	stvn
+尉迟	stgn
 主修	fztu
 神农架	cofy
 学龄儿童	fzlb
@@ -39516,7 +39516,7 @@
 勉为其难	idqg
 游山玩水	jiam
 砂轮	qjcu
-泛舟	jmzz
+泛舟	jmdz
 战栗	bphy
 吝惜	fohu
 基期	qhqu
@@ -39541,7 +39541,7 @@
 大网膜	jpua
 白烨	rbzm
 侯大勇	tjba
-辜振甫	hkhf
+辜振甫	hkaf
 厘清	otjc
 子宫颈	plhk
 武汉晚报	ijwk
@@ -39550,7 +39550,7 @@
 义理	egat
 倒映	tiwk
 歪理	oiat
-尽孝	vdmp
+尽孝	gdmp
 称颂	ziib
 录下来	doyd
 标准箱	ydei
@@ -39640,7 +39640,7 @@
 壮实	qhll
 长工	uckg
 胆囊癌	ufmo
-追认	gneu
+追认	rneu
 精粹	fcff
 罗琳	ynay
 清源	jcjo
@@ -39745,7 +39745,7 @@
 鹰爪	mtmz
 接力棒	ksyc
 玩世不恭	apou
-先遣	wlkg
+先遣	wlkr
 严令	rmub
 漏网	jspg
 死结	nmap
@@ -39814,7 +39814,7 @@
 安吉拉	lpkb
 理性化	ahtm
 说得过去	enkh
-破釜沉舟	qyjz
+破釜沉舟	qyjd
 家眷	lscq
 俯首	tmqm
 长夏	ucqq
@@ -39829,7 +39829,7 @@
 蓄水量	rmwi
 爱丽丝	xiaa
 严苛	rmrk
-控盘	klzk
+控盘	kldk
 办公会议	siue
 海誓山盟	jkiw
 花子	rtpz
@@ -39864,7 +39864,7 @@
 郑州大学	qkjf
 菜籽油	rfjv
 曲线图	wauu
-航空器	zlrj
+航空器	dlrj
 语意	enoe
 半周	ybph
 炭火	ixzh
@@ -39893,12 +39893,12 @@
 娇滴滴	xjju
 旅游车	ojcc
 牛乳业	wxry
-奋起直追	jzfg
+奋起直追	jzfr
 拍子	krpz
 初出茅庐	cprm
 同济医院	pjnd
 李松	ypyi
-追诉	gneh
+追诉	rneh
 阻截	dhfp
 庞杂	magy
 燕国	roua
@@ -39999,7 +39999,7 @@
 诵经	ebah
 北京赛区	dsln
 侧脑室	tuli
-停航	tszf
+停航	tsdf
 高畅	sgwe
 脏字	umlp
 看得清楚	knjy
@@ -40052,7 +40052,7 @@
 萧然	rdne
 保护价	tktu
 棉籽	yrfp
-地铺	hlgh
+地铺	hlga
 正当性	ixhm
 金融债券	titc
 华尔兹	tiqa
@@ -40167,7 +40167,7 @@
 劳动条件	sgut
 龙头老大	almj
 龙井茶	aaru
-遣散	kguu
+遣散	kruu
 有丝分裂	xain
 后坐	voch
 笔会	erug
@@ -40215,7 +40215,7 @@
 陆女士	dxhs
 年富力强	vlsp
 总汇	dojn
-表带	cogl
+表带	covl
 洛佩兹	jtqa
 终值	autf
 通宵达旦	bljw
@@ -40364,7 +40364,7 @@
 特赦	whhr
 资本积累	dyzv
 杂碎	gyqf
-人尽其才	uvqk
+人尽其才	ugqk
 骂街	rvnr
 福井俊彦	catb
 英名	rkno
@@ -40389,7 +40389,7 @@
 新昌	bhww
 赴会	zbug
 批语	kmen
-频带	zjgl
+频带	zjvl
 阳性者	dhmz
 海绵体	jaty
 值班员	taog
@@ -40483,7 +40483,7 @@
 息怒	mqxg
 方永刚	oepg
 中国有限公司	guxd
-恪尽职守	hvnl
+恪尽职守	hgnl
 济州岛	jkoi
 国宝级	ulaa
 金希	tjgx
@@ -40491,7 +40491,7 @@
 郑钧	qjgg
 骚货	vgtm
 戚戚	pbpb
-船运	zpgn
+船运	dpgn
 顺意	kqoe
 进言	aney
 吉拉迪诺	pkve
@@ -40520,7 +40520,7 @@
 故地	huhl
 侏罗纪	tyaj
 民防	jtdo
-航标	zfyt
+航标	dfyt
 阳春	dwcw
 晚婚	wixx
 斯塔德迈尔	qhni
@@ -40570,7 +40570,7 @@
 为非作歹	dstn
 腾冲	ucdg
 张栩	puyn
-风雨同舟	pnpz
+风雨同舟	pnpd
 香花	zwrt
 贝肯鲍尔	gzli
 鼓风机	ppyp
@@ -40600,7 +40600,7 @@
 磨合期	mequ
 领受	ubxg
 庞德	manf
-官窑	lglw
+官窑	lrlw
 锥子	gapz
 顾问团	opuk
 化学家	tfls
@@ -40655,7 +40655,7 @@
 全智贤	tvvg
 火电厂	zwoc
 决堤	dkhw
-噗嗤	orol
+噗嗤	oroa
 独来独往	sysn
 年节	vjrd
 年过半百	vkyq
@@ -40789,7 +40789,7 @@
 画布	ivxo
 腾挪	ucka
 凤翔	pgcn
-官话	lgei
+官话	lrei
 专业教育	prmf
 乱成一团	ipiu
 哀嚎	coos
@@ -40887,14 +40887,14 @@
 安身	lxns
 孔洞	pejp
 换钱	kigi
-格瓦拉	yckb
+格瓦拉	yikb
 店店	mbmb
 卡塔尔队	bhid
 和平演变	zhjr
 冶金工业	dtkr
 马女士	vxhs
 道听途说	qoee
-搬动	kzgs
+搬动	kdgs
 统管	afel
 后周	voph
 文豪	fwss
@@ -40903,7 +40903,7 @@
 空心菜	lerx
 德文	nffw
 清除率	jdfa
-文博	fwfh
+文博	fwfa
 农艺	oorn
 扎营	keso
 凌志	dhhe
@@ -40916,13 +40916,13 @@
 摇椅	kxyj
 活动活动	jgjg
 刮胡子	ihpz
-看官	kqlg
-船尾	zpsr
+看官	kqlr
+船尾	dpsr
 尔格	ijyu
 相变	ixrg
 纯利润	azjp
 传颂	tpib
-驳船	vgzp
+驳船	vgdp
 立定	blli
 盛况空前	pdlq
 加菲	fjrs
@@ -40962,7 +40962,7 @@
 小生产	jmbm
 三棱	ysyh
 对立统一	gbai
-浦发	jhlf
+浦发	jalf
 郑重其事	qiqk
 市议员	feog
 辞海	ibjv
@@ -41039,14 +41039,14 @@
 白旗	rboq
 大团圆	juuo
 群芳	dmro
-副热带高压	vdgo
+副热带高压	vdvo
 广告法	mpjh
 欧盟市场	nwfh
 第八个	eiue
 奖级	qnaa
 书摊	zdkg
 空泛	lkjm
-车船税	czzd
+车船税	cdzd
 黄铜	uvgp
 司法权	djyg
 香港银行	zjgn
@@ -41070,7 +41070,7 @@
 银花	glrt
 杨坤	yahw
 饮食业	iiry
-主考官	fmlg
+主考官	fmlr
 鞋袜	ircy
 登台亮相	zbsi
 德智体	nvty
@@ -41237,7 +41237,7 @@
 不轨	obcg
 倒腾	tiuc
 优生优育	tmtf
-谢中博	egfh
+谢中博	egfa
 青白	cqrb
 经久不息	aiom
 桡骨	ypyg
@@ -41292,7 +41292,7 @@
 青翠	cqnf
 眼泪汪汪	qjjj
 小抄	jxkj
-面带笑容	qgel
+面带笑容	qvel
 陈丹青	dpcq
 强心剂	pefv
 知识型	veiv
@@ -41308,7 +41308,7 @@
 豆腐脑	imuf
 殊途同归	nepv
 臂弯	sbrp
-北京航空航天大学	dszf
+北京航空航天大学	dsdf
 欢畅	gpwe
 浣熊	jlbm
 地久天长	hiiu
@@ -41342,7 +41342,7 @@
 南诏	sqen
 唉声叹气	osou
 衣架	cyfy
-地方官	holg
+地方官	holr
 李保田	ytvt
 清道	jcqm
 巴巴	wbwb
@@ -41366,7 +41366,7 @@
 辨证论治	beej
 事倍功半	ktky
 接合	kbeo
-航船	zfzp
+航船	dfdp
 一草一木	iriy
 英雄本色	rxyi
 防毒面具	dcqh
@@ -41496,7 +41496,7 @@
 关塔那摩	qham
 谭延	ehmz
 团块	ukhk
-造船业	pzry
+造船业	pdry
 山茶	isru
 恐慌性	khhm
 楚楚可怜	yykh
@@ -41655,7 +41655,7 @@
 金发碧眼	tlaq
 狮王	siaw
 嗓子眼	opql
-穷追不舍	lgoe
+穷追不舍	lroe
 尤甚	keqe
 廊坊市	mhfo
 回赠	uogd
@@ -41829,7 +41829,7 @@
 美事	cjko
 综合型	aeiv
 夜郎	ftel
-青瓦台	ccbo
+青瓦台	cibo
 曹国伟	uutp
 志趣	hezn
 飘摇	htkx
@@ -41913,7 +41913,7 @@
 拂尘	kpjh
 丹青	pfcq
 驶到	voih
-卡带	bogl
+卡带	bovl
 完小	ldjx
 水蛭	mski
 丙二醇	iphs
@@ -42010,7 +42010,7 @@
 唐突	mdlj
 骄横	vmyu
 松涛	yijs
-追星族	gwov
+追星族	rwov
 精料	fcfl
 倩女	tcxn
 难以启齿	gstz
@@ -42103,7 +42103,7 @@
 万事俱备	qktu
 砍成	qppd
 积德	zonf
-船员们	zotp
+船员们	dotp
 老方	mmof
 自流	mqjf
 洞开	jpir
@@ -42131,7 +42131,7 @@
 白灰	rbxz
 五更	nwgw
 含辛茹苦	ubrr
-瓦特	cwwh
+瓦特	iwwh
 西川	hxkc
 想入非非	imss
 张三丰	pysf
@@ -42157,7 +42157,7 @@
 各自为战	umdb
 同仇敌忾	ptih
 不得人心	onue
-狂傲	satj
+狂傲	satl
 披挂上阵	kkbd
 特需	whnq
 脑动脉	ugue
@@ -42334,12 +42334,12 @@
 寄钱	ljgi
 诺曼底	ewmx
 长夜	ucft
-海船	jvzp
+海船	jvdp
 风雨飘摇	pnhk
 苦日子	rwpz
 英飞凌	rndh
 周萌萌	prrw
-两鬓	zlcl
+两鬓	rlcl
 陈磊	dcqq
 地动	hlgs
 油瓶	jvqr
@@ -42387,13 +42387,13 @@
 枯水期	ymqu
 水势	msds
 中远集团	gdau
-平铺	hdgh
+平铺	hdga
 本底	yimx
 布隆伯格	xdty
 屈伸	sptw
 闲不住	potf
 国产化率	ubtf
-航空港	zlju
+航空港	dlju
 地温	hljw
 贴面	gbqy
 低功耗	tkyr
@@ -42402,7 +42402,7 @@
 腰果	uhwy
 寻仇	dktg
 吊死	oonm
-流尽	jfvd
+流尽	jfgd
 阴沉沉	djjl
 磕磕碰碰	qqqq
 谭盾	ehof
@@ -42525,7 +42525,7 @@
 香港科技大学	zjzf
 话匣子	enpz
 安国	lxua
-土崩瓦解	hici
+土崩瓦解	hiii
 流质	jfof
 遗风	knpf
 浅析	jiyh
@@ -42594,7 +42594,7 @@
 换热	kidj
 苏拉	rskb
 黑天	vhij
-不分昼夜	oivf
+不分昼夜	oigf
 冰场	dmha
 歪风邪气	opiu
 亲事	bqko
@@ -42605,7 +42605,7 @@
 蚂蚱	kvky
 海南日报	jswk
 青歌赛	ckla
-薄壁	xhsb
+薄壁	xasb
 苏翎	rsub
 华南师范大学	tsvf
 凉山	dsis
@@ -42755,7 +42755,7 @@
 科尔沁	zije
 浆料	qnfl
 兑换券	dkcn
-老瓦	mmcw
+老瓦	mmiw
 离境	fhho
 古训	hgek
 域中	hpgz
@@ -42814,7 +42814,7 @@
 利比	zvmb
 头牌	ltpr
 满员	jrog
-官办	lgsi
+官办	lrsi
 一箭之仇	ient
 辩论会	beug
 打杂	kegy
@@ -42836,7 +42836,7 @@
 灼灼	zgzg
 视死如归	cnxv
 朝西	ffhx
-视盘	ckzk
+视盘	ckdk
 大肉	jdbu
 分崩离析	iify
 口外	oknb
@@ -42845,7 +42845,7 @@
 特鲁西埃	wlhh
 试纸	epax
 家属们	lstp
-两面派	zqjo
+两面派	rqjo
 呼喝	omow
 冷酷无情	dhhh
 消弭	jxpn
@@ -42949,7 +42949,7 @@
 云舒	gyeh
 陈晓东	dwcj
 人寰	urly
-两淮	zlja
+两淮	rlja
 聚敛	ngef
 大是大非	jwjs
 报考者	kmmz
@@ -42969,7 +42969,7 @@
 主攻手	fkks
 四小龙	ujal
 可编程	kazo
-民航业	jzry
+民航业	jdry
 会试	ugep
 张总	pudo
 高宗	sglt
@@ -42995,7 +42995,7 @@
 无话不谈	heoe
 封沙	rkjj
 录音室	doli
-尽忠	vdge
+尽忠	gdge
 刘毅	fvbs
 文质彬彬	foyy
 封信	rkte
@@ -43010,7 +43010,7 @@
 芸芸	rgrg
 经纪商	aaus
 柳眉	yxsq
-山穷水尽	ilmv
+山穷水尽	ilmg
 扼腕	koul
 富阳市	ldfo
 权衡利弊	ynzd
@@ -43044,11 +43044,11 @@
 改革派	jijo
 边境线	shai
 自动步枪	mgzy
-陈师傅	dvth
+陈师傅	dvta
 蹦跳	cicd
 张保庆	ptmj
 贵姓	kgxm
-摩尔多瓦	minc
+摩尔多瓦	mini
 杰西卡	yhbo
 真刀真枪	fnfy
 盐商	hbus
@@ -43147,7 +43147,7 @@
 合意	eooe
 酣畅	hrwe
 石俊	qstb
-带班	glah
+带班	vlah
 雨过天晴	nkiw
 越境	zpho
 亚基	ryqh
@@ -43169,7 +43169,7 @@
 有教养	xmce
 九鼎	gjqp
 慢镜头	hglt
-领航员	uzog
+领航员	udog
 蒙蒙亮	sssp
 顺应性	kmhm
 地方法院	hojd
@@ -43241,14 +43241,14 @@
 实实	llll
 贺兰山	fqis
 分分秒秒	iizz
-尽速	vdyo
+尽速	gdyo
 画外音	inoy
 春茶	cwru
 查禁	ywyt
 战俘营	btso
 街灯	nrze
 白河	rbjk
-航母战斗群	zzbd
+航母战斗群	dzbd
 亳州	smkz
 鸡胸	goug
 贺年	fgvj
@@ -43449,11 +43449,11 @@
 选料	wlfl
 加索尔	ffij
 广而告之	mqpn
-捕快	khhk
+捕快	kahk
 尖刻	jjsv
 比例失调	mtve
 段天	cpij
-排遣	kskg
+排遣	kskr
 最新型	wbiv
 海协	jvfs
 朱浩	yzjp
@@ -43487,7 +43487,7 @@
 阿布扎比	dxkm
 雷克萨斯	nhrq
 忻州	hhkz
-轻舟	chzz
+轻舟	chdz
 应激性	mjhm
 调查局	eysd
 合流	eojf
@@ -43521,7 +43521,7 @@
 甚佳	qetr
 万宝路	qlcu
 李大爷	yjyd
-凌迟	dhvn
+凌迟	dhgn
 王光亚	axry
 超级杯	zayo
 电磁场	wqha
@@ -43594,14 +43594,14 @@
 飞黄腾达	nuuj
 拔腿	klul
 温乐阳	jxdw
-敷料	hofl
+敷料	aofl
 水旱	mswh
 麦芽糖	crfm
 步履蹒跚	zscc
 尖兵	jjhi
 勤俭建国	rtdu
 调色	epiw
-盘腿	zkul
+盘腿	dkul
 岁月不饶人	iuou
 周益乐	pqxj
 清道夫	jqzf
@@ -43698,7 +43698,7 @@
 娩出	xipc
 木条	ymuy
 红极一时	ayiw
-发带	lfgl
+发带	lfvl
 杠铃	ykgu
 直流电	fjwe
 狼烟	sezu
@@ -43763,7 +43763,7 @@
 隐现	diak
 另眼相看	kqik
 回头客	ullu
-漳浦	jojh
+漳浦	joja
 报告期期	kpqq
 父兄	yfol
 水工	mskg
@@ -43777,7 +43777,7 @@
 龙脉	alue
 塞舌尔	liij
 庚辰	mdoo
-油船	jvzp
+油船	jvdp
 军管	lcel
 名剧	nosh
 阿拉善	dkcq
@@ -43834,7 +43834,7 @@
 摇旗呐喊	kooo
 汽化	jutm
 投资品	kdor
-薛明	rgwu
+薛明	rrwu
 石鼓	qspq
 李叔叔	ybbj
 奶味	xaoy
@@ -43856,7 +43856,7 @@
 臭虫	mqkc
 赵高	zgsg
 石沉大海	qjjj
-浦玮	jhap
+浦玮	jaap
 从始至终	cxia
 陆家	dhls
 错怪	guhg
@@ -43922,7 +43922,7 @@
 大家闺秀	jlpz
 扶贫济困	kiju
 越国	zpua
-全盘否定	tzol
+全盘否定	tdol
 文弱	fwpd
 李晶	ypww
 大动干戈	jghp
@@ -44053,7 +44053,7 @@
 杀头	gylt
 农舍	ooeh
 半圆形	yuir
-她们俩	xttz
+她们俩	xttr
 小许	jxew
 内忧外患	bhno
 海淀法院	jjjd
@@ -44062,7 +44062,7 @@
 田丰	vtsf
 道贺	qmfg
 孙杰	pjyj
-捎带	kxgl
+捎带	kxvl
 陈寅恪	dlhu
 扬子江	kpjk
 礼拜六	ckfi
@@ -44094,7 +44094,7 @@
 顾盼	ojqi
 陈成	dcpd
 单宁	dwle
-太空船	jlzp
+太空船	jldp
 心音	exoy
 信托投资	tkkd
 科班	zlah
@@ -44108,7 +44108,7 @@
 控制功能	kwkb
 保苗	torv
 党小组	fjah
-官子	lgpz
+官子	lrpz
 程序法	zmjh
 后极	voya
 拥挤不堪	kkoh
@@ -44272,7 +44272,7 @@
 边界线	svai
 低脂肪	tuuo
 上脸	biue
-添砖加瓦	jqfc
+添砖加瓦	jqfi
 普希金	qgtj
 火源	zhjo
 宜宾市	llfo
@@ -44299,7 +44299,7 @@
 有感于	xphy
 紫纹	zmaf
 旌旗	omoq
-一盘散沙	izuj
+一盘散沙	iduj
 压阵	ohdc
 加入量	fmwi
 杂技团	gkuk
@@ -44466,7 +44466,7 @@
 骨粉	ygfi
 不粘锅	ofgo
 镇定自若	glmr
-敷衍了事	hnzk
+敷衍了事	anzk
 箭在弦上	expb
 声控	sskl
 大豆期	jiqu
@@ -44502,7 +44502,7 @@
 维生	aamc
 愈好	euxp
 鸟瞰	onqz
-两汉	zljg
+两汉	rljg
 枪伤	yytv
 何鲁丽	tlip
 游水	joms
@@ -44596,7 +44596,7 @@
 保密性	tlhm
 闸口	pvok
 皮面	apqy
-凸轮轴	wccv
+凸轮轴	kccv
 行迹	ntrn
 生厌	mcoj
 淞沪	jijt
@@ -44613,7 +44613,7 @@
 木制品	ywor
 咽痛	oumb
 物象	wglx
-官宦	lgln
+官宦	lrln
 钢水	gpms
 李玉刚	yapg
 驾临	fvve
@@ -44644,7 +44644,7 @@
 亚组	ryah
 厌食症	oimi
 与会人士	buuh
-官渡	lgjm
+官渡	lrjm
 低标准	tyda
 国史	uaog
 粪坑	fuhf
@@ -44654,7 +44654,7 @@
 卢先生	bwmc
 工业界	krvu
 东川	cjkc
-捕猎	khsu
+捕猎	kasu
 世态炎凉	pjzd
 国号	uaob
 走步	zzzj
@@ -44702,7 +44702,7 @@
 陈飞	dcnd
 新闻自由	bpmv
 长岭	uciu
-敌舰	iuzk
+敌舰	iudk
 松木	yiym
 没影	jpwj
 充血性	fmhm
@@ -44763,7 +44763,7 @@
 调解员	eiog
 江堤	jkhw
 何女士	txhs
-将官	qnlg
+将官	qnlr
 伍思凯	tvij
 便宜货	tltm
 肾亏	vgpb
@@ -44892,19 +44892,19 @@
 牵着鼻子走	jcmz
 一霎	iynb
 白领们	rutp
-盘县	zkhb
+盘县	dkhb
 采办	xysi
 死要面子	nhqp
 浆果	qnwy
 破除迷信	qdft
 南昌县	swhb
 直来直去	fyfh
-平方英尺	horv
+平方英尺	horg
 自寻烦恼	mdzh
 林权	ylyg
 异质	jrof
 软硬兼施	cqqo
-势不两立	dozb
+势不两立	dorb
 花园路	rucu
 棘突	yplj
 逐年递增	svdh
@@ -44929,7 +44929,7 @@
 年度期	vmqu
 生手	mcks
 老本	mmyi
-船夫	zpzf
+船夫	dpzf
 冬笋	uded
 晋察冀	rldm
 张天佑	pitx
@@ -45065,7 +45065,7 @@
 演算	jleq
 表叔	cobj
 隋炀帝	dzbo
-敷设	hoep
+敷设	aoep
 碳酸盐	qhhb
 昂首挺胸	wqku
 苯胺	ryul
@@ -45194,7 +45194,7 @@
 护卫队	kddu
 溢流	jqjf
 黄伟	uvtp
-舰载机	zfyp
+舰载机	dfyp
 抬杠	kbyk
 血污	mkjp
 大晴天	jwij
@@ -45202,7 +45202,7 @@
 铁面	gvqy
 枢密院	yldl
 连绵不断	caof
-桀骜不驯	njov
+桀骜不驯	nlov
 仕女	thxn
 烤面包	zqgb
 债台高筑	tbse
@@ -45223,7 +45223,7 @@
 许志安	ehlx
 福山	cvis
 使坏	tgho
-赶尽杀绝	zvga
+赶尽杀绝	zgga
 娃娃鱼	xxly
 汤面	jaqy
 生生世世	mmpp
@@ -45320,7 +45320,7 @@
 阴谋家	dels
 佳期	trqu
 起更	zjgw
-冷敷	duho
+冷敷	duao
 色谱仪	iete
 便利化	tztm
 高跷	sgcp
@@ -45447,7 +45447,7 @@
 柔润	bejp
 梗阻性	ydhm
 出图	pcuu
-开航	irzf
+开航	irdf
 真命天子	feip
 台中市	bgfo
 谭晶	ehww
@@ -45462,12 +45462,12 @@
 临川	vekc
 打字机	klyp
 猜拳	scck
-辅酶	chhv
+辅酶	cahv
 社教	chmp
 机化	yptm
 按耐	klqk
 失敬	vsro
-开船	irzp
+开船	irdp
 天狼星	iswm
 食品店	iomb
 周敏	phvz
@@ -45522,12 +45522,12 @@
 树桩	ygym
 米塔尔	fhij
 碾碎	qsqf
-萨尔瓦多	ricn
+萨尔瓦多	riin
 叶瑜	ofae
 十年窗下	fvlo
 王凯	awij
 鲜血淋漓	lmjj
-两湖	zljh
+两湖	rljh
 海味	jvoy
 凯恩	ijuj
 精神损失	fckv
@@ -45562,7 +45562,7 @@
 进深	anjl
 刘瑾	fvar
 节能型	rbiv
-彭博	pqfh
+彭博	pqfa
 新市	bhfo
 意大利足协	ojzf
 四舍五入	uenm
@@ -45618,7 +45618,7 @@
 雨花台	nrbo
 搂抱	kfkg
 丧气	fquq
-画舫	ivzo
+画舫	ivdo
 周国平	puhd
 料定	flli
 江先生	jwmc
@@ -45658,7 +45658,7 @@
 眉清目秀	sjqz
 黄宗羲	ulcb
 脉象	uelx
-货舱	tmzy
+货舱	tmdy
 花芽	rtri
 赤子之心	hpne
 吐谷浑	oejl
@@ -45788,7 +45788,7 @@
 李飞宇	ynlh
 新教	bhmp
 小型张	jipu
-船舷	zpza
+船舷	dpda
 王欣	awhp
 现代史	aoog
 行为学	ndfp
@@ -45864,7 +45864,7 @@
 林县	ylhb
 订立合同	ebep
 老年病	mvmi
-赤膊	hruh
+赤膊	hrua
 试飞员	enog
 兰博基尼	qfqs
 钳制	grwp
@@ -45983,7 +45983,7 @@
 大悟	jdhn
 婀娜多姿	xxnd
 不平等条约	ohea
-薄饼	xhiq
+薄饼	xaiq
 唐英年	mrvj
 居民点	sjbj
 纯平	athd
@@ -46073,13 +46073,13 @@
 都指挥使	mkkt
 氧化剂	utfv
 目光短浅	qxvj
-官服	lgud
+官服	lrud
 悔罪	hvys
 分析师们	iyvt
 虎头蛇尾	tlks
 空头支票	llfh
 压力锅	osgo
-凝滞	dbjg
+凝滞	dbjv
 度假区	mtng
 胶管	ufel
 扒拉	kikb
@@ -46217,14 +46217,14 @@
 李立	ypbl
 春药	cwra
 咬定	ofli
-大盘	jdzk
+大盘	jddk
 西苑	hxrn
 四野	ultb
 忠县	gehb
 健步	tdzj
 贾春旺	hcwa
 李德生	ynmc
-诺瓦克	echl
+诺瓦克	eihl
 法办	jhsi
 曾孙	dwpj
 新河	bhjk
@@ -46441,11 +46441,11 @@
 如花似玉	xrta
 上气不接下气	buou
 亚科	ryzl
-官能	lgbu
+官能	lrbu
 乔纳森	mayy
 承天	zmij
 拿大	eojd
-一言难尽	iegv
+一言难尽	iegg
 乐果	xjwy
 刘芳	fvro
 汽轮	jucu
@@ -46479,7 +46479,7 @@
 徐浪	neje
 掌上明珠	fbwa
 肛管	ukel
-半尺	ybvc
+半尺	ybgc
 公司债	idtc
 文武百官	fiql
 刘彻	fvnt
@@ -46508,7 +46508,7 @@
 落叶归根	xovy
 极刑	yair
 保护者	tkmz
-诸般	emzp
+诸般	emdp
 有能耐	xbqk
 现值	aktf
 言重	eyit
@@ -46573,7 +46573,7 @@
 总支	dofg
 牵肠挂肚	juku
 白塔	rbhr
-哪般	oazp
+哪般	oadp
 单行道	dnqm
 摄影奖	kwqn
 印刷业	xsry
@@ -46639,7 +46639,7 @@
 割伤	lotv
 脆弱性	uphm
 记取	ejng
-航次	zfdp
+航次	dfdp
 低硫	txqf
 科罗拉多州	zykk
 一以贯之	iszn
@@ -46664,12 +46664,12 @@
 依山傍水	titm
 天津医科大学	ijnf
 特命全权大使	wett
-铺陈	ghdc
+铺陈	gadc
 林琳	ylay
 华友	tmxg
 腕儿	ulle
 耍猴	qkss
-博通	fhba
+博通	faba
 雇请	taec
 不知死活	ovnj
 孙氏	pjxt
@@ -46680,7 +46680,7 @@
 韩秋	ffzz
 花天酒地	rijh
 陈俊	dctb
-木已成舟	yjpz
+木已成舟	yjpd
 法学界	jfvu
 农家肥	oluw
 光怪陆离	xhdf
@@ -46693,7 +46693,7 @@
 赡养费	gcpv
 辛丑	bxzc
 毛刺	rmyp
-试航	epzf
+试航	epdf
 粗布	fhxo
 炸裂	zynv
 歌女	kkxn
@@ -46814,7 +46814,7 @@
 伦敦奥运会	tswu
 副科级	vzaa
 东周	cjph
-前带	qugl
+前带	quvl
 中国楼	guyf
 秦先生	cwmc
 王建芬	adri
@@ -46827,7 +46827,7 @@
 蓄积量	rzwi
 民兵们	jhtp
 心急火燎	eizz
-尽人皆知	vumv
+尽人皆知	gumv
 有问必答	xpee
 无息	hemq
 乱作一团	itiu
@@ -46843,7 +46843,7 @@
 刘羲	fvcb
 关节病	qrmi
 压碎	ohqf
-差遣	ckkg
+差遣	ckkr
 罗定	ynli
 玛莎	avxj
 白熊	rbbm
@@ -46858,7 +46858,7 @@
 上选	biwl
 预决算	bdeq
 隆鼻	dumq
-拒捕	knkh
+拒捕	knka
 基隆	qhdu
 发射架	lnfy
 量出	wipc
@@ -46867,7 +46867,7 @@
 宠辱不惊	looh
 点发	bjlf
 联共	nqui
-官厅	lgoe
+官厅	lroe
 罢课	yhew
 中能队	gbdu
 蓝家	rvls
@@ -46890,7 +46890,7 @@
 载运	fpgn
 习仲勋	dtog
 焕然	zine
-母舰	zmzk
+母舰	zmdk
 汤敏	javz
 商情	ushc
 曹清尧	ujpi
@@ -46900,7 +46900,7 @@
 壮苗	qhrv
 有技巧	xkkb
 拆封	khrk
-盘坐	zkch
+盘坐	dkch
 闰年	pavj
 生境	mcho
 刘江	fvjk
@@ -46948,7 +46948,7 @@
 造物主	pwfz
 死伤者	ntmz
 良辰美景	eocw
-顺水推舟	kmkz
+顺水推舟	kmkd
 汗衫	jhcr
 专权	pbyg
 流通市场	jbfh
@@ -46977,7 +46977,7 @@
 拉赫曼	khwy
 戎装	pxqh
 胎记	ubej
-朔州	dlkz
+朔州	dakz
 李艳	ypsi
 拉米	kbfm
 同父异母	pyjz
@@ -47033,7 +47033,7 @@
 尤努斯	kxqh
 圆顶	uoeq
 天地会	ihug
-铺张	ghpu
+铺张	gapu
 厚生	owmc
 对调	gkep
 绿地率	ahfa
@@ -47147,7 +47147,7 @@
 周睿羊	pbcy
 忘忧	fehk
 洪森	juyy
-舟山市	zifo
+舟山市	difo
 滚水	jcms
 陶行知	dnvo
 铜川	gpkc
@@ -47180,7 +47180,7 @@
 治丧	jbfq
 华东师大	tcvj
 言之有理	enxa
-光带	xigl
+光带	xivl
 夫婿	zfxz
 传为佳话	tdte
 铝板	goyo
@@ -47286,7 +47286,7 @@
 鸟岛	onoi
 铜绿	gpad
 白痢	rbmz
-救生艇	mmzt
+救生艇	mmdt
 威德	pinf
 上海财经大学	bjgf
 曹魏	uwzx
@@ -47314,7 +47314,7 @@
 乌兰巴托	oqwk
 还魂	ongr
 临安县	vlhb
-磨盘	myzk
+磨盘	mydk
 人格化	uytm
 兴师动众	fvgu
 点题	bjwz
@@ -47388,7 +47388,7 @@
 闲庭	pymt
 白牙	rbie
 卢云	bsgy
-全微博	trfh
+全微博	trfa
 罗玉凤	yapg
 铁摩勒	gmis
 情态	hcje
@@ -47562,7 +47562,7 @@
 电视柜	wcyn
 第四部	eubo
 巾帼英雄	oorx
-丧尽天良	fvie
+丧尽天良	fgie
 第十一章	efio
 畜力	avsl
 老老	mmmm
@@ -47581,7 +47581,7 @@
 纵声	acss
 果枝	wyyf
 吴远明	odwu
-付辛博	tbfh
+付辛博	tbfa
 用汇	ayjn
 左倾	xktm
 徐良	neel
@@ -47690,7 +47690,7 @@
 做鬼	thrl
 陈中	dcgz
 串口	gook
-两小无猜	zjhs
+两小无猜	rjhs
 失算	vseq
 明矾	wuqp
 很小很小	njnj
@@ -47767,7 +47767,7 @@
 种属	zgsm
 不丑	obzc
 花架子	rfpz
-推盘	kazk
+推盘	kadk
 于洪区	hjng
 送气	qjuq
 徐翊	nebn
@@ -47902,7 +47902,7 @@
 大快朵颐	jhpn
 哈萨克斯坦队	orhd
 铁汉	gvjg
-王博	awfh
+王博	awfa
 乌兹别克斯坦队	oqkd
 悄然兴起	hnfz
 阴山	duis
@@ -47926,7 +47926,7 @@
 万难	qdga
 法律化	jntm
 民间故事	jphk
-舍瓦	ehcw
+舍瓦	ehiw
 行政化	nitm
 金鼎	tjqp
 排水管	kmel
@@ -47935,7 +47935,7 @@
 帕金森	otyy
 对偶	gktv
 危亡	iofw
-父母官	yzlg
+父母官	yzlr
 墓道	ahqm
 迫于无奈	rhhj
 丁林	edyl
@@ -47955,7 +47955,7 @@
 刷洗	sojw
 等价物	etwg
 流通量	jbwi
-和盘托出	zzkp
+和盘托出	zdkp
 著者	rmmz
 干渴	hgjw
 古街	hgnr
@@ -48001,7 +48001,7 @@
 不入流	omjf
 破破烂烂	qqzz
 第二性	ephm
-靶器官	irlg
+靶器官	irlr
 权谋	yger
 精壮	fcqh
 伶牙俐齿	titz
@@ -48035,7 +48035,7 @@
 杨光	yaxi
 监督者	vbmz
 临安市	vlfo
-金盘	tjzk
+金盘	tjdk
 乐极生悲	xyms
 仇怨	tgnj
 杨洁	yajp
@@ -48088,7 +48088,7 @@
 嗳气	oxuq
 伊兰特	tqwh
 飞跑	ndcg
-傲骨	tjyg
+傲骨	tlyg
 武库	ipmc
 实数	llfx
 几百亿	pqtn
@@ -48187,7 +48187,7 @@
 迎候	xdts
 花序	rtmb
 革命党	iefl
-追悔莫及	ghaa
+追悔莫及	rhaa
 嗟叹	ocog
 果穗	wyzh
 砂子	qjpz
@@ -48228,7 +48228,7 @@
 抛却	kghb
 叶圣陶	ogdg
 一代宗师	iolv
-缎带	acgl
+缎带	acvl
 承包者	zgmz
 右手边	xksn
 死不瞑目	noqq
@@ -48254,7 +48254,7 @@
 邹子川	ipkc
 防锈	dogz
 居间	shpw
-冲锋舟	dgzz
+冲锋舟	dgdz
 第七场	etha
 皇天不负有心人	riou
 捶胸顿足	kutc
@@ -48265,7 +48265,7 @@
 尼日利亚队	swzd
 掩蔽	kjro
 约旦队	awdu
-舶来品	zyor
+舶来品	dyor
 中央民族大学	gkjf
 四十几	ufpj
 改革者	jimz
@@ -48316,10 +48316,10 @@
 水分子	mipz
 接种率	kzfa
 里应外合	tmne
-帕瓦罗蒂	ocyr
+帕瓦罗蒂	oiyr
 挪威队	kpdu
 着魔	cqmy
-华埠	tmhg
+华埠	tmhr
 铁工	gvkg
 家信	lste
 术科	yezl
@@ -48355,7 +48355,7 @@
 斐然	sfne
 弥留之际	pxnd
 中书令	gzub
-罢官	yhlg
+罢官	yhlr
 查访	yweo
 庆生	mjmc
 人户	urth
@@ -48432,7 +48432,7 @@
 过河拆桥	kjky
 淮阳	jadw
 本纪	yiaj
-薛某	rgri
+薛某	rrri
 李珊	ypak
 胞弟	ugdp
 愈益	euqi
@@ -48491,7 +48491,7 @@
 零落	nuxu
 德格	nfyu
 杂色	gyiw
-逆反	dlog
+逆反	daog
 诡谲	eieb
 抢救性	kmhm
 发令	lfub
@@ -48697,7 +48697,7 @@
 侵权人	tyur
 获益匪浅	rqnj
 对答	gkee
-瓦格纳	cyab
+瓦格纳	iyab
 路见不平	ckoh
 乌迪内斯	ovbq
 承兑	zmdo
@@ -48722,19 +48722,19 @@
 冯仑	dvum
 宁都	lemd
 无产者	hbmz
-不尽然	ovne
+不尽然	ogne
 窦娥	lfxk
 彭勃	pqfp
 北川	dmkc
 由得	vynw
 压境	ohho
-呃逆	oodl
+呃逆	ooda
 成长率	pufa
 前肢	quuf
 大失	jdvs
 不辞辛劳	oibs
 公函	ibzm
-砖瓦厂	qcoc
+砖瓦厂	qioc
 舌根	isyl
 名不副实	novl
 长清	ucjc
@@ -48799,7 +48799,7 @@
 晶格	wwyu
 阻值	dhtf
 满山遍野	jitt
-航模	zfya
+航模	dfya
 罗恩	ynuj
 呼号	omob
 坟场	hfha
@@ -48815,7 +48815,7 @@
 大牲畜	jwav
 营养学家	scfl
 负效应	ifmf
-行船	ntzp
+行船	ntdp
 一得	iynw
 一方面军	ioql
 英格兰国家队	ryqd
@@ -48894,7 +48894,7 @@
 楠木	ysym
 投递员	kdog
 薏苡	rors
-晕船	wlzp
+晕船	wldp
 献丑	sjzc
 复信	vwte
 骨料	ygfl
@@ -48923,7 +48923,7 @@
 民意代表	jooc
 鱼尾纹	lsaf
 息影	mqwj
-飞航	ndzf
+飞航	nddf
 吕蒙	oosp
 保护剂	tkfv
 广域网	mhpg
@@ -48963,7 +48963,7 @@
 互通有无	ibxh
 巴尔扎克	wikh
 海德格	jnyu
-物尽其用	wvqa
+物尽其用	wgqa
 衣兜	cyxs
 退而求其次	lqmd
 超前性	zqhm
@@ -49068,7 +49068,7 @@
 原理图	oauu
 果木	wyym
 误认	eoeu
-船期	zpqu
+船期	dpqu
 抛撒	kgku
 阶下囚	douu
 拍手叫好	kkox
@@ -49116,12 +49116,12 @@
 田径赛	vnla
 助益	hsqi
 基因库	qumc
-艇长	ztuc
+艇长	dtuc
 自住型	mtiv
 收购量	hgwi
 地漏	hljs
-迟发性	vlhm
-果脯	wyuh
+迟发性	glhm
+果脯	wyua
 养猪业	csry
 滨江区	jjng
 拍桌子	kbpz
@@ -49138,13 +49138,13 @@
 疾呼	mvom
 触媒	iaxr
 维埃里	ahtl
-垂涎三尺	ijyv
+垂涎三尺	ijyg
 陈郁	dcxu
 离岛	fhoi
 报废车	kmcc
 中国音像协会	guou
 簸箕	eqeq
-萨博	rdfh
+萨博	rdfa
 上供	bitu
 王昭耀	awxl
 长相厮守	uiol
@@ -49206,7 +49206,7 @@
 机井	ypaj
 明辨是非	wbws
 卫东	dicj
-船型	zpiv
+船型	dpiv
 昭然若揭	wnrk
 陈凯	dcij
 强弩之末	pxny
@@ -49451,7 +49451,7 @@
 周朝	phff
 刘春燕	fcro
 盲文	fqfw
-舷梯	zayd
+舷梯	dayd
 危局	iosd
 长泰	uccm
 朱文	yzfw
@@ -49482,7 +49482,7 @@
 第二起	epzj
 阿勒泰	dicm
 周转金	pctj
-小算盘	jezk
+小算盘	jedk
 遵义医学院	qend
 陈升	dcmr
 山包	isgb
@@ -49556,10 +49556,10 @@
 四季如春	uzxc
 吴仁宝	otla
 安哥拉队	lkkd
-余孽	eyrg
+余孽	eyrr
 北京工业大学	dskf
 消费率	jpfa
-嗤嗤	olol
+嗤嗤	oaoa
 缠绵悱恻	aahh
 蜚声	skss
 草木灰	ryxz
@@ -49604,7 +49604,7 @@
 宫腔镜	lugo
 通辽	bazk
 北京公司	dsid
-测量船	jwzp
+测量船	jwdp
 马兰	vmqp
 黄炎培	uzhb
 围产期	ubqu
@@ -49646,7 +49646,7 @@
 士绅	hsaw
 多特	nnwh
 想法子	ijpz
-两弹一星	zpiw
+两弹一星	rpiw
 语言类	eefj
 力行	slnt
 有情有义	xhxe
@@ -49690,7 +49690,7 @@
 少儿不宜	jlol
 岑子吟	ipou
 黄袍	uvcg
-瓦罐	cwwr
+瓦罐	iwwr
 头功	ltks
 工薪族	krov
 金氏	tjxt
@@ -49719,7 +49719,7 @@
 丽水市	imfo
 高金素梅	stcy
 半熟	ybsg
-洋浦	jcjh
+洋浦	jcja
 铜质	gpof
 克洛斯	hjqh
 同文	pifw
@@ -49753,7 +49753,7 @@
 营垒	sobb
 青稞	cqzw
 兼而有之	qqxn
-夜航	ftzf
+夜航	ftdf
 王先	awwl
 言之凿凿	enrr
 徐伟	netp
@@ -49937,7 +49937,7 @@
 伊蒂哈德	tron
 青春年少	ccvj
 宗门	ltpm
-凸轮	wtcu
+凸轮	ktcu
 跃动	cmgs
 见机	kjyp
 子星	pzwm
@@ -49989,7 +49989,7 @@
 外轮	nbcu
 文治	fwjb
 龚学平	afhd
-贼船	gpzp
+贼船	gpdp
 调经	epah
 告罄	pgsp
 韩尚志	fxhe
@@ -50010,14 +50010,14 @@
 无伤大雅	htji
 修志	tuhe
 第四纪	euaj
-取之不尽	nnov
+取之不尽	nnog
 除颤	defi
 装裱	qhcc
 有机化学	xytf
 张东健	pctd
 坝子	hgpz
 靖江	bcjk
-传送带	tqgl
+传送带	tqvl
 有法必依	xjet
 石堆	qsha
 议会大厦	eujo
@@ -50155,7 +50155,7 @@
 乔乔	mjmj
 劳动服务	sguu
 拉姆	kbxz
-舰桥	zkym
+舰桥	dkym
 亮堂	spfh
 啾啾	ozoz
 佳酿	trhe
@@ -50257,7 +50257,7 @@
 孙小姐	pjxh
 韩方	ffof
 劈成	sbpd
-猎捕	sukh
+猎捕	suka
 不惑之年	opnv
 中山区	ging
 宣萱	lixi
@@ -50268,7 +50268,7 @@
 随大流	djjf
 低地	txhl
 天不怕地不怕	iohh
-红盘	akzk
+红盘	akdk
 依稀可见	tzkk
 好有型	xxiv
 剥蚀	dmik
@@ -50296,7 +50296,7 @@
 世界时	pvwk
 司通	diba
 木人	ymur
-各尽所能	uvob
+各尽所能	ugob
 云贵高原	gkso
 幻术	adye
 毛毡	rmrb
@@ -50318,7 +50318,7 @@
 气韵	uqog
 杨越	yazp
 去职	hbno
-尽欢	vdgp
+尽欢	gdgp
 一年年	ivvj
 破案率	qlfa
 上海市公安局	bjfs
@@ -50333,7 +50333,7 @@
 自编自演	mamj
 脚心	uhex
 技术类	kyfj
-苦尽甘来	rvry
+苦尽甘来	rgry
 赵军	zglc
 苏中	rsgz
 吃着吃着	ococ
@@ -50388,7 +50388,7 @@
 局部性	sbhm
 问诊	poeu
 老许	mmew
-龙船	alzp
+龙船	aldp
 电子出版物	wppw
 闹情绪	pham
 犹犹豫豫	ssbb
@@ -50432,7 +50432,7 @@
 国教	uamp
 枯瘦	yhmr
 夏衍	qqnj
-瓦尔德内尔	cini
+瓦尔德内尔	iini
 旅舍	omeh
 人人自危	uumi
 后勤部	vrbo
@@ -50448,7 +50448,7 @@
 谨言慎行	eehn
 泱泱	jkjk
 坎大哈	hjoe
-飘带	htgl
+飘带	htvl
 溃疡性	jmhm
 许配	ewhj
 平步青云	hzcg
@@ -50463,7 +50463,7 @@
 吴忠	oige
 魂牵梦绕	gjya
 虚词	tred
-三长两短	yuzv
+三长两短	yurv
 原总经理	odaa
 普及型	qaiv
 霜降	nidu
@@ -50625,14 +50625,14 @@
 爪哇岛	mooi
 秋田	zzvt
 急不可耐	iokq
-小官	jxlg
+小官	jxlr
 高领	sgub
 干休所	htos
-基带	qhgl
+基带	qhvl
 挂牌量	kpwi
 价目表	tqco
 鸡飞狗跳	gnsc
-药铺	ragh
+药铺	raga
 踮脚	cmuh
 电解液	wijf
 家母	lszm
@@ -50808,7 +50808,7 @@
 韦斯特	pqwh
 妹妹们	xxtp
 取名叫	nnoh
-适航	inzf
+适航	indf
 东营市	csfo
 月历	uyos
 景泰	wscm
@@ -50851,7 +50851,7 @@
 仰天长叹	tiuo
 日照市	wwfo
 清末民初	jyjc
-迟延	vnmz
+迟延	gnmz
 王志刚	ahpg
 劳动改造	sgjp
 监票人	vhur
@@ -50966,7 +50966,7 @@
 芝麻油	rmjv
 独生女	smxn
 遗传物质	ktwo
-吸盘	oazk
+吸盘	oadk
 余家	eyls
 黄耀明	uxwu
 修理费	tapv
@@ -51105,7 +51105,7 @@
 诺曼	erwy
 喳喳	oyoy
 平仄	hdou
-板带	yogl
+板带	yovl
 张蕾	purn
 发落	lfxu
 姜维	cxaa
@@ -51165,7 +51165,7 @@
 过从	kncc
 稀粥	zgpf
 治校	jbyf
-出航	pczf
+出航	pcdf
 富含维	luaa
 仓惶	ychr
 骨子	ygpz
@@ -51184,7 +51184,7 @@
 地方时	howk
 部首	boqm
 颓丧	zpfq
-朔方	dlof
+朔方	daof
 塞北	ladm
 剪力	qusl
 柳江	yxjk
@@ -51222,7 +51222,7 @@
 索菲	flrs
 训诫	ekep
 彩画	xyiv
-航运业	zgry
+航运业	dgry
 受冲击	xdhh
 永定河	eljk
 鸡西	gohx
@@ -51302,7 +51302,7 @@
 元阳	dydw
 打入冷宫	kmdl
 圣战者	gbmz
-舰炮	zkzg
+舰炮	dkzg
 依然如故	tnxh
 杀伐	gytp
 怨不得	nonw
@@ -51332,7 +51332,7 @@
 张全	putq
 区组	ngah
 文家	fwls
-吊带裙	ogcd
+吊带裙	ovcd
 复兴社会党	vfcf
 草味	rwoy
 第二台	epbo
@@ -51343,8 +51343,8 @@
 白鹭洲	rcjk
 候选者	twmz
 生不逢时	mouw
-餐盘	bgzk
-连滚带爬	cjgm
+餐盘	bgdk
+连滚带爬	cjvm
 缩放	alou
 障眼法	dqjh
 既成	lkpd
@@ -51405,7 +51405,7 @@
 乡邻	amub
 密特朗	lwel
 格罗兹尼	yyqs
-舱盖	zyck
+舱盖	dyck
 出花	pcrt
 旧历	ewos
 常规性	fzhm
@@ -51473,7 +51473,7 @@
 黔西	vuhx
 准备准备	dudu
 希热多吉	gdnp
-盘根错节	zygr
+盘根错节	dygr
 歌舞升平	kvmh
 变调	rgep
 吹打	opke
@@ -51572,9 +51572,9 @@
 要旨	hxmw
 抢建	kydh
 北京大学光华管理学院	dsjd
-扎瓦赫里	kcht
+扎瓦赫里	kiht
 维族	aaov
-一般化	iztm
+一般化	idtm
 王昭君	awdm
 绵薄之力	axns
 于老师	hmvi
@@ -51588,7 +51588,7 @@
 青苗	cqrv
 阿玛尼	dasm
 水泥浆	mjqn
-追根溯源	gyjj
+追根溯源	ryjj
 吸湿	oajw
 厦门火车站	opzb
 脱缰	udai
@@ -51601,7 +51601,7 @@
 沙弥	jjpi
 业经	ryah
 言过其实	ekql
-第二辆	epcz
+第二辆	epcr
 紫草	zmrw
 抚琴	khaa
 牧人	wuur
@@ -51612,7 +51612,7 @@
 挤眉弄眼	ksaq
 良法	eljh
 花博会	rfug
-两地分居	zhis
+两地分居	rhis
 新记录	bedm
 掌纹	fkaf
 广发证券股份有限公司	mled
@@ -51621,7 +51621,7 @@
 珠宝商	alus
 却步	hbzj
 袖套	cvjc
-薄情	xhhc
+薄情	xahc
 橙皮	yzap
 西泠印社	hjxc
 日益强大	wqpj
@@ -51661,7 +51661,7 @@
 妇女运动	xxgg
 草花	rwrt
 换汤不换药	kjor
-船家	zpls
+船家	dpls
 瑞安市	alfo
 多数票	nfht
 林雪	ylnd
@@ -51707,7 +51707,7 @@
 铁中棠	ggfy
 相托	ixkm
 弄通	arba
-一刀两断	inzf
+一刀两断	inrf
 茶油	rujv
 李震	ypno
 恋战	rebp
@@ -51793,9 +51793,9 @@
 张海迪	pjvn
 新加坡交易所	bfho
 直拨	fhkl
-扎瓦希里	kcgt
+扎瓦希里	kigt
 采购法	xgjh
-桀骜	njjv
+桀骜	njlv
 如皋	xorj
 成华区	ptng
 陈兵	dchi
@@ -51852,7 +51852,7 @@
 学到老	fimm
 穿透性	lzhm
 红旗渠	aojn
-第七舰	etzk
+第七舰	etdk
 轻量化	cwtm
 本票	yiht
 牛皮纸	waax
@@ -51872,7 +51872,7 @@
 复句	vwgo
 滑翔机	jcyp
 疾走	mvzz
-盘桓	zkyi
+盘桓	dkyi
 艾瑞	rgai
 方巾	ofoj
 金童	tjbt
@@ -52080,7 +52080,7 @@
 任正非	tisf
 尚方宝剑	xole
 洛美	jucj
-薄冰	xhdm
+薄冰	xadm
 出针	pcgf
 吟咏	ouoe
 红塔山	ahis
@@ -52159,7 +52159,7 @@
 刘姥姥	fxxm
 北京机场	dsyh
 本州	yikz
-两肋插刀	zukn
+两肋插刀	rukn
 前尘	qujh
 川北	kcdm
 张子初	ppcn
@@ -52190,7 +52190,7 @@
 下脚料	oufl
 隐伏	ditj
 机座	ypmc
-穷追猛打	lgsk
+穷追猛打	lrsk
 林强	ylpa
 南关	sqqj
 阿片	dkpp
@@ -52254,7 +52254,7 @@
 供应站	tmbb
 同一类	pifj
 城运会	hgug
-追缉	gnao
+追缉	rnao
 宁德市	lnfo
 篮联	evnq
 文心雕龙	fepa
@@ -52334,8 +52334,8 @@
 萝岗区	ring
 不言不语	oeoe
 农村户口	oyto
-两制	zlwp
-尺骨	vcyg
+两制	rlwp
+尺骨	gcyg
 晚生	wimc
 浅表性	jchm
 冯军	dvlc
@@ -52398,7 +52398,7 @@
 淫羊藿	jcrn
 牌局	prsd
 强渡	pajm
-民航局	jzsd
+民航局	jdsd
 岿然不动	inog
 癫痫病	mmmi
 出现率	pafa
@@ -52417,7 +52417,7 @@
 人定胜天	ului
 血战到底	mbim
 华擎	tmru
-舱位	zytb
+舱位	dytb
 血渍	mkjc
 处变不惊	uroh
 过磷酸钙	kqhg
@@ -52434,7 +52434,7 @@
 推想	kaie
 地方税	hozd
 干菜	hgrx
-大师傅	jvth
+大师傅	jvta
 巴西利亚	whzr
 雷斯林	nqyl
 叔公	bjib
@@ -52550,7 +52550,7 @@
 扑打	kbke
 防微杜渐	dryj
 河套	jkjc
-铺展	ghsu
+铺展	gasu
 湖口	jhok
 小冯	jxdv
 唐纳	mdab
@@ -52683,7 +52683,7 @@
 绝处逢生	auum
 复兴路	vfcu
 安以轩	lsch
-事不宜迟	kolv
+事不宜迟	kolg
 凝集素	daca
 龙海市	ajfo
 温兆伦	jdtu
@@ -52695,7 +52695,7 @@
 精美绝伦	fcat
 南京火车站	sszb
 阿方	dkof
-迟暮	vnaw
+迟暮	gnaw
 遇害者	vlmz
 难色	gaiw
 楠竹	ysez
@@ -52800,7 +52800,7 @@
 金山区	ting
 更待何时	gntw
 百褶裙	qccd
-南方航空公司	sozd
+南方航空公司	sodd
 一病不起	imoz
 朝鲜劳动党中央委员会	flsu
 虚惊	trhs
@@ -52861,7 +52861,7 @@
 招贴	kngb
 王旭明	agwu
 开瓶器	iqrj
-杂货铺	gtgh
+杂货铺	gtga
 兽类	dvfj
 佩刀	tpnd
 营口港	soju
@@ -52896,16 +52896,16 @@
 蒋燕皎	rrrf
 等闲之辈	epns
 小蒋	jxrq
-咱们俩	ottz
+咱们俩	ottr
 张海诺	pjer
 白铁	rbgv
-半斤八两	yhiz
+半斤八两	yhir
 导游员	jjog
 画蛇添足	ikjc
 丰沛	sfji
 法儿	jhle
 巴尔赞	wiww
-神甫	cwhf
+神甫	cwaf
 漏网之鱼	jpnl
 南沙群岛	sjdo
 玄黄	axuv
@@ -52943,7 +52943,7 @@
 集体舞	atvn
 海绵窦	jalf
 农机化	oytm
-炮艇	zgzt
+炮艇	zgdt
 蒋宏伟	rltp
 常务董事	furk
 胡杨林	hyyl
@@ -52975,7 +52975,7 @@
 埃弗顿队	hptd
 擀面	kuqy
 本赛段	ylcp
-斤两	hjzl
+斤两	hjrl
 裤头	cmlt
 苦中作乐	rgtx
 若然	rxne
@@ -52986,7 +52986,7 @@
 红色娘子军	aixl
 解疑	iamv
 引火	pezh
-李林甫	yyhf
+李林甫	yyaf
 便民措施	tjko
 定息	limq
 大酱	jdqn
@@ -53133,7 +53133,7 @@
 坐办公室	csil
 王洁	awjp
 道统	qmaf
-薛家	rgls
+薛家	rrls
 麦秸	cuzp
 清清爽爽	jjjj
 深广	jlmg
@@ -53292,7 +53292,7 @@
 种羊	zgcy
 素食者	cimz
 千娇百媚	ixqx
-散货船	utzp
+散货船	utdp
 临河	vejk
 败落	guxu
 黔西县	vhhb
@@ -53363,9 +53363,9 @@
 特型	whiv
 国歌声	ukss
 张大妈	pjxv
-舷窗	zalw
+舷窗	dalw
 生搬硬套	mkqj
-太空舱	jlzy
+太空舱	jldy
 寡言	lqey
 蒙山	spis
 展览业	svry
@@ -53392,7 +53392,7 @@
 略过	vukn
 娘子军	xplc
 别后	kvvo
-色带	iwgl
+色带	iwvl
 班班长	aauc
 鲁豫有	lbxu
 广告界	mpvu
@@ -53472,7 +53472,7 @@
 莫宁	amle
 征和	nizo
 假面具	tqhi
-西博	hxfh
+西博	hxfa
 巴格达蒂斯	wyjq
 付诸东流	tecj
 海洋法	jjjh
@@ -53490,7 +53490,7 @@
 高安	sglx
 富户	lvth
 晚唐	wimd
-追授	gnkx
+追授	rnkx
 棋风	yqpf
 塔什干	hthg
 休闲食品	tpio
@@ -53577,7 +53577,7 @@
 压缩性	oahm
 莫代尔	aoij
 疏水	zzms
-拖带	kvgl
+拖带	kvvl
 优先股	twup
 乔洪	mjju
 可靠度	kpmr
@@ -53642,7 +53642,7 @@
 岳天杨	hiya
 小气鬼	jurl
 国色天香	uiiz
-长航	uczf
+长航	ucdf
 小年轻	jvch
 卓然	bwne
 富阳县	ldhb
@@ -53679,7 +53679,7 @@
 先声	wlss
 人间地狱	uphs
 仁政	tpiz
-商埠	ushg
+商埠	ushr
 徐荣	nesy
 花园酒店	rujm
 审案	lwlx
@@ -53887,7 +53887,7 @@
 科技奖	zkqn
 点石成金	bqpt
 世俗化	pttm
-史官	oglg
+史官	oglr
 不露声色	onsi
 莱恩	ryuj
 虎牢	tplw
@@ -53914,7 +53914,7 @@
 巴伦西亚	wthr
 真假难辨	ftgb
 调令	epub
-菖蒲	rwxh
+菖蒲	rwxa
 环行	aont
 吉普赛	pqla
 夸口	jpok
@@ -53939,7 +53939,7 @@
 票根	htyl
 海丰	jvsf
 草纸	rwax
-带钢	glgp
+带钢	vlgp
 戴远	fpdn
 郑芝龙	qral
 西语	hxen
@@ -53954,7 +53954,7 @@
 收尘	hujh
 累倒	vati
 拳击手	chks
-皮艇	apzt
+皮艇	apdt
 武隆	ipdu
 缺医少药	wnjr
 经心	ahex
@@ -53992,14 +53992,14 @@
 走捷径	zknh
 战争贩子	bigp
 气态	uqje
-热带鱼	dgly
+热带鱼	dvly
 论说	eued
 雨花石	nrqs
 试映	epwk
 一阵欢呼	idgo
 权能	ygbu
 校董	yfri
-官气	lguq
+官气	lruq
 足本	czyi
 翻晒	mvwh
 平谷区	heng
@@ -54120,7 +54120,7 @@
 北京市政协	dsff
 内斯塔	bqhr
 调演	epjl
-放盘	ouzk
+放盘	oudk
 软语	cpen
 大好河山	jxji
 贫雇农	itoo
@@ -54182,7 +54182,7 @@
 北约部队	dabd
 一专多能	ipnb
 良善	elcq
-辅音	choy
+辅音	caoy
 揭短	kwvi
 韩女士	fxhs
 分秒	ifzj
@@ -54197,12 +54197,12 @@
 景顺	wskq
 遗照	knwn
 张琦	puaj
-梨花带雨	zrgn
+梨花带雨	zrvn
 张老汉	pmjg
 金湖	tjjh
 杆状	yhqj
 键位	gdtb
-赵师傅	zvth
+赵师傅	zvta
 特洛伊	wjtd
 双流机场	gjyh
 替天行道	zinq
@@ -54260,7 +54260,7 @@
 沈琼	joas
 南钢	sqgp
 革命党人	iefu
-水面舰艇	mqzz
+水面舰艇	mqdd
 明德	wunf
 吴佩孚	otxp
 丙烷	ibzl
@@ -54284,19 +54284,19 @@
 文具店	fhmb
 轻骑兵	cvhi
 一炮打响	izko
-东方航空公司	cozd
+东方航空公司	codd
 邵阳市	ndfo
 闷酒	pejh
 染色法	jijh
 重赏	itfg
 林伯渠	ytjn
-官庄	lgmh
+官庄	lrmh
 南坡	sqha
 贺兰	fgqp
 睡相	qiix
 金堂	tjfh
 干贝	hggb
-诱捕	ezkh
+诱捕	ezka
 开阳县	idhb
 定产	libm
 高仁	sgtp
@@ -54334,13 +54334,13 @@
 媾和	xuzo
 登封市	zrfo
 琅琊	aeai
-博雅	fhie
+博雅	faie
 狮子大开口	spjo
 刘琦	fvaj
 过得硬	knqg
 分压	ifoh
 犹太复国主义	sjve
-倒带	tigl
+倒带	tivl
 校长们	yutp
 张馨予	psbe
 横截面	yfqy
@@ -54464,11 +54464,11 @@
 袖章	cvof
 票额	htlu
 驻颜	vfbm
-原微博	orfh
+原微博	orfa
 斯太尔	qjij
 访华团	etuk
 家风	lspf
-边带	sngl
+边带	snvl
 华表	tmco
 朱伟	yztp
 急行军	inlc
@@ -54483,7 +54483,7 @@
 关张	qjpu
 军威	lcpi
 南安市	slfo
-登陆艇	zdzt
+登陆艇	zddt
 袁岳	hohi
 损失率	kvfa
 突尼斯队	lsqd
@@ -54496,7 +54496,7 @@
 宣威	lipi
 卡里克	bthl
 蔡女士	rxhs
-卡瓦略	bcvu
+卡瓦略	bivu
 纯文学	affp
 耀星	xlwm
 理还乱	aoie
@@ -54700,10 +54700,10 @@
 复关	vwqj
 王锋	awgu
 三权分立	yyib
-薛阳	rgdw
+薛阳	rrdw
 接待量	knwi
 彭泽	pqjg
-瓦窑	cwlw
+瓦窑	iwlw
 第八天	eiij
 受精率	xffa
 赵传	zgtp
@@ -54743,7 +54743,7 @@
 曹寅	uwli
 自卫权	mdyg
 浩如烟海	jxzj
-蒲江	xhjk
+蒲江	xajk
 深圳市中级人民法院	jhfd
 羽衣	nycy
 秦华	cztm
@@ -54812,7 +54812,7 @@
 拐子	kkpz
 困乏	uymn
 警探	rukl
-蒲扇	xhtn
+蒲扇	xatn
 叩首	odqm
 汤勺	jage
 罗腾	ynuc
@@ -54824,13 +54824,13 @@
 夜长梦多	fuyn
 巨斧	nsyh
 约稿	agzs
-博茨瓦纳	frca
+博茨瓦纳	fria
 暴毙	wumn
 绿党	adfl
 源源不绝	jjoa
 李书记	yzej
 联邦法院	nsjd
-棒槌	ycyg
+棒槌	ycyr
 王进	awan
 朱昶	yzem
 编修	attu
@@ -54930,7 +54930,7 @@
 怡然自得	hnmn
 可看性	kkhm
 评论者	eemz
-陈一舟	dizz
+陈一舟	didz
 功成身退	kpnl
 牧歌	wukk
 左良玉	xeae
@@ -54976,7 +54976,7 @@
 名臣	none
 人头马	ulvm
 躲躲闪闪	nnpp
-博古	fhhg
+博古	fahg
 赏罚	fgye
 上皮性	bahm
 再立新功	abbk
@@ -55026,7 +55026,7 @@
 占用费	bapv
 白鳍豚	rlus
 曹臻	uwih
-追悔	gnhv
+追悔	rnhv
 梁氏	jnxt
 茅坑	rbhf
 稽首	zeqm
@@ -55056,7 +55056,7 @@
 巩义市	kefo
 直方图	fouu
 频数	zjfx
-舱室	zyli
+舱室	dyli
 颜氏	bmxt
 纨绔子弟	aapd
 男同胞们	vput
@@ -55205,7 +55205,7 @@
 被罩	cayb
 正宁县	ilhb
 满面春风	jqcp
-龙舟赛	azla
+龙舟赛	adla
 按摩法	kmjh
 中厚板	goyo
 毫不讳言	soee
@@ -55260,7 +55260,7 @@
 鄂西	rbhx
 玉腿	aeul
 说闲话	epei
-官制	lgwp
+官制	lrwp
 下关区	oqng
 肯不肯	zozu
 义正词严	eier
@@ -55341,7 +55341,7 @@
 虎穴	tplx
 张图	puuu
 求偶	metv
-心搏	exkh
+心搏	exka
 洋菜	jcrx
 丰衣足食	scci
 番石榴	mqyn
@@ -55402,7 +55402,7 @@
 早自习	wmdx
 量入为出	wmdp
 毛糙	rmfp
-博采	fhxy
+博采	faxy
 诸侯国	etua
 黄河路	ujcu
 东进	cjan
@@ -55477,7 +55477,7 @@
 范家	xjls
 庚午	mdww
 同病	pimi
-告官	pglg
+告官	pglr
 不得要领	onhu
 金坛	tjhg
 潘刚	jmpg
@@ -55553,7 +55553,7 @@
 热核	djys
 探察	kllz
 正本清源	iyjj
-立方英尺	borv
+立方英尺	borg
 乱闯	iepv
 赵丹	zgpf
 规范类	zxfj
@@ -55583,7 +55583,7 @@
 静脉窦	culf
 御泥坊	njho
 滴虫	jukc
-绶带	axgl
+绶带	axvl
 日本站	wybb
 福勒	cvis
 翻斗车	mlcc
@@ -55605,7 +55605,7 @@
 欢声雷动	gsng
 恩泽	ujjg
 天水市	imfo
-嗤笑	olem
+嗤笑	oaem
 任勇	ttba
 白垩纪	rraj
 柏宇	yrlh
@@ -55691,11 +55691,11 @@
 启运	togn
 龙争虎斗	aitl
 挂彩	krxy
-造山带	pigl
+造山带	pivl
 劫数	hbfx
 吴谷丰	oesf
 细弱	avpd
-船老大	zmjd
+船老大	dmjd
 东莞队	cxdu
 张利	puzv
 地广人稀	hmuz
@@ -55746,10 +55746,10 @@
 回采	uoxy
 圩堤	hhhw
 撤兵	kfhi
-席尔瓦	micw
+席尔瓦	miiw
 刘磊	fvqq
 酒力	jhsl
-比例尺	mtvc
+比例尺	mtgc
 痉挛性	mrhm
 第四站	eubb
 中超委员会	gzzu
@@ -55773,7 +55773,7 @@
 叶璇	ofao
 沽名钓誉	jngf
 杨笑	yaem
-盘缠	zkam
+盘缠	dkam
 第四十条	eufu
 书卷气	zcuq
 气头上	ulbi
@@ -55858,7 +55858,7 @@
 氨化	ultm
 借刀杀人	tngu
 宜兴市	lffo
-霞浦	nejh
+霞浦	neja
 来事	ydko
 妇孺皆知	xpmv
 长牙	ucie
@@ -55941,7 +55941,7 @@
 圭亚那	rrad
 祖母绿	czad
 杜康	yhmd
-施瓦布	ocxo
+施瓦布	oixo
 北三环	dyao
 越俎代庖	zuom
 有苦说不出	xrep
@@ -55965,7 +55965,7 @@
 华以刚	tspg
 密宗	lelt
 刘信	fvte
-李明博	ywfh
+李明博	ywfa
 玻璃板	aayo
 门客	pmlu
 还口	onok
@@ -56069,7 +56069,7 @@
 农发行	olnt
 徐海东	njcj
 坎肩	hptu
-杨师傅	yvth
+杨师傅	yvta
 文先生	fwmc
 翁帆	ibop
 同心圆	peuo
@@ -56132,7 +56132,7 @@
 霍里	natl
 摆谱	kyeq
 贼心	gpex
-中国航天科技集团公司	guzd
+中国航天科技集团公司	gudd
 政论	izeu
 匈牙利队	gizd
 小曼奇尼	jwjs
@@ -56160,7 +56160,7 @@
 悲天悯人	sihu
 炮楼	zgyf
 五湖	nwjh
-进尺	anvc
+进尺	angc
 胎位	ubtb
 丛刊	cihv
 戊午	pwww
@@ -56351,7 +56351,7 @@
 海富通	jlba
 泛酸	jmhb
 吕后	oovo
-盘锦市	zgfo
+盘锦市	dgfo
 飕飕	prpr
 茅舍	rbeh
 大展宏图	jslu
@@ -56367,7 +56367,7 @@
 近程	hnzo
 河坊街	jhnr
 出落	pcxu
-吊带衫	ogcr
+吊带衫	ovcr
 邹涛	idjs
 强人所难	puog
 吴德	oinf
@@ -56457,7 +56457,7 @@
 文艺批评	frke
 自力	mqsl
 若使	rxtg
-运输舰	gczk
+运输舰	gcdk
 地坛	hlhg
 昌黎	wwzg
 观礼台	gcbo
@@ -56488,7 +56488,7 @@
 轰天雷	cinv
 命运多舛	egnn
 通力	basl
-铺床	ghmy
+铺床	gamy
 顽劣	dqjs
 桡动脉	ygue
 倾斜度	temr
@@ -56499,7 +56499,7 @@
 覆水难收	hmgh
 万马奔腾	qvju
 精雕细刻	fpas
-烤盘	zmzk
+烤盘	zmdk
 匠心	nhex
 垫料	dhfl
 内胎	bnub
@@ -56542,7 +56542,7 @@
 胡荣华	hstm
 只只	oioi
 叶迁	ofin
-催泪瓦斯	tjcq
+催泪瓦斯	tjiq
 英吉利海峡	rpzi
 特出	whpc
 中江	gzjk
@@ -56577,7 +56577,7 @@
 冷星	duwm
 大竹	jdez
 周柏豪	pyss
-带菌	glru
+带菌	vlru
 精神赔偿	fcgt
 刘超	fvzn
 体循环	tnao
@@ -56641,7 +56641,7 @@
 抗暴	kfwu
 李莫	ypam
 李锋	ypgu
-敖东	jacj
+敖东	lacj
 黑河市	vjfo
 电脑派位	wujt
 见异思迁	kjvi
@@ -56702,7 +56702,7 @@
 热效应	dfmf
 副连长	vcuc
 余光中	exgz
-官衔	lgng
+官衔	lrng
 招引	knpe
 尊容	qkle
 偎依	tvtc
@@ -56768,7 +56768,7 @@
 张诚	puep
 土力学	hsfp
 跖骨	cqyg
-胡师傅	hvth
+胡师傅	hvta
 保护人	tkur
 竹器	ezrj
 金嗓子	topz
@@ -56798,7 +56798,7 @@
 马氏体	vxty
 韩乔生	fmmc
 铺路石	gcqs
-官爵	lgxl
+官爵	lrxl
 北卡罗来纳州	dbyk
 灰心丧气	xefu
 不留情	oxhc
@@ -56812,7 +56812,7 @@
 掌勺	fkge
 名扬天下	nkio
 南江	sqjk
-苦熬	rhjj
+苦熬	rhlj
 创建者	ydmz
 艾叶	rgof
 配器	hjrj
@@ -56903,7 +56903,7 @@
 遗民	knjt
 大权在握	jyxk
 无息贷款	hmoh
-英国航空公司	ruzd
+英国航空公司	rudd
 丝氨酸	auhb
 淮海战役	jjbn
 极盛	yapd
@@ -56925,7 +56925,7 @@
 百分制	qiwp
 哭着哭着	rcrc
 萨维奥拉	rawk
-贴敷	gbho
+贴敷	gbao
 贪便宜	utlh
 土丘	hthq
 筑牢	eklw
@@ -56948,7 +56948,7 @@
 德才	nfkc
 侍立	thbl
 萎黄	rzuv
-南京航空航天大学	sszf
+南京航空航天大学	ssdf
 龙之梦购物中心	anye
 千秋万代	izqo
 河北省委	jdjz
@@ -57069,7 +57069,7 @@
 攀援	yykx
 利润额	zjlu
 纽约大学	aajf
-航机	zfyp
+航机	dfyp
 吐苦水	orms
 谷牧	egwu
 繁殖力	vnsl
@@ -57113,7 +57113,7 @@
 增支	hdfg
 量变化	wrtm
 牛仔布	wtxo
-航务	zfus
+航务	dfus
 蜕皮	kdap
 胡琴	huaa
 沈默	jovj
@@ -57159,7 +57159,7 @@
 混饭吃	jiov
 弹丸之地	pgnh
 杨恭如	yuxo
-菲薄	rsxh
+菲薄	rsxa
 睁只眼	qoql
 作壁上观	tsbg
 旧闻	ewpn
@@ -57199,8 +57199,8 @@
 子贡	pzkg
 左拥右抱	xkxk
 王欢	awgp
-管带	elgl
-赘生物	jmwg
+管带	elvl
+赘生物	lmwg
 丙申	ibwe
 身教	nsmp
 古雅	hgie
@@ -57231,7 +57231,7 @@
 若兰	rxqp
 郭冬临	suve
 铸工	gskg
-卓一航	bizf
+卓一航	bidf
 阿阿阿	dddk
 含铁量	ugwi
 刘哲	fvkh
@@ -57240,7 +57240,7 @@
 蛇蝎	klkw
 尾音	sroy
 市北区	fdng
-尽义务	veus
+尽义务	geus
 老寿星	mswm
 五子棋	npyq
 伍尔兹	tiqa
@@ -57289,7 +57289,7 @@
 姓马	xmvm
 选民们	wjtp
 上海图书馆	bjui
-美国航空航天局	cuzs
+美国航空航天局	cuds
 平展	hdsu
 组织胺	aaul
 工大队	kjdu
@@ -57298,7 +57298,7 @@
 易县	wghb
 曹洪	uwju
 陈奕	dcrj
-执政官	dilg
+执政官	dilr
 拉下水	koms
 小家伙们	jltt
 小黎	jxzg
@@ -57313,7 +57313,7 @@
 头花	ltrt
 踢毽子	crpz
 不平衡性	ohnh
-方朔	ofdl
+方朔	ofda
 葱绿	rgad
 毕淑敏	mjvz
 界碑	vuqr
@@ -57382,7 +57382,7 @@
 冷声道	dsqm
 食性	ishm
 葛罗米柯	ryfy
-迟浩田	vjvt
+迟浩田	gjvt
 桥涵	ymjz
 笔误	ereo
 刘海儿	fjle
@@ -57410,7 +57410,7 @@
 饰演者	ijmz
 中信证券股份有限公司	gted
 力法	sljh
-拖家带口	klgo
+拖家带口	klvo
 张冠李戴	plyf
 领巾	uboj
 毛边	rmsn
@@ -57481,7 +57481,7 @@
 秦时竹	cwez
 第八代	eiod
 广州海关	mkjq
-舢板	ziyo
+舢板	diyo
 情夫	hczf
 李四光	yuxi
 赵涛	zgjs
@@ -57536,7 +57536,7 @@
 改线	juai
 损益表	kqco
 翻卷	mvcj
-瓦利	cwzv
+瓦利	iwzv
 佩里	tptl
 张骞	pula
 天真活泼	ifjj
@@ -57578,7 +57578,7 @@
 希拉	gxkb
 老态	mmje
 拉马丹	kvpf
-阜康	gfmd
+阜康	rfmd
 液流	jfjf
 六道轮回	fqcu
 双学位	gftb
@@ -57653,7 +57653,7 @@
 杜宇	yhlh
 异烟肼	jzua
 迸射	qrnk
-两国论	zueu
+两国论	rueu
 下痢	oxmz
 赵志芬	zhri
 记录者	edmz
@@ -57791,7 +57791,7 @@
 顶风作案	eptl
 黑龙江队	vajd
 巴西站	whbb
-阜新市	gbfo
+阜新市	rbfo
 学院路	fdcu
 陈政高	disg
 看涨期	kjqu
@@ -57884,7 +57884,7 @@
 新建县	bdhb
 桥本龙太郎	yyae
 王娇	awxm
-熬汤	jjja
+熬汤	ljja
 惠水	hwms
 醒觉	hwfk
 骨血	ygmk
@@ -57942,7 +57942,7 @@
 克莱斯勒公司	hrqd
 清心寡欲	jele
 知遇之恩	vvnu
-主带	fzgl
+主带	fzvl
 消音	jxoy
 各厂矿	uoqm
 点刺	bjyp
@@ -57968,7 +57968,7 @@
 三教九流	ymgj
 秦凯	czij
 风土	pfht
-瓦工	cwkg
+瓦工	iwkg
 大韩民国	jfju
 塔克拉玛干沙漠	hhkj
 鹰潭市	mjfo
@@ -58019,7 +58019,7 @@
 马克斯	vhqh
 韩念龙	fual
 崇德	ilnf
-咫尺天涯	vvij
+咫尺天涯	ggij
 观赏鱼	gfly
 京九线	sgai
 血证	mkei
@@ -58058,7 +58058,7 @@
 帐房	outo
 相乘	ixzd
 点动	bjgs
-工作带	ktgl
+工作带	ktvl
 知无不言	vhoe
 剪应力	qmsl
 叫屈	ohsp
@@ -58116,7 +58116,7 @@
 交流电	fjwe
 老米	mmfm
 滚边	jcsn
-三番两次	ymzd
+三番两次	ymrd
 沾湿	jbjw
 判据	yvks
 东奔西走	cjhz
@@ -58143,7 +58143,7 @@
 鱼竿	lyeh
 武义	ipeg
 陡生	dzmc
-逆水行舟	dmnz
+逆水行舟	dmnd
 游览车	jvcc
 敞开式	xipk
 民主同盟	jfpw
@@ -58234,7 +58234,7 @@
 猛子	sppz
 床榻	myyw
 沈阳赛区	jdln
-滞胀	jguu
+滞胀	jvuu
 矿坑	qmhf
 陆风	dhpf
 长春市公安局	ucfs
@@ -58248,7 +58248,7 @@
 戈兰高地	pqsh
 梅杰	yvyj
 一张口	ipok
-海航集团	jzau
+海航集团	jdau
 物理性质	waho
 玛莎拉蒂	axkr
 底角	mxia
@@ -58276,7 +58276,7 @@
 得饶人处且饶人	niuu
 张春燕	pcro
 华子书	tpzd
-薛冰	rgdm
+薛冰	rrdm
 敢想敢干	zizh
 王玉婷	aaxs
 心导管	ejel
@@ -58289,7 +58289,7 @@
 打小报告	kjkp
 竹排	ezks
 老幺	mmay
-博里	fhtl
+博里	fatl
 文化层	ftsg
 矜贵	bekg
 短句	vigo
@@ -58336,7 +58336,7 @@
 煎药	qura
 妹仔	xytp
 绞肉机	abyp
-官腔	lgul
+官腔	lrul
 张海丽	pjip
 新兴学科	bffz
 江苏南钢队	jrsd
@@ -58416,7 +58416,7 @@
 心胸开阔	euip
 邪魔	iemy
 木糖	ymfm
-盘阵列	zdnv
+盘阵列	ddnv
 黎巴嫩队	zwxd
 广德	mgnf
 卤菜	burx
@@ -58534,7 +58534,7 @@
 响彻云霄	ongn
 中南地区	gshn
 许小姐	ejxh
-签证官	eelg
+签证官	eelr
 乙型脑炎	niuz
 齐世杰	fpyj
 钻井队	gadu
@@ -58545,7 +58545,7 @@
 伊娃	tdxr
 沃顿	jmth
 平心	hdex
-两袖清风	zcjp
+两袖清风	rcjp
 朱梅	yzyv
 姨丈	xjgz
 呼天抢地	oikh
@@ -58665,7 +58665,7 @@
 百花园	qrud
 罗老师	ymvi
 搓麻	kcmy
-独木舟	syzz
+独木舟	sydz
 出头之日	plnw
 什么奖	tmqn
 储油	tejv
@@ -58695,7 +58695,7 @@
 闪联	punq
 百无禁忌	qhyj
 举目无亲	fqhb
-主航道	fzqm
+主航道	fdqm
 烈风	nvpf
 达州市	jkfo
 选曲	wlwv
@@ -58724,7 +58724,7 @@
 驿道	vgqm
 复课	vwew
 东省	cjjq
-傅家	thls
+傅家	tals
 言归正传	evit
 可当	kkxd
 自我表现	mkca
@@ -58812,7 +58812,7 @@
 德庆	nfmj
 受骗者	xvmz
 德班	nfah
-追述	gnye
+追述	rnye
 吸音	oaoy
 王阵	awdc
 揭竿而起	keqz
@@ -58989,7 +58989,7 @@
 命相	eoix
 北京教育考试院	dsmd
 异香	jrzw
-宇航员们	lzot
+宇航员们	ldot
 华表奖	tcqn
 刘老	fvmm
 华燕	tmro
@@ -59058,7 +59058,7 @@
 返回式	oupk
 有福同享	xcps
 中干	gzhg
-间带	pwgl
+间带	pwvl
 厚味	owoy
 李大妈	yjxv
 中国青少年发展基金会	gucu
@@ -59110,7 +59110,7 @@
 龟甲	iwvj
 敬祝	roco
 汤臣	jane
-美国航空公司	cuzd
+美国航空公司	cudd
 绞股蓝	aurv
 讲排场	ekha
 犹豫不定	sbol
@@ -59179,7 +59179,7 @@
 对火	gkzh
 别无他法	khtj
 华凌	tmdh
-十八般武艺	fizr
+十八般武艺	fidr
 妖术	xmye
 盗墓者	damz
 月形	uyir
@@ -59198,7 +59198,7 @@
 叶萧	ofrd
 套裙	jccd
 武媚	ipxs
-天官	ijlg
+天官	ijlr
 硬脊膜	qdua
 秭归	zmvd
 抛掷	kgkd
@@ -59225,7 +59225,7 @@
 卫生队	dmdu
 玉米期	afqu
 富裕中农	lcgo
-坚如磐石	vxzq
+坚如磐石	vxdq
 试讲	epea
 寿昌	skww
 复合式	vepk
@@ -59254,7 +59254,7 @@
 瞎指挥	qkkl
 道班	qmah
 架住	fytf
-盘菜	zkrx
+盘菜	dkrx
 脚力	uhsl
 下不了台	oozb
 姜家	cxls
@@ -59343,7 +59343,7 @@
 北京市地税局	dsfs
 观世音	gpoy
 大腕们	jutp
-博山	fhis
+博山	fais
 以和为贵	szdk
 货仓	tmyc
 兴城	fihp
@@ -59401,7 +59401,7 @@
 降雪量	dnwi
 独具一格	shiy
 新县	bhhb
-孙寿博	psfh
+孙寿博	psfa
 平和县	hzhb
 刑具	irhi
 僧道	tdqm
@@ -59545,11 +59545,11 @@
 药浴	raje
 芸豆	rgio
 长幼	ucas
-拖船	kvzp
+拖船	kvdp
 临阵脱逃	vdud
 守寡	lklq
 呈祥	oacc
-大埔	jdhh
+大埔	jdha
 押赴	kvzb
 怒发冲冠	xldl
 黑诺	vher
@@ -59567,7 +59567,7 @@
 巨商	nsus
 鸡新城疫	gbhm
 计算机安全	eeyt
-见风使舵	kptz
+见风使舵	kptd
 佳境	trho
 顺耳	kqne
 时来运转	wygc
@@ -59650,8 +59650,8 @@
 白海豚	rjus
 伏罗希洛夫	tygz
 供水量	tmwi
-价带	tugl
-船民	zpjt
+价带	tuvl
+船民	dpjt
 百济	qwjf
 督师	bgvi
 红得发紫	anlz
@@ -59670,7 +59670,7 @@
 雅量	iewi
 不成器	oprj
 特产品	wbor
-雨带	nygl
+雨带	nyvl
 夹着尾巴	zcsw
 刘忠德	fgnf
 锅台	gobo
@@ -59807,7 +59807,7 @@
 宇宙观	llgk
 戴春华	fctm
 老万	mmqd
-两重性	zihm
+两重性	rihm
 一组组	iaah
 跳跃性	cchm
 进谏	aney
@@ -59851,7 +59851,7 @@
 端平	bihd
 教师法	mvjh
 交结	fyap
-瓦努阿图	cxdu
+瓦努阿图	ixdu
 比萨饼	mriq
 工艺美术品	krco
 病容	mile
@@ -59890,7 +59890,7 @@
 何异	tkjr
 朱海	yzjv
 张清兰	pjqp
-滞洪	jgju
+滞洪	jvju
 南沙区	sjng
 一派胡言	ijhe
 流体力学	jtsf
@@ -59991,10 +59991,10 @@
 龚家龙	alal
 加拉斯	fkqh
 智能网	vbpg
-瓷盘	dpzk
+瓷盘	dpdk
 明察	wulz
 丽江市	ijfo
 大行政区	jnin
 金银财宝	tggl
-引航	pezf
+引航	pedf
 悲观者	sgmz
