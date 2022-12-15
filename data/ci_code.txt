@@ -97,7 +97,7 @@
 其中	qqgz
 服务	udus
 不过	obkn
-虽然	asne
+虽然	okne
 以及	syaj
 有关	xuqj
 结果	apwy
@@ -224,7 +224,7 @@
 基础	qhqp
 任何	tttk
 一般	iysp
-加强	djpa
+加强	djpo
 经过	ahkn
 工程	kgzo
 治疗	jbmz
@@ -705,7 +705,7 @@
 普通	qrba
 依然	tcne
 交流	fyjf
-强调	paep
+强调	poep
 透露	zavc
 整体	yuty
 加入	djme
@@ -818,7 +818,7 @@
 父亲	yfbq
 软件	cptw
 往往	nfnf
-增强	hdpa
+增强	hdpo
 观众	gkun
 女儿	xnle
 一边	iysn
@@ -992,7 +992,7 @@
 住房	tfto
 很难	nlga
 估计	thef
-强烈	panv
+强烈	ponv
 斗争	ldid
 广泛	mgjm
 近期	hnqu
@@ -1005,7 +1005,7 @@
 矛盾	beof
 房子	topz
 拍摄	krkn
-强大	pajd
+强大	pojd
 部队	bodu
 收到	huih
 和谐	zoem
@@ -1635,7 +1635,7 @@
 类型	fjiv
 早就	wfsj
 分布	ifxo
-强化	patm
+强化	potm
 过年	knvj
 礼物	cewg
 高速	sgyo
@@ -1870,7 +1870,7 @@
 秩序	zvmb
 玻璃	aaaf
 冲突	dglj
-坚强	vgpa
+坚强	vgpo
 披露	kavc
 调节	eprd
 屏幕	sqao
@@ -2612,7 +2612,7 @@
 补偿	cbtx
 首席	qmmr
 轻易	chwg
-强度	pamr
+强度	pomr
 之上	nzbi
 灵魂	dzgr
 失误	vseo
@@ -2815,7 +2815,7 @@
 肌肉	upbu
 迎来	xdyd
 在下	xhox
-强劲	pahk
+强劲	pohk
 美容	cjle
 安慰	lxsk
 晨报	wokd
@@ -3143,7 +3143,7 @@
 丝毫	aasr
 争议	idee
 无效	hefy
-强制	pawp
+强制	powp
 总部	dobo
 饭店	iomb
 若是	rxwi
@@ -3559,7 +3559,7 @@
 必将	emqn
 转型	cpiv
 杀人	gyur
-较强	cfpa
+较强	cfpo
 荷兰	rtqp
 海上	jvbi
 许多人	enur
@@ -4386,7 +4386,7 @@
 宽容	lrle
 证券市场	ecfh
 佩服	tpud
-勉强	ilpa
+勉强	ilpo
 深圳市	jhfo
 被子	capz
 恰恰	hehe
@@ -4598,7 +4598,7 @@
 教导	mpjk
 平米	hdfm
 麻将	myqn
-强迫	parn
+强迫	porn
 星星	wmwm
 饲养	idce
 相差	ixck
@@ -4797,7 +4797,7 @@
 午餐	wwbg
 腹部	uvbo
 出事	pcko
-强行	pant
+强行	pont
 意愿	oeor
 型号	ivob
 十月	fsuy
@@ -5548,7 +5548,7 @@
 榜样	ybyc
 出院	pcdl
 不通	obba
-顽强	dqpa
+顽强	dqpo
 违背	pddm
 服务中心	uuge
 机器人	yrur
@@ -5570,7 +5570,7 @@
 报酬	kdhk
 陶瓷	dgdp
 到手	ihks
-虽说	ased
+虽说	oked
 祝愿	coor
 戒指	prkm
 不可思议	okve
@@ -6188,7 +6188,7 @@
 附加	dtdj
 天啊	ijod
 搬迁	ksin
-强奸	paxh
+强奸	poxh
 数千	fxiq
 鉴别	vehv
 收支	hufg
@@ -6475,7 +6475,7 @@
 相识	ixeo
 良心	elex
 低温	txjw
-强力	pasl
+强力	posl
 金刚	tjpg
 洛阳	judw
 无视	heck
@@ -6982,7 +6982,7 @@
 赞赏	wwfg
 小儿	jxle
 首家	qmls
-强硬	paqg
+强硬	poqg
 迷茫	fnxf
 首场	qmha
 比利时	mzwk
@@ -7206,7 +7206,7 @@
 客流	lujf
 罪名	ysno
 迈出	qdpc
-强悍	pahw
+强悍	pohw
 字母	lplm
 阴道	duqm
 胸口	ugok
@@ -8685,7 +8685,7 @@
 状元	qjdy
 增设	hdep
 高峰期	siqu
-虽是	aswi
+虽是	okwi
 不用说	oaed
 作弊	tndu
 假冒伪劣	twtj
@@ -9022,7 +9022,7 @@
 罗马尼亚	yvsr
 外资企业	ndur
 趣味	znoy
-强国	paua
+强国	poua
 阿弥陀佛	dpdt
 变量	rgwi
 大坝	jdhg
@@ -9069,7 +9069,7 @@
 网卡	pgbo
 意境	oeho
 名声	noss
-强者	pamz
+强者	pomz
 全额	tqlu
 聚焦	ngaj
 野外	tbnb
@@ -10219,7 +10219,7 @@
 组装	ahqh
 减产	dpbm
 遵照	qkwn
-倔强	tspa
+倔强	tspo
 跟不上	cobi
 准备金率	dutf
 指纹	kmaf
@@ -10380,7 +10380,7 @@
 缤纷	alai
 清查	jcyw
 过日子	kwpz
-强盗	padp
+强盗	podp
 转眼	cpql
 上阵	bidc
 农用	ooay
@@ -10415,7 +10415,7 @@
 郭德纲	snap
 进修	antu
 动词	gsed
-强求	pame
+强求	pome
 叫声	ohss
 有效性	xfhm
 未免	ywio
@@ -10928,7 +10928,7 @@
 曙光	wyxi
 拉拉	kbkb
 军舰	lcsk
-强壮	paqh
+强壮	poqh
 劫持	hbkh
 真真	fhfh
 禁忌	ytje
@@ -11816,7 +11816,7 @@
 体育运动	tfgg
 主动性	fghm
 玩法	adjh
-高强	sgpa
+高强	sgpo
 活检	jiye
 丛林	niyl
 急切	idtn
@@ -11999,7 +11999,7 @@
 静止	cuzz
 拉美	kbcj
 逼迫	vnrn
-小强	jxpa
+小强	jxpo
 妄想	fxie
 风俗	pfte
 戒烟	przu
@@ -12194,7 +12194,7 @@
 夜班	ftah
 混淆	jwjg
 随处可见	dukk
-李强	yppa
+李强	yppo
 坐标	nhyt
 原装	orqh
 元气	dyuq
@@ -12396,7 +12396,7 @@
 现出	akpc
 午睡	wwqi
 副业	vvry
-张强	pupa
+张强	pupo
 控制器	kwrj
 港湾	jujr
 变色	rgiw
@@ -13016,7 +13016,7 @@
 晃动	wxgs
 内功	bnks
 国语	uaen
-自强	mqpa
+自强	mqpo
 屠宰	smlb
 敲响	sbow
 为时	dswk
@@ -13618,7 +13618,7 @@
 旁听	booh
 记起	ejzj
 修长	tuuc
-强弱	papd
+强弱	popd
 解围	iaup
 夏威夷	qpjp
 手握	ksks
@@ -13662,7 +13662,7 @@
 并举	qrfi
 京华	sjtm
 老前辈	mqsc
-强攻	paku
+强攻	poku
 侄子	tipz
 猛增	sphd
 旗号	oqob
@@ -14307,7 +14307,7 @@
 合乎	eomd
 现成	akpd
 兴旺	fiwa
-强于	pahy
+强于	pohy
 矛头	belt
 税额	zdlu
 华山	tmis
@@ -15048,7 +15048,7 @@
 父女	yfxn
 赛会	laug
 山脚	isuh
-强赛	pala
+强赛	pola
 伟人	tpur
 冬眠	udqj
 挫败	kngu
@@ -15194,7 +15194,7 @@
 战备	bpuv
 刺痛	ypmb
 女婴	xngg
-要强	hxpa
+要强	hxpo
 整数	yufx
 海事	jvko
 教员	mpog
@@ -15956,7 +15956,7 @@
 启迪	tovn
 铲除	gbde
 日文	wrfw
-好强	xppa
+好强	xppo
 交换机	fkyp
 贩子	gopz
 观战	gkbp
@@ -16126,7 +16126,7 @@
 中国工商银行	gukn
 乱说	ieed
 当权派	xyjo
-强项	pakq
+强项	pokq
 青龙	cual
 多亏	nnpb
 双倍	ggtb
@@ -17286,7 +17286,7 @@
 钙化	gitm
 投射	kpnk
 门路	pmcu
-富强	lvpa
+富强	lvpo
 临死	venm
 糖水	fmms
 商业性	urhm
@@ -19129,7 +19129,7 @@
 杀伤性	gthm
 书法家	zjls
 习性	dxhm
-逞强	oapa
+逞强	oapo
 影后	wjvo
 欠薪	pqrb
 之流	nzjf
@@ -19299,7 +19299,7 @@
 财政资金	gidt
 无益	heqi
 回身	uons
-强暴	pawu
+强暴	powu
 场子	hapz
 尖刀	jjnd
 积攒	zokw
@@ -19475,7 +19475,7 @@
 李三思	yyve
 直白	fhrb
 同济大学	pjjf
-强盛	papd
+强盛	popd
 榜上有名	ybxn
 燕麦	rocu
 行将	ntqn
@@ -19621,7 +19621,7 @@
 卢布	bsxo
 固化	uhtm
 进发	anlf
-强加	padj
+强加	podj
 一月份	iuti
 离异	fhjr
 王后	awvo
@@ -19998,7 +19998,7 @@
 限制性	dwhm
 善解人意	ciuo
 奢求	jmme
-任志强	thpa
+任志强	thpo
 御寒	nvla
 不灵	obdz
 切切	tntn
@@ -21085,7 +21085,7 @@
 施政	oliz
 入眠	meqj
 上上下下	bboo
-列强	nvpa
+列强	nvpo
 换手率	kkfa
 新兴产业	bfbr
 小平同志	jhph
@@ -21711,7 +21711,7 @@
 冥王星	lawm
 身家	nsls
 杂费	gypv
-强健	patd
+强健	potd
 祖籍	chey
 故居	hush
 护发	ktlf
@@ -22028,7 +22028,7 @@
 临街	venr
 传唤	tpoi
 阵风	dcpf
-强权	payg
+强权	poyg
 白鹭	rbcu
 发情	lfhc
 翩翩	tktk
@@ -23693,7 +23693,7 @@
 秦淮河	cjjk
 医学界	nfvu
 金丹	tjpf
-强人	paur
+强人	pour
 捉住	kctf
 乱跑	iecg
 不能自拔	obmk
@@ -24118,7 +24118,7 @@
 吉祥如意	pcxo
 转行	cpnt
 胶水	ufms
-强身	pans
+强身	pons
 多态性	njhm
 戏院	gpdl
 兵营	hiso
@@ -24712,7 +24712,7 @@
 巧遇	kbvp
 截断	fpfe
 服务型	uuiv
-王强	awpa
+王强	awpo
 打翻	kemv
 背光	dmxi
 扫视	kdck
@@ -24918,7 +24918,7 @@
 青云	cugy
 器物	rjwg
 蚯蚓	khkp
-强光	paxi
+强光	poxi
 反应性	omhm
 生存期	mxqu
 出口处	poub
@@ -25840,7 +25840,7 @@
 兴冲冲	fddg
 花白	rtrb
 白面	rbqy
-牵强	jlpa
+牵强	jlpo
 字条	lpuy
 韩信	ffte
 建校	dhyf
@@ -26330,7 +26330,7 @@
 减掉	dpkb
 高消费	sjpv
 对称性	gzhm
-强手	paks
+强手	poks
 西宁市	hlfo
 文昌	fwww
 李雷雷	yvvv
@@ -26601,7 +26601,7 @@
 工棚	kgyu
 楼板	yfyo
 平实	hdll
-强战	pabp
+强战	pobp
 教条	mpuy
 鲜亮	ncsp
 领航	ubsf
@@ -26705,7 +26705,7 @@
 活捉	jikc
 软软的	ccrg
 傲然	tnne
-萧强	rdpa
+萧强	rdpo
 果农	wyoo
 穴道	lxqm
 展期	suqu
@@ -29605,7 +29605,7 @@
 锲而不舍	gqoe
 求全	metq
 屠宰场	slha
-林晓强	ywpa
+林晓强	ywpo
 怪胎	hgub
 看跌	kqcv
 专刊	pbhv
@@ -29874,7 +29874,7 @@
 株高	yysg
 大哥大	jkjd
 慢悠悠	httu
-刚强	pgpa
+刚强	pgpo
 记不得	eonw
 拖入	kvme
 给水	aems
@@ -30597,7 +30597,7 @@
 证明书	ewzd
 郭焱	spzz
 砂浆	qjqn
-虽然如此	anxz
+虽然如此	onxz
 体细胞	taug
 大巴车	jwcc
 讲义气	eeuq
@@ -32927,7 +32927,7 @@
 蔡琴	rzaa
 钱钟书	ggzd
 书展	zdsu
-强效	pafy
+强效	pofy
 东南西北	cshd
 聊城	nxhp
 幕府	aomt
@@ -33397,7 +33397,7 @@
 休会	tyug
 昏过去	xkhb
 站票	bbht
-强横	payu
+强横	poyu
 放声大哭	osjr
 林语堂	yefh
 经济学奖	ajfq
@@ -33422,7 +33422,7 @@
 迟滞	bnjg
 钱柜	giyn
 半瓶	ybqr
-强占	pabz
+强占	pobz
 春城	cwhp
 富丽堂皇	lifr
 游艺	jorn
@@ -34007,7 +34007,7 @@
 杨氏	yaxt
 京东方	scof
 评书	ehzd
-刘强	fvpa
+刘强	fvpo
 王飞	awnd
 甜瓜	irpg
 流光溢彩	jxjx
@@ -35018,7 +35018,7 @@
 潮涌	jfjb
 武陵	ipdh
 乡愁	amzz
-强风	papf
+强风	popf
 周鹤洋	pljc
 无物	hewg
 佛寺	tphk
@@ -35164,7 +35164,7 @@
 本季	yizp
 客官	lulr
 题字	wzlp
-压强	ohpa
+压强	ohpo
 曹禺	uwvp
 星罗棋布	wyyx
 方始	ofxb
@@ -35247,7 +35247,7 @@
 赵氏	zgxt
 残片	nipp
 腐乳	mtxp
-场强	hapa
+场强	hapo
 核医学	ynfp
 登峰造极	zipy
 录影	dmwj
@@ -36951,7 +36951,7 @@
 吉利汽车	pzjc
 干草	hgrw
 校规	yfzk
-豪强	sspa
+豪强	sspo
 七步成诗	tzpe
 旷日持久	wwki
 波涛汹涌	jjjj
@@ -37516,7 +37516,7 @@
 搭话	krei
 顶天立地	eibh
 频度	zjmr
-强征	pani
+强征	poni
 望子成龙	fppa
 出人命	pueo
 亲善	bqcq
@@ -37586,7 +37586,7 @@
 两条腿走路	ruuc
 没跑	jpcg
 绚丽多彩	ainx
-强强	papa
+强强	popo
 拖泥带水	kjgm
 狂轰滥炸	scjz
 常见于	fkhy
@@ -37815,7 +37815,7 @@
 刘春明	fcwu
 空闲时间	lpwp
 陈寒	dcla
-贺国强	dupa
+贺国强	dupo
 发电站	lwbb
 搞垮	kshj
 考分	mbif
@@ -39664,7 +39664,7 @@
 药酒	rajh
 死记硬背	neqd
 传播者	tkmz
-强令	paub
+强令	poub
 太平间	jhpw
 放射线	onai
 厂商们	outp
@@ -40369,7 +40369,7 @@
 福井俊彦	catb
 英名	rkno
 世界报	pvkd
-强生	pamc
+强生	pomc
 包罗万象	gyqn
 开阳	irdw
 火眼金睛	zqtq
@@ -41426,7 +41426,7 @@
 棋坛	yqhg
 衣钵	cygy
 阿斯匹林	dqny
-陈永强	depa
+陈永强	depo
 西门子公司	hppd
 副厅级	voaa
 稳压	zioh
@@ -41633,7 +41633,7 @@
 清酒	jcjh
 捐赠者	kgmz
 紫苏	zmrs
-唐国强	mupa
+唐国强	mupo
 草包	rwgb
 裴勇俊	sbtb
 罹难	yhga
@@ -42057,7 +42057,7 @@
 韬光养晦	pxcw
 前厅	quoe
 织锦	aogr
-强直	pafh
+强直	pofh
 站站	bbbb
 事不关己	koqj
 台东	bocj
@@ -42370,7 +42370,7 @@
 山珍海味	iajo
 荥阳	smdw
 浪荡	jexa
-周强	phpa
+周强	phpo
 直译	fheg
 赤身裸体	hnct
 爱好者们	xxmt
@@ -42705,7 +42705,7 @@
 格里芬	ytri
 扉页	tsqy
 阿尔卑斯	dirq
-陈强	dcpa
+陈强	dcpo
 纹样	afyc
 畏缩	voal
 交班	fyah
@@ -42821,7 +42821,7 @@
 王权	awyg
 公转	ibcp
 饱览	igve
-强压	paoh
+强压	pooh
 御前	nvqu
 各样	ugyc
 查缉	ywao
@@ -43061,7 +43061,7 @@
 唐古拉山	mhki
 拱门	kupm
 杨学庆	yfmj
-李克强	yhpa
+李克强	yhpo
 吡啶	omol
 揽客	kelu
 丙氨酸	iuhb
@@ -44237,7 +44237,7 @@
 张海涛	pjjs
 北周	dmph
 古建	hgdh
-刘伟强	ftpa
+刘伟强	ftpo
 拿手好戏	ekxg
 钝化	gttm
 声泪俱下	sjto
@@ -44674,7 +44674,7 @@
 观音菩萨	gorr
 无形之中	hing
 平衡性	hnhm
-强子	papz
+强子	popz
 乡民	amjt
 失时	vswk
 轮式	cupk
@@ -44697,7 +44697,7 @@
 雌二醇	zphs
 脊髓灰质炎	dmxz
 先驱者	wvmz
-阿强	dkpa
+阿强	dkpo
 得了吧	nzow
 陈飞	dcnd
 新闻自由	bpmv
@@ -44716,7 +44716,7 @@
 伸张	twpu
 外调	nbep
 乌当区	oxng
-郭士强	shpa
+郭士强	shpo
 安全网	ltpg
 代总理	odat
 血流成河	mjpj
@@ -46296,7 +46296,7 @@
 小富	jxlv
 小环境	jaho
 魁北克	rdhl
-毒鼠强	crpa
+毒鼠强	crpo
 李明峰	ywiu
 查抄	ywkj
 泰迪	cmvn
@@ -46881,7 +46881,7 @@
 鞭挞	itkj
 第一封	eirk
 收兵	huhi
-黄强	uvpa
+黄强	uvpo
 蜂拥而上	kkqb
 黄陂	uvda
 桑园	ggud
@@ -46952,7 +46952,7 @@
 汗衫	jhcr
 专权	pbyg
 流通市场	jbfh
-光强	xipa
+光强	xipo
 篮坛	evhg
 莱州	rykz
 丰城	sfhp
@@ -47323,7 +47323,7 @@
 意气用事	ouak
 罗德曼	ynwy
 广宁	mgle
-李志强	yhpa
+李志强	yhpo
 钦差大臣	gcjn
 第二级	epaa
 落水者	xmmz
@@ -47343,7 +47343,7 @@
 张慕枫	payp
 连作	cntn
 不应期	omqu
-徐强	nepa
+徐强	nepo
 能源危机	bjiy
 景山	wsis
 地质学家	hofl
@@ -49952,7 +49952,7 @@
 对号	gkob
 雕饰	phiv
 话剧院	esdl
-华强	tmpa
+华强	tmpo
 以讹传讹	sete
 侯景	tsws
 逢场作戏	uhtg
@@ -50218,7 +50218,7 @@
 作茧自缚	trma
 加封	djrk
 宽限期	ldqu
-强笑	paem
+强笑	poem
 金丰	tjsf
 张卫星	pdwm
 看情形	khir
@@ -50280,7 +50280,7 @@
 坐堂	nhfh
 短评	vieh
 公吨	ibot
-杨国强	yupa
+杨国强	yupo
 年终奖金	vaqt
 巴库	wbmc
 光热	xidj
@@ -50788,7 +50788,7 @@
 下怀	oxho
 周伯华	pttm
 打油诗	kjeh
-王宝强	alpa
+王宝强	alpo
 鞋匠	irnh
 大买	jdzl
 备忘	uvfe
@@ -51110,7 +51110,7 @@
 发落	lfxu
 姜维	cxaa
 乙醛	nyhr
-强将	paqn
+强将	poqn
 刘建	fvdh
 杜世成	yppd
 疏解	zzia
@@ -51272,7 +51272,7 @@
 纵坐标	anyt
 斯隆	qhdu
 磷化	qftm
-强震	pavo
+强震	povo
 药械	rayp
 刘仪伟	fttp
 籼稻	fizx
@@ -51530,7 +51530,7 @@
 五线谱	naeq
 卑鄙无耻	rohn
 土葬	htrn
-虽则	asgv
+虽则	okgv
 董春萍	rcxh
 洗染	jwjg
 夏某	qqri
@@ -51546,10 +51546,10 @@
 郝劲松	hhyi
 搞鬼	ksrl
 跷跷板	ccyo
-许文强	efpa
+许文强	efpo
 长歌	uckk
 炼乳	ztxp
-刘志强	fhpa
+刘志强	fhpo
 公共课	iuew
 分步骤	izvg
 琴键	aagd
@@ -52191,7 +52191,7 @@
 隐伏	ditj
 机座	ypmn
 穷追猛打	lrsk
-林强	ylpa
+林强	ylpo
 南关	sqqj
 阿片	dkpp
 劳伦	sstu
@@ -52362,7 +52362,7 @@
 律令	ndub
 罗布	ynxo
 和平鸽	zheo
-胡志强	hhpa
+胡志强	hhpo
 希望学校	gffy
 天生桥	imym
 一步登天	izzi
@@ -52397,7 +52397,7 @@
 笔杆	eryh
 淫羊藿	jcrv
 牌局	prsd
-强渡	pajm
+强渡	pojm
 民航局	jssd
 岿然不动	inog
 癫痫病	mmmi
@@ -52505,7 +52505,7 @@
 俊逸	tbnn
 檄文	yrfw
 侨汇	tmjn
-强韧	papd
+强韧	popd
 固定化	ultm
 第二枚	epyu
 上海人民出版社	bjuc
@@ -54369,7 +54369,7 @@
 科特迪瓦队	zwvd
 盖起来	czyd
 京港	sjju
-强作	patn
+强作	potn
 外肌	nbup
 镁光灯	gxze
 禁止吸烟	yzoz
@@ -54428,7 +54428,7 @@
 伏尔加河	tidj
 林道	ylqm
 野炊	tbzp
-强时	pawk
+强时	powk
 李晟	ypwp
 昌吉	wwpj
 靠泊	psjr
@@ -55310,7 +55310,7 @@
 红塔集团	ahau
 大角	jdia
 缫丝	akaa
-边强	snpa
+边强	snpo
 壬寅	trli
 亲传	bqtp
 名片式	nppk
@@ -55682,7 +55682,7 @@
 举重若轻	firc
 鹿易南	twsq
 钱谦益	geqi
-陈正强	dipa
+陈正强	dipo
 种牛	zgwn
 肉食品	bior
 铁面无私	gqhz
@@ -56806,7 +56806,7 @@
 温度场	jmha
 停薪留职	trxn
 磕碰	qhqq
-吴强	oipa
+吴强	oipo
 铜丝	gpaa
 表面化	cqtm
 掌勺	fkge
@@ -57126,7 +57126,7 @@
 英国皇家海军	rurl
 岩相	iqix
 师妹们	vxtp
-赵强	zgpa
+赵强	zgpo
 虚岁	trin
 听凭	ohtt
 填筑	hfek
@@ -57785,7 +57785,7 @@
 领事司	ukdi
 累死累活	vnvj
 下卷	oxcj
-强逼	pavn
+强逼	povn
 雾霭	vuve
 第二杯	epyo
 顶风作案	eptl
@@ -59450,7 +59450,7 @@
 群聚	dmng
 电力线	wsai
 慷慨陈词	hhde
-赵智强	zvpa
+赵智强	zvpo
 第四十三条	eufu
 查表	ywco
 西安国际队	hlud
@@ -59905,7 +59905,7 @@
 叔叔们	bbtp
 杨祖武	ycip
 心魂	exgr
-刘国强	fupa
+刘国强	fupo
 日影	wrwj
 心包炎	egzz
 陈幸妤	dhxb
