@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: comet
+name: tuma
 version: "1"
 sort: original
 columns:
@@ -13,6 +13,6 @@ encoder:
     - '^x.*$'
     - '^z.*$'
 import_tables:
-  - comet.words
-  - comet.phrases
+  - tuma.words
+  - tuma.phrases
 ...

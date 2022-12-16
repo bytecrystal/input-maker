@@ -1,7 +1,7 @@
 ### File header must not be modified
 ### This file must be encoded into UTF-8.
 ---
-name: comet.phrases
+name: tuma.phrases
 version: 1.0
 use_preset_vocabulary: false
 sort: original

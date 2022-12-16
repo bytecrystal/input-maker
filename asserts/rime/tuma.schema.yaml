@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: comet
-  name: "彗星"
+  schema_id: tuma
+  name: "兔码"
   version: "1.0"
   author:
     - 基于 C_42 2.4版本改编
@@ -72,7 +72,7 @@ speller:
 
 
 translator:
-  dictionary: comet
+  dictionary: tuma
   db_class: tabledb
   initial_quality: 100000
   #  dictionary: pinyin_simp

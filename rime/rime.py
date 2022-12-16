@@ -1,5 +1,5 @@
 '''
-生成 comet 码表
+生成 tuma 码表
 '''
 
 import shutil
@@ -53,12 +53,12 @@ def strB2Q(ustring):
         rstring += chr(inside_code)
     return rstring
 
-with open('../asserts/rime/comet.dict.meta.yaml') as cometDictMetaFile:
-    cometDictMeta = cometDictMetaFile.read()
-with open('../asserts/rime/comet.phrases.meta.yaml') as cometDictPhraseMetaFile:
-    cometDictPhraseMeta = cometDictPhraseMetaFile.read()
-with open('../asserts/rime/comet.words.meta.yaml') as cometDictWordsMetaFile:
-    cometDictWordsMeta = cometDictWordsMetaFile.read()
+with open('../asserts/rime/tuma.dict.meta.yaml') as tumaDictMetaFile:
+    tumaDictMeta = tumaDictMetaFile.read()
+with open('../asserts/rime/tuma.phrases.meta.yaml') as tumaDictPhraseMetaFile:
+    tumaDictPhraseMeta = tumaDictPhraseMetaFile.read()
+with open('../asserts/rime/tuma.words.meta.yaml') as tumaDictWordsMetaFile:
+    tumaDictWordsMeta = tumaDictWordsMetaFile.read()
 #
 # with open('assets/brevity.dat') as brevityFile:
 #     brevity = [line.strip('\r\n').split('\t') for line in brevityFile]
@@ -128,11 +128,11 @@ with open('../asserts/decomposition.txt') as decompositionFile:
 if not exists('build'): makedirs('build')
 if not exists('build/opencc'): makedirs('build/opencc')
 
-with open('build/comet.dict.yaml', 'w') as dictFile:
-    dictFile.write(cometDictMeta)
+with open('build/tuma.dict.yaml', 'w') as dictFile:
+    dictFile.write(tumaDictMeta)
 
-with open('build/comet.words.dict.yaml', 'w') as wordsDictFile:
-    wordsDictFile.write(cometDictWordsMeta)
+with open('build/tuma.words.dict.yaml', 'w') as wordsDictFile:
+    wordsDictFile.write(tumaDictWordsMeta)
     for char, code in briefCode:
         wordsDictFile.write('%s\t%s\n' % (char, code))
         # c42Dict.write('　\t%s\n' % code)
@@ -141,8 +141,8 @@ with open('build/comet.words.dict.yaml', 'w') as wordsDictFile:
         # c42Dict.write('　\t%s\n' % code)
 
 ciMap = build_ci_by_full_code(fullCodeMap)
-with open('build/comet.phrases.dict.yaml', 'w') as phrasesFile:
-    phrasesFile.write(cometDictPhraseMeta)
+with open('build/tuma.phrases.dict.yaml', 'w') as phrasesFile:
+    phrasesFile.write(tumaDictPhraseMeta)
     for kv in ciMap.items():
         phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
 
@@ -156,7 +156,7 @@ with open('build/opencc/division.txt', 'w') as filterDivision:
     for char, code in div:
         filterDivision.write('%s\t%s\n' % (char, code))
 
-for name in ('comet.schema', 'symbols_for_c', 'pinyin_simp.dict', 'pinyin_simp.schema'):
+for name in ('tuma.schema', 'symbols_for_c', 'pinyin_simp.dict', 'pinyin_simp.schema'):
     shutil.copyfile('../asserts/rime/%s.yaml' % name, 'build/%s.yaml' % name)
 for name in ('division', 'emoji'):
     shutil.copyfile('../asserts/rime/%s.json' % name, 'build/opencc/%s.json' % name)
