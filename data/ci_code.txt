@@ -207,7 +207,7 @@
 计划	efpv
 表现	coak
 机构	ypyg
-告诉	pger
+告诉	woer
 资金	djtj
 过去	knhb
 不断	obfe
@@ -281,7 +281,7 @@
 利用	zvay
 内容	bnle
 不错	obgu
-造成	pnpd
+造成	wopd
 行为	ntds
 目标	qmyt
 只要	oihx
@@ -291,7 +291,7 @@
 突然	ljne
 回复	uovw
 销售	gxao
-报告	kdpg
+报告	kdwo
 每天	vlij
 产业	bmry
 如此	xozm
@@ -582,7 +582,7 @@
 现代	akod
 监督	vdbg
 后来	voyd
-广告	mgpg
+广告	mgwo
 目的	qmrg
 负责人	icur
 机制	ypwp
@@ -667,7 +667,7 @@
 巨大	lsjd
 恢复	hxvw
 相对	ixgk
-创造	ujpn
+创造	ujwo
 重新	itby
 父母	nflm
 从而	ncqk
@@ -900,7 +900,7 @@
 本来	yiyd
 落实	xull
 尤其是	kqwi
-改造	jupn
+改造	juwo
 紧张	vgpu
 今后	uzvo
 成员	pdog
@@ -926,7 +926,7 @@
 股份	upti
 编辑	atco
 不够	obgo
-制造	wppn
+制造	wpwo
 就业	sjry
 为主	dsfz
 计算	efdq
@@ -1183,7 +1183,7 @@
 鼓励	pqoq
 违法	pdjh
 这时	fnwk
-公告	ibpg
+公告	ibwo
 生态	mcje
 主持人	fkur
 两国	rlua
@@ -1539,8 +1539,8 @@
 年度	vjmr
 并非	qrsf
 公斤	ibrj
-依靠	tcps
-打造	kepn
+依靠	tcwo
+打造	kewo
 高于	sghy
 生长	mcuc
 共有	uixu
@@ -1663,7 +1663,7 @@
 批评	kmeh
 在线	xhai
 大队	jddu
-造型	pniv
+造型	woiv
 不住	obtf
 称为	zids
 以色列	sinv
@@ -2598,7 +2598,7 @@
 销量	gxwi
 纠纷	ahai
 舒适	ehin
-建造	dhpn
+建造	dhwo
 智能	vobu
 认可	eukk
 本地	yihl
@@ -2905,7 +2905,7 @@
 也就是说	lswe
 特性	whhm
 研究生	qlmc
-营造	sopn
+营造	sowo
 暴露	wuvc
 广东省	mcjq
 介入	uvme
@@ -3080,7 +3080,7 @@
 冲动	dggs
 实验室	lvli
 上帝	bibo
-警告	rupg
+警告	ruwo
 当代	xdod
 通报	bakd
 密度	lemr
@@ -3253,7 +3253,7 @@
 优点	tkbj
 中国共产党	guuf
 志愿者	homz
-可靠	kkps
+可靠	kkwo
 金钱	tjgi
 中奖	gzqn
 疫苗	mprv
@@ -3302,7 +3302,7 @@
 济南	jfsq
 干扰	hgkk
 这边	fnsn
-被告	capg
+被告	cawo
 足以	czsy
 透明	zawu
 什么是	tmwi
@@ -3310,7 +3310,7 @@
 艾滋病	rjmi
 拥抱	kakg
 这儿	fnle
-制造业	wpry
+制造业	wwry
 辽宁	zkle
 外部	nbbo
 中年	gzvj
@@ -3417,7 +3417,7 @@
 称号	ziob
 只需	oivq
 悲伤	setv
-靠近	psrn
+靠近	worn
 清新	jcby
 地图	hluu
 慢性	hwhm
@@ -3433,7 +3433,7 @@
 名义	noeg
 同胞	piug
 善于	cqhy
-告别	pghv
+告别	wohv
 机身	ypns
 感兴趣	pfzn
 初期	cnqu
@@ -3741,7 +3741,7 @@
 一同	iypi
 道歉	qmqr
 女排	xnks
-告知	pgvo
+告知	wovo
 西南	hxsq
 脆弱	uipd
 二手房	pkto
@@ -4210,7 +4210,7 @@
 党政	fliz
 歌迷	kkfn
 动画	gsiv
-原告	orpg
+原告	orwo
 交代	fnod
 黎巴嫩	zwxy
 征求	nime
@@ -4421,7 +4421,7 @@
 发票	lfht
 会计师	uevi
 人力	ursl
-塑造	dupn
+塑造	duwo
 平方公里	hoit
 排列	ksnv
 机票	ypht
@@ -4482,7 +4482,7 @@
 当即	xdld
 耳机	neyp
 遥远	xwdn
-残酷	nihp
+残酷	nihw
 戏剧	gpsh
 赶来	zhyd
 风暴	pfwu
@@ -5004,7 +5004,7 @@
 低头	txlt
 海尔	jvij
 补助	cbhs
-创造性	uphm
+创造性	uwhm
 送往	qjnf
 打进	kean
 邪恶	iere
@@ -5259,7 +5259,7 @@
 头疼	ltmu
 诈骗	envt
 领土	ubht
-被告人	cpur
+被告人	cwur
 打球	keam
 口腔	okul
 洗净	jwdi
@@ -5506,7 +5506,7 @@
 神龙	cwal
 祈祷	crcs
 挫折	knkr
-构造	ygpn
+构造	ygwo
 失落	vsxu
 试用	epay
 攀升	yymr
@@ -5874,8 +5874,8 @@
 搭建	krdh
 折扣	krko
 大自然	jmne
-制造商	wpus
-造就	pnsj
+制造商	wwus
+造就	wosj
 增收	hdhu
 过往	knnf
 定向	liwo
@@ -6269,7 +6269,7 @@
 统计学	aefp
 副作用	vtay
 血浆	mkqn
-宣告	lipg
+宣告	liwo
 不分	obif
 迫使	rntg
 吸取	oang
@@ -6756,7 +6756,7 @@
 听话	orei
 官司	lrdi
 印度尼西亚	xmsr
-造影	pnwj
+造影	wowj
 万科	qdzl
 欢喜	gjpq
 勤奋	rcjv
@@ -6925,7 +6925,7 @@
 腹泻	uvjl
 公车	ibcc
 北约	dmag
-伪造	tdpn
+伪造	tdwo
 耽误	noeo
 感恩节	purd
 二战	pebp
@@ -7705,7 +7705,7 @@
 内裤	bncm
 副院长	vduc
 愚蠢	vpcb
-粗糙	fhfp
+粗糙	fhfw
 轨迹	cgrn
 极力	yasl
 病因	miuj
@@ -7873,7 +7873,7 @@
 限期	dlqu
 室外	linb
 艺术品	ryor
-可靠性	kphm
+可靠性	kwhm
 高山	sgis
 轻声	chss
 拳头	cklt
@@ -8051,7 +8051,7 @@
 减持	dpkh
 国防部长	udbu
 供货	tutm
-预告	bepg
+预告	bewo
 水域	mshp
 生物学	mwfp
 专职	pbno
@@ -8314,7 +8314,7 @@
 喜庆	pqmj
 吃药	ovra
 黄牌	uvpr
-创造出	uppc
+创造出	uwpc
 延迟	mzbn
 知己	vojj
 摸索	kafl
@@ -8516,13 +8516,13 @@
 破解	qaia
 复活	vwji
 刘忻	fvhr
-通告	bapg
+通告	bawo
 异议	jree
 证人	eiur
 少林	jsyl
 时髦	wkzr
 莲花	rcrt
-造林	pnyl
+造林	woyl
 脱颖而出	umqp
 电厂	weoc
 生产资料	mbdf
@@ -8537,7 +8537,7 @@
 皮球	apam
 变迁	rgin
 国力	uasl
-报告期	kpqu
+报告期	kwqu
 大洋	jdjc
 猛地	sphl
 另类	hlfj
@@ -8926,7 +8926,7 @@
 多样性	nyhm
 退还	lnon
 甚么	qemb
-造价	pntu
+造价	wotu
 事事	koko
 软弱	cjpd
 一本书	iyzd
@@ -8983,7 +8983,7 @@
 南下	sqox
 明智	wuvo
 总收入	dhme
-造假	pnts
+造假	wots
 典范	puxj
 风气	pfuq
 收盘价	hetu
@@ -9160,7 +9160,7 @@
 重型	itiv
 路程	cuzo
 强制性	pwhm
-告诫	pgep
+告诫	woep
 结尾	apsr
 深切	jltn
 一并	iyqr
@@ -9354,7 +9354,7 @@
 中资	gzdj
 解析	iayr
 难于	gahy
-人造	urpn
+人造	urwo
 鸭子	vopz
 博士生	fhmc
 色泽	iwjg
@@ -9415,7 +9415,7 @@
 公诉	iber
 充值卡	ftbo
 差价	cktu
-创造力	upsl
+创造力	uwsl
 成像	pdtn
 滚动	jcgs
 穆斯林	zqyl
@@ -9768,7 +9768,7 @@
 畜牧业	awry
 动画片	gipp
 替换	zzki
-铸造	gspn
+铸造	gswo
 无极	heya
 接见	kbkj
 飞翔	ndcl
@@ -9933,7 +9933,7 @@
 菠萝	xary
 核定	ysli
 评判	ehyv
-停靠	tsps
+停靠	tswo
 第二年	dpvj
 学报	fpkd
 步兵	zjri
@@ -9985,7 +9985,7 @@
 女工	xnkg
 大蒜	jdrt
 物力	wgsl
-靠在	psxh
+靠在	woxh
 无可奈何	hkjt
 猜想	scie
 西亚	hxry
@@ -10065,7 +10065,7 @@
 模板	yayo
 中年人	gvur
 聘用	nvay
-造血	pnmk
+造血	womk
 用不着	aocq
 正经	izah
 油耗	jvyr
@@ -10094,7 +10094,7 @@
 茄子	rfpz
 撞到	kbih
 输球	ceam
-告白	pgrb
+告白	worb
 吃醋	ovhu
 绍兴	anfi
 行贿	ntgx
@@ -10646,7 +10646,7 @@
 日志	wrhe
 经济全球化	ajtt
 管家	dlls
-报告会	kpug
+报告会	kwug
 母猪	lmsm
 无能为力	hbds
 能干	buhg
@@ -10835,7 +10835,7 @@
 脸颊	uezd
 积压	zooh
 大吃一惊	joih
-造纸	pnax
+造纸	woax
 近十	rnfs
 步枪	zjyu
 从业	ncry
@@ -11797,7 +11797,7 @@
 抽检	kvye
 大堂	jdfh
 暗杀	wogy
-造福	pncv
+造福	wocv
 歌剧	kksh
 风流	pfjf
 追捕	rnkt
@@ -12600,7 +12600,7 @@
 无公害	hils
 仙女	tixn
 抨击	khhh
-广告牌	mppr
+广告牌	mwpr
 羊毛衫	crcr
 植树	yfyg
 管委会	dzug
@@ -12867,7 +12867,7 @@
 堆放	haou
 小看	jxkq
 补给	cbae
-再造	appn
+再造	apwo
 后劲	vohk
 风声	pfss
 都灵	mddz
@@ -12982,7 +12982,7 @@
 存货	xptm
 燃放	zeou
 照耀	wnxl
-报告书	kpzd
+报告书	kwzd
 试制	epwp
 女演员	xjog
 智能化	vbtm
@@ -13218,7 +13218,7 @@
 汉人	jgur
 贫农	igoo
 做空	thlk
-造反	pnog
+造反	woog
 拿手	eoks
 推倒	kati
 时日	wkwr
@@ -14115,7 +14115,7 @@
 红肿	akug
 房款	toht
 问卷调查	pcey
-冷酷	duhp
+冷酷	duhw
 热恋	ejre
 宝物	lawg
 老人们	mutp
@@ -14283,7 +14283,7 @@
 失灵	vsdz
 西游记	hjej
 通路	bacu
-告终	pgau
+告终	woau
 红糖	akfm
 梗塞	ygla
 勾勒	gbis
@@ -14327,7 +14327,7 @@
 林地	ylhl
 企业界	urvu
 官僚主义	ltfe
-造船	pnep
+造船	woep
 讲授	eakx
 契合	sneo
 长跑	uccg
@@ -14336,7 +14336,7 @@
 阴霾	duvs
 西药	hxra
 凝血	dbmk
-忠告	gepg
+忠告	gewo
 市场价	fhtu
 法术	jhye
 带头人	glur
@@ -14466,7 +14466,7 @@
 保险金	tdtj
 党性	flhm
 中雨	gzvy
-转告	cppg
+转告	cpwo
 异味	jroy
 逆境	daho
 说不清	eojc
@@ -14641,7 +14641,7 @@
 裂纹	nvaf
 越野车	ztcc
 中文版	gfpo
-告一段落	pizx
+告一段落	wizx
 查证	ywei
 大街小巷	jnju
 敲诈	sben
@@ -14828,7 +14828,7 @@
 刹那	gyad
 基底	qhmx
 遍及	tkaj
-靠拢	pska
+靠拢	woka
 宁波市	ljfo
 李白	yprb
 客串	lugo
@@ -15116,7 +15116,7 @@
 恼火	hfzh
 胖胖	uyuy
 陵园	dhud
-编造	atpn
+编造	atwo
 陈毅	dcbs
 不经	obah
 出口额	polu
@@ -15403,7 +15403,7 @@
 秋风	zzpf
 摘除	kude
 靓仔	cutp
-深造	jlpn
+深造	jlwo
 美酒	cjjh
 大肠杆菌	juyr
 渺茫	jqxf
@@ -15707,7 +15707,7 @@
 性骚扰	hvkk
 远景	dnws
 希拉里	gktl
-预告片	bppp
+预告片	bwpp
 床位	mytb
 广交会	mfug
 惊心	hsex
@@ -15752,7 +15752,7 @@
 发电机	lwyp
 药方	raof
 鼻腔	mqul
-做广告	tmpg
+做广告	tmwo
 本土化	yhtm
 李亚鹏	yruu
 丞相	zmix
@@ -15900,7 +15900,7 @@
 卸下	vzox
 甜点	irbj
 天意	ijoe
-告辞	pgib
+告辞	woib
 浦东新区	jcbl
 淡忘	jzfe
 理化	attm
@@ -16024,7 +16024,7 @@
 木制	ymwp
 雅致	ieih
 细雨	avvy
-王皓	awrp
+王皓	awrw
 大门口	jpok
 评奖	ehqn
 当事	xdko
@@ -16105,7 +16105,7 @@
 名师	novi
 征途	niey
 动乱	gsie
-酷似	hpts
+酷似	hwts
 威风	pipf
 遗书	bqzd
 争夺战	ijbp
@@ -16613,7 +16613,7 @@
 形形色色	iiii
 信息量	tmwi
 犹太	skje
-状告	qjpg
+状告	qjwo
 中高级	gsaa
 合同法	epjh
 盾牌	ofpr
@@ -16629,7 +16629,7 @@
 电车	wecc
 心慌	exhr
 盛夏	pdqq
-造势	pnes
+造势	woes
 认罪	euys
 潘基文	jqfw
 没劲	jphk
@@ -16646,7 +16646,7 @@
 反手	ogks
 牙龈	iezh
 温热	jwej
-缔造	abpn
+缔造	abwo
 公仆	ibtb
 扳回	kouo
 痛经	mbah
@@ -17203,7 +17203,7 @@
 普法	qrjh
 句句	gogo
 影评	wjeh
-控告	klpg
+控告	klwo
 手镯	ksgy
 躲开	npir
 枪口	yuok
@@ -17380,7 +17380,7 @@
 全自动	tmgs
 威海	pijv
 城北	hpdm
-告示	pgts
+告示	wots
 年产值	vbtf
 脱硫	udqf
 出产	pcbm
@@ -17416,7 +17416,7 @@
 如来	xoyd
 演进	jlan
 默然	vjne
-造谣	pnex
+造谣	woex
 炸死	znnm
 郭沫若	sjrx
 脚底	uhmx
@@ -17947,7 +17947,7 @@
 书院	zddl
 记述	ejye
 自拔	mqkl
-造诣	pnem
+造诣	woem
 剧照	shwn
 加仑	fjum
 绝无	aihe
@@ -18019,7 +18019,7 @@
 劳动法	sgjh
 李大仁	yjtp
 流过	jfkn
-丁浩	edjp
+丁浩	edjw
 头版	ltpo
 突飞猛进	lnsa
 疲弱	mapd
@@ -18210,7 +18210,7 @@
 诚心	epex
 学风	fppf
 中世纪	gpaj
-酷爱	hpxx
+酷爱	hwxx
 过激	knjr
 购得	ggnw
 米粒	fmfb
@@ -18711,7 +18711,7 @@
 公费	ibpv
 兆赫	ddhr
 匪徒	lsnz
-靠山	psis
+靠山	wois
 换代	kiod
 第一副	divv
 虚报	trkd
@@ -19155,7 +19155,7 @@
 压住	ohtf
 展销	sugx
 弧形	pmir
-挂靠	kqps
+挂靠	kqwo
 转变成	crpd
 日久	wrie
 多发性	nlhm
@@ -19270,7 +19270,7 @@
 国画	uaiv
 频谱	zjeq
 衣衫	cycr
-酷暑	hpwm
+酷暑	hwwm
 底子	mxpz
 超常	znfo
 洪灾	julz
@@ -19613,7 +19613,7 @@
 王老师	amvi
 前些年	qzvj
 机长	ypuc
-劝告	gspg
+劝告	gswo
 枯萎	yhrz
 躲闪	nppu
 降雪	duvd
@@ -20033,12 +20033,12 @@
 婚介	xxuv
 河床	jkmy
 追星	rnwm
-投靠	kpps
+投靠	kpwo
 炼钢	ztgp
 战区	bplg
 基站	qhbb
 深入基层	jmqs
-造化	pntm
+造化	wotm
 负增长	ihuc
 美艳	cjsi
 周全	phtq
@@ -20162,7 +20162,7 @@
 拐弯	khrp
 以利	syzv
 素描	cakr
-浩瀚	jpju
+浩瀚	jwju
 技法	kfjh
 分界线	ivai
 湘潭	jijh
@@ -20380,7 +20380,7 @@
 北京青年报	dsck
 朱芳雨	yrvy
 坦承	hwzm
-造访	pneo
+造访	woeo
 依偎	tctv
 立面	blqy
 收款	huht
@@ -20468,7 +20468,7 @@
 机灵	ypdz
 高挑	sgkd
 第三场	dyha
-酿造	hepn
+酿造	hewo
 智障	vodo
 石桥	qsym
 第一支	difg
@@ -21321,7 +21321,7 @@
 蔚蓝	rsrv
 何谓	tkev
 砍刀	qjnd
-锻造	gzpn
+锻造	gzwo
 消停	jxts
 中国国家队	guud
 激昂	jrwx
@@ -21551,7 +21551,7 @@
 食量	iswi
 和风	zopf
 创新性	ubhm
-告状	pgqj
+告状	woqj
 烟雨	zuvy
 异域	jrhp
 光碟	xiqp
@@ -21919,7 +21919,7 @@
 刀剑	ndef
 高教	sgmp
 内毒素	bcca
-捏造	kwpn
+捏造	kwwo
 基因型	quiv
 大相径庭	jinm
 低低	txtx
@@ -22282,7 +22282,7 @@
 即位	ldtb
 南开大学	sijf
 凌云	dhgy
-植树造林	yypy
+植树造林	yywy
 亮光	spxi
 接住	kbtf
 锁住	gxtf
@@ -22764,7 +22764,7 @@
 法兰西	jqhx
 屈居	spsh
 面露	qyvc
-祷告	cspg
+祷告	cswo
 流脑	jfuf
 肉丸	buge
 动武	gsip
@@ -23094,7 +23094,7 @@
 门市部	pfbo
 屈指可数	skkf
 教皇	mpra
-告急	pgid
+告急	woid
 王位	awtb
 张好	puxp
 笔画	driv
@@ -23346,7 +23346,7 @@
 师专	vipb
 框框	ylyl
 要得	hxnw
-制造厂	wpoc
+制造厂	wwoc
 日记本	weyi
 重合	iteo
 农田水利	ovmz
@@ -23636,7 +23636,7 @@
 性腺	hmur
 亟待解决	znid
 山泉	isrm
-浩大	jpjd
+浩大	jwjd
 开盘价	ietu
 恳请	leec
 战战兢兢	bbhh
@@ -23769,7 +23769,7 @@
 简明	dpwu
 预购	begg
 原籍	ordy
-严酷	rmhp
+严酷	rmhw
 走运	zzgn
 中常	gzfo
 克里斯	htqr
@@ -24004,7 +24004,7 @@
 迸发	qrlf
 情理	hcat
 严重者	rimz
-靠不住	potf
+靠不住	wotf
 小赵	jxzg
 相配	ixhj
 自由度	mvmr
@@ -24282,7 +24282,7 @@
 用电量	awwi
 自主经营	mfas
 市镇	fogf
-浩劫	jphb
+浩劫	jwhb
 清真	jcfh
 南郊	sqfn
 拘泥	kgjs
@@ -24590,7 +24590,7 @@
 吴官正	oliz
 下家	oxls
 水底	msmx
-郜林	pdyl
+郜林	woyl
 托儿所	klos
 嘉定	pqli
 幼女	asxn
@@ -24971,7 +24971,7 @@
 陆毅	dhbs
 牛群	wndm
 小意思	jove
-造反派	pojo
+造反派	wojo
 战功	bpks
 暴徒	wunz
 首映式	qwpk
@@ -25085,7 +25085,7 @@
 大道理	jqat
 健脑	tduf
 纷至沓来	aimy
-酷刑	hpir
+酷刑	hwir
 销售员	gaog
 小阳	jxdw
 大草原	jror
@@ -25384,7 +25384,7 @@
 排头兵	klri
 难闻	gapn
 头破血流	lqmj
-创造者	upmz
+创造者	uwmz
 澡堂	jofh
 蚕丝	ijaa
 印第安人	xdlu
@@ -25860,7 +25860,7 @@
 父辈	nfsc
 归路	vdcu
 斯洛文尼亚	qjfr
-不可靠	okps
+不可靠	okwo
 蓝蓝	rvrv
 手印	ksxd
 打散	keuu
@@ -26220,7 +26220,7 @@
 两败俱伤	rgtt
 低洼	txjq
 盖过	ckkn
-制造者	wpmz
+制造者	wwmz
 紫禁城	zyhp
 合作化	ettm
 摸爬滚打	kmjk
@@ -26626,7 +26626,7 @@
 秒钟	zjgg
 鬼脸	rlue
 蜻蜓	bcbt
-被告席	cpmr
+被告席	cwmr
 东洋	cjjc
 删减	kvdp
 圆点	uobj
@@ -26844,7 +26844,7 @@
 中军	gzlc
 寡人	lqur
 碰壁	qqsb
-大功告成	jkpp
+大功告成	jkwp
 讯号	enob
 营口	sook
 溶血	jlmk
@@ -26894,13 +26894,13 @@
 糖醋	fmhu
 舒舒服服	eeuu
 收藏品	hror
-靠背	psdm
+靠背	wodm
 螺纹	bvaf
 特例	whtn
 旋涡	ozjo
 逐日	snwr
 群众组织	duaa
-靠垫	pseh
+靠垫	woeh
 文艺节目	frrq
 文化界	ftvu
 一干二净	ihpd
@@ -27038,7 +27038,7 @@
 值此	tfzm
 老年性	mvhm
 播音员	koog
-广告词	mped
+广告词	mwed
 宝地	lahl
 闪闪发光	pplx
 表演者	cjmz
@@ -27350,7 +27350,7 @@
 垫子	ehpz
 一发不可收拾	ilok
 可敬	kkro
-广告主	mpfz
+广告主	mwfz
 圆弧	uopm
 桃花源	yrjo
 开场白	ihrb
@@ -27476,7 +27476,7 @@
 声像	sstn
 舅妈	rvxv
 生物化学	mwtf
-广告费	mppv
+广告费	mwpv
 都江堰	mjhl
 焦头烂额	alzl
 导出	jkpc
@@ -27742,7 +27742,7 @@
 系统设计	maee
 大姨	jdxj
 容不下	loox
-织造	aopn
+织造	aowo
 并联	qrnq
 才华横溢	ktyj
 酸甜	hbir
@@ -28283,7 +28283,7 @@
 丹阳	pfdw
 晚晚	wiwi
 伊犁	tdzv
-老窖	mmlp
+老窖	mmlw
 聚集地	nahl
 塔楼	hryf
 前兆	qudd
@@ -28551,7 +28551,7 @@
 忽而	ghqk
 加冕	fjwi
 声息	ssmq
-靠岸	psio
+靠岸	woio
 牙买加	izfj
 刘明	fvwu
 柠檬酸	yyhb
@@ -29045,7 +29045,7 @@
 长宁	ucle
 褒贬	ctgm
 衍射	njnk
-酷热	hpej
+酷热	hwej
 逮住	dmtf
 古罗马	hyvm
 美伊	cjtd
@@ -29201,7 +29201,7 @@
 出场费	phpv
 搞不清	kojc
 执法者	ejmz
-糙米	fpfm
+糙米	fwfm
 摩托艇	mket
 体察	tylz
 数不胜数	fouf
@@ -30149,7 +30149,7 @@
 不可想象	okin
 龙岗区	ailg
 疗养院	mcdl
-造纸厂	paoc
+造纸厂	waoc
 中短期	gvqu
 偏袒	ttcw
 胡扯	hukz
@@ -30174,7 +30174,7 @@
 士人	hsur
 干果	hgwy
 并进	qran
-背靠背	dpdm
+背靠背	dwdm
 路障	cudo
 商战	usbp
 一窝蜂	ilbu
@@ -31060,7 +31060,7 @@
 新安	bylx
 孙海琴	pjaa
 谢先生	ewmc
-桎梏	yiyp
+桎梏	yiyw
 门脉	pmue
 王震	awvo
 善哉	cqfp
@@ -31430,7 +31430,7 @@
 满世界	jpvu
 不省人事	ojuk
 苗期	rvqu
-造孽	pnrr
+造孽	worr
 工整	kgyu
 不胜枚举	ouyf
 鉴证	vdei
@@ -31506,7 +31506,7 @@
 发痒	lfmc
 遥遥无期	xxhq
 杜勒斯	yiqr
-仿造	topn
+仿造	towo
 蚊帐	bfou
 周扬	phka
 经济日报	ajwk
@@ -31640,7 +31640,7 @@
 原作者	otmz
 都尉	mdst
 佛罗里达	tytj
-张浩	pujp
+张浩	pujw
 戳穿	lali
 费列罗	pnyn
 消毒液	jcjf
@@ -31673,7 +31673,7 @@
 闻名于世	pnhp
 曲圣卿	wgxl
 太傅	jett
-郑允浩	qbjp
+郑允浩	qbjw
 哈里斯	otqr
 潘晓婷	jwxs
 洗涤剂	jjfv
@@ -31915,8 +31915,8 @@
 亲切交谈	btfe
 生龙活虎	majt
 正逢	izus
-报告团	kpuk
-自告奋勇	mpjb
+报告团	kwuk
+自告奋勇	mwjb
 尿样	smyc
 发射器	lnrj
 第十一次	dfid
@@ -32052,7 +32052,7 @@
 转租	cpzh
 塞纳	laab
 悄声	hxss
-造句	pngo
+造句	wogo
 长波	ucja
 热源	ejjo
 护身符	kndt
@@ -32610,7 +32610,7 @@
 陈星	dcwm
 古龙	hgal
 仓鼠	ujrl
-告发	pglf
+告发	wolf
 苍生	rumc
 麦克阿瑟	chda
 立式	blpk
@@ -32679,7 +32679,7 @@
 灰岩	xziq
 一串串	iggo
 沈从文	jnfw
-奔走相告	jzip
+奔走相告	jziw
 别名	hvno
 教务处	muub
 理科生	azmc
@@ -32921,7 +32921,7 @@
 西和	hxzo
 罗格	ynyu
 待见	nhkj
-靠得住	pntf
+靠得住	wntf
 丁伟	edtp
 前体	quty
 蔡琴	rzaa
@@ -33016,7 +33016,7 @@
 哑铃	orgu
 开凿	irrq
 铁桶	gvyb
-靠边	pssn
+靠边	wosn
 血海	mkjv
 蔡元培	rdhb
 试着去	echb
@@ -33058,7 +33058,7 @@
 例假	tnts
 奥克斯	whqr
 进犯	ansj
-敬告	ropg
+敬告	rowo
 时局	wksd
 羊膜	cyua
 呢喃	osos
@@ -33497,7 +33497,7 @@
 均匀性	hghm
 五常	nwfo
 慢一点	hibj
-报告文学	kpff
+报告文学	kwff
 广州队	mkdu
 警匪	ruls
 冲印	dgxd
@@ -33740,7 +33740,7 @@
 打下基础	koqq
 举世	fips
 流行病	jnmi
-牢靠	lwps
+牢靠	lwwo
 比普通	mqba
 不成文	opfw
 亲水	byms
@@ -33837,7 +33837,7 @@
 姓刘	xmfv
 延庆	mzmj
 重犯	itsj
-造船厂	peoc
+造船厂	weoc
 成材	pdyk
 景仰	wstx
 高能耗	sbyr
@@ -34098,7 +34098,7 @@
 扣人心弦	kuep
 逼问	vnpo
 中耕	gzya
-不可告人	okpu
+不可告人	okwu
 会计学	uefp
 蒙哥马利	skvz
 九华山	gtis
@@ -34279,12 +34279,12 @@
 露露	vcvc
 柳承敏	yzvl
 林毅夫	ybzf
-水窖	mslp
+水窖	mslw
 精进	fcan
 砌块	qthk
 脱下来	uoyd
 第七个	dtue
-诬告	ekpg
+诬告	ekwo
 笑语	dmen
 青莲	curc
 赤峰	hriu
@@ -34596,7 +34596,7 @@
 不合作	oetn
 琼脂糖	aufm
 壁炉	sbzt
-告捷	pgki
+告捷	woki
 千层浪	isje
 西学	hxfp
 圆桌会议	ubue
@@ -34793,7 +34793,7 @@
 统率	affa
 孙儿	pjle
 上海医科大学	bjlf
-广告业	mpry
+广告业	mwry
 泡影	jgwj
 疲累	mava
 澜沧江	jjjk
@@ -35190,7 +35190,7 @@
 蒜头	rtlt
 活像	jitn
 独创性	suhm
-浩浩	jpjp
+浩浩	jwjw
 今世	uzps
 杜琪峰	yaiu
 东北军	cdlc
@@ -35249,7 +35249,7 @@
 腐乳	mtxp
 场强	hapo
 核医学	ylfp
-登峰造极	zipy
+登峰造极	ziwy
 录影	dmwj
 菲亚特	rrwh
 盘膝	ekuy
@@ -35325,7 +35325,7 @@
 崔某	iari
 求和	mezo
 上臂	bisb
-地窖	hllp
+地窖	hllw
 历法	osjh
 肘关节	uqrd
 联合早报	newk
@@ -35667,7 +35667,7 @@
 代发	odlf
 争鸣	idoo
 老谋子	mepz
-人造卫星	updw
+人造卫星	uwdw
 结痂	apmf
 留宿	xnlt
 巴萨耶夫	wrnz
@@ -36051,7 +36051,7 @@
 青苔	curb
 扳手	koks
 肌病	upmi
-人造板	upyo
+人造板	uwyo
 根治性	yjhm
 宠物医院	lwld
 规整	zkyu
@@ -36215,7 +36215,7 @@
 勾魂	gbgr
 完全性	lthm
 不着边际	ocsd
-皓月	rpuy
+皓月	rwuy
 罗素	ynca
 拉网式	kppk
 娶媳妇	nxxd
@@ -36565,7 +36565,7 @@
 里德	tlnf
 剑桥大学	eyjf
 诚心诚意	eeeo
-禀告	fupg
+禀告	fuwo
 舞女	vnxn
 勇士们	bhtp
 黄老师	umvi
@@ -36847,7 +36847,7 @@
 吱声	ofss
 音乐界	oxvu
 青城山	chis
-造像	pntn
+造像	wotn
 败仗	gutg
 石绿	qsad
 启动子	tgpz
@@ -36983,7 +36983,7 @@
 秃子	zppz
 寒战	labp
 心魄	exrr
-浩荡	jpxa
+浩荡	jwxa
 柏油	yrjv
 日益高涨	wqsj
 转危为安	cidl
@@ -37022,7 +37022,7 @@
 一把抓	ikkm
 井底	ajmx
 硕果累累	qwvv
-施之皓	onrp
+施之皓	onrw
 若有若无	rxrh
 金钱豹	tgsg
 照抄	wnkj
@@ -37758,7 +37758,7 @@
 茁壮	rpqh
 工业社会	krcu
 木器	ymrj
-告退	pgln
+告退	woln
 歧途	zfey
 小星	jxwm
 宽窄	lrln
@@ -37770,7 +37770,7 @@
 木棉	ymyr
 烧火	zpzh
 风度翩翩	pmtt
-吴浩	oijp
+吴浩	oijw
 英联邦	rnsd
 抬起来	kzyd
 记大过	ejkn
@@ -38310,7 +38310,7 @@
 布施	xool
 克朗	hlel
 诏令	enub
-粗制滥造	fwjp
+粗制滥造	fwjw
 结肠炎	auzz
 道儿	qmle
 终身制	anwp
@@ -38592,7 +38592,7 @@
 趾高气扬	csuk
 生身	mcns
 消防栓	jdyt
-修造	tupn
+修造	tuwo
 呱呱	omom
 心力交瘁	esfm
 打草惊蛇	krhb
@@ -38643,7 +38643,7 @@
 停建	tsdh
 亏得	pbnw
 寄主	ljfz
-造作	pntn
+造作	wotn
 北市	dmfo
 王娟	awxo
 孔子学院	ppfd
@@ -39094,7 +39094,7 @@
 肠胃炎	uvzz
 反舰导弹	oejp
 垦殖	lhnf
-变造	rgpn
+变造	rgwo
 马马虎虎	vvtt
 滚轮	jccu
 开间	irpw
@@ -39417,7 +39417,7 @@
 接力赛	ksla
 无原则	hogv
 晃晃	wxwx
-布告	xopg
+布告	xowo
 贝克尔	ghij
 星岛	wmoi
 晴间多云	wpng
@@ -39618,7 +39618,7 @@
 天王星	iawm
 参事	bjko
 妖风	xmpf
-缔造者	apmz
+缔造者	awmz
 钛白	gjrb
 城邦	hpsd
 拔起	klzj
@@ -39656,7 +39656,7 @@
 夏令	qqub
 不眠之夜	oqnf
 通情达理	bhja
-造田	pnvt
+造田	wovt
 古刹	hggy
 汪延	jamz
 约束性	ayhm
@@ -40283,7 +40283,7 @@
 海明威	jwpi
 数以百计	fsqe
 天南地北	ishd
-倚靠	tjps
+倚靠	tjwo
 前院	qudl
 哈姆雷特	oxvw
 回手	uoks
@@ -40575,7 +40575,7 @@
 贝肯鲍尔	gzni
 鼓风机	ppyp
 私房钱	ztgi
-造册	pnkc
+造册	wokc
 牛乳	wnxp
 迁怒	inxg
 媚俗	xste
@@ -40630,7 +40630,7 @@
 三来	ysyd
 旅美	omcj
 礼帽	ceow
-造物	pnwg
+造物	wowg
 口信	okte
 摄食	knis
 提起来	kzyd
@@ -40737,7 +40737,7 @@
 呐喊助威	oohp
 张思德	pvnf
 周翔	phcl
-无依无靠	hthp
+无依无靠	hthw
 对质	gkof
 治平	jbhd
 调阅	eppd
@@ -41040,7 +41040,7 @@
 大团圆	juuo
 群芳	dmro
 副热带高压	vego
-广告法	mpjh
+广告法	mwjh
 欧盟市场	lwfh
 第八个	diue
 奖级	qnaa
@@ -41172,7 +41172,7 @@
 卸车	vzcc
 扦插	kiki
 朝思暮想	fvai
-告慰	pgsk
+告慰	wosk
 系统开发	mail
 智微	vorp
 略加	vufj
@@ -41299,7 +41299,7 @@
 内转	bncp
 地震台	hvbo
 于都	hymd
-李浩	ypjp
+李浩	ypjw
 寒颤	lafi
 没法子	jjpz
 农业社会	orcu
@@ -41496,7 +41496,7 @@
 关塔那摩	qham
 谭延	ehmz
 团块	ukhk
-造船业	pery
+造船业	wery
 山茶	isru
 恐慌性	khhm
 楚楚可怜	yykh
@@ -41625,7 +41625,7 @@
 独揽	sbkd
 萧山区	rilg
 基德	qhnf
-告密	pgle
+告密	wole
 又红又专	gagp
 一而再	iqap
 解乏	iamn
@@ -41842,7 +41842,7 @@
 李明兴	ywfi
 英武	rkip
 升压	mroh
-黄皓	uvrp
+黄皓	uvrw
 颤栗	fihy
 曾经沧海	dajj
 李特	ypwh
@@ -43448,7 +43448,7 @@
 楼台	yfbo
 选料	wlfl
 加索尔	ffij
-广而告之	mqpn
+广而告之	mqwn
 捕快	kthk
 尖刻	jjsv
 比例失调	mtve
@@ -43456,7 +43456,7 @@
 排遣	ksbr
 最新型	wbiv
 海协	jvfs
-朱浩	yzjp
+朱浩	yzjw
 竹签	dzde
 礼数	cefx
 金川	tjkc
@@ -43673,7 +43673,7 @@
 晴空万里	wlqt
 白道	rbqm
 紧身衣	vncy
-文告	fwpg
+文告	fwwo
 热那亚	eary
 逃开	ddir
 详述	ecye
@@ -43764,7 +43764,7 @@
 另眼相看	hqik
 回头客	ullu
 漳浦	jojt
-报告期期	kpqq
+报告期期	kwqq
 父兄	nfol
 水工	mskg
 山西路	ihcu
@@ -44600,7 +44600,7 @@
 行迹	ntrn
 生厌	mcoj
 淞沪	jijt
-造假者	ptmz
+造假者	wtmz
 索隐	fldi
 本位主义	ytfe
 打眼	keql
@@ -44783,7 +44783,7 @@
 高画质	siof
 中共中央办公厅	gugo
 混成	jwpd
-酒窖	jhlp
+酒窖	jhlw
 贾某	hgri
 成药	pdra
 伊布	tdxo
@@ -45777,7 +45777,7 @@
 谍报	epkd
 低平	txhd
 未卜	ywbb
-告示牌	ptpr
+告示牌	wtpr
 耳际	nedt
 香椿	zwyc
 小商小贩	jujg
@@ -46174,7 +46174,7 @@
 孟元超	pdzn
 天顶	ijeq
 酒意	jhoe
-无可奉告	hkcp
+无可奉告	hkcw
 洁身自好	jnmx
 串串门	ggpm
 不分青红皂白	oicr
@@ -46944,8 +46944,8 @@
 适应力	imsl
 横线	yuai
 马修	vmtu
-靠边站	psbb
-造物主	pwfz
+靠边站	wsbb
+造物主	wwfz
 死伤者	ntmz
 良辰美景	eocw
 顺水推舟	kmke
@@ -47707,7 +47707,7 @@
 臭味相投	moik
 伊万	tdqd
 成交率	pffa
-王浩	awjp
+王浩	awjw
 起获	zjrs
 参天大树	bijy
 高矮	sgvz
@@ -47914,7 +47914,7 @@
 不中用	ogay
 李俊成	ytpd
 负气	iguq
-李民浩	yjjp
+李民浩	yjjw
 雨桐	vyyp
 借题发挥	twlk
 白眉	rbsq
@@ -48165,7 +48165,7 @@
 见客	kjlu
 含恨	uzhl
 信泰富	tclv
-闭门造车	pppc
+闭门造车	ppwc
 李文忠	yfge
 鼻出血	mpmk
 确有其事	qxqk
@@ -48589,7 +48589,7 @@
 土著人	hrur
 瓶塞	qrla
 粤港澳	wjjw
-报告人	kpur
+报告人	kwur
 起始日	zxwr
 捞一把	kikw
 慢火	hwzh
@@ -49544,11 +49544,11 @@
 搭扣	krko
 何贵	tkbq
 攻击型	khiv
-告吹	pgoj
+告吹	wooj
 用膳	ayuc
 安分守己	lilj
 拉斐尔	ksij
-许浩	ewjp
+许浩	ewjw
 腻味	upoy
 绥靖	axbc
 互派	iljo
@@ -49842,7 +49842,7 @@
 槐花	yrrt
 全然不知	tnov
 雷蒙德	vsnf
-陈浩	dcjp
+陈浩	dcjw
 王洪亮	ajsp
 定西	lihx
 王族	awov
@@ -49991,7 +49991,7 @@
 龚学平	afhd
 贼船	gpep
 调经	epah
-告罄	pgsp
+告罄	wosp
 韩尚志	fxhe
 白话文	refw
 成化	pdtm
@@ -50069,7 +50069,7 @@
 钦定	gjli
 足协杯赛	cfyl
 自贡市	mkfo
-靠枕	psyo
+靠枕	woyo
 国子监	upvd
 党卫军	fdlc
 时断时续	wfwa
@@ -50367,7 +50367,7 @@
 传家宝	tlla
 邙山	fdis
 模拟考试	ykme
-告警	pgru
+告警	woru
 寿山石	siqs
 改土	juht
 万州区	qklg
@@ -50595,7 +50595,7 @@
 文理科	fazl
 杨武	yaip
 历史小说	ooje
-评价报告	etkp
+评价报告	etkw
 柳枝	yxyf
 谭震林	evyl
 补肺	cbui
@@ -50823,7 +50823,7 @@
 淮南市	jsfo
 数据质量	fkow
 消费级	jpaa
-靠天吃饭	pioi
+靠天吃饭	wioi
 兴宁市	flfo
 猩红	swak
 种茶	zgru
@@ -50853,7 +50853,7 @@
 清末民初	jyjc
 迟延	bnmz
 王志刚	ahpg
-劳动改造	sgjp
+劳动改造	sgjw
 监票人	vhur
 鼻息肉	mmbu
 烽火台	zzbo
@@ -51002,7 +51002,7 @@
 粗茶淡饭	frji
 胃脘	vuul
 劈头	sblt
-罗永浩	yejp
+罗永浩	yejw
 缓坡	axha
 归化	vdtm
 出巡	pckn
@@ -52028,7 +52028,7 @@
 风箱	pfdi
 大致上	jibi
 学农	fpoo
-冰窖	dmlp
+冰窖	dmlw
 碰瓷	qqdj
 小凯	jxij
 印刷机	xsyp
@@ -53395,7 +53395,7 @@
 色带	iwgl
 班班长	aauc
 鲁豫有	nbxu
-广告界	mpvu
+广告界	mwvu
 肖华	xutm
 蓝鲸	rvns
 北京市第二中级人民法院	dsfd
@@ -53580,7 +53580,7 @@
 拖带	kvgl
 优先股	twup
 乔洪	mjju
-可靠度	kpmr
+可靠度	kwmr
 王国林	auyl
 日理万机	waqy
 苟同	rgpi
@@ -54348,7 +54348,7 @@
 起意	zjoe
 语料	enfl
 主力房型	fsti
-首战告捷	qbpk
+首战告捷	qbwk
 容县	lehb
 民柬	jtyy
 徐子	nepz
@@ -54431,7 +54431,7 @@
 强时	powk
 李晟	ypwp
 昌吉	wwpj
-靠泊	psjr
+靠泊	wojr
 射击场	nhha
 茶客	rulu
 扩展卡	ksbo
@@ -54584,7 +54584,7 @@
 猪只	smoi
 同吃同住	popt
 哈罗德	oynf
-造园	pnud
+造园	woud
 土话	htei
 严歌苓	rkru
 遗诏	bqen
@@ -54646,7 +54646,7 @@
 半打	ybke
 无可争辩	hkib
 最强音	wpoy
-造型艺术	piry
+造型艺术	wiry
 重现性	iahm
 中枢性	gyhm
 重庆地区	imhl
@@ -54728,7 +54728,7 @@
 渔区	jnlg
 糍粑	fqfw
 南岭	sqiu
-宁浩	lejp
+宁浩	lejw
 鱼钩	nygg
 包下来	goyd
 竹节	dzrd
@@ -55187,7 +55187,7 @@
 凝眸	dbqb
 灵敏性	dvhm
 主动式	fgpk
-上告	bipg
+上告	biwo
 凭栏	ttyq
 章伯钧	otgg
 跑堂	cgfh
@@ -55231,7 +55231,7 @@
 风动	pfgs
 制药业	wrry
 欧洲委员会	ljzu
-浩气	jpuq
+浩气	jwuq
 短期债券	vqtc
 顶用	eqay
 衡器	nirj
@@ -55333,7 +55333,7 @@
 罗文	ynfw
 道破	qmqa
 有害无益	xlhq
-造纸业	pary
+造纸业	wary
 轱辘	chct
 秘而不宣	zqol
 佩特洛娃	twjx
@@ -55401,7 +55401,7 @@
 小馆	jxil
 早自习	wmdx
 量入为出	wmdp
-毛糙	rmfp
+毛糙	rmfw
 博采	ftxy
 诸侯国	etua
 黄河路	ujcu
@@ -55477,7 +55477,7 @@
 范家	xjls
 庚午	mdww
 同病	pimi
-告官	pglr
+告官	wolr
 不得要领	onhu
 金坛	tjhg
 潘刚	jmpg
@@ -55613,7 +55613,7 @@
 急电	idwe
 作恶多端	trnb
 黄征	uvni
-靠在一起	pxiz
+靠在一起	wxiz
 黑糖	vhfm
 赤条条	huuy
 小篆	jxdl
@@ -55691,7 +55691,7 @@
 启运	togn
 龙争虎斗	aitl
 挂彩	kqxy
-造山带	pigl
+造山带	wigl
 劫数	hbfx
 吴谷丰	oesf
 细弱	avpd
@@ -55832,7 +55832,7 @@
 骄阳似火	vdtz
 老古董	mhri
 戊寅	pwli
-矫揉造作	vkpt
+矫揉造作	vkwt
 格杀	yugy
 民家	jtls
 维克多	ahnn
@@ -55875,7 +55875,7 @@
 光板	xiyo
 挽歌	kikk
 激光束	jxyo
-讣告	ebpg
+讣告	ebwo
 霍查	vayw
 突变体	lrty
 油印	jvxd
@@ -57186,7 +57186,7 @@
 蛋花汤	zrja
 束身	yons
 刚柔相济	pbij
-施政报告	oikp
+施政报告	oikw
 定心	liex
 麦考林	cmyl
 夏斌	qqfi
@@ -57370,7 +57370,7 @@
 陈雨林	dvyl
 于志敏	hhvl
 天京	ijsj
-告别赛	phla
+告别赛	whla
 姓高	xmsg
 铁条	gvuy
 吃独食	osis
@@ -57903,7 +57903,7 @@
 红景天	awij
 漱口水	joms
 曹仁	uwtp
-公告牌	ippr
+公告牌	iwpr
 耐酸	qkhb
 咻咻	otot
 女红	xnak
@@ -58286,7 +58286,7 @@
 陶土	dght
 装修费	qtpv
 陈芸	dcrg
-打小报告	kjkp
+打小报告	kjkw
 竹排	dzks
 老幺	mmay
 博里	fttl
@@ -58496,7 +58496,7 @@
 黄宇	uvlh
 鸡眼	goql
 膜厚度	uomr
-人造纤维	upaa
+人造纤维	uwaa
 出版者	ppmz
 金达	tjjn
 玉成	aepd
@@ -58982,7 +58982,7 @@
 郭为	spds
 铜梁	gpjn
 使女	tgxn
-奉告	chpg
+奉告	chwo
 交底	fnmx
 御制	nvwp
 原核	orys
@@ -59561,7 +59561,7 @@
 大龄青年	jzcv
 密电	lewe
 张国华	putm
-假造	tspn
+假造	tswo
 姘头	xqlt
 华能集团	tbau
 巨商	lsus
@@ -59712,7 +59712,7 @@
 辛夷	bxjp
 落尘	xujh
 凌未风	dypf
-铸造厂	gpoc
+铸造厂	gwoc
 测时	jgwk
 漫骂	jwrv
 绫濑	ahjy
@@ -59743,7 +59743,7 @@
 重利	itzv
 一行行	innt
 敢找	znkp
-电告	wepg
+电告	wewo
 冰柱	dmyf
 找乐	kpxj
 腿肚子	uupz
