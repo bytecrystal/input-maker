@@ -121,6 +121,11 @@ zh_trad:
 #  enable_user_dict: false
 #  tips: "〔笔画〕"
 
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+#注释掉上面3行后就不能拼音混输了
+
 # 反查
 reverse_lookup:
   dictionary: pinyin_simp

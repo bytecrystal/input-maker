@@ -146,7 +146,7 @@ with open('build/tuma.phrases.dict.yaml', 'w') as phrasesFile:
     for kv in ciMap.items():
         phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
 
-with open('build/zi_ci.txt', 'w') as ziCiFile:
+with open('build/兔码.txt', 'w') as ziCiFile:
     for char, code in briefCode:
         ziCiFile.write('%s\t%s\n' % (char, code))
     for kv in ciMap.items():
