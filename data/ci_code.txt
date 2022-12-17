@@ -2419,7 +2419,7 @@
 垄断	ahfe
 主张	fzsu
 家属	lssm
-焦点	ajbk
+焦点	akbk
 巴西	wbpx
 发射	lfuk
 等于	bhhy
@@ -5139,7 +5139,7 @@
 北京奥运会	dscu
 崇拜	ilki
 宣言	liey
-焦虑	ajge
+焦虑	akge
 主观	fzgk
 国资委	udzx
 适用于	iahy
@@ -7945,7 +7945,7 @@
 旅途	omey
 好过	xpkn
 暗暗	wkwk
-焦急	ajid
+焦急	akid
 莫过于	fkhy
 求职	mepo
 市级	foaa
@@ -9071,7 +9071,7 @@
 名声	noss
 强者	somz
 全额	tqlu
-聚焦	pgaj
+聚焦	pgak
 野外	tbnb
 第九名	bxno
 不确定性	oqlh
@@ -12290,7 +12290,7 @@
 菜肴	rxgx
 走红	zzak
 得奖	nwqn
-对焦	gkaj
+对焦	gkak
 撒谎	kher
 太湖	jejn
 组图	ahuu
@@ -14667,7 +14667,7 @@
 党籍	flby
 体育课	tfew
 成才	pdkc
-焦炭	ajix
+焦炭	akix
 领地	ubhl
 络绎不绝	aaoa
 个体户	utgh
@@ -15377,7 +15377,7 @@
 遮挡	mrkx
 禁赛	yrla
 老远	mmdn
-焦距	ajxl
+焦距	akxl
 隐含	diuz
 现实主义	alfe
 台历	bons
@@ -20234,7 +20234,7 @@
 减半	dpob
 梯子	ydpz
 云海	gyjv
-焦躁	ajxo
+焦躁	akxo
 周公	phib
 拨号	klob
 十分之一	fioi
@@ -22949,7 +22949,7 @@
 国民政府	ueim
 小女子	jxpz
 气喘吁吁	uooo
-焦化	ajtm
+焦化	aktm
 差劲	ckmk
 越战	zpbp
 留点	nnbk
@@ -24534,7 +24534,7 @@
 拜会	kiug
 政治经济学	ijaf
 一家子	ilpz
-烧焦	zpaj
+烧焦	zpak
 猫腻	srup
 挨骂	kbrv
 尽职	bdpo
@@ -25587,7 +25587,7 @@
 渣土	jyht
 尿尿	smsm
 聚酯	pgpm
-焦作	ajto
+焦作	akto
 骤降	vgdu
 劳伦斯	stqt
 远眺	dnqd
@@ -31134,7 +31134,7 @@
 照面	wnqo
 人口密度	uolm
 击掌	hqfk
-焦糖	ajfm
+焦糖	akfm
 方向性	ochm
 土楼	htyf
 怎不	oeob
@@ -32057,7 +32057,7 @@
 热源	vkjn
 护身符	kubt
 单行	dwnt
-焦煤	ajzr
+焦煤	akzr
 还本付息	oytm
 村组	ykah
 晕头转向	wlcc
@@ -33264,7 +33264,7 @@
 农历新年	onbv
 响动	ocgs
 青梅	cuyv
-焦灼	ajzj
+焦灼	akzj
 凉亭	dsst
 第一块	bihk
 叱咤风云	oopg
@@ -38260,7 +38260,7 @@
 狂胜	saum
 宫外孕	lnap
 马特拉齐	vwkf
-焦油	ajjv
+焦油	akjv
 胡彦斌	nbfi
 镇江市	gjfo
 近照	tnwn
@@ -38824,7 +38824,7 @@
 举头	filt
 湘潭市	jjfo
 职业性	pghm
-炼焦	zlaj
+炼焦	zlak
 南唐	sqmd
 护坡	kgha
 欧耶	lgpd
@@ -40068,7 +40068,7 @@
 手术期	kyqu
 延续性	mahm
 豆瓣酱	ibqn
-焦健	ajtd
+焦健	aktd
 一朵朵	ippy
 冯富珍	dlau
 声纳	ssab
@@ -40872,7 +40872,7 @@
 眼馋	qlii
 草席	rwmr
 控制面板	kwqy
-焦炉	ajzg
+焦炉	akzg
 田埂	vthg
 本心	yiex
 周炎	phzz
@@ -43122,7 +43122,7 @@
 拥护者	kkmz
 金桥瑞	tyai
 严复	gmvw
-中焦	gzaj
+中焦	gzak
 王老	awmm
 富士山	lhis
 凉城	dshp
@@ -44820,7 +44820,7 @@
 痛哭失声	mrvs
 郭璞	spag
 课税	ewzd
-心焦	exaj
+心焦	exak
 艺术团体	ryut
 景深	wsjl
 龙哥	alkk
@@ -48181,7 +48181,7 @@
 异黄酮	ehpp
 玉树临风	ayvp
 义项	egkq
-焦黄	ajhv
+焦黄	akhv
 赶跑	zhxj
 出资者	qdmz
 迎候	ndts
@@ -48426,7 +48426,7 @@
 嗑瓜子	ozpz
 陈留	dcnn
 头尾	ltsr
-焦黑	ajth
+焦黑	akth
 频传	zjtp
 自勉	mqil
 过河拆桥	kjky
@@ -57564,7 +57564,7 @@
 立言	bley
 艰涩	gljn
 摘译	koeg
-焦扬	ajka
+焦扬	akka
 储金	tetj
 黑灯瞎火	tzqz
 遗孤	cqpz
@@ -58993,7 +58993,7 @@
 华表奖	tcqn
 刘老	fvmm
 华燕	tmro
-烤焦	zmaj
+烤焦	zmak
 小黄鱼	jhuy
 郭威	sppi
 盆菜	ikrx
