@@ -483,7 +483,7 @@ def stats(brief_code, cybm):
     print('前500四码数：%d' % n4a_500)
     print('前1500四码数：%d' % n4a_1500)
 
-    weight = (jca + zjdla + jjdla) * 500 + xca + dkpa * 500 + dkpa_1500 / 2 + dkpa_500 + n4a_1500 + n4a_500 * 100
+    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 2
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
@@ -603,7 +603,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
