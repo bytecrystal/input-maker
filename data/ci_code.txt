@@ -1706,7 +1706,7 @@
 地产	hlbm
 出生	qimc
 地铁	hlgv
-遗憾	cqhp
+遗憾	clhp
 以往	qynf
 外资	nbdj
 独特	scwh
@@ -2368,7 +2368,7 @@
 常规	fokk
 与此同时	rgpw
 方针	ofgf
-贵州	cqnz
+贵州	clnz
 实用	llcy
 改革开放	epio
 下班	hxah
@@ -3672,7 +3672,7 @@
 买到	zlih
 天地	ijhl
 世上	msbi
-珍贵	aucq
+珍贵	aucl
 未必	ywem
 甜蜜	irle
 缩小	aljx
@@ -3700,7 +3700,7 @@
 学员	fpol
 原始	nrxb
 侵略	tdvu
-遗产	cqbm
+遗产	clbm
 胖子	uopz
 欺负	qjil
 帽子	owpz
@@ -4237,7 +4237,7 @@
 决不	dkob
 深夜	jlft
 头脑	ltuf
-宝贵	lacq
+宝贵	lacl
 应付	mftk
 公开赛	iil
 连忙	cnhf
@@ -4544,7 +4544,7 @@
 夸张	jpsu
 街上	nabi
 出身	qius
-遗传	cqtp
+遗传	cltp
 血压	mknh
 体力	tysl
 上车	bicc
@@ -4763,7 +4763,7 @@
 幸好	hqxp
 标识	yreo
 路边	xusn
-贵阳	cqdw
+贵阳	cldw
 诗人	ehur
 回避	rosb
 分泌	iwje
@@ -5349,7 +5349,7 @@
 下旬	hxjw
 苦笑	rhdm
 多方	nnof
-遗址	cqhg
+遗址	clhg
 电台	wdbo
 摩羯	mycw
 送来	qjyd
@@ -5363,7 +5363,7 @@
 入学	mefp
 干涉	hgjg
 往事	nfko
-遗忘	cqfe
+遗忘	clfe
 目录	qmdp
 民生	ekmc
 丢失	iivs
@@ -5431,7 +5431,7 @@
 发掘	lfks
 破裂	qanv
 公安部	ilb
-高贵	sgcq
+高贵	sgcl
 不完全	olu
 实业	lley
 八月	ibuy
@@ -5577,7 +5577,7 @@
 评级	ehaa
 账号	luob
 万岁	qain
-贵族	cqov
+贵族	clov
 厂房	nceo
 梦幻	ynaa
 院士	dlhs
@@ -6608,7 +6608,7 @@
 清算	jcdq
 小米	jxfm
 未曾	ywdw
-昂贵	wscq
+昂贵	wscl
 展望	shfu
 尾巴	sjwb
 本是	yiwi
@@ -7019,7 +7019,7 @@
 总产值	dbt
 西红柿	pay
 长虹	ucck
-遗体	cqty
+遗体	clty
 触及	icaj
 太平	jehd
 云南省	gsj
@@ -7131,7 +7131,7 @@
 宵夜	lxft
 老化	mmtm
 目击者	qhm
-遗留	cqsw
+遗留	clsw
 会同	ugpi
 击中	hqkz
 牢固	lwrh
@@ -7330,7 +7330,7 @@
 跳出	xdqi
 强有力	sxs
 仍旧	tafw
-贵宾	cqlt
+贵宾	cllt
 阁下	puhx
 涵盖	jzck
 奔跑	jfxj
@@ -7429,7 +7429,7 @@
 光彩	xixy
 可不可以	rorq
 注明	jfwu
-遗漏	cqjs
+遗漏	cljs
 通货膨胀	btuu
 华北	tmdm
 越发	gplf
@@ -7546,7 +7546,7 @@
 肝癌	uhmo
 农家	oils
 蚊子	cfpz
-遗失	cqvs
+遗失	clvs
 恐慌	kphr
 海边	jvsn
 枕头	yolt
@@ -9633,7 +9633,7 @@
 朦胧	usua
 生怕	mchr
 可悲	rkge
-可贵	rkcq
+可贵	rkcl
 寿司	gkai
 丰满	gfjr
 看不起	kog
@@ -9826,7 +9826,7 @@
 蚂蚁	cvce
 里头	allt
 科比	zlmb
-富贵	lvcq
+富贵	lvcl
 文书	fwzd
 肩负	euil
 空间站	lpb
@@ -10709,7 +10709,7 @@
 副教授	vmk
 交通部	fbb
 两样	clyc
-贵人	cqur
+贵人	clur
 广东队	mcd
 独立性	sbh
 出入境	qmh
@@ -11160,7 +11160,7 @@
 教育厅	mfn
 发货	lftm
 山林	isyl
-尊贵	qkcq
+尊贵	qkcl
 公会	ibug
 爷们	ydtp
 鱼类	nyfj
@@ -12079,7 +12079,7 @@
 在心	xhex
 信中	tekz
 举止	figz
-遗弃	cqfr
+遗弃	clfr
 慕尼黑	zsh
 敦煌	spzr
 精简	fcdp
@@ -12476,7 +12476,7 @@
 显微镜	wug
 历届	nssv
 哈萨克斯坦	orhh
-贵重	cqia
+贵重	clia
 西路	pxxu
 保修	totu
 不管怎样	odky
@@ -12912,7 +12912,7 @@
 瘦肉	mrdu
 太守	jelk
 检查组	yya
-遗迹	cqon
+遗迹	clon
 不甘	obri
 据点	ksbk
 自尊心	mqe
@@ -14871,7 +14871,7 @@
 互换	ixki
 引得	sfnw
 仓促	uetx
-名贵	nocq
+名贵	nocl
 纷争	aiid
 数控	fxkl
 表弟	cids
@@ -14925,7 +14925,7 @@
 中东地区	kchl
 怪怪	hghg
 一个劲	ium
-遗嘱	cqos
+遗嘱	clos
 突袭	ljac
 阿婆	drja
 收据	huks
@@ -16107,7 +16107,7 @@
 动乱	gsid
 酷似	pwtq
 威风	pipf
-遗书	cqzd
+遗书	clzd
 争夺战	ijb
 收留	husw
 变故	oghu
@@ -20337,7 +20337,7 @@
 中宣部	klb
 入账	melu
 作价	tktu
-贵妃	cqxe
+贵妃	clxe
 胫骨	ummg
 蒙蒙	spsp
 达喀尔	joi
@@ -20670,7 +20670,7 @@
 桥面	ymqo
 微乎其微	umqu
 蓄电池	rwj
-权贵	ygcq
+权贵	ygcl
 寄宿	ljlt
 反叛	ngon
 花茶	rtru
@@ -21592,7 +21592,7 @@
 西施	pxol
 定居点	lsb
 爹娘	ynxe
-遗物	cqwj
+遗物	clwj
 估量	thwi
 欢度	gjmr
 通缉令	bau
@@ -21925,7 +21925,7 @@
 低低	tsts
 开荒	irrf
 摊派	kgjn
-华贵	tmcq
+华贵	tmcl
 球技	apkf
 烈焰	nvzi
 连累	cnva
@@ -24189,7 +24189,7 @@
 闲散	pyhu
 才智	kcvo
 函授	zpkx
-新贵	bycq
+新贵	bycl
 聚精会神	pfuc
 小平	jxhd
 缘起	axge
@@ -24490,7 +24490,7 @@
 操守	kolk
 阵痛	dcmb
 山野	isab
-无遗	hdcq
+无遗	hdcl
 常熟	fosx
 病区	milg
 军服	lcud
@@ -25513,7 +25513,7 @@
 闭目	pkqm
 明令禁止	wuyg
 广东话	mce
-遗存	cqxp
+遗存	clxp
 中国画	kri
 第二套	dpj
 蛛丝马迹	cavo
@@ -26334,11 +26334,11 @@
 西宁市	plf
 文昌	fwww
 李雷雷	ybb
-贵妇	cqxd
+贵妇	clxd
 福地	cvhl
 少些	jsgm
 市井	foaj
-贵国	cqra
+贵国	clra
 略为	vuds
 擦伤	kltv
 墓穴	zhlx
@@ -27163,7 +27163,7 @@
 砸碎	qlqf
 吞并	ijqr
 古时	hgwk
-贵贱	cqli
+贵贱	clli
 罹患	ohoo
 跳台	xdbo
 小郭	jxsp
@@ -29418,7 +29418,7 @@
 特别奖	wkq
 耐热	qkvk
 意外险	ind
-遗像	cqtn
+遗像	cltn
 整地	yuhl
 黄黄	hvhv
 西蒙	pxsp
@@ -29641,7 +29641,7 @@
 直爽	fhjg
 过来人	kyu
 件件	twtw
-遗言	cqey
+遗言	cley
 水渠	psjl
 空调器	lez
 清唱	jcow
@@ -31561,7 +31561,7 @@
 木然	ymne
 译本	egyi
 燎原	zjnr
-遗愿	cqnr
+遗愿	clnr
 定植	liyf
 江津	jkjd
 第六章	dfi
@@ -32447,7 +32447,7 @@
 杨旭	yaxw
 跳蚤	xdge
 信鸽	teeo
-贵客	cqlu
+贵客	cllu
 乔家	mjls
 副官	vvlb
 长治	ucjb
@@ -34648,7 +34648,7 @@
 苗家	rvls
 纷扰	aikl
 一门心思	ipev
-遗志	cqhe
+遗志	clhe
 王泽荣	ajs
 国光	raxi
 信手	teks
@@ -35994,7 +35994,7 @@
 疲于奔命	mhje
 祸根	coyl
 第十九条	dfxu
-遗孀	cqxb
+遗孀	clxb
 平直	hdfh
 超产	gwbm
 放歌	ourr
@@ -37608,7 +37608,7 @@
 上列	binv
 蟾蜍	cice
 万里路	qax
-遗骸	cqmv
+遗骸	clmv
 蒲团	zark
 许昱华	ewt
 头头是道	llwq
@@ -37822,7 +37822,7 @@
 曾于	dwhy
 入团	merk
 军种	lczk
-遗落	cqzu
+遗落	clzu
 手轻	kscm
 红塔	akhr
 拼劲	kqmk
@@ -39124,7 +39124,7 @@
 童颜	babm
 送客	qjlu
 八国联军	irpl
-遗属	cqsm
+遗属	clsm
 刘佳	fvta
 李莉	yprz
 黄花菜	hrr
@@ -39609,7 +39609,7 @@
 金易	tjwj
 林晓丽	ywi
 关系史	qmo
-金贵	tjcq
+金贵	tjcl
 变化多端	otnb
 坚不可摧	vork
 毒液	cxjf
@@ -39936,7 +39936,7 @@
 正当防卫	ixdd
 孙楠	pjys
 完人	lzur
-遗骨	cqmg
+遗骨	clmg
 警卫员	rdo
 李志	yphe
 光闪闪	xpp
@@ -41802,7 +41802,7 @@
 边关	snqj
 浇铸	jpgg
 专任	pbtt
-遗精	cqfc
+遗精	clfc
 除四害	drl
 心有余而力不足	exex
 品茗	ozrn
@@ -42527,7 +42527,7 @@
 安国	lxra
 土崩瓦解	hihi
 流质	jfnf
-遗风	cqpf
+遗风	clpf
 浅析	jiyt
 黄华	hvtm
 拍手称快	kkzh
@@ -43047,7 +43047,7 @@
 陈师傅	dvt
 蹦跳	xixd
 张保庆	stm
-贵姓	cqxm
+贵姓	clxm
 摩尔多瓦	minh
 杰西卡	ypb
 真刀真枪	fwfy
@@ -45977,7 +45977,7 @@
 跳海	xdjv
 电子束	wpy
 窃笑	lkdm
-云贵	gycq
+云贵	gycl
 太学	jefp
 交工	fykg
 大悟	jdhn
@@ -46182,7 +46182,7 @@
 会签	ugde
 明治维新	wjab
 明末清初	wyjc
-显贵	wecq
+显贵	wecl
 师范学院	vzfd
 考古队	mhd
 换热器	kvz
@@ -49542,7 +49542,7 @@
 繁花似锦	vrtg
 狂澜	sajp
 搭扣	krko
-何贵	trcq
+何贵	trcl
 攻击型	khi
 告吹	wooj
 用膳	cyuc
@@ -50955,7 +50955,7 @@
 万花筒	qrd
 鲅鱼	nlny
 武侯祠	itc
-拾遗	kecq
+拾遗	kecl
 摸不清	koj
 排联	kgpq
 麻省	myjq
@@ -51349,7 +51349,7 @@
 障眼法	dqj
 既成	llpa
 游丝	joaa
-贵定	cqli
+贵定	clli
 毛躁	jmxo
 秦山	czis
 现钱	akgi
@@ -53787,7 +53787,7 @@
 窃听器	loz
 柴达木盆地	gjyh
 食管炎	idz
-遗尿	cqsp
+遗尿	clsp
 打得火热	knzv
 修斯	tuqt
 汤药	jara
@@ -53877,7 +53877,7 @@
 一中一台	ikib
 罗夫	onkf
 雨花区	brl
-遗作	cqtk
+遗作	cltk
 濮阳市	jdf
 康人寿	mug
 秦家	czls
@@ -53984,7 +53984,7 @@
 重典	iaph
 保暖性	twh
 敲出	sbqi
-娇贵	xmcq
+娇贵	xmcl
 培训部	heb
 德新社	nbc
 夸父	jpyf
@@ -54195,7 +54195,7 @@
 鄞州	rcnz
 农牧	oiwu
 景顺	wsnq
-遗照	cqww
+遗照	clww
 张琦	suaj
 梨花带雨	zrtb
 张老汉	smj
@@ -54587,7 +54587,7 @@
 造园	worz
 土话	htei
 严歌苓	err
-遗诏	cqew
+遗诏	clew
 婚俗	xste
 北京交通大学	dsff
 诸暨市	elf
@@ -56900,7 +56900,7 @@
 右丞	xozp
 体高	tysg
 表里如一	caxi
-遗民	cqek
+遗民	clek
 大权在握	jyxk
 无息贷款	hmch
 英国航空公司	rrsa
@@ -56956,7 +56956,7 @@
 工程化	kzt
 评阅	ehpd
 巡察	nnlr
-遗容	cqle
+遗容	clle
 妖异	xmer
 撒手不管	kkod
 儒者	tbmz
@@ -57567,7 +57567,7 @@
 焦扬	akka
 储金	tetj
 黑灯瞎火	hzqz
-遗孤	cqpy
+遗孤	clpy
 采掘业	xke
 野驴	abve
 倾听者	tom
@@ -57862,7 +57862,7 @@
 深入采访	jmxe
 宫墙	lohf
 花斑	rtaf
-贵港	cqjh
+贵港	cljh
 监督程序	vbzm
 镜花水月	grpu
 张林	suyl
@@ -58230,7 +58230,7 @@
 酯化	pmtm
 帕特里克	owah
 谢世	eums
-遗族	cqov
+遗族	clov
 猛子	sppz
 床榻	myyw
 沈阳赛区	jdll
@@ -58291,7 +58291,7 @@
 老幺	mmay
 博里	faal
 文化层	fts
-矜贵	blcq
+矜贵	blcl
 短句	vijo
 钢窗	gplg
 引导性	seh
