@@ -326,6 +326,22 @@ def stats(brief_code, cybm):
     n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     dkpa_500 = 0
     dkpa_1500 = 0
+    xkpa_500 = 0
+    xkpa_1500 = 0
+    xzgra_500 = 0
+    xzgra_1500 = 0
+    csa_500 = 0
+    csa_1500 = 0
+    jca_500 = 0
+    jca_1500 = 0
+    zjdla_500 = 0
+    zjdla_1500 = 0
+    jjdla_500 = 0
+    jjdla_1500 = 0
+    hja_500 = 0
+    hja_1500 = 0
+    n4a_1500 = 0
+    n4a_500 = 0
     for i in l:
         n1 = 0
         n2 = 0
@@ -385,6 +401,10 @@ def stats(brief_code, cybm):
                 zjj += i[0].get(j, '0000')
                 if k in hjzh or '_' in k:
                     hj += i[0].get(j, '0000')
+                    if (int)(i[1]) == 500:
+                        hja_500 += 1
+                    if (int)(i[1]) == 1500:
+                        hja_1500 += 1
                 if k in dkpzh:
                     dkp += i[0].get(j, '0000')
                     if (int)(i[1]) == 500:
@@ -393,10 +413,22 @@ def stats(brief_code, cybm):
                         dkpa_1500 += 1
                 if k in xkpzh:
                     xkp += i[0].get(j, '0000')
+                    if (int)(i[1]) == 500:
+                        xkpa_500 += 1
+                    if (int)(i[1]) == 1500:
+                        xkpa_1500 += 1
                 if k in xzgrzh:
                     xzgr += i[0].get(j, '0000')
+                    if (int)(i[1]) == 500:
+                        xzgra_500 += 1
+                    if (int)(i[1]) == 1500:
+                        xzgra_1500 += 1
                 if k in cszh:
                     cs += i[0].get(j, '0000')
+                    if (int)(i[1]) == 500:
+                        csa_500 += 1
+                    if (int)(i[1]) == 1500:
+                        csa_1500 += 1
         jjdl = (zjdl / pa) / ((jc / pa) - 1)
         # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
         #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
@@ -421,11 +453,26 @@ def stats(brief_code, cybm):
         csa += cs
         paa += pa
         zjja += zjj
+        if (int)(i[1]) == 500:
+            jca_500 += jc
+            zjdla_500 += zjdl
+            jjdla_500 += jjdl
+            n4a_500 += n4
+        if (int)(i[1]) == 1500:
+            jca_1500 += jc
+            zjdla_1500 += zjdl
+            jjdla_1500 += jjdl
+            n4a_1500 += n4
+
     jjdla = zjdla / (jca - 1)
     print('总选重：%d' % xca)
     print('键长：%f' % jca)
     print('字均当量：%f' % zjdla)
     print('键均当量：%f' % jjdla)
+    print('前500键长：%f' % jca_500)
+    print('前1500键长：%f' % jca_1500)
+    print('前500字均当量：%f' % zjdla_500)
+    print('前500键均当量：%f' % jjdla_500)
     print('左右互击：%f' % hja)
     print('同指大跨排：%f' % dkpa)
     print('同指大跨排500：%d' % dkpa_500)
@@ -433,7 +480,10 @@ def stats(brief_code, cybm):
     print('小跨排：%f' % xkpa)
     print('小指干扰：%f' % xzgra)
     print('错手：%f' % csa)
-    weight = (jca + zjdla + jjdla) * 500 + xca + dkpa * 500 + dkpa_1500 / 2 + dkpa_500
+    print('前500四码数：%d' % n4a_500)
+    print('前1500四码数：%d' % n4a_1500)
+
+    weight = (jca + zjdla + jjdla) * 500 + xca + dkpa * 500 + dkpa_1500 / 2 + dkpa_500 + n4a_1500 + n4a_500 * 100
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
