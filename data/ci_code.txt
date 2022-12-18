@@ -1681,7 +1681,7 @@
 白色	rbiw
 欧元	lgzy
 修改	tueu
-配套	peji
+配套	pejo
 另一方面	kioq
 祖国	chra
 改进	euan
@@ -2401,7 +2401,7 @@
 决议	dkee
 光棍	xiyw
 朋友们	uxt
-外套	nbji
+外套	nbjo
 温柔	jwbl
 自行车	mnc
 审查	lwyw
@@ -4555,7 +4555,7 @@
 房源	eojn
 电动	wdgs
 尽情	odhc
-套装	jiqh
+套装	joqh
 开门	irpm
 没关系	jqm
 语气	enuq
@@ -6963,7 +6963,7 @@
 追问	bnpo
 债权	tcyg
 由此可见	vgrk
-手套	ksji
+手套	ksjo
 同等	pidh
 双双	gggg
 大餐	jdbg
@@ -8470,7 +8470,7 @@
 情趣	hcgp
 传销	tpgx
 手感	kspi
-大肆	jdib
+大肆	jdod
 变性	oghm
 预备	bluv
 初衷	cwfk
@@ -8520,7 +8520,7 @@
 异议	eree
 证人	eiur
 少林	jsyl
-时髦	wkij
+时髦	wkoj
 莲花	rcrt
 造林	woyl
 脱颖而出	umqq
@@ -9458,7 +9458,7 @@
 散文	hufw
 悲惨	gehb
 三等奖	ydq
-整套	yuji
+整套	yujo
 前世	qums
 订票	elpr
 撤退	kfln
@@ -10760,7 +10760,7 @@
 施肥	oluw
 向北	godm
 悠悠	tutu
-套利	jizv
+套利	jozv
 良机	elyp
 课文	ewfw
 手心	ksex
@@ -11216,7 +11216,7 @@
 庭院	mtdl
 国籍	rady
 驱车	vlcc
-全套	uaji
+全套	uajo
 了事	zkko
 个案	uflx
 结识	aoeo
@@ -12561,7 +12561,7 @@
 放眼	ouql
 第一种	diz
 搬运	ksgn
-肆意	ibie
+肆意	odie
 宇航局	lss
 调味	epoy
 脑筋	ufdu
@@ -13488,7 +13488,7 @@
 朝天	ffij
 相助	oxhs
 多渠道	njq
-肆无忌惮	iheh
+肆无忌惮	oheh
 赵某	ggri
 田野	vtab
 洗手间	jkp
@@ -13702,7 +13702,7 @@
 无谓	hdev
 插管	kidl
 泡菜	jjrx
-成套	paji
+成套	pajo
 第一代	dic
 杂物	xywj
 分队	iwdu
@@ -14013,7 +14013,7 @@
 擦拭	klkp
 狭隘	skdq
 抵触	ksic
-放肆	ouib
+放肆	ouod
 只做	oith
 谋划	erpv
 邻里	ubal
@@ -14178,7 +14178,7 @@
 猖獗	swsn
 惊吓	hsoh
 非正式	gip
-套房	jieo
+套房	joeo
 报应	kdmf
 何人	trur
 嘉兴	oqfi
@@ -15541,7 +15541,7 @@
 掌心	fkex
 入口处	mou
 溢出	jqqi
-肆虐	ibed
+肆虐	oded
 排泄	kgjm
 违约金	pat
 赖床	yomy
@@ -16078,7 +16078,7 @@
 外事	nbko
 独裁	scfp
 起见	gekj
-套路	jixu
+套路	joxu
 退款	lnhr
 文联	fwpq
 邯郸	ridf
@@ -18215,7 +18215,7 @@
 购得	ljnw
 米粒	fmfb
 大起大落	jgjz
-圈套	rcji
+圈套	rcjo
 寡妇	lqxd
 恩师	rjvi
 小溪	jxjx
@@ -19102,7 +19102,7 @@
 御史	nvog
 抛下	kxhx
 讲讲	eaea
-套用	jicy
+套用	jocy
 停泊	tsjr
 气魄	uqrr
 吊带	ootl
@@ -19517,7 +19517,7 @@
 水箱	psdo
 舒淇	ehjq
 含水量	upw
-被套	caji
+被套	cajo
 神人	cwur
 董卓	ribw
 冷气	duuq
@@ -20659,7 +20659,7 @@
 国家法	rlj
 租赁市场	ztfh
 淹死	jjnm
-套上	jibi
+套上	jobi
 幼小	asjx
 连体	cnty
 独占	scbz
@@ -21229,7 +21229,7 @@
 防暴	dowh
 追肥	bnuw
 徒劳	ngss
-套牢	jilw
+套牢	jolw
 风风雨雨	ppbb
 珍视	auck
 潜伏期	jtq
@@ -22004,7 +22004,7 @@
 身姿	usdj
 并非如此	qgxg
 人民武装	ueiq
-套数	jifx
+套数	jofx
 牙痛	ilmb
 格格不入	yyom
 希望小学	gfjf
@@ -22846,7 +22846,7 @@
 击剑	hqef
 和平区	zhl
 葱花	rjrt
-套管	jidl
+套管	jodl
 放炮	ouzj
 京津	sjjd
 接诊	kbeu
@@ -25021,7 +25021,7 @@
 王军	awlc
 向前看	gqk
 私有制	zxw
-丫鬟	dfio
+丫鬟	dfoj
 照应	wwmf
 透射	zauk
 霸权主义	byfe
@@ -25303,7 +25303,7 @@
 伊万诺夫	tqek
 无所不能	hnob
 心急如焚	eixy
-套件	jitw
+套件	jotw
 日本国	wyr
 高尔夫俱乐部	sikb
 年审	vjlw
@@ -28129,7 +28129,7 @@
 能有机会	bxyu
 因缘	rjax
 尼克	smhl
-套取	jipg
+套取	jopg
 复返	vwng
 误伤	eotv
 核反应堆	ynmh
@@ -28783,7 +28783,7 @@
 安西	lxpx
 老实人	mlu
 农妇	oixd
-俗套	tiji
+俗套	tijo
 轻灵	cmdz
 雄心壮志	xeqh
 浅谈	jiez
@@ -28831,7 +28831,7 @@
 正方形	ioi
 闷闷	pepe
 叮叮	olol
-客套	luji
+客套	lujo
 堆砌	haqk
 尼古丁	shl
 偿命	txeo
@@ -29292,7 +29292,7 @@
 与世隔绝	rmda
 连城	cnhp
 薄一波	zij
-套种	jizk
+套种	jozk
 五毒	nwcx
 唐人	mdur
 协奏曲	fcw
@@ -30111,7 +30111,7 @@
 工矿企业	kque
 棺木	ylym
 杨浦区	yjl
-解套	icji
+解套	icjo
 新动向	bgg
 真善美	fcc
 卫生所	dmn
@@ -30404,7 +30404,7 @@
 扑上去	kbh
 良策	eldy
 胆战心惊	ubeh
-老套	mmji
+老套	mmjo
 桐庐	ypme
 温文尔雅	jfii
 见不得人	konu
@@ -31089,7 +31089,7 @@
 黄金时代	htwc
 门儿	pmle
 滤液	jejf
-套套	jiji
+套套	jojo
 眉头一皱	slii
 拟于	kqhy
 跑开	xjir
@@ -33802,7 +33802,7 @@
 生辰	mcni
 话儿	eile
 醉心	pfex
-乱套	idji
+乱套	idjo
 大难	jdga
 赵忠祥	gkc
 粤剧	gfsh
@@ -34416,7 +34416,7 @@
 宣传品	lto
 共产国际	hbrd
 叶开	ofir
-套话	jiei
+套话	joei
 折扇	ktei
 叹服	ogud
 心领神会	eucu
@@ -35534,7 +35534,7 @@
 晦暗	wvwi
 张春贤	scv
 混日子	jwp
-发髻	lfio
+发髻	lfoj
 缄默	aphj
 姜瑜	cxae
 美其名曰	cqnw
@@ -35646,7 +35646,7 @@
 拜金	kitj
 爬进	ywan
 克格勃	hyf
-上套	biji
+上套	bijo
 曼德拉	wnk
 雨林	byyl
 俄文	tkfw
@@ -36390,7 +36390,7 @@
 面熟	qosx
 空气动力学	lugf
 周老师	pmv
-套间	jipw
+套间	jopw
 毛裤	jmcm
 德化	nftm
 农工商	oko
@@ -36431,7 +36431,7 @@
 午时	wwwk
 辩论赛	bel
 始终不渝	xaoj
-套子	jipz
+套子	jopz
 哈尔滨工业大学	oijf
 历久	nsie
 识货	eotm
@@ -41003,7 +41003,7 @@
 知识库	vem
 长庆	ucmj
 哀乐	cosj
-虬髯	cdip
+虬髯	cdoj
 公共财产	ihlb
 过眼	knql
 冷不防	dod
@@ -42339,7 +42339,7 @@
 苦日子	rwp
 英飞凌	rnd
 周萌萌	prr
-两鬓	clil
+两鬓	cloj
 陈磊	dcqq
 地动	hlgs
 油瓶	jvqr
@@ -43174,7 +43174,7 @@
 顺应性	nmh
 地方法院	hojd
 毫不在乎	soxm
-龙套	alji
+龙套	aljo
 摸着石头过河	kcqj
 同性恋者	phom
 乌纱帽	gao
@@ -43652,7 +43652,7 @@
 跑不动	xog
 莆田市	rvf
 受降	xgdu
-发套	lfji
+发套	lfjo
 咳痰	ovmz
 朦朦胧胧	uuuu
 本相	yiox
@@ -44314,7 +44314,7 @@
 晋中	ewkz
 西晋	pxew
 上海展览中心	bjse
-赶时髦	gwi
+赶时髦	gwo
 秦阳	czdw
 剪除	qude
 油压	jvnh
@@ -46498,7 +46498,7 @@
 小气候	jut
 乌有	gwxu
 哈梅内伊	oydt
-鬓角	ilic
+鬓角	ojic
 李富春	ylc
 终身难忘	augf
 胖乎乎	umm
@@ -47124,7 +47124,7 @@
 重施	iaol
 张云	sugy
 文才	fwkc
-枕套	yoji
+枕套	yojo
 赎回费	lrs
 神妙	cwxj
 牵牛	jlwn
@@ -50185,7 +50185,7 @@
 爆炸式	zzp
 藩镇	zmgf
 白介素	ruc
-套筒	jidp
+套筒	jodp
 听诊器	oez
 永兴	epfi
 快捷方式	hkop
@@ -51620,7 +51620,7 @@
 高密	sgle
 珠宝商	alo
 却步	hbgj
-袖套	cvji
+袖套	cvjo
 薄情	zahc
 橙皮	yrap
 西泠印社	pjsc
@@ -52549,7 +52549,7 @@
 逆流而上	djqb
 扑打	kbkl
 防微杜渐	duyj
-河套	jrji
+河套	jrjo
 铺展	gash
 湖口	jhok
 小冯	jxdv
@@ -52629,7 +52629,7 @@
 姓朱	xmyz
 易立	wjbl
 招标会	kyu
-大肆宣传	jilt
+大肆宣传	jolt
 拉胡德	khn
 姬凌云	xdg
 料量	flwi
@@ -53584,7 +53584,7 @@
 王国林	ary
 日理万机	waqy
 苟同	rjpi
-封套	akji
+封套	akjo
 拌种	kozk
 爬高	ywsg
 植树节	yyr
@@ -54189,7 +54189,7 @@
 黑鱼	hhny
 矢志	vshe
 黄永玉	hea
-套购	jilj
+套购	jolj
 民怨	ekne
 湖南医科大学	jslf
 鄞州	rcnz
@@ -54872,7 +54872,7 @@
 蠕虫病毒	ccmc
 山货	istm
 孰是孰非	swsg
-酒肆	jpib
+酒肆	jpod
 贩私	lnzb
 爬行动物	yngw
 马后炮	vvz
@@ -59196,7 +59196,7 @@
 文氏	fwsk
 欧姆	lgxx
 叶萧	ofrd
-套裙	jicd
+套裙	jocd
 武媚	ipxs
 天官	ijlb
 硬脊膜	qdu
