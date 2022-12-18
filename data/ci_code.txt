@@ -187,7 +187,7 @@
 那个	aduf
 有些	xugm
 方法	ofjh
-部分	boif
+部分	boiw
 个人	ufur
 然后	nevo
 会议	ugee
@@ -217,7 +217,7 @@
 基本	qhyi
 建立	dhbl
 原因	nrrj
-分析	ifyt
+分析	iwyt
 如何	xotr
 直接	fhkb
 不知道	ovq
@@ -319,7 +319,7 @@
 才能	kcbu
 游戏	jogp
 医院	lvdl
-分钟	ifgk
+分钟	iwgk
 显示	wers
 参与	bjry
 专家	pbls
@@ -328,7 +328,7 @@
 真正	fhig
 特别	whkv
 自然	mqne
-分别	ifkv
+分别	iwkv
 上市	bifo
 取得	pgnw
 专业	pbey
@@ -382,7 +382,7 @@
 收入	hume
 人士	urhs
 不到	obih
-十分	fsif
+十分	fsiw
 政治	igjb
 之前	nzqu
 交易	fywj
@@ -446,7 +446,7 @@
 农民	oiek
 最好	wpxp
 用户	cyeh
-充分	flif
+充分	fliw
 利益	zvqi
 需求	bqpe
 风险	pfde
@@ -463,7 +463,7 @@
 永远	epzn
 旅游	omjo
 集团	ayrk
-分享	ifsp
+分享	iwsp
 生命	mceo
 速度	yomr
 方案	oflx
@@ -1252,7 +1252,7 @@
 回忆	rohn
 否则	oolv
 污染	jpjx
-分配	ifpe
+分配	iwpe
 运用	gncy
 具备	hiuv
 中国队	krd
@@ -1384,7 +1384,7 @@
 之下	nzhx
 丈夫	gzkf
 进攻	anku
-分子	ifpz
+分子	iwpz
 考生	mbmc
 空气	lkuq
 决赛	dkla
@@ -1401,7 +1401,7 @@
 表情	cihc
 平时	hdwk
 大学生	jfm
-比分	mbif
+比分	mbiw
 病毒	micx
 配置	peof
 委员	zxol
@@ -1634,7 +1634,7 @@
 财产	lkbm
 类型	fjiv
 早就	wfsj
-分布	ifxo
+分布	iwxo
 强化	sotm
 过年	knvj
 礼物	cdwj
@@ -1847,7 +1847,7 @@
 基本上	qyb
 彼此	nagm
 品质	oznf
-分为	ifds
+分为	iwds
 反复	ngvw
 地面	hlqo
 寂寞	ljlz
@@ -1898,7 +1898,7 @@
 机场	ypha
 收藏	hurp
 手续	ksaf
-贫困	ilry
+贫困	iwry
 效应	fymf
 区别	lgkv
 顾客	nelu
@@ -1954,7 +1954,7 @@
 装修	qhtu
 途径	eynm
 也就是	lsw
-成分	paif
+成分	paiw
 情感	hcpi
 援助	kxhs
 走进	gzan
@@ -2121,7 +2121,7 @@
 航空	sflk
 民众	ekuv
 风景	pfws
-分离	iffq
+分离	iwfq
 渐渐	jcjc
 有望	xufu
 节日	rdwr
@@ -2391,7 +2391,7 @@
 大人	jdur
 体内	tydn
 乐观	sjgk
-分手	ifks
+分手	iwks
 签署	deom
 市委	fozx
 果断	wyfd
@@ -2659,7 +2659,7 @@
 电池	wdjl
 严肃	emdj
 客场	luha
-得分	nwif
+得分	nwiw
 个股	ufut
 碰到	qqih
 库存	mcxp
@@ -2683,7 +2683,7 @@
 抢救	kupe
 别墅	kvab
 纠结	ahao
-积分	zoif
+积分	zoiw
 示范	rsze
 神奇	cwjr
 实在是	lxw
@@ -2695,7 +2695,7 @@
 资本主义	dyfe
 播出	kmqi
 客人	luur
-分类	iffj
+分类	iwfj
 倾向	tmgo
 唱歌	owrr
 都市	mdfo
@@ -2962,7 +2962,7 @@
 郁闷	xupe
 半天	obij
 啊啊	odod
-颁奖	iqqn
+颁奖	iwqn
 饮料	ijfl
 两者	clmz
 传递	tpds
@@ -3207,7 +3207,7 @@
 视觉	ckfk
 图书馆	rzi
 开口	irok
-分开	ifir
+分开	iwir
 海南	jvsq
 惊人	hsur
 完毕	lzmf
@@ -3335,7 +3335,7 @@
 拆迁	ktin
 从中	vckz
 虚假	eets
-过分	knif
+过分	kniw
 应急	mfid
 做人	thur
 大战	jdbp
@@ -3372,7 +3372,7 @@
 哪怕	oahr
 多云	nngy
 升高	mrsg
-分裂	ifnv
+分裂	iwnv
 中方	kzof
 一带	iytl
 现行	aknt
@@ -3513,7 +3513,7 @@
 血清	mkjc
 有种	xuzk
 中日	kzwr
-分散	ifhu
+分散	iwhu
 酒吧	jpow
 高温	sgjw
 潜在	jkxh
@@ -3793,7 +3793,7 @@
 受理	xgaa
 国际化	rdt
 市场化	fht
-划分	pvif
+划分	pviw
 右手	xoks
 号召	obwo
 外交部	nfb
@@ -4099,7 +4099,7 @@
 直径	fhnm
 男士	vshs
 赞助	wwhs
-颁布	iqxo
+颁布	iwxo
 陪同	dbpi
 老虎	mmep
 华盛顿	tpk
@@ -4113,7 +4113,7 @@
 嫉妒	xmxe
 幽默	iahj
 性别	hmkv
-美分	cjif
+美分	cjiw
 热门	vkpm
 礼品	cdoz
 伸手	twks
@@ -4259,7 +4259,7 @@
 看书	kqzd
 周六	phfi
 吸引力	oss
-颁发	iqlf
+颁发	iwlf
 稍微	zxup
 作物	tkwj
 总决赛	ddl
@@ -4293,7 +4293,7 @@
 联手	pqks
 猪肉	smdu
 借口	thok
-水分	psif
+水分	psiw
 燃料	zefl
 器官	zjlb
 深处	jlub
@@ -4441,7 +4441,7 @@
 四处	rlub
 投产	ktbm
 制止	wpgz
-分成	ifpa
+分成	iwpa
 孕妇	apxd
 作案	tklx
 募集	zsay
@@ -4494,14 +4494,14 @@
 发展中国家	lskl
 乐队	sjdu
 航空公司	slia
-分化	iftm
+分化	iwtm
 罕见	lhkj
 依照	tcww
 参展	bjsh
 国企	raug
 客厅	lunl
 抛弃	kxfr
-分红	ifak
+分红	iwak
 片子	nppz
 党内	fldn
 列为	nvds
@@ -4659,7 +4659,7 @@
 养成	cepa
 过高	knsg
 穿过	likn
-扶贫	kkil
+扶贫	kkiw
 分辨率	ibf
 制成	wppa
 年会	vjug
@@ -4732,7 +4732,7 @@
 均衡	hjni
 绑架	agzy
 喜悦	oqhd
-分工	ifkg
+分工	iwkg
 厦门市	npf
 救命	peeo
 评审	ehlw
@@ -4743,7 +4743,7 @@
 进度	anmr
 射门	ukpm
 一举	iyfi
-分歧	ifgf
+分歧	iwgf
 言论	eyeu
 问候	pots
 念头	uzlt
@@ -4751,7 +4751,7 @@
 过头	knlt
 手臂	kssb
 运转	gncp
-几分	pjif
+几分	pjiw
 小雨	jxby
 后天	voij
 检索	yefl
@@ -4766,7 +4766,7 @@
 贵阳	cqdw
 诗人	ehur
 回避	rosb
-分泌	ifje
+分泌	iwje
 长久	ucie
 航线	sfai
 密集	leay
@@ -4789,7 +4789,7 @@
 自家	mqls
 着力	cqsl
 匆匆	jdjd
-分数	iffx
+分数	iwfx
 有空	xulk
 言语	eyen
 首位	qmtb
@@ -4925,7 +4925,7 @@
 屋子	sipz
 宁愿	llnr
 溶液	jljf
-分解	ific
+分解	iwic
 显现	weak
 极限	yadl
 约会	ajug
@@ -5053,7 +5053,7 @@
 中断	kzfd
 暗示	wirs
 不爽	objg
-处分	ubif
+处分	ubiw
 外国人	nru
 自豪	mqss
 吸烟	oazr
@@ -5443,7 +5443,7 @@
 嘴唇	omni
 过敏	knvx
 莫名其妙	znqx
-分支	iffg
+分支	iwfg
 柔软	blcj
 检疫	yemt
 日趋	wrgi
@@ -5458,8 +5458,8 @@
 双边	ggsn
 不理	obaa
 跨越	xjgp
-分局	ifsa
-区分	lgif
+分局	iwsa
+区分	lgiw
 召唤	wooi
 起飞	gend
 前辈	qugc
@@ -5555,7 +5555,7 @@
 助攻	hsku
 银子	glpz
 证券投资	eckd
-分明	ifwu
+分明	iwwu
 丰收	gfhu
 范畴	zevg
 先行	wlnt
@@ -5928,7 +5928,7 @@
 目的地	qrh
 二月	peuy
 第一节	dir
-缘分	axif
+缘分	axiw
 引来	sfyd
 较长	cfuc
 零部件	bbt
@@ -6114,7 +6114,7 @@
 有价值	xtt
 器械	zjyp
 第四节	drr
-万分	qaif
+万分	qaiw
 欣慰	tjsk
 小姑娘	jxx
 武术	ipye
@@ -6124,7 +6124,7 @@
 入侵	metd
 一点也不	iblo
 干活	hgji
-分组	ifah
+分组	iwah
 奢华	jmtm
 标记	yree
 跑去	xjhb
@@ -6270,7 +6270,7 @@
 副作用	vtc
 血浆	mkqn
 宣告	liwo
-不分	obif
+不分	obiw
 迫使	rntg
 吸取	oapg
 揭露	kwbx
@@ -6590,7 +6590,7 @@
 面色	qoiw
 重心	iaex
 烟草	zrrw
-分流	ifjf
+分流	iwjf
 麻痹	mymv
 引领	sfub
 畅通	wfbc
@@ -6932,7 +6932,7 @@
 额头	lult
 岩石	iqqs
 油菜	jvrx
-分割	iflo
+分割	iwlo
 定点	libk
 步行	gjnt
 报业	kdey
@@ -7123,7 +7123,7 @@
 苏丹	rspf
 贫下中农	ihko
 上床	bimy
-评分	ehif
+评分	ehiw
 担负	kwil
 手枪	ksyu
 气味	uqoy
@@ -7297,7 +7297,7 @@
 通知书	bvz
 闹钟	pfgk
 花卉	rtfr
-分量	ifwi
+分量	iwwi
 台词	boea
 不乏	obmn
 体贴	tylb
@@ -7505,7 +7505,7 @@
 迟早	onwf
 复查	vwyw
 进驻	anvf
-贫穷	ills
+贫穷	iwls
 盛会	paug
 流向	jfgo
 振荡	knza
@@ -7664,7 +7664,7 @@
 小品	jxoz
 肯德基	gnq
 承载	zpfp
-时分	wkif
+时分	wkiw
 丑闻	xcpp
 瘫痪	mgmi
 海内外	jdn
@@ -7884,7 +7884,7 @@
 后代	vocd
 奇妙	jrxj
 注射液	juj
-贫血	ilmk
+贫血	iwmk
 滥用	jdcy
 大雪	jdbd
 无私	hdzb
@@ -8044,7 +8044,7 @@
 核查	yvyw
 大便	jdti
 感悟	pihn
-分行	ifnt
+分行	iwnt
 小心翼翼	jeii
 痛快	mbhk
 飓风	phpf
@@ -8074,7 +8074,7 @@
 选票	wlpr
 畅销	wfgx
 世界纪录	mvad
-分级	ifaa
+分级	iwaa
 正宗	iglr
 想必	oeem
 比喻	mboe
@@ -8326,7 +8326,7 @@
 时下	wkhx
 堵车	hmcc
 霸道	bpqm
-细分	avif
+细分	aviw
 一曲	iywv
 解开	icir
 多样	nnyc
@@ -8364,7 +8364,7 @@
 排骨	kgmg
 子弟	pzds
 流水	jfps
-分期	ifqu
+分期	iwqu
 着想	cqoe
 结石	aoqs
 设法	etjh
@@ -8377,7 +8377,7 @@
 吉林省	oyj
 参股	bjut
 真实性	flh
-分担	ifkw
+分担	iwkw
 人际关系	udqm
 入境	mehi
 零件	butw
@@ -8810,7 +8810,7 @@
 切换	kwki
 买回	zlro
 第一轮	dic
-分管	ifdl
+分管	iwdl
 管理处	dau
 拿走	eogz
 外加	nbzj
@@ -8921,7 +8921,7 @@
 徒弟	ngds
 搭载	krfp
 吸入	oame
-分娩	ifxi
+分娩	iwxi
 边防	sndo
 多样性	nyh
 退还	lnon
@@ -9287,7 +9287,7 @@
 双脚	gguh
 出征	qini
 化身	tmus
-分辨	ifbh
+分辨	iwbh
 动荡	gsza
 来接	ydkb
 选择性	wkh
@@ -9350,7 +9350,7 @@
 综指	alkm
 忘掉	fekb
 批复	kmvw
-总分	doif
+总分	doiw
 中资	kzdj
 解析	icyt
 难于	gahy
@@ -9920,7 +9920,7 @@
 研究会	qlu
 约翰	ajff
 第二批	dpk
-分销	ifgx
+分销	iwgx
 更名	iwno
 发车	lfcc
 失调	vsep
@@ -10101,7 +10101,7 @@
 上访	bieo
 乐乐	sjsj
 天山	ijis
-高分	sgif
+高分	sgiw
 行星	ntwm
 美感	cjpi
 转而	cpqk
@@ -10443,7 +10443,7 @@
 书生	zdmc
 特效	whfy
 外星人	nwu
-分区	iflg
+分区	iwlg
 影迷	wjfn
 沃尔玛	jia
 集聚	aypg
@@ -11006,7 +11006,7 @@
 完好	lzxp
 耕耘	yayg
 张女士	sxh
-盆地	ikhl
+盆地	iwhl
 正气	iguq
 复辟	vwso
 利税	zvzd
@@ -11234,7 +11234,7 @@
 购物中心	lwke
 头寸	ltkc
 冲破	dkqa
-贫富	illv
+贫富	iwlv
 差错	ckgh
 选手们	wkt
 马力	vmsl
@@ -11336,7 +11336,7 @@
 婴幼儿	lal
 喝彩	owxy
 有经验	xav
-满分	jrif
+满分	jriw
 被逼	cavn
 空袭	lkac
 冷清	dujc
@@ -11790,7 +11790,7 @@
 越野	gpab
 光电	xiwd
 新天地	bih
-分批	ifkm
+分批	iwkm
 冬奥会	ugu
 新世界	bmv
 回声	ross
@@ -11827,7 +11827,7 @@
 危急	inid
 拉升	kbmr
 懒惰	hyhx
-分会	ifug
+分会	iwug
 矿石	qmqs
 字眼	lpql
 共同点	hpb
@@ -11925,7 +11925,7 @@
 试试看	eek
 署名	omno
 谋杀	ergy
-学分	fpif
+学分	fpiw
 刑侦	irtb
 圣诞树	gey
 痛心	mbex
@@ -13057,7 +13057,7 @@
 仓储	uete
 充沛	flji
 警觉	rufk
-公分	ibif
+公分	ibiw
 征用	nicy
 苏维埃	rah
 世事	msko
@@ -13216,7 +13216,7 @@
 村级	ykaa
 加盖	zjck
 汉人	jgur
-贫农	iloi
+贫农	iwoi
 做空	thlk
 造反	wong
 拿手	eoks
@@ -13373,7 +13373,7 @@
 破旧	qafw
 杰作	yktk
 安全带	lut
-分得	ifnw
+分得	iwnw
 媲美	xgcj
 透析	zayt
 烤烟	zmzr
@@ -13678,7 +13678,7 @@
 对劲	gkmk
 瓷砖	djqp
 生平	mchd
-分店	ifmb
+分店	iwmb
 自主权	mfy
 古今	hguz
 王妃	awxe
@@ -13705,7 +13705,7 @@
 成套	paji
 第一代	dic
 杂物	xywj
-分队	ifdu
+分队	iwdu
 次要	djpx
 偷偷地	tth
 珠峰	ayiu
@@ -14360,7 +14360,7 @@
 观察员	glo
 狙击	shhq
 失明	vswu
-分外	ifnb
+分外	iwnb
 脉搏	ueka
 眼界	qlvu
 查办	ywsi
@@ -14380,7 +14380,7 @@
 好汉	xpjg
 凯旋	ieoz
 饭局	insa
-分发	iflf
+分发	iwlf
 取而代之	pqcn
 翻箱倒柜	mdty
 干干净净	hhdd
@@ -14574,7 +14574,7 @@
 编导	aeek
 新台阶	bbd
 妥当	xxxd
-分清	ifjc
+分清	iwjc
 雄性	xbhm
 禅师	cdvi
 生存率	mxf
@@ -15682,7 +15682,7 @@
 杀戮	gyij
 从新	vcby
 打字	kllp
-养分	ceif
+养分	ceiw
 实测	lljl
 求求	pepe
 推卸	kavg
@@ -15794,7 +15794,7 @@
 当头	xdlt
 致意	ihie
 触目惊心	iqhe
-分头	iflt
+分头	iwlt
 别处	kvub
 喷雾	ofbu
 好色	xpiw
@@ -15995,7 +15995,7 @@
 健美	tdcj
 博士后	fhv
 挎包	kjjb
-组分	ahif
+组分	ahiw
 成正比	pim
 小朋友们	juxt
 依稀	tczg
@@ -16560,7 +16560,7 @@
 古墓	hgzh
 芦荟	reru
 黑道	hhqm
-分段	ifit
+分段	iwit
 不正	obig
 铃木	guym
 中国式	krp
@@ -16635,7 +16635,7 @@
 没劲	jtmk
 涂层	jesg
 调集	epay
-分隔	ifdi
+分隔	iwdi
 按住	kltf
 半空	oblk
 力不从心	sove
@@ -16651,7 +16651,7 @@
 扳回	knro
 痛经	mbam
 企业主	uef
-分身	ifus
+分身	iwus
 烟囱	zrgu
 氨基	ulqh
 要塞	pxla
@@ -16902,7 +16902,7 @@
 发芽	lfri
 护法	kejh
 热切	vkkw
-分值	iftf
+分值	iwtf
 物件	wjtw
 流年	jfvj
 伸向	twgo
@@ -17212,7 +17212,7 @@
 出彩	qixy
 界线	vuai
 第二局	dps
-盆腔	ikul
+盆腔	iwul
 切身	kwus
 战前	bpqu
 大理石	jaq
@@ -17330,7 +17330,7 @@
 通商	bcos
 情意	hcie
 忌讳	eeep
-分摊	ifkg
+分摊	iwkg
 体坛	tyhg
 午休	wwty
 祖母	chxm
@@ -17706,7 +17706,7 @@
 搭讪	krei
 环岛	aogi
 杨明	yawu
-分站	ifbb
+分站	iwbb
 金城	tjhp
 才女	kcxn
 胜地	umhl
@@ -18026,7 +18026,7 @@
 山城	ishp
 白费	rbsv
 吸气	oauq
-贫道	ilqm
+贫道	iwqm
 艺术类	ryf
 反转	ngcp
 急功近利	iktz
@@ -18996,7 +18996,7 @@
 阿门	drpm
 鲍鱼	njny
 环路	aoxu
-分时	ifwk
+分时	iwwk
 默哀	hjco
 芜湖	rhjh
 出逃	qidd
@@ -19144,7 +19144,7 @@
 献礼	sjcd
 挂念	kauz
 顺从	nqvc
-脱贫	udil
+脱贫	udiw
 打劫	klhb
 一丝不苟	iaor
 症结	miao
@@ -19503,7 +19503,7 @@
 无微不至	huoi
 诉状	etqj
 平底	hdms
-分居	ifsh
+分居	iwsh
 急事	idko
 考题	mbwg
 李先念	ywu
@@ -19511,7 +19511,7 @@
 密布	lexo
 硬着头皮	qcla
 防卫厅	ddn
-瓜分	ygif
+瓜分	ygiw
 胡耀邦	hxg
 数据处理	fkua
 水箱	psdo
@@ -19554,7 +19554,7 @@
 情绪化	hat
 轮渡	cujm
 陈逸飞	dnn
-分光	ifxi
+分光	iwxi
 大伯	jdtr
 铁轨	gvcx
 有神	xucw
@@ -20262,7 +20262,7 @@
 刘星	fvwm
 转子	cppz
 口令	okub
-记分	eeif
+记分	eeiw
 军委	lczx
 毛笔	jmdj
 群落	dmzu
@@ -20426,7 +20426,7 @@
 侍女	thxn
 勒令	psub
 眸子	qbpz
-盆景	ikws
+盆景	iwws
 土星	htwm
 悲凉	geds
 置信	ofte
@@ -20624,7 +20624,7 @@
 掉以轻心	kqce
 变通	ogbc
 廊坊	meho
-分校	ifyf
+分校	iwyf
 失足	vsxz
 锦旗	groq
 清热解毒	jvic
@@ -20767,7 +20767,7 @@
 孤身	pyus
 风机	pfyp
 赵宏博	glf
-工分	kgif
+工分	kgiw
 决策层	dds
 异口同声	eops
 长方形	uoi
@@ -20795,7 +20795,7 @@
 映衬	wkck
 集邮	ayvd
 山西日报	ipwk
-分部	ifbo
+分部	iwbo
 主讲	fzea
 警用	rucy
 唐宋	mdly
@@ -20844,7 +20844,7 @@
 牟利	bwzv
 擒获	kurs
 主任委员	ftzo
-身分	usif
+身分	usiw
 鱼塘	nyhm
 防腐剂	dmf
 菌群	rrdm
@@ -21127,7 +21127,7 @@
 洞察	jplr
 批林批孔	kykp
 竹竿	dzdh
-拆分	ktif
+拆分	ktiw
 提纲	kwap
 黄石	hvqs
 鞋带	patl
@@ -21224,7 +21224,7 @@
 恶果	eewy
 外相	nbox
 小孩儿	jpl
-分厂	ifnc
+分厂	iwnc
 血尿	mksp
 防暴	dowh
 追肥	bnuw
@@ -21299,7 +21299,7 @@
 粗心	fhex
 君王	dmaw
 萦绕	saap
-骨盆	mgik
+骨盆	mgiw
 配比	pemb
 预备队	bud
 叶酸	ofpb
@@ -21315,7 +21315,7 @@
 恶性竞争	ehbi
 周家	phls
 影坛	wjhg
-贫乏	ilmn
+贫乏	iwmn
 藏獒	rppj
 第二部	dpb
 蔚蓝	rsrv
@@ -21629,7 +21629,7 @@
 肉食	duis
 卖国	fzra
 金针菇	tgr
-天分	ijif
+天分	ijiw
 黄龙	hval
 酸甜苦辣	pirb
 拼凑	kqdc
@@ -21776,7 +21776,7 @@
 承包商	zjo
 观察家	gll
 咬人	ofur
-盆栽	ikfp
+盆栽	iwfp
 台长	bouc
 讥讽	epep
 佛罗里达州	toan
@@ -21865,7 +21865,7 @@
 虾仁	chtp
 贝卢斯科尼	lbqs
 随从	dxvc
-分赴	ifgb
+分赴	iwgb
 像不像	tot
 携带者	ktm
 鸿沟	jkjj
@@ -21950,7 +21950,7 @@
 百科全书	qzuz
 抽血	kvmk
 唐诗	mdeh
-分寸	ifkc
+分寸	iwkc
 映射	wkuk
 主任医师	ftlv
 寻访	dkeo
@@ -22912,7 +22912,7 @@
 测控	jlkl
 日产量	wbw
 化装	tmqh
-贫苦	ilrh
+贫苦	iwrh
 成本价	pyt
 陪审团	dlr
 郭靖	spbc
@@ -23019,7 +23019,7 @@
 懒散	hyhu
 道光	qmxi
 人才交流	ukfj
-分心	ifex
+分心	iwex
 基地组织	qhaa
 刀锋	wdgu
 短道	viqm
@@ -23621,7 +23621,7 @@
 见闻	kjpp
 小弟弟	jdd
 聚聚	pgpg
-分家	ifls
+分家	iwls
 受用	xgcy
 暂住证	cte
 欠债	jqtc
@@ -23676,7 +23676,7 @@
 凋零	dpbu
 珠海市	ajf
 河口	jrok
-计分	efif
+计分	efiw
 走进来	gay
 悟性	hnhm
 霍英东	brc
@@ -23892,7 +23892,7 @@
 言论自由	eemv
 打一场	kih
 魂魄	grrr
-平分	hdif
+平分	hdiw
 澳门特别行政区	jpwl
 离队	fqdu
 谜团	efrk
@@ -24150,7 +24150,7 @@
 遥望	xwfu
 不翼而飞	oiqn
 吱吱	ofof
-花盆	rtik
+花盆	rtiw
 属地	smhl
 闪避	pusb
 按捺不住	kkot
@@ -24217,7 +24217,7 @@
 蛙泳	caje
 支取	fgpg
 重于	iahy
-本分	yiif
+本分	yiiw
 密闭	lepk
 官军	lblc
 右派分子	xjip
@@ -24319,7 +24319,7 @@
 言谈	eyez
 后怕	vohr
 愣是	howi
-分立	ifbl
+分立	iwbl
 初夏	cwqq
 蚊虫	cfcc
 水到渠成	pijp
@@ -25167,7 +25167,7 @@
 手滑	ksjm
 假借	tsth
 平均数	hhf
-半分	obif
+半分	obiw
 落款	zuhr
 翱翔	rfci
 核弹头	ysl
@@ -25478,7 +25478,7 @@
 福祉	cvcg
 张斌	sufi
 流经	jfam
-分院	ifdl
+分院	iwdl
 招商局	kos
 销声匿迹	gslo
 卡西欧	bpl
@@ -26306,7 +26306,7 @@
 邢台	irbo
 常设	foet
 体量	tywi
-分枝	ifyf
+分枝	iwyf
 杂文	xyfw
 老练	mmak
 清冷	jcdu
@@ -26494,7 +26494,7 @@
 正手	igks
 霍元甲	bzv
 天门	ijpm
-分界	ifvu
+分界	iwvu
 流连	jfcn
 李敏镐	yvg
 复员	vwol
@@ -26525,7 +26525,7 @@
 巫婆	kvja
 镇海	gfjv
 李承鹏	yzu
-分装	ifqh
+分装	iwqh
 元凶	zygq
 握拳	ksck
 掌权	fkyg
@@ -26725,7 +26725,7 @@
 报国	kdra
 黄家	hvls
 户户	eheh
-脸盆	ueik
+脸盆	ueiw
 山崖	isin
 高档车	syc
 氏族	skov
@@ -27298,7 +27298,7 @@
 偶然性	tnh
 西双版纳	pgna
 红晕	akwl
-贫瘠	ilmd
+贫瘠	iwmd
 游客们	jlt
 热热闹闹	vvpp
 徽州	uanz
@@ -27675,10 +27675,10 @@
 历史系	nom
 数落	fxzu
 张敬	suro
-贫僧	iltd
+贫僧	iwtd
 笑料	dmfl
 汪汪	jaja
-分叉	ifge
+分叉	iwge
 专门机构	ppyy
 门市	pmfo
 并肩作战	qetb
@@ -27727,7 +27727,7 @@
 先兆	wldd
 轻狂	cmsa
 临界点	vvb
-清贫	jcil
+清贫	jciw
 摆布	koxo
 目不转睛	qocq
 叫唤	ohoi
@@ -27831,7 +27831,7 @@
 苏菲	rsrg
 菌丝	rraa
 狡辩	sfbe
-分文	iffw
+分文	iwfw
 成仙	pati
 修道	tuqm
 欢欢喜喜	ggoo
@@ -27877,7 +27877,7 @@
 天元	ijzy
 干部们	hbt
 说理	edaa
-分设	ifet
+分设	iwet
 多姿	nndj
 纸盒	aseo
 雨夜	byft
@@ -28504,7 +28504,7 @@
 内务部	dub
 征召	niwo
 侧目	tlqm
-分册	ifnc
+分册	iwnc
 项目计划	kqep
 庞然大物	mnjw
 讴歌	elrr
@@ -28918,7 +28918,7 @@
 设防	etdo
 反哺	ngoa
 器重	zjia
-私分	zbif
+私分	zbiw
 颧骨	ramg
 没命	jteo
 非洲人	gju
@@ -30257,7 +30257,7 @@
 死板	nmyn
 破坏力	qhs
 型式	ivpk
-岔路	iixu
+岔路	iwxu
 素雅	cail
 抽水机	kpy
 电炉	wdze
@@ -30310,7 +30310,7 @@
 勾心斗角	jeli
 破败	qalu
 姓陈	xmdc
-分派	ifjn
+分派	iwjn
 威名	pino
 怎地	kehl
 易玉	wjae
@@ -30421,7 +30421,7 @@
 角膜缘	iua
 单纯性	dah
 通化	bctm
-分权	ifyg
+分权	iwyg
 的确如此	rqxg
 萧新	rdby
 乍得	kznw
@@ -31127,7 +31127,7 @@
 走下坡路	ghhx
 总则	dolv
 不须	objq
-分毫	ifsj
+分毫	iwsj
 迫降	rndu
 面会	qoug
 格林威治时间	yypp
@@ -31704,7 +31704,7 @@
 鸡年	ggvj
 镀锌	gmgb
 好处费	xus
-名分	noif
+名分	noiw
 程序设计	zmee
 吃吃喝喝	oooo
 信息费	tms
@@ -31735,7 +31735,7 @@
 开城	irhp
 茶花	rurt
 要闻	pxpp
-均分	hjif
+均分	hjiw
 软件包	ctj
 违心	pdex
 风神	pfcw
@@ -32001,7 +32001,7 @@
 心志	exhe
 褒奖	ctqn
 李涛	ypjg
-分点	ifbk
+分点	iwbk
 舞狮	vnsi
 上海分公司	bjia
 徐汇	nejl
@@ -32214,7 +32214,7 @@
 倒伏	titj
 大错特错	jgwg
 不可抗力	orks
-有分	xuif
+有分	xuiw
 神往	cwnf
 第二项	dpk
 日晒	wrwp
@@ -32293,7 +32293,7 @@
 茶道	ruqm
 线材	aiyk
 生理性	mah
-盐分	hbif
+盐分	hbiw
 整人	yuur
 岂可	ierk
 保不住	tot
@@ -32701,7 +32701,7 @@
 目中无人	qkhu
 探路	klxu
 内罗毕	dom
-贫民	ilek
+贫民	iwek
 大鸟	jdgn
 秉公	zdib
 不明不白	owor
@@ -32954,7 +32954,7 @@
 万水千山	qpii
 拉闸	kbpv
 对折	gkkt
-贫寒	illa
+贫寒	iwla
 土家族	hlo
 亚洲开发银行	ejin
 芍药	rjra
@@ -32997,7 +32997,7 @@
 边陲	sndi
 盐湖城	hjh
 一落千丈	izig
-安分	lxif
+安分	lxiw
 呜咽	ogor
 外带	nbtl
 龙年戴龙	avfa
@@ -33772,7 +33772,7 @@
 据为己有	kdex
 邮戳	vdia
 大秦铁路	jcgx
-分合	ifeo
+分合	iweo
 今非昔比	ughm
 院领导	due
 理工类	akf
@@ -33846,7 +33846,7 @@
 百色	qwiw
 年事已高	vkes
 罗伊	ontd
-分拣	ifkk
+分拣	iwkk
 海角	jvic
 独霸	scbp
 年夜	vjft
@@ -34087,7 +34087,7 @@
 迁都	inmd
 出血点	qmb
 天佑	ijtx
-分忧	ifhl
+分忧	iwhl
 试论	epeu
 气急	uqid
 无恙	hdce
@@ -35122,7 +35122,7 @@
 打铁	klgv
 执拗	vzka
 第十四届	dfrs
-分蘖	ifrb
+分蘖	iwrb
 达州	jnnz
 欣然接受	tnkx
 三足鼎立	yxqb
@@ -35149,7 +35149,7 @@
 下陷	hxdi
 鹰潭	mtjp
 顺义区	nel
-分贝	iflb
+分贝	iwlb
 保温杯	tjy
 狡黠	sfho
 叫骂	ohzv
@@ -35169,7 +35169,7 @@
 星罗棋布	woyx
 方始	ofxb
 子夜	pzft
-馏分	iwif
+馏分	iwiw
 提单	kwdw
 龙溪	aljx
 赞颂	wwib
@@ -35241,7 +35241,7 @@
 生老病死	mmmn
 连杆	cnyh
 肉饼	duiq
-分兵	ifti
+分兵	iwti
 小武	jxip
 丰县	gfhb
 赵氏	ggsk
@@ -35879,7 +35879,7 @@
 一溜烟	ijz
 完美无缺	lchw
 矿产品	qbo
-分社	ifch
+分社	iwch
 总政	doig
 贫民窟	iel
 正本	igyi
@@ -36094,7 +36094,7 @@
 弱队	sddu
 多得	nnnw
 巡检	nnye
-失分	vsif
+失分	vsiw
 早生贵子	wmcp
 普尔	qeij
 时代感	wcp
@@ -36172,7 +36172,7 @@
 推托	kakm
 臣民	lfek
 示警	rsru
-微分	upif
+微分	upiw
 教唆	mpob
 哈士奇	ohj
 胜似	umtq
@@ -37818,7 +37818,7 @@
 贺国强	zrs
 发电站	lwb
 搞垮	kshj
-考分	mbif
+考分	mbiw
 曾于	dwhy
 入团	merk
 军种	lczk
@@ -38056,7 +38056,7 @@
 根植	ylyf
 小计	jxef
 整体而言	ytqe
-林分	ylif
+林分	yliw
 果林	wyyl
 亚特兰大奥运会	ewqu
 尖利	jjzv
@@ -38318,7 +38318,7 @@
 阿克苏	dhr
 霸业	bpey
 变废为宝	omdl
-灰分	xzif
+灰分	xziw
 康乃馨	mas
 散散心	hhe
 织成	aopa
@@ -38348,7 +38348,7 @@
 各取所需	upnb
 沿革	jppg
 通用性	bch
-辈分	gcif
+辈分	gciw
 晚归	wivd
 民校	ekyf
 精耕细作	fyat
@@ -39013,7 +39013,7 @@
 溶入	jlme
 中西合璧	kpes
 正牌	ignr
-分母	ifxm
+分母	iwxm
 养母	cexm
 灾害性	llh
 灭虫	izcc
@@ -39487,7 +39487,7 @@
 约瑟夫	aak
 冰霜	dpbo
 主客观	flg
-贫贱	illi
+贫贱	iwli
 旷世	wmms
 眼尖	qljj
 歼灭战	nib
@@ -39564,7 +39564,7 @@
 临汾市	vjf
 催人泪下	tujh
 异端	erbi
-分神	ifcw
+分神	iwcw
 三废	ysml
 吕麟	ooef
 摇头晃脑	klwu
@@ -39685,7 +39685,7 @@
 置业者	oem
 凶神恶煞	gcei
 大年夜	jvf
-盆子	ikpz
+盆子	iwpz
 知事	voko
 东平	cjhd
 个别现象	ukan
@@ -40805,7 +40805,7 @@
 生产型	mbi
 现象学	anf
 建平	dhhd
-分内	ifdn
+分内	iwdn
 个人化	uut
 独角戏	sig
 氢氧化钠	uutg
@@ -40967,7 +40967,7 @@
 市议员	feo
 辞海	ibjv
 胰蛋白酶	uzrp
-岔开	iiir
+岔开	iwir
 阴跌	duxv
 球台	apbo
 难言之隐	gend
@@ -41265,7 +41265,7 @@
 名篇	node
 老白	mmrb
 王建华	adt
-分乘	ifzd
+分乘	iwzd
 英年早逝	rvwk
 摩加迪沙	mzvj
 移情别恋	zhko
@@ -41390,7 +41390,7 @@
 华西医院	tpld
 鉴定人	vlu
 蒸腾	rzuc
-多分	nnif
+多分	nniw
 机械手	yyk
 走马观花	gvgr
 宜于	lhhy
@@ -41993,7 +41993,7 @@
 田鹏飞	vun
 趁热打铁	gvkg
 股子	utpz
-福分	cvif
+福分	cviw
 狮子头	spl
 人精	urfc
 生育率	mff
@@ -42124,7 +42124,7 @@
 多管齐下	ndfh
 沟通渠道	jbjq
 批零	kmbu
-分赃	iflm
+分赃	iwlm
 愤世嫉俗	hmxt
 肺腑之言	uune
 幽兰	iaqp
@@ -42639,7 +42639,7 @@
 建院	dhdl
 广播节目	mkrq
 第十五次	dfnd
-浴盆	jeik
+浴盆	jeiw
 咬破	ofqa
 铁剑	gvef
 柠檬茶	yyr
@@ -42713,7 +42713,7 @@
 设伏	ettj
 劳务人员	suuo
 天灾人祸	iluc
-面盆	qoik
+面盆	qoiw
 小蔡	jxrr
 分类法	ifj
 小题大做	jwjt
@@ -43729,7 +43729,7 @@
 劣根性	jyh
 计算机控制	edyw
 归隐	vddi
-分等	ifdh
+分等	iwdh
 胆大妄为	ujfd
 战书	bpzd
 断交	fdfy
@@ -44007,7 +44007,7 @@
 摔断	kffd
 喷水池	opj
 数据结构	fkay
-分送	ifqj
+分送	iwqj
 文件名	ftn
 鸟兽	gndv
 甲申	vjwf
@@ -44044,7 +44044,7 @@
 袁泉	horp
 炸响	zkog
 减亏	dppb
-切分	kwif
+切分	kwiw
 枫树	ypyg
 癞蛤蟆	mcc
 出奇制胜	qjwu
@@ -44150,7 +44150,7 @@
 复选	vwwl
 二十四节气	pfru
 王阳明	adw
-分辩	ifbe
+分辩	iwbe
 欧美范	lcz
 土坑	hthf
 刘延东	fmc
@@ -44516,7 +44516,7 @@
 关系式	qmp
 锦江区	gjl
 各有所长	uxnu
-内分	dnif
+内分	dniw
 加派	zjjn
 复种	vwzk
 共产主义者	hbfm
@@ -45175,7 +45175,7 @@
 喜报	oqkd
 怨毒	necx
 代谢性	ceh
-分晓	ifwp
+分晓	iwwp
 小福	jxcv
 稿纸	zsas
 杨坚	yavg
@@ -45439,7 +45439,7 @@
 南京东路	sscx
 工学院	kfd
 胡加时	hzw
-等分	dhif
+等分	dhiw
 当权者	xym
 黄灯	hvzl
 江晓峰	jwi
@@ -45541,7 +45541,7 @@
 打火	klzh
 喷涌而出	ojqq
 循环往复	nanv
-盆花	ikrt
+盆花	iwrt
 李游	ypjo
 陈列室	dnl
 盐碱地	hqh
@@ -46004,7 +46004,7 @@
 紫气	gmuq
 育龄	fugq
 半工半读	okoe
-情分	hcif
+情分	hciw
 布尔什维克	xith
 周详	phec
 尿潴留	sjs
@@ -46043,7 +46043,7 @@
 翻涌	mvjb
 小孩们	jpt
 杜伊科	ytz
-分场	ifha
+分场	iwha
 第十八届	dfis
 深山老林	jimy
 留足	swxz
@@ -46700,7 +46700,7 @@
 服务团	uur
 黄羊	hvcy
 时装界	wqv
-岔气	iiuq
+岔气	iwuq
 赔偿法	ltj
 黄秋生	hzm
 鲁智深	nvj
@@ -47253,7 +47253,7 @@
 钟伟	gktp
 逆来顺受	dynx
 僵持不下	tkoh
-忿忿	ieie
+忿忿	iwiw
 泪小管	jjd
 充任	fltt
 栽插	fpki
@@ -47656,7 +47656,7 @@
 莱西	rypx
 猿人	shur
 暑运	wmgn
-春分	cwif
+春分	cwiw
 内省	dnjq
 肌电图	uwr
 赖皮	yoap
@@ -48083,7 +48083,7 @@
 三岔口	yio
 优秀生	tzm
 创刊号	uho
-金盆	tjik
+金盆	tjiw
 额支	lufg
 嗳气	oxuq
 伊兰特	tqw
@@ -49222,7 +49222,7 @@
 王熙凤	alp
 圣马力诺	gvse
 张谦	sueq
-分野	ifab
+分野	iwab
 找出路	kqx
 可先	rkwl
 江姐	jkxh
@@ -49239,7 +49239,7 @@
 访问者	epm
 指印	kmsd
 拂袖而去	kcqh
-分道	ifqm
+分道	iwqm
 永昌	epww
 边民	snek
 私通	zbbc
@@ -49295,7 +49295,7 @@
 毕玉玺	mai
 孙晋芳	per
 梅尔	yvij
-估分	thif
+估分	thiw
 顷刻之间	mvnp
 陕甘宁边区	drll
 惶恐不安	hkol
@@ -49671,7 +49671,7 @@
 歙县	eihb
 李瑟	ypae
 乌兰夫	gqk
-分号	ifob
+分号	iwob
 丢三落四	iyzr
 施展出	osq
 纤巧	aikb
@@ -49985,7 +49985,7 @@
 漕运	jhgn
 不知好歹	ovxn
 言行一致	enii
-火盆	zhik
+火盆	zhiw
 外轮	nbcu
 文治	fwjb
 龚学平	afh
@@ -50128,7 +50128,7 @@
 监测网	vjp
 何许人也	teul
 涉世	jgms
-分录	ifdp
+分录	iwdp
 平摊	hdkg
 氨茶碱	urq
 卫天元	diz
@@ -50300,7 +50300,7 @@
 云贵高原	gcsn
 幻术	aaye
 毛毡	jmjb
-打岔	klii
+打岔	kliw
 狂言	saey
 东拼西凑	ckpd
 稀土元素	zhzc
@@ -50943,7 +50943,7 @@
 第九个	dxu
 沙市	jjfo
 黑户	hheh
-分账	iflu
+分账	iwlu
 作料	tkfl
 冷声	duss
 寻呼机	doy
@@ -51173,7 +51173,7 @@
 徐文	nefw
 湖南师范大学	jsvf
 稳定期	zlq
-分团	ifrk
+分团	iwrk
 化学肥料	tfuf
 心狠	exsl
 快事	hkko
@@ -51509,7 +51509,7 @@
 脚腕	uhul
 泻药	jlra
 真核	fhyv
-岔道	iiqm
+岔道	iwqm
 开采量	ixw
 肥而不腻	uqou
 转台	cpbo
@@ -52052,7 +52052,7 @@
 美术系	cym
 家长里短	luav
 油滑	jvjm
-贫嘴	ilom
+贫嘴	iwom
 赵琳	ggay
 爱卫会	xdu
 满文军	jfl
@@ -52248,7 +52248,7 @@
 俾斯麦	tqc
 明知故问	wvhp
 腾云驾雾	ugzb
-分机	ifyp
+分机	iwyp
 无业游民	heje
 摔破	kfqa
 供应站	tmb
@@ -52446,7 +52446,7 @@
 亭台楼阁	sbyp
 北京林业大学	dsyf
 第七轮	dkc
-分岔	ifii
+分岔	iwiw
 等极	dhya
 断路	fdxu
 吴苹	oirh
@@ -52678,7 +52678,7 @@
 粗放经营	foas
 小吉	jxoj
 筒裤	dpcm
-应分	mfif
+应分	mfiw
 濒于	jghy
 绝处逢生	auum
 复兴路	vfx
@@ -53201,7 +53201,7 @@
 诸城	emhp
 逐次	sndj
 化合	tmeo
-临盆	vdik
+临盆	vdiw
 劝降	gsdu
 胡塞尔	hli
 村妇	ykxd
@@ -53248,7 +53248,7 @@
 思思	veve
 文学性	ffh
 狸猫	sasr
-分封	ifak
+分封	iwak
 天津市委	ijfz
 作者们	tmt
 梨膏	zvsu
@@ -53958,7 +53958,7 @@
 武隆	ipdu
 缺医少药	wljr
 经心	amex
-预分	blif
+预分	bliw
 永生难忘	emgf
 记协	eefs
 毒刺	cxyp
@@ -54185,7 +54185,7 @@
 辅音	caiy
 揭短	kwvi
 韩女士	fxh
-分秒	ifzj
+分秒	iwzj
 黑鱼	hhny
 矢志	vshe
 黄永玉	hea
@@ -54338,7 +54338,7 @@
 狮子大开口	spjo
 刘琦	fvaj
 过得硬	knq
-分压	ifnh
+分压	iwnh
 犹太复国主义	sjve
 倒带	titl
 校长们	yut
@@ -54439,7 +54439,7 @@
 蓓蕾	rtrb
 全连	uacn
 芙蓉区	rzl
-分洪	ifjh
+分洪	iwjh
 西家	pxls
 礼制	cdwp
 吉言	ojey
@@ -54991,7 +54991,7 @@
 对谈	gkez
 王宏伟	alt
 蜂鸟	cugn
-分句	ifjo
+分句	iwjo
 阿道夫	dqk
 江流	jkjf
 前海	qujv
@@ -55513,7 +55513,7 @@
 豆科	iozl
 浊音	jciy
 口传	oktp
-筛分	dvif
+筛分	dviw
 无限风光	hdpx
 蟹粉	iwfi
 占领区	bul
@@ -55592,7 +55592,7 @@
 王同山	api
 整个社区	yucl
 都江堰市	mjhf
-倾盆	tmik
+倾盆	tmiw
 阿曼队	dwd
 京腔	sjul
 玉溪市	ajf
@@ -55671,7 +55671,7 @@
 叫化子	otp
 卫将军	dql
 挡车	kxcc
-生分	mcif
+生分	mciw
 李秀英	yzr
 锦州港	gnj
 把口	kwok
@@ -55754,7 +55754,7 @@
 第四站	drb
 中超委员会	kgzu
 二轻	pecm
-颁行	iqnt
+颁行	iwnt
 余姚市	exf
 许多省	enj
 天方	ijof
@@ -56818,7 +56818,7 @@
 配器	pezj
 奔雷	jfbv
 第四项	drk
-分集	ifay
+分集	iway
 发射塔	luh
 湄潭县	jjh
 产品规格	boky
@@ -57958,7 +57958,7 @@
 喝干	owhg
 图书馆学	rzif
 凋落	dpzu
-分路	ifxu
+分路	iwxu
 贬义词	lee
 铧犁	gmzv
 挑灯夜战	kzfb
@@ -58166,7 +58166,7 @@
 阿谀奉承	decz
 讨生活	emj
 肋部	usbo
-济贫	jfil
+济贫	jfiw
 英方	rkof
 图利	ruzv
 大拆	jdkt
@@ -58444,7 +58444,7 @@
 收账	hulu
 不甘于	orh
 欧洲俱乐部	ljtb
-赤贫	hoil
+赤贫	hoiw
 刘恒	fvhi
 赛格	layu
 孙兴	pjfi
@@ -58996,7 +58996,7 @@
 烤焦	zmak
 小黄鱼	jhn
 郭威	sppi
-盆菜	ikrx
+盆菜	iwrx
 陈长青	duc
 孟广美	pmc
 食肉动物	idgw
@@ -59096,7 +59096,7 @@
 程家	zols
 林青山	yci
 王老太	amj
-岔子	iipz
+岔子	iwpz
 继承性	azh
 机械类	yyf
 冰峰	dpiu
@@ -59205,7 +59205,7 @@
 原矿	nrqm
 交响音乐会	foiu
 泪下	jqhx
-才分	kcif
+才分	kciw
 北关	dmqj
 吴晓凌	owd
 小大人	jju
@@ -59604,7 +59604,7 @@
 框架性	yzh
 本地网	yhp
 彻夜不眠	nfoq
-分馆	ifil
+分馆	iwil
 招法	kwjh
 斯塔克豪斯	qhhq
 吉星	ojwm
@@ -59622,7 +59622,7 @@
 杨君	yadm
 泰康	cpmd
 金橘	tjyb
-化分	tmif
+化分	tmiw
 李雪健	ybt
 糕饼	fciq
 游憩	joim
