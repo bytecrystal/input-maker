@@ -324,6 +324,8 @@ def stats(brief_code, cybm):
           ',': 0, '.': 0, ';': 0, '/': 0, '\'': 0, '_': 0, '0': 0}
     bm = {}
     n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    dkpa_500 = 0
+    dkpa_1500 = 0
     for i in l:
         n1 = 0
         n2 = 0
@@ -385,6 +387,10 @@ def stats(brief_code, cybm):
                     hj += i[0].get(j, '0000')
                 if k in dkpzh:
                     dkp += i[0].get(j, '0000')
+                    if (int)(i[1]) == 500:
+                        dkpa_500 += 1
+                    if (int)(i[1]) == 1500:
+                        dkpa_1500 += 1
                 if k in xkpzh:
                     xkp += i[0].get(j, '0000')
                 if k in xzgrzh:
@@ -422,10 +428,12 @@ def stats(brief_code, cybm):
     print('键均当量：%f' % jjdla)
     print('左右互击：%f' % hja)
     print('同指大跨排：%f' % dkpa)
+    print('同指大跨排500：%d' % dkpa_500)
+    print('同指大跨排1500：%d' % dkpa_1500)
     print('小跨排：%f' % xkpa)
     print('小指干扰：%f' % xzgra)
     print('错手：%f' % csa)
-    weight = (jca + zjdla + jjdla) * 500 + xca + dkpa * 500
+    weight = (jca + zjdla + jjdla) * 500 + xca + dkpa * 500 + dkpa_1500 / 2 + dkpa_500
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
