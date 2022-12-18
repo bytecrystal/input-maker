@@ -610,7 +610,7 @@
 位置	tbof
 迅速	nfyo
 期待	qunh
-商业	osey
+商业	oiey
 作品	tkoz
 阶段	duit
 扩大	kmjd
@@ -640,7 +640,7 @@
 新浪	byje
 平方米	hof
 人民币	uem
-商品	osoz
+商品	oioz
 感谢	pieu
 睡觉	qifk
 就要	sjpx
@@ -1304,7 +1304,7 @@
 最多	wpnn
 学院	fpdl
 同期	piqu
-商务	osus
+商务	oius
 中间	kzpw
 接触	kbic
 贯彻	xlnk
@@ -1802,7 +1802,7 @@
 技能	kfbu
 官方	lbof
 委托	zxkm
-工商	kgos
+工商	kgoi
 可见	rkkj
 嘿嘿	ohoh
 切实	kwll
@@ -1912,7 +1912,7 @@
 进程	anzo
 上周	biph
 拿出	eoqi
-厂商	ncos
+厂商	ncoi
 出售	qiao
 水果	pswy
 无产阶级	hbda
@@ -2492,7 +2492,7 @@
 季节	zprd
 相反	oxng
 子女	pzxn
-商场	osha
+商场	oiha
 所有人	nxu
 只不过	ook
 储备	teuv
@@ -2508,7 +2508,7 @@
 老子	mmpz
 播放	kmou
 专利	pbzv
-商标	osyr
+商标	oiyr
 克服	hlud
 事务	kous
 医药	lvra
@@ -2527,7 +2527,7 @@
 早餐	wfbg
 个体	ufty
 之内	nzdn
-协商	fsos
+协商	fsoi
 火车	zhcc
 作风	tkpf
 高速公路	syix
@@ -2583,7 +2583,7 @@
 东部	cjbo
 日期	wrqu
 转身	cpus
-商家	osls
+商家	oils
 多久	nnie
 好事	xpko
 超越	gwgp
@@ -3016,7 +3016,7 @@
 城区	hplg
 石头	qslt
 玩具	azhi
-招商	kwos
+招商	kwoi
 厨房	nieo
 谨慎	erhf
 密码	leqv
@@ -3341,7 +3341,7 @@
 大战	jdbp
 车间	ccpw
 亲切	bykw
-商店	osmb
+商店	oimb
 对付	gktk
 一口气	iou
 参数	bjfx
@@ -3785,7 +3785,7 @@
 干燥	hgzo
 破产	qabm
 著作	rmtk
-外商	nbos
+外商	nboi
 何时	trwk
 法人	jhur
 魔法	myjh
@@ -3901,7 +3901,7 @@
 从前	vcqu
 呜呜	ogog
 下车	hxcc
-商量	oswi
+商量	oiwi
 前天	quij
 寒冷	ladu
 大楼	jdyf
@@ -3941,7 +3941,7 @@
 次数	djfx
 夏季	qqzp
 漫画	jwiv
-商人	osur
+商人	oiur
 周三	phys
 总监	dovd
 系数	mafx
@@ -5216,7 +5216,7 @@
 关税	qjzd
 射击	ukhq
 说说	eded
-商城	oshp
+商城	oihp
 热心	vkex
 根本上	yyb
 胸部	ujbo
@@ -5244,7 +5244,7 @@
 流入	jfme
 地段	hlit
 市政	foig
-商报	oskd
+商报	oikd
 配件	petw
 各界	ugvu
 一等奖	idq
@@ -5778,7 +5778,7 @@
 大风	jdpf
 水位	pstb
 书店	zdmb
-智商	voos
+智商	vooi
 导航	eksf
 第一步	dig
 郊区	fylg
@@ -6715,7 +6715,7 @@
 糊涂	fhje
 天鹅	ijkp
 进出	anqi
-商贸	ossw
+商贸	oisw
 庆幸	mjhq
 柏林	yryl
 大姐	jdxh
@@ -6891,7 +6891,7 @@
 肺癌	uimo
 监事会	vku
 战机	bpyp
-商用	oscy
+商用	oicy
 寻常	dkfo
 中行	kznt
 坏事	hoko
@@ -7288,7 +7288,7 @@
 吓死	ohnm
 期刊	quhv
 平和	hdzo
-台商	boos
+台商	booi
 按揭	klkw
 救济	pejf
 明知	wuvo
@@ -7815,7 +7815,7 @@
 教科书	mzz
 河道	jrqm
 闲置	pyof
-经商	amos
+经商	amoi
 配额	pelu
 笨蛋	dyzg
 低点	tsbk
@@ -8229,7 +8229,7 @@
 特权	whyg
 乐意	sjie
 投影	ktwj
-客商	luos
+客商	luoi
 相近	oxtn
 出发点	qlb
 利用率	zcf
@@ -8266,7 +8266,7 @@
 炸药	zkra
 星期天	wqi
 名词	noea
-商户	oseh
+商户	oieh
 泰山	cpis
 切开	kwir
 阴阳	dudw
@@ -8381,7 +8381,7 @@
 人际关系	udqm
 入境	mehi
 零件	butw
-商会	osug
+商会	oiug
 隐隐	didi
 上身	bius
 摔倒	kfti
@@ -9402,7 +9402,7 @@
 这等	fndh
 赛区	lalg
 扰乱	klid
-商圈	osrc
+商圈	oirc
 理事	aako
 完备	lzuv
 放射性	ouh
@@ -10355,7 +10355,7 @@
 神州	cwnz
 口径	oknm
 产销	bmgx
-商讨	osek
+商讨	oiek
 中科院	kzd
 就近	sjtn
 宣扬	lika
@@ -11018,7 +11018,7 @@
 滋生	jqmc
 必要性	eph
 事例	kotn
-商议	osee
+商议	oiee
 英明	rkwu
 标明	yrwu
 唇膏	nisu
@@ -11549,7 +11549,7 @@
 风靡	pfmy
 欧阳	lgdw
 平坦	hdhw
-商谈	osez
+商谈	oiez
 没意思	jiv
 鸟类	gnfj
 落叶	zuof
@@ -11662,7 +11662,7 @@
 明儿	wule
 不妙	obxj
 我们俩	ktt
-商贩	osln
+商贩	oiln
 扭头	kxlt
 俨然	tene
 赏金	fltj
@@ -11892,7 +11892,7 @@
 全无	uahd
 正文	igfw
 邮寄	vdlj
-商界	osvu
+商界	oivu
 前苏联	qrp
 大家庭	jlm
 音效	iyfy
@@ -12462,7 +12462,7 @@
 金门	tjpm
 铝合金	get
 丑陋	xcdi
-华商	tmos
+华商	tmoi
 昆虫	wmcc
 说到底	eim
 交行	fynt
@@ -13068,7 +13068,7 @@
 青霉素	cbc
 企稳	ugzi
 鞍山	plis
-商定	osli
+商定	oili
 费力	svsl
 飞舞	ndvn
 飞奔	ndjf
@@ -14070,7 +14070,7 @@
 松懈	yihw
 在逃	xhdd
 返乡	ngam
-商都	osmd
+商都	oimd
 庐山	meis
 精锐	fcgd
 资格赛	dyl
@@ -17327,7 +17327,7 @@
 请进	ecan
 太阳队	jdd
 密不可分	lori
-通商	bcos
+通商	bcoi
 情意	hcie
 忌讳	eeep
 分摊	iwkg
@@ -18844,7 +18844,7 @@
 杰克	ykhl
 半生	obmc
 斯诺	qter
-商榷	osyl
+商榷	oiyl
 国泰君	rcd
 一张张	iss
 朗读	elef
@@ -19241,7 +19241,7 @@
 残暴	niwh
 柔道	blqm
 虹桥	ckym
-商行	osnt
+商行	oint
 汕头市	jlf
 读音	efiy
 聚居	pgsh
@@ -20029,7 +20029,7 @@
 黄鹤楼	hly
 一视同仁	icpt
 莫文蔚	zfr
-奸商	xhos
+奸商	xhoi
 婚介	xsuv
 河床	jrmy
 追星	bnwm
@@ -20872,7 +20872,7 @@
 银白	glrb
 热能	vkbu
 工商所	kon
-商厦	osnq
+商厦	oinq
 自定义	mle
 张军	sulc
 迁入	inme
@@ -22176,7 +22176,7 @@
 出厂价	qnt
 高歌	sgrr
 道琼斯	qaq
-富商	lvos
+富商	lvoi
 小卖部	jfb
 干群	hgdm
 打猎	klsh
@@ -22508,7 +22508,7 @@
 庭长	mtuc
 大仙	jdti
 向阳	godw
-商检	osye
+商检	oiye
 午盘	wwsk
 风口	pfok
 有戏	xugp
@@ -23039,7 +23039,7 @@
 盘踞	skxs
 比特	mbwh
 聚丙烯	piz
-商船	ossp
+商船	oisp
 先秦	wlcz
 拔除	klde
 不顺眼	onq
@@ -25115,7 +25115,7 @@
 出神	qicw
 金刚石	tpq
 皇太极	rjy
-共商	hios
+共商	hioi
 床上用品	mbco
 党人	flur
 保险柜	tdy
@@ -25673,7 +25673,7 @@
 第一盘	dis
 浸透	jdza
 青天	cuij
-官商	lbos
+官商	lboi
 李金华	ytt
 吸水	oaps
 相亲相爱	obox
@@ -26377,7 +26377,7 @@
 眼病	qlmi
 粒度	fbmr
 卡路里	bxa
-商贾	ospl
+商贾	oipl
 攻守	kulk
 演播	jlkm
 偷工减料	tkdf
@@ -30007,7 +30007,7 @@
 酬宾	pnlt
 敌情	iuhc
 蒙骗	spve
-商丘	ostq
+商丘	oitq
 五反	nwng
 石窟	qsls
 相似性	oth
@@ -30176,7 +30176,7 @@
 并进	qran
 背靠背	dwd
 路障	xudi
-商战	osbp
+商战	oibp
 一窝蜂	ilc
 开元区	izl
 汪精卫	jfd
@@ -31143,7 +31143,7 @@
 查出来	yqy
 阿卜杜拉	dbyk
 面皮	qoap
-商旅	osom
+商旅	oiom
 吵吵	ojoj
 惊疑	hsmv
 礼炮	cdzj
@@ -31513,7 +31513,7 @@
 三门峡	ypi
 老佛爷	mty
 以次充好	qdfx
-商号	osob
+商号	oiob
 福娃	cvxa
 重地	iahl
 栽倒	fpti
@@ -31817,7 +31817,7 @@
 租房子	zep
 墨子	hhpz
 尽善尽美	ococ
-港商	jhos
+港商	jhoi
 生活资料	mjdf
 爵位	xltb
 大力神	jsc
@@ -31965,7 +31965,7 @@
 招徕	kwny
 片面性	nqh
 国际级	rda
-会商	ugos
+会商	ugoi
 编印	aesd
 卢湾区	bjl
 齐刷刷	fss
@@ -33654,7 +33654,7 @@
 平顺	hdnq
 先辈	wlgc
 李师傅	yvt
-商社	osch
+商社	oich
 打呼噜	koo
 远超过	zgk
 链霉素	gbc
@@ -33916,7 +33916,7 @@
 张国焘	srg
 草民	rwek
 东盟博览会	cwfu
-商代	oscd
+商代	oicd
 尼加拉瓜	szky
 尹明善	dwc
 动力性	gsh
@@ -34043,7 +34043,7 @@
 台州市	bnf
 教廷	mptn
 莫不是	zow
-商法	osjh
+商法	oijh
 房山	eois
 湮没	jpjt
 流动资产	jgdb
@@ -34912,7 +34912,7 @@
 战斗英雄	blrx
 百余人	qeu
 王芳	awro
-商海	osjv
+商海	oijv
 论处	euub
 于根伟	hyt
 外联	nbpq
@@ -34969,7 +34969,7 @@
 作陪	tkdb
 摄影棚	kwy
 邻邦	ubgd
-书商	zdos
+书商	zdoi
 高句丽	sji
 尖峰	jjiu
 极左	yaxk
@@ -35079,7 +35079,7 @@
 回肠	roua
 鹰扬	mtka
 巴方	wbof
-私商	zbos
+私商	zboi
 李正	ypig
 可亲	rkby
 荣光	syxi
@@ -35817,7 +35817,7 @@
 罚站	oebb
 驯化	vntm
 重庆医科大学	imlf
-商誉	osfi
+商誉	oifi
 软软	cjcj
 枫林	ypyl
 假单	tsdw
@@ -36921,7 +36921,7 @@
 袒露	cwbx
 有闲	xupy
 精神损失费	fcks
-行商	ntos
+行商	ntoi
 恳谈会	leu
 营帐	soou
 百里挑一	qaki
@@ -37146,7 +37146,7 @@
 西南角	psi
 张燕	suro
 音速	iyyo
-商队	osdu
+商队	oidu
 开演	irjl
 贤达	vgjn
 所罗门群岛	nopg
@@ -37426,7 +37426,7 @@
 全兴	uafi
 一枝花	iyr
 酸软	pbcj
-商周	osph
+商周	oiph
 冷场	duha
 李鸿忠	yjk
 脱氢酶	uup
@@ -39254,7 +39254,7 @@
 草绿	rwad
 万世	qams
 舞伴	vnto
-药商	raos
+药商	raoi
 吴刚	oipg
 斜阳	eydw
 送还	qjon
@@ -40258,7 +40258,7 @@
 代耕	cdya
 喜宴	oqlw
 老韩	mmff
-商展	ossh
+商展	oish
 信不信	tot
 无着	hdcq
 形制	irwp
@@ -42191,7 +42191,7 @@
 宁缺勿滥	lwjj
 新交	byfy
 装填	qhhf
-商股	osut
+商股	oiut
 倍率	tbfa
 进出境	aqh
 鲁国	nwra
@@ -43051,7 +43051,7 @@
 摩尔多瓦	minh
 杰西卡	ypb
 真刀真枪	fwfy
-盐商	hbos
+盐商	hboi
 坦陈	hwdc
 犁田	zvvt
 混账	jwlu
@@ -44193,7 +44193,7 @@
 保卫科	tdz
 旅游界	ojv
 幼子	aspz
-片商	npos
+片商	npoi
 黔东南州	hcsn
 林学院	yfd
 老聂	mmpg
@@ -46771,7 +46771,7 @@
 举报者	fkm
 求签	pede
 男女老幼	vxma
-商办	ossi
+商办	oisi
 华源集团	tjar
 奥氏体	gst
 吴冠中	olk
@@ -46892,7 +46892,7 @@
 焕然	zine
 母舰	xmsk
 汤敏	javx
-商情	oshc
+商情	oihc
 曹清尧	hjp
 道森	qmyy
 入木三分	myyi
@@ -49632,7 +49632,7 @@
 割让	loeb
 云蕾	gyrb
 生还者	mom
-商鞅	ospk
+商鞅	oipk
 雨丝	byaa
 耐旱	qkwh
 亨曼	szwo
@@ -50097,7 +50097,7 @@
 华林	tmyl
 引信	sfte
 负隅顽抗	idzk
-商集	osay
+商集	oiay
 釉面	mfqo
 免缴	ioar
 高精尖	sfj
@@ -51206,7 +51206,7 @@
 注满	jfjr
 明渠	wujl
 刀把	wdkw
-殷商	ndos
+殷商	ndoi
 刘华清	ftj
 目镜	qmgi
 西塞	pxla
@@ -52743,7 +52743,7 @@
 石脑油	quj
 海林	jvyl
 落地灯	zhz
-美商	cjos
+美商	cjoi
 宁波港	ljj
 献演	sjjl
 折旧率	kff
@@ -53679,7 +53679,7 @@
 先声	wlss
 人间地狱	uphs
 仁政	tpig
-商埠	oshb
+商埠	oihb
 徐荣	nesy
 花园酒店	rrjm
 审案	lwlx
@@ -56037,7 +56037,7 @@
 浩然正气	jniu
 益友	qixg
 陈玲	dcau
-儒商	tbos
+儒商	tboi
 葡聚糖	rpf
 诡计多端	eenb
 画工	ivkg
@@ -56262,7 +56262,7 @@
 哈耶克	oph
 双声	ggss
 黑鹰	hhmt
-商洛	osju
+商洛	oiju
 郑少秋	qjz
 操纵杆	kay
 林可	ylrk
@@ -59564,7 +59564,7 @@
 假造	tswo
 姘头	xqlt
 华能集团	tbar
-巨商	lsos
+巨商	lsoi
 鸡新城疫	gbhm
 计算机安全	edyu
 见风使舵	kpts
