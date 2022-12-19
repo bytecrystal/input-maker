@@ -152,6 +152,12 @@ with open('build/兔码.txt', 'w') as ziCiFile:
     for kv in ciMap.items():
         ziCiFile.write('%s\t%s\n' % (kv[0], kv[1]))
 
+with open('build/bm.txt', 'w') as ziCiFile:
+    for char, code in briefCode:
+        ziCiFile.write('%s %s\n' % (code, char))
+    for kv in ciMap.items():
+        ziCiFile.write('%s %s\n' % (kv[1], kv[0]))
+
 with open('build/opencc/division.txt', 'w') as filterDivision:
     for char, code in div:
         filterDivision.write('%s\t%s\n' % (char, code))
