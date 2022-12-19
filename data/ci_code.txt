@@ -556,7 +556,7 @@
 同志	pihe
 重大	pajd
 明确	wuqn
-训练	eial
+训练	eiac
 负责	nzcz
 居民	shel
 实行	llnr
@@ -1444,7 +1444,7 @@
 初步	cugj
 平安	hdlx
 打算	kabq
-教练	mpal
+教练	mpac
 抓住	krtf
 咱们	omtp
 立刻	blvv
@@ -2080,7 +2080,7 @@
 无限	htdl
 半个	qbuf
 考核	mxyv
-锻炼	cisl
+锻炼	cisc
 售价	aotu
 男孩	vspv
 澳大利亚	jjzy
@@ -2486,7 +2486,7 @@
 要么	pxmx
 怀念	hobe
 担保	kwto
-主教练	fmal
+主教练	fmac
 全力	uasl
 一下子	ixpz
 季节	zprd
@@ -3038,7 +3038,7 @@
 开拓	irkq
 病变	milg
 洗澡	jwjo
-练习	aldx
+练习	acdx
 幼儿园	alrd
 内外	fnnb
 荣誉	syfi
@@ -5607,7 +5607,7 @@
 推销	kacx
 十二月	fpuy
 公式	ixic
-修炼	tusl
+修炼	tusc
 紫色	gmnw
 浮云	jxgy
 其间	qqpw
@@ -5904,7 +5904,7 @@
 眼看	qlkq
 杰出	yndi
 攻势	cuxs
-熟练	sxal
+熟练	sxac
 拜年	kivj
 走私	gzzx
 改编	euaz
@@ -6808,7 +6808,7 @@
 大夫	jdxf
 大汉	jdjg
 导游	ekjk
-演练	jlal
+演练	jlac
 付款	tkhb
 创伤	uetv
 装扮	qhki
@@ -8345,7 +8345,7 @@
 马克思列宁主义	vhve
 氨基酸	uqpx
 之家	nzlw
-排练	ksal
+排练	ksac
 数值	fxtf
 心电图	ewru
 不慎	obhf
@@ -10679,7 +10679,7 @@
 民心	elex
 兼任	qdtt
 危及	nnaj
-冶炼	dxsl
+冶炼	dxsc
 执导	xzek
 来宾	ndlh
 竞价	botu
@@ -11984,7 +11984,7 @@
 家家	lwlw
 樱花	yzrt
 长处	ucub
-提炼	kwsl
+提炼	kwsc
 九江	xjjc
 自理	mqaa
 爽快	jghe
@@ -12874,7 +12874,7 @@
 智者	vomz
 瞳孔	qbpt
 渊源	jvjn
-磨练	myal
+磨练	myac
 国有经济	rzaj
 建筑业	dbyy
 定格	liyu
@@ -13359,7 +13359,7 @@
 惊慌	hshr
 盘旋	skkg
 国青队	rcdu
-练兵	alhi
+练兵	achi
 餐饮业	bnyy
 日落	wrsu
 老友	mmzg
@@ -14648,7 +14648,7 @@
 收成	huid
 鼓楼	tqyf
 袖子	cvpz
-炼油	sljv
+炼油	scjv
 闹事	pfko
 上等	bibh
 眼底	qlmw
@@ -15259,7 +15259,7 @@
 深信	jlte
 雪铁龙	xczl
 卫队	didu
-苦练	rhal
+苦练	rhac
 跆拳道	mcqm
 不折不扣	okok
 手链	kscc
@@ -16328,7 +16328,7 @@
 相传	oxtp
 标兵	ybhi
 经济性	ajhm
-拉练	kbal
+拉练	kbac
 站住	bbtf
 锦绣	cvaz
 要人	pxur
@@ -16470,7 +16470,7 @@
 红卫兵	adhi
 连日	cnwr
 锦州	cviz
-干练	hgal
+干练	hgac
 一天到晚	iiyw
 倍增	tbhd
 就学	sjfp
@@ -16547,7 +16547,7 @@
 欣然	hjne
 条文	uyfw
 人寿保险	ustd
-精炼	fcsl
+精炼	fcsc
 投掷	ktkd
 产前	bmqu
 和谈	zoes
@@ -17175,7 +17175,7 @@
 窘迫	lmvn
 可恨	rkhl
 塞车	lzcc
-练功	alcs
+练功	accs
 淡泊	jsjv
 坐骑	ohvj
 橡皮	yuzp
@@ -17814,7 +17814,7 @@
 圣火	ghsh
 满眼	jrql
 南洋	sqjc
-炼制	slwp
+炼制	scwp
 一瞬	iyqx
 图腾	ruuc
 通电	xcwt
@@ -18796,7 +18796,7 @@
 重负	panz
 流速	jfyo
 迎春	wdcw
-总教练	dmal
+总教练	dmac
 教育学	mffp
 皇子	vapz
 不过如此	okxg
@@ -20034,7 +20034,7 @@
 河床	jrmy
 追星	fnwm
 投靠	ktwo
-炼钢	slcp
+炼钢	sccp
 战区	bimg
 基站	qhbb
 深入基层	jmqs
@@ -20123,7 +20123,7 @@
 星系	wmma
 两口子	copz
 脾脏	uvum
-晨练	wnal
+晨练	wnac
 栩栩如生	yyxm
 握紧	ksvg
 待业	nhyy
@@ -21876,7 +21876,7 @@
 民主革命	efed
 非人	sfur
 耦合	nvdo
-磨炼	mysl
+磨炼	mysc
 喝喝	owow
 遵纪守法	qalj
 立于	blhy
@@ -22670,7 +22670,7 @@
 代表处	pcub
 剥削阶级	dxda
 出言	diey
-锤炼	cpsl
+锤炼	cpsc
 惠民	hwel
 适得其反	pnqn
 轻生	cmmc
@@ -23171,7 +23171,7 @@
 思想准备	vodu
 口口声声	ooss
 和善	zocq
-练练	alal
+练练	acac
 病危	minn
 自豪感	msii
 胸膜	ujug
@@ -24302,7 +24302,7 @@
 座无虚席	mhzm
 抓不住	kotf
 绝地	anhl
-操练	koal
+操练	koac
 更替	iwxx
 诸如此类	exgf
 回响	root
@@ -26308,7 +26308,7 @@
 体量	tywi
 分枝	iuyf
 杂文	xyfw
-老练	mmal
+老练	mmac
 清冷	jcdb
 吴英	oire
 戒严	irym
@@ -26575,7 +26575,7 @@
 北伐	dmti
 理光	aaxi
 生长期	muqu
-炼铁	slcv
+炼铁	sccv
 删去	ivhx
 彻头彻尾	nlns
 中国政法大学	krif
@@ -27735,7 +27735,7 @@
 不堪回首	ohrq
 希尔顿	gnld
 靶子	ewpz
-练武	alii
+练武	acii
 宏图	lzru
 安利	lxzv
 大锅饭	jcnn
@@ -27779,7 +27779,7 @@
 水样	psyc
 防身	dkhs
 站稳脚跟	bzum
-炼丹	slpf
+炼丹	scpf
 自问	mqpo
 援建	kxdh
 球童	apba
@@ -29062,7 +29062,7 @@
 三等功	ybcs
 痞子	mopz
 少年宫	jvlo
-简练	bpal
+简练	bpac
 邮资	vddj
 现下	akxx
 淮北	jadm
@@ -31398,7 +31398,7 @@
 门牙	pmia
 欢迎光临	gwxv
 贪欲	bziq
-练球	alap
+练球	acap
 黄柏	uvyv
 填料	hffl
 无所作为	hntd
@@ -32235,7 +32235,7 @@
 远近闻名	dhpn
 巡逻车	iicc
 王静	awcu
-熔炼	slsl
+熔炼	slsc
 发热量	hxwi
 狐狸精	wwfc
 齐白石	fvqs
@@ -32412,7 +32412,7 @@
 藏家	rilw
 见证人	keur
 镁合金	cdtj
-炼狱	slwj
+炼狱	scwj
 沟壑	jjbg
 讲义	ezeg
 多普达	nqjn
@@ -32632,7 +32632,7 @@
 私了	zxgk
 天昏地暗	iwhw
 出生率	dmfa
-陪练	dbal
+陪练	dbac
 转圈	cprc
 基线	qhai
 井井有条	zzzu
@@ -33846,7 +33846,7 @@
 百色	qwnw
 年事已高	vkes
 罗伊	intd
-分拣	iukl
+分拣	iukc
 海角	jvnc
 独霸	wvxe
 年夜	vjft
@@ -38824,7 +38824,7 @@
 举头	filt
 湘潭市	jjfo
 职业性	oyhm
-炼焦	slan
+炼焦	scan
 南唐	sqmd
 护坡	kzhz
 欧耶	mgod
@@ -39412,7 +39412,7 @@
 录影带	dwtl
 身先士卒	hwhf
 破伤风	qtpf
-精练	fcal
+精练	fcac
 流冰	jfdp
 接力赛	kslz
 无原则	hnzv
@@ -44439,7 +44439,7 @@
 敞篷车	xbcc
 悦目	hdqm
 纹状体	aqty
-凝练	dxal
+凝练	dxac
 起爆	gesw
 虚掩	zykj
 师承	vigp
@@ -45007,7 +45007,7 @@
 开禁	iryb
 苏堤	rshw
 禽兽不如	udox
-拣到	klyv
+拣到	kcyv
 廊道	meqm
 原任	nvtt
 骨小梁	pjju
@@ -47792,7 +47792,7 @@
 及于	ajhy
 连接器	ckuj
 浑水摸鱼	jpku
-团练	rkal
+团练	rkac
 燕少玉	rjae
 喧宾夺主	oljf
 楚天舒	yidh
@@ -51548,7 +51548,7 @@
 跷跷板	mmyn
 许文强	efgo
 长歌	ucrr
-炼乳	slxp
+炼乳	scxp
 刘志强	fhgo
 公共课	iuew
 分步骤	igvg
@@ -56346,7 +56346,7 @@
 小把戏	jkgi
 张越红	ggac
 扭转乾坤	kcfh
-洗练	jwal
+洗练	jwac
 杨雄	yazx
 海富通	jlxc
 泛酸	jmpx
@@ -57420,7 +57420,7 @@
 龙剑铭	zdcn
 杳无音讯	yhie
 云雾缭绕	gxaa
-练手	alks
+练手	acks
 太仆	jetb
 家鼠	lwvr
 金女士	txhs
@@ -59290,7 +59290,7 @@
 唐风云	mpgy
 俯首称臣	tqzm
 甘孜州	rpiz
-练达	aljn
+练达	acjn
 成品率	iofa
 泰山压顶	cina
 热呼呼	xoom
