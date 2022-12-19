@@ -273,9 +273,9 @@ def build_ci_by_full_code(full_code_map):
         elif (lc == 3):
             # 每个字取首码
             # cybm[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
-            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0], int(cp[1])))
+            # cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0], int(cp[1])))
             # 3字词是前两字第一码 + 第三字前两码
-            # cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
         elif (lc == 4):
             cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0], int(cp[1])))
         elif (lc > 4):
@@ -342,6 +342,9 @@ def stats(brief_code, cybm):
     hja_1500 = 0
     n4a_1500 = 0
     n4a_500 = 0
+    xca_500 = 0
+    xca_3000 = 0
+    n4a_3000 = 0
     for i in l:
         n1 = 0
         n2 = 0
@@ -373,6 +376,8 @@ def stats(brief_code, cybm):
                 xc += 1
                 if ((int)(i[1]) <= 1500):
                     print(dz.get(j, 0))
+                if ((int)(i[1]) <= 3000):
+                    xca_3000 += 1
             if len(dz.get(j, '0000')) == 1:
                 n1 += 1
                 p1 += i[0].get(j, '0000')
@@ -462,8 +467,10 @@ def stats(brief_code, cybm):
             jca_1500 += jc
             zjdla_1500 += zjdl
             jjdla_1500 += jjdl
+        if (int)(i[1]) <= 1500:
             n4a_1500 += n4
-
+        if (int)(i[1]) <= 3000:
+            n4a_3000 += n4
     jjdla = zjdla / (jca - 1)
     print('总选重：%d' % xca)
     print('键长：%f' % jca)
@@ -482,8 +489,10 @@ def stats(brief_code, cybm):
     print('错手：%f' % csa)
     print('前500四码数：%d' % n4a_500)
     print('前1500四码数：%d' % n4a_1500)
+    print('前3000选重：%d' % xca_3000)
+    print('前3000四码数：%d' % n4a_3000)
 
-    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 2 + n4a_1500
+    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 2 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
@@ -525,7 +534,7 @@ def stats(brief_code, cybm):
             '总计\t%s\t%.2f\n' % (x6, dzj) +
             '加权比重\t%.2f%%\n' % (xc6 * 100)
         )
-        ci_weight += x3 / 10 + x6 / 100 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+        ci_weight += x3 / 5 + x6 / 100 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
     print('--------------------------------')
     return weight + ci_weight
 
@@ -585,9 +594,9 @@ def zu_ci(full_code_map):
             ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
         elif (lc == 3):
             # 每个字取首码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
             # 3字词是前两字第一码 + 第三字前两码
-            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
         elif (lc == 4):
             ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + \
                          full_code_map[ci[3]][0]
@@ -603,7 +612,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)

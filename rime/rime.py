@@ -28,9 +28,9 @@ def build_ci_by_full_code(full_code_map):
             ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
         elif (lc == 3):
             # 每个字取首码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
             # 3字词是前两字第一码 + 第三字前两码
-            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
         elif (lc == 4):
             ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
         elif (lc > 4):
