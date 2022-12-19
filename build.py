@@ -53,7 +53,7 @@ with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
 # print(stroke_arr_small_last)
 
 # 读取字根
-with open('data/new_decomposition.txt', encoding='utf-8', mode='r') as componentFile:
+with open('asserts/decomposition.txt', encoding='utf-8', mode='r') as componentFile:
     decompositionLines = [line for line in componentFile]
 
 char_py = {}
@@ -492,7 +492,7 @@ def stats(brief_code, cybm):
     print('前3000选重：%d' % xca_3000)
     print('前3000四码数：%d' % n4a_3000)
 
-    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 2 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2
+    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
@@ -534,7 +534,7 @@ def stats(brief_code, cybm):
             '总计\t%s\t%.2f\n' % (x6, dzj) +
             '加权比重\t%.2f%%\n' % (xc6 * 100)
         )
-        ci_weight += x3 / 5 + x6 / 100 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+        ci_weight += x3 / 8 + x6 / 100 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
     print('--------------------------------')
     return weight + ci_weight
 
