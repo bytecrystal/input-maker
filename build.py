@@ -492,7 +492,7 @@ def stats(brief_code, cybm):
     print('前3000选重：%d' % xca_3000)
     print('前3000四码数：%d' % n4a_3000)
 
-    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2
+    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2 + dkpa_1500 + dkpa_500 * 5
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
