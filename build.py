@@ -430,9 +430,9 @@ def stats(brief_code, cybm):
                         xzgra_1500 += 1
                 if k in cszh:
                     cs += i[0].get(j, '0000')
-                    if (int)(i[1]) == 500:
+                    if (int)(i[1]) <= 500:
                         csa_500 += 1
-                    if (int)(i[1]) == 1500:
+                    if (int)(i[1]) <= 1500:
                         csa_1500 += 1
         jjdl = (zjdl / pa) / ((jc / pa) - 1)
         # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
@@ -484,6 +484,7 @@ def stats(brief_code, cybm):
     print('同指大跨排：%f' % dkpa)
     print('同指大跨排500：%d' % dkpa_500)
     print('同指大跨排1500：%d' % dkpa_1500)
+    print('错手1500：%d' % csa_1500)
     print('小跨排：%f' % xkpa)
     print('小指干扰：%f' % xzgra)
     print('错手：%f' % csa)
@@ -492,7 +493,7 @@ def stats(brief_code, cybm):
     print('前3000选重：%d' % xca_3000)
     print('前3000四码数：%d' % n4a_3000)
 
-    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2 + dkpa_1500 + dkpa_500 * 5
+    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2 + dkpa_1500 + dkpa_500 * 5 + csa_1500
     ci_weight = 0
     if len(cybm) > 0:
         cydl = [(jsdl(i[0]), i[1]) for i in cybm]
@@ -612,7 +613,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 3000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
