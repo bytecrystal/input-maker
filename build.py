@@ -534,7 +534,7 @@ def stats(brief_code, cybm):
             '总计\t%s\t%.2f\n' % (x6, dzj) +
             '加权比重\t%.2f%%\n' % (xc6 * 100)
         )
-        ci_weight += x3 / 8 + x6 / 100 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+        ci_weight += x3  + x6 / 70 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
     print('--------------------------------')
     return weight + ci_weight
 
@@ -612,7 +612,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 3000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
