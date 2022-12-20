@@ -534,7 +534,7 @@ def stats(brief_code, cybm):
             '总计\t%s\t%.2f\n' % (x6, dzj) +
             '加权比重\t%.2f%%\n' % (xc6 * 100)
         )
-        ci_weight += x3  + x6 / 70 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+        ci_weight += x3 * 1.5 + x6 / 60 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
     print('--------------------------------')
     return weight + ci_weight
 
