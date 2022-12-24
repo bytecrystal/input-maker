@@ -273,9 +273,9 @@ def build_ci_by_full_code(full_code_map):
         elif (lc == 3):
             # 每个字取首码
             # cybm[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
-            # cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0], int(cp[1])))
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0], int(cp[1])))
             # 3字词是前两字第一码 + 第三字前两码
-            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
+            # cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
         elif (lc == 4):
             cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0], int(cp[1])))
         elif (lc > 4):
@@ -595,9 +595,9 @@ def zu_ci(full_code_map):
             ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
         elif (lc == 3):
             # 每个字取首码
-            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
             # 3字词是前两字第一码 + 第三字前两码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
+            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
         elif (lc == 4):
             ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + \
                          full_code_map[ci[3]][0]
@@ -613,7 +613,7 @@ if __name__ == '__main__':
     cdp = ComponentsDistributionProblem(componentKey)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 1000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
