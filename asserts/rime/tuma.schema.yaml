@@ -10,7 +10,8 @@ schema:
     - 安静的水
   description: |
     改编自c_42的形码方案，而前身是 Cicin 所作的 C 输入
-    - pinyin_simp
+  dependencies:
+    - luna_pinyin
     - stroke
 
 switches:
@@ -43,65 +44,72 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
-#    - affix_segmentor@reverse_lookup
-#    - affix_segmentor@pinyin_lookup
-#    - affix_segmentor@bihua_lookup
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@luna_pinyin_lookup
+    - affix_segmentor@stroke_lookup
+    - affix_segmentor@reverse_lookup
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - reverse_lookup_translator
+    - table_translator@fixed
     - table_translator
-#    - script_translator@pinyin_lookup
-#    - script_translator@bihua_lookup
+    - script_translator@luna_pinyin
+    - script_translator@luna_pinyin_lookup
+    - table_translator@stroke_lookup
   filters:
     - simplifier
-    - uniquifier
-#    - simplifier@emoji_suggestion
     - simplifier@zh_trad
-#    - reverse_lookup_filter@pinyin_reverse_lookup
-#    - reverse_lookup_filter@bihua_reverse_lookup
+    - simplifier@emoji_suggestion
+    - reverse_lookup_filter@luna_pinyin_reverse_lookup
+    - reverse_lookup_filter@stroke_reverse_lookup
+    - uniquifier
+
 
 speller:
   alphabet: "qwertasdfgzxcvbyuiophjklnm"
-#  initials: "qwertasdfgzxcvbyuiophjklnm"
   auto_select: true
   max_code_length: 4 #顶字上屏 （在QQ聊天窗口出问题，会吃字，如“末笔识别”，会只留下“识别”。暂未找到解决办法。）
   auto_select_unique_candidate: true #无重码自动上屏
   delimiter: ";'"
-
-
-translator:
-  dictionary: tuma
-  db_class: tabledb
-  initial_quality: 100000
-  #  dictionary: pinyin_simp
-#  preedit_format:
-#    - xform/([nl])v/$1ü/
-#    - xform/([nl])ue/$1üe/
-#    - xform/([jqxy])v/$1u/
-  enable_charset_filter: false
-  enable_sentence: false
-  enable_encoder: false
-  encode_commit_history: false
-  enable_completion: true
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-#  enable_user_dict: false #禁止词序调整
 
 fixed:
   __include: /translator
   initial_quality: 1000
   enable_encoder: false
   enable_user_dict: false
+
+translator:
+  dictionary: tuma
+  db_class: tabledb
+  initial_quality: 100000
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_encoder: false
+  encode_commit_history: false
+  enable_completion: true
+  enable_user_dict: true
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - ^[a-y][a-z]{0,3}$
+#  enable_user_dict: false #禁止词序调整
+
+
 #
-#emoji_suggestion:
-#  opencc_config: emoji.json
-#  option_name: emoji_suggestion
-#  tips: all
-#  tags:
-#    - abc
-#    - pinyin_lookup
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+  tags:
+    - abc
+    - luna_pinyin_lookup
+
+# 用于混输
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  initial_quality: 0.2
 
 zh_trad:
   opencc_config: s2tw.json
@@ -109,76 +117,63 @@ zh_trad:
   tags:
     - abc
 #
-#pinyin_lookup:
-#  tag: pinyin_lookup
-#  dictionary: luna_pinyin
-#  enable_user_dict: false
-#  tips: "〔拼音〕"
-
-#bihua_lookup:
-#  tag: bihua_lookup
-#  dictionary: stroke
-#  enable_user_dict: false
-#  tips: "〔笔画〕"
-
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-#注释掉上面3行后就不能拼音混输了
-
-# 反查
 reverse_lookup:
-  dictionary: pinyin_simp
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nljqxy])v/$1ü/
+  tag: reverse_lookup
+  prefix: "`"    # 反查引导符「`」
+  # suffix:   # 反查关闭符，暂不定义
+  tips: 【反查：拼音+筆畫】
+  closing_tips: 【反查關閉】
+    # preedit_format:
+  # - xform/([nljqxy])v/$1ü/
+  extra_tags:
+    - luna_pinyin_lookup
+    - stroke_lookup
 
-#pinyin_reverse_lookup:
-#  tags: [ pinyin_lookup ]
-#  overwrite_comment: true
-#  dictionary: &dict
-#  enable_user_dict: false
-#  comment_format:
-#    - "xform/$/〕/"
-#    - "xform/^/〔/"
-#
-#bihua_reverse_lookup:
-#  tags: [ bihua_lookup ]
-#  overwrite_comment: true
-#  dictionary: *dict
-#  enable_user_dict: false
-#  comment_format:
-#    - "xform/$/〕/"
-#    - "xform/^/〔/"
-#    - "xform/~//"
+luna_pinyin_lookup:
+  tag: luna_pinyin_lookup
+  dictionary: luna_pinyin
+  prefix: '`P'
+  tips: 【朙月拼音反查】
+  closing_tips: 【反查關閉】
+  initial_quality: 0.2
+
+stroke_lookup:
+  tag: stroke_lookup
+  dictionary: stroke
+  prefix: '`B'
+  tips: 【五筆劃反查】
+  closing_tips: 【反查關閉】
+  initial_quality: 0.5
+  preedit_format:
+    - 'xform/^([hspnz]+)$/$1\t（\U$1\E）/'
+    - xlit/HSPNZ/一丨丿丶乙/
+
+luna_pinyin_reverse_lookup:
+  tags: [ luna_pinyin, luna_pinyin_lookup ]
+  dictionary: huma_trad
+
+stroke_reverse_lookup:
+  __include: luna_pinyin_reverse_lookup
+  tags: [ stroke_lookup ]
 
 # 标点
 punctuator:
   import_preset: symbols
 
-# 杂项
-#recognizer:
-#  import_preset: default
-#  patterns:
-#    punct: "^/[0-9]*[a-z]*$"
-#    pinyin: "`[a-z']*;?$"
-recognizer:
-  import_preset: default
-  patterns:
-    reverse_lookup: "`[a-z]*'?$"
-    punct: "^/[a-z]*$"
-
-
 key_binder:
   import_preset: default
   bindings:
-#    - {accept: Return, send: Escape, when: composing}
     - {accept: semicolon, send: 2, when: has_menu} #分號選第二重碼
     - {accept: apostrophe, send: 3, when: has_menu} #引號選第三重碼
-#    - {accept: bracketleft, send: Page_Up, when: paging}
-#    - {accept: bracketright, send: Page_Down, when: has_menu}
+
+recognizer:
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup:     "^`([a-z]+'?)*$"
+    luna_pinyin_lookup: "^`P([a-z]+'?)*$"
+    stroke_lookup:      "^`B([a-z]+'?)*$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
 
 menu:
   page_size: 9

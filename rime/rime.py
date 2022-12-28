@@ -8,16 +8,18 @@ from os.path import exists
 from os import makedirs
 
 ci_list = []
+ci_map = {}
 # 读取词表
 # with open('asserts/ci.txt', encoding='utf-8', mode='r') as f:
 #     for line in f:
 #         l_c = line.strip('\r\n')
 #         ci_list.append(l_c)
 
-with open('cp.txt',encoding='utf-8') as t:
+with open('../asserts/cp.txt',encoding='utf-8') as t:
     for line in t.readlines():
-        ciyu = line.strip('\r\n')
-        ci_list.append(ciyu)
+        ci,cp = line.strip('\r\n').split('\t')
+        ci_list.append(ci)
+        ci_map[ci] = cp
 
 def build_ci_by_full_code(full_code_map):
     ci_map = {}
@@ -55,10 +57,12 @@ def strB2Q(ustring):
 
 with open('../asserts/rime/tuma.dict.meta.yaml') as tumaDictMetaFile:
     tumaDictMeta = tumaDictMetaFile.read()
-with open('../asserts/rime/tuma.phrases.meta.yaml') as tumaDictPhraseMetaFile:
+with open('../asserts/rime/tuma.phrase.meta.yaml') as tumaDictPhraseMetaFile:
     tumaDictPhraseMeta = tumaDictPhraseMetaFile.read()
 with open('../asserts/rime/tuma.words.meta.yaml') as tumaDictWordsMetaFile:
     tumaDictWordsMeta = tumaDictWordsMetaFile.read()
+with open('../asserts/rime/tuma.extend.dict.meta.yaml') as tumaExtendDictFile:
+    tumaExtendDictMeta = tumaExtendDictFile.read()
 #
 # with open('assets/brevity.dat') as brevityFile:
 #     brevity = [line.strip('\r\n').split('\t') for line in brevityFile]
@@ -76,7 +80,9 @@ fullCode = []
 charSet = {}
 qd = {}
 briefCode = []
+briefCodeMap = {}
 fullCodeMap = {}
+singleBriefCodeMap = {}
 
 with open('../data/full_code.txt', mode='r') as fullCodeFile:
     for line in fullCodeFile:
@@ -89,7 +95,11 @@ with open('../data/full_code.txt', mode='r') as fullCodeFile:
 with open('../data/new_brief_code.txt', mode='r') as briefCodeFile:
     for line in briefCodeFile:
         char, code = line.strip('\r\n').split('\t')
-        briefCode.append((char, code))
+        if (len(code) > 1):
+            briefCode.append((char, code))
+            briefCodeMap[char] = code
+        elif (len(code) == 1):
+            singleBriefCodeMap[char] = code
 
 stroke_char = {}
 with open('../asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
@@ -131,20 +141,25 @@ if not exists('build/opencc'): makedirs('build/opencc')
 with open('build/tuma.dict.yaml', 'w') as dictFile:
     dictFile.write(tumaDictMeta)
 
-with open('build/tuma.words.dict.yaml', 'w') as wordsDictFile:
-    wordsDictFile.write(tumaDictWordsMeta)
-    for char, code in briefCode:
-        wordsDictFile.write('%s\t%s\n' % (char, code))
-        # c42Dict.write('　\t%s\n' % code)
-    for char, code in fullCode:
-        wordsDictFile.write('%s\t%s\n' % (char, code))
+# with open('build/tuma.words.dict.yaml', 'w') as wordsDictFile:
+#     wordsDictFile.write(tumaDictWordsMeta)
+#     for char, code in briefCode:
+#         wordsDictFile.write('%s\t%s\n' % (char, code))
+#         # c42Dict.write('　\t%s\n' % code)
+#     for char, code in fullCode:
+#         wordsDictFile.write('%s\t%s\n' % (char, code))
         # c42Dict.write('　\t%s\n' % code)
 
 ciMap = build_ci_by_full_code(fullCodeMap)
-with open('build/tuma.phrases.dict.yaml', 'w') as phrasesFile:
+with open('build/tuma.phrase.dict.yaml', 'w') as phrasesFile:
     phrasesFile.write(tumaDictPhraseMeta)
-    for kv in ciMap.items():
+    # for kv in ciMap.items():
+    #     phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
+    for kv in ci_map.items():
         phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
+
+with open('build/tuma.extend.dict.yaml', 'w') as extendDictFile:
+    extendDictFile.write(tumaExtendDictMeta)
 
 with open('build/兔码.txt', 'w') as ziCiFile:
     for char, code in briefCode:
@@ -200,3 +215,14 @@ key = 'abcdefghijklmnopqrstuvwxyz'
 #         if code == x:
 #             fourth_code[char] = x + "\t" + fullCodeMap[char]
 # print(fourth_code)
+newBriefCodeList = sorted(briefCodeMap.items(), key=lambda kv: (kv[1], kv[0]))
+singleBriefCodeList = sorted(singleBriefCodeMap.items(), key=lambda kv: (kv[1], kv[0]))
+ciCodeList = sorted(ciMap.items(), key=lambda kv: (kv[1], kv[0]))
+# print(newBriefCodeList)
+with open('build/tuma.dict.yaml', 'a') as dictFile:
+    for char, code in singleBriefCodeList:
+        dictFile.write('%s\t%s\t%s\n' % (char, code, fullCodeMap[char]))
+    for char, code in newBriefCodeList:
+        dictFile.write('%s\t%s\n' % (char, code))
+    # for char,code in ciCodeList:
+    #     dictFile.write('%s\t%s\n' % (char, code))
