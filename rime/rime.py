@@ -21,21 +21,29 @@ with open('../asserts/cp.txt',encoding='utf-8') as t:
         ci_list.append(ci)
         ci_map[ci] = cp
 
-dian_ci_list = []
-# with open('../asserts/dian_ci_no_en.txt',encoding='utf-8') as t:
-#     for line in t.readlines():
-#         dian_ci_list.append(line.strip('\r\n'))
-
-dian_zi_ci_map = {}
-with open('../asserts/dian_zi_ci_no_en.txt', encoding='utf-8', mode='r') as f:
+# dian_ci_list = []
+# # with open('../asserts/dian_ci_no_en.txt',encoding='utf-8') as t:
+# #     for line in t.readlines():
+# #         dian_ci_list.append(line.strip('\r\n'))
+#
+# dian_zi_ci_map = {}
+# with open('../asserts/dian_zi_ci_no_en.txt', encoding='utf-8', mode='r') as f:
+#     for line in f:
+#         zici,p = line.strip('\r\n').split('\t')
+#         dian_zi_ci_map[zici] = p
+#         if (len(zici) > 1):
+#             dian_ci_list.append(zici)
+ci_list = []
+cc_map = {}
+with open('../asserts/cb.txt', encoding='utf-8', mode='r') as f:
     for line in f:
-        zici,p = line.strip('\r\n').split('\t')
-        dian_zi_ci_map[zici] = p
-        if (len(zici) > 1):
-            dian_ci_list.append(zici)
+        ci,p = line.strip('\r\n').split('\t')
+        ci_list.append(ci)
+        cc_map[ci] = p
+
 def build_ci_by_full_code(full_code_map):
     ci_map = {}
-    for ci in dian_ci_list:
+    for ci in ci_list:
         lc = len(ci)
         if (lc == 2):
             if (ci[0] in full_code_map and ci[1] in full_code_map):
@@ -249,15 +257,14 @@ singleBriefCodeList = sorted(singleBriefCodeMap.items(), key=lambda kv: (kv[1], 
 ciCodeList = sorted(ciMap.items(), key=lambda kv: (kv[1], kv[0]))
 # print(newBriefCodeList)
 with open('build/tuma.dict.yaml', 'a') as dictFile:
-    # for char, code in singleBriefCodeList:
-    #     dictFile.write('%s\t%s\t%s\n' % (char, code, fullCodeMap[char]))
-    # for char, code in newBriefCodeList:
-    #     dictFile.write('%s\t%s\t%s\n' % (char, code, fullCodeMap[char]))
-    for char,zp in dian_zi_ci_map.items():
-        if (len(char) == 1):
-            if (char in zi_code_map):
-                dictFile.write('%s\t%s\t%s\n' % (char, zi_code_map[char], zp))
-        else:
-            if (char in ciMap):
-                dictFile.write('%s\t%s\t%s\n' % (char, ciMap[char], zp))
+    i = 1000000
+    for char, code in singleBriefCodeList:
+        dictFile.write('%s\t%s\t%s\n' % (char, code, i))
+        i = i - 1
+    for char, code in newBriefCodeList:
+        dictFile.write('%s\t%s\t%s\n' % (char, code, i))
+        i = i - 1
+    for char,zp in cc_map.items():
+        if (char in ciMap):
+            dictFile.write('%s\t%s\t%s\n' % (char, ciMap[char], zp))
 
