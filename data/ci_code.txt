@@ -3539,7 +3539,7 @@
 大脑	jduf
 审核	lwyv
 排行	ksnr
-塑料	dufl
+塑料	qufl
 车站	gcbb
 厕所	nqns
 港口	jyok
@@ -4421,7 +4421,7 @@
 发票	ifpb
 会计师	uev
 人力	ursl
-塑造	duwo
+塑造	quwo
 平方公里	hkib
 排列	ksnv
 机票	yppb
@@ -6253,7 +6253,7 @@
 父子	ffpz
 入市	mefm
 终点	akbu
-雕塑	phdu
+雕塑	phqu
 较差	gfcc
 青海	cujv
 实事求是	lapw
@@ -10136,7 +10136,7 @@
 如是	xowi
 老爷子	vfp
 黄山	ysis
-塑料袋	dfp
+塑料袋	qfp
 第一张	big
 一把手	ikk
 帮扶	sdkv
@@ -11362,7 +11362,7 @@
 政变	igsg
 同事们	pat
 通行证	xne
-追溯	fnjd
+追溯	fnjq
 骆驼	ckcl
 编辑部	agb
 血迹	mpfs
@@ -16586,7 +16586,7 @@
 淡薄	jsip
 医用	nvcy
 赛制	lawp
-重塑	bbdu
+重塑	bbqu
 民事诉讼	faee
 林某	ylri
 含泪	bojq
@@ -19421,7 +19421,7 @@
 福彩	uofy
 卷起	cfgf
 气功	uqcs
-塑像	dutv
+塑像	qutv
 那英	adrr
 高起点	sgb
 把守	kwlk
@@ -19667,7 +19667,7 @@
 解放运动	nkpp
 从天而降	viqd
 左派	rcjn
-塑胶	duuf
+塑胶	quuf
 车组	gcah
 迷雾	fnqk
 讲坛	eahp
@@ -25734,7 +25734,7 @@
 至死	yznl
 一日三餐	iwmb
 神智	uwvo
-塑性	duhm
+塑性	quhm
 完税	lqvd
 临门	vbpm
 一排排	ikk
@@ -28957,7 +28957,7 @@
 鄱阳湖	mdj
 压倒性	nth
 狗熊	wjxl
-可塑性	cdh
+可塑性	cqh
 排版	ksbn
 规劝	vkgs
 暨南大学	tsjf
@@ -39467,7 +39467,7 @@
 无期	htqu
 烟丝	sraa
 帮办	sdsi
-塑料布	dfr
+塑料布	qfr
 重庆晚报	bmwk
 迪厅	snne
 东南角	gsn
@@ -40543,7 +40543,7 @@
 杨林	yayl
 菜汤	rfja
 里程碑式	bvqi
-泥塑	jsdu
+泥塑	jsqu
 争强好胜	ngxu
 刀鱼	udvy
 黎兵	vjri
@@ -41501,7 +41501,7 @@
 恐慌性	chh
 楚楚可怜	yych
 莱卡	rnbg
-回溯	rojd
+回溯	rojq
 裨益	uxqi
 金甲	xjsj
 肉皮	cugp
@@ -42144,7 +42144,7 @@
 空中楼阁	lvyp
 探照灯	kws
 工商业联合会	cseu
-塑料桶	dfy
+塑料桶	qfy
 军饷	lgnl
 房前屋后	pqsq
 北外	dlnb
@@ -42942,7 +42942,7 @@
 针眼	xaqt
 永磁	epqq
 夜袭	ftgf
-注塑	jfdu
+注塑	jfqu
 远房	qnpk
 甲午战争	swbn
 兰亭	quse
@@ -45913,7 +45913,7 @@
 浮法玻璃	jjaa
 第三日	bmw
 舔舔	bibi
-塑型	duxv
+塑型	quxv
 朱茵	nzrr
 初战	uubi
 田纪云	sap
@@ -46278,7 +46278,7 @@
 云团	pyrk
 北京体育大学	dstf
 香港公司	vjid
-上溯	bijd
+上溯	bijq
 堂皇	fhxa
 华超	tlgu
 云中鹤	pvl
@@ -46787,7 +46787,7 @@
 统帅部	avb
 改朝换代	fakp
 第六人	bfu
-溯源	jdjn
+溯源	jqjn
 服软	udgj
 沙粒	jjfb
 支配权	apy
@@ -47719,7 +47719,7 @@
 小丹	jxpf
 蓖麻	rlmy
 谭嗣同	eop
-泡沫塑料	jjdf
+泡沫塑料	jjqf
 亚胺	eyul
 概念性	ybh
 封地	kkhl
@@ -49905,7 +49905,7 @@
 叮叮当当	ooff
 归降	vddk
 鲍尔默	vnh
-塑化	dutl
+塑化	qutl
 划不来	ion
 巴拉圭队	wkkd
 八佰伴	itt
@@ -52353,7 +52353,7 @@
 定标	liyb
 心仪已久	etfn
 鼓浪屿区	tjin
-增塑剂	hdf
+增塑剂	hqf
 神华集团	utar
 高通公司	sxid
 完美主义者	lcfv
@@ -56376,7 +56376,7 @@
 孔乙	ptly
 琳琳	ayay
 徐本禹	nym
-塑性变形	dhsx
+塑性变形	qhsx
 荆门市	rpf
 回马枪	rcy
 蔡少芬	rjr

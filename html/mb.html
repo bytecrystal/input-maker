@@ -105,20 +105,34 @@
                         //     return codeArr.indexOf(a) - codeArr.indexOf(b);
                         // });
                         // console.log(groupedBy)
-
-                        let keyCode = {};
-                        codeArr.forEach(item => {
-                            if (groupedBy[item]) {
-                                groupedBy[item].unshift({
-                                    key: this.singleBriefCodeMap[item],
-                                    code: item
-                                })
-                            }
-                            // groupedBy[item].unshift(briefCodeMap[item])
-                            keyCode[item.toLocaleUpperCase()] = groupedBy[item];
-                        });
-                        console.log(keyCode)
-                        this.keyCode = keyCode;
+                        fetch('../data/single_brief_code.txt')
+                            .then(res => res.text())
+                            .then(d => {
+                                // console.log(d)
+                                let briefCode = d.split("\r\n")
+                                let briefCodeMap = []
+                                for (let i = 0; i < briefCode.length; i++) {
+                                    let arr = briefCode[i].split("\t");
+                                    if (arr[0]) {
+                                        briefCodeMap[arr[1]] = arr[0];
+                                    }
+                                }
+                                console.log(briefCodeMap)
+                                // this.singleBriefCodeMap = briefCodeMap;
+                                let keyCode = {};
+                                codeArr.forEach(item => {
+                                    if (groupedBy[item]) {
+                                        groupedBy[item].unshift({
+                                            key: briefCodeMap[item],
+                                            code: item
+                                        })
+                                    }
+                                    // groupedBy[item].unshift(briefCodeMap[item])
+                                    keyCode[item.toLocaleUpperCase()] = groupedBy[item];
+                                });
+                                console.log(keyCode)
+                                this.keyCode = keyCode;
+                            })
                     })
             },
             async loadSingleBriefCode() {
