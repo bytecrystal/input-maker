@@ -105,11 +105,16 @@ emoji_suggestion:
     - abc
     - luna_pinyin_lookup
 
+abc_segmentor:
+  extra_tags:
+    - luna_pinyin
+
 # 用于混输
 luna_pinyin:
   tag: luna_pinyin
   dictionary: luna_pinyin
   initial_quality: 0.2
+
 
 zh_trad:
   opencc_config: s2tw.json
@@ -150,7 +155,7 @@ stroke_lookup:
 
 luna_pinyin_reverse_lookup:
   tags: [ luna_pinyin, luna_pinyin_lookup ]
-  dictionary: huma_trad
+  dictionary: tuma
 
 stroke_reverse_lookup:
   __include: luna_pinyin_reverse_lookup
