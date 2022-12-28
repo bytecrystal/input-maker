@@ -87,16 +87,31 @@ for v in code_map.values():
 
 print("简码的重码数: %d" % jm_cm_cnt)
 
-my_re = re.compile(r'[A-Za-z]', re.S)
+my_re = re.compile(r'^[\u4e00-\u9fa5]*[\t][0-9]*$', re.S)
 
 dian_ci = []
 with open('asserts/dian_ci.txt', encoding='utf-8', mode='r') as f:
     for line in f:
         # 如果line中含有字母
-        res = re.findall(my_re, line)
-        if (len(res) <= 0):
+        res = re.match(my_re, line)
+        if (res):
             dian_ci.append(line)
 
 with open('asserts/dian_ci_no_en.txt', encoding='utf-8', mode='w') as f:
     for line in dian_ci:
+        f.write(line)
+
+
+dian_zi_ci = []
+with open('asserts/dian_zici-20180421.txt', encoding='utf-8', mode='r') as f:
+    for line in f:
+        zici, zp = line.strip('\r\n').split('\t')
+        if (int(zp) > 15):
+            # 如果line中含有字母
+            res = re.match(my_re, line)
+            if (res):
+                dian_zi_ci.append(line)
+
+with open('asserts/dian_zi_ci_no_en.txt', encoding='utf-8', mode='w') as f:
+    for line in dian_zi_ci:
         f.write(line)

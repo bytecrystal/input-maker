@@ -4,13 +4,13 @@
 ---
 name: tuma
 version: "1"
-sort: original
+sort: by_weight
 columns:
   - text
   - code
-  - stem
+  - weight
 import_tables:
-  - tuma.phrase
+  # - tuma.phrase
   - tuma.extended
 encoder:
   exclude_patterns:
