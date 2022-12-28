@@ -1,5 +1,6 @@
 我们	kitp
 自己	hzfj
+一个	iyub
 没有	jtru
 中国	vzra
 可以	ckay
@@ -77,7 +78,7 @@
 影响	wjol
 国际	radb
 价格	tuyk
-比赛	lbla
+比赛	lbly
 投资	ktdj
 那么	admx
 研究	qxlw
@@ -1001,7 +1002,7 @@
 据悉	ksmf
 爸爸	fwfw
 足球	mzap
-联赛	pqla
+联赛	pqly
 矛盾	xena
 房子	pkpz
 拍摄	kxkp
@@ -1387,7 +1388,7 @@
 分子	iupz
 考生	vxmc
 空气	lcuq
-决赛	drla
+决赛	drly
 停止	tsgz
 前往	qunf
 天津	ijjd
@@ -1424,7 +1425,7 @@
 有时候	rwt
 支撑	agkf
 出发	diif
-赛季	lavp
+赛季	lyvp
 异常	frfm
 不行	obnr
 工具	cghi
@@ -1717,7 +1718,7 @@
 公民	ixfy
 探索	klal
 地球	hlap
-大赛	jdla
+大赛	jdly
 基因	qhrj
 为止	dsgz
 目光	qmfi
@@ -2204,7 +2205,7 @@
 支出	agdi
 厂家	nclw
 盈利	agvv
-参赛	xjla
+参赛	xjly
 激情	jxhc
 线路	aimk
 提到	kwyv
@@ -2303,7 +2304,7 @@
 奋斗	jsld
 是的	wixj
 难得	ganw
-赛事	laao
+赛事	lyao
 非洲	sfji
 本文	yifw
 早期	waqu
@@ -3121,7 +3122,7 @@
 加盟	yjwu
 办事	siao
 澳门	jlpm
-竞赛	bola
+竞赛	boly
 繁荣	vkrl
 古代	hgpd
 温馨	jwht
@@ -3293,7 +3294,7 @@
 支援	agkf
 债券	tccu
 列入	nvme
-赛车	lagc
+赛车	lygc
 定义	lieg
 善良	cqet
 一向	iylo
@@ -3704,7 +3705,7 @@
 胖子	ujpz
 欺负	qjnq
 帽子	mwpz
-赛场	laha
+赛场	lyha
 批发	klif
 当成	fdid
 收益率	hqf
@@ -3903,7 +3904,7 @@
 下车	gxgc
 商量	stwi
 前天	quij
-寒冷	ladb
+寒冷	lydb
 大楼	jdyf
 附属	dtsm
 汽油	jujs
@@ -5470,7 +5471,7 @@
 留意	wuoe
 活泼	jbji
 从没	vcjt
-韩寒	aala
+韩寒	aaly
 游行	jknr
 简洁	bpjt
 太子	jepz
@@ -6264,7 +6265,7 @@
 油田	jsst
 坦言	hwey
 卡通	bgxc
-寒假	lats
+寒假	lyts
 滞后	jqqo
 统计学	aef
 副作用	otc
@@ -6660,7 +6661,7 @@
 少许	jsew
 白酒	xbjp
 南海	sqjv
-活塞	jbla
+活塞	jbly
 任性	txhm
 兼职	qdpo
 馒头	nwlt
@@ -7037,7 +7038,7 @@
 判定	jvli
 历史性	noh
 英勇	rrxc
-堵塞	hvla
+堵塞	hvly
 古城	hghi
 舌头	bslt
 道具	qhhi
@@ -7978,7 +7979,7 @@
 责任人	ctu
 高明	sowu
 开枪	xkyu
-寒风	lapf
+寒风	lypf
 豆浆	ioqn
 公安厅	iln
 振奋	knjs
@@ -8160,7 +8161,7 @@
 促成	tmid
 遍布	pprm
 查找	ywki
-开赛	xkla
+开赛	xkly
 延安	mglx
 大侠	jdtv
 荧光	rlfi
@@ -8355,7 +8356,7 @@
 大步	jdgj
 无声	hths
 限定	dtli
-山寨	isla
+山寨	isly
 过热	knsu
 刊物	hvwj
 如期	xoqu
@@ -9400,7 +9401,7 @@
 安宁	lxle
 管理员	bao
 这等	fnbh
-赛区	lang
+赛区	lyng
 扰乱	kpbt
 商圈	strc
 理事	abao
@@ -9568,7 +9569,7 @@
 有所不同	rnop
 格子	ykpz
 关口	qjok
-预赛	xela
+预赛	xely
 驻华	cftl
 天子	ijpz
 编织	apao
@@ -9663,7 +9664,7 @@
 吞噬	ijob
 汉族	jgkv
 波音	jgoy
-杯赛	yola
+杯赛	yoly
 道人	qhur
 节点	rdbu
 风筝	pfbn
@@ -9849,7 +9850,7 @@
 成败	idqk
 姐夫	xhvf
 女篮	xnbv
-大寨	jdla
+大寨	jdly
 撰文	kffw
 第十一名	bain
 不善	obcq
@@ -10318,7 +10319,7 @@
 收录	hkdp
 胆囊	uwao
 透支	vaag
-赛程	lavo
+赛程	lyvo
 业已	eyfy
 许愿	ewnx
 纸条	awky
@@ -10527,7 +10528,7 @@
 君主	dmfz
 秘鲁	vevw
 年金	vjxj
-寒冬	lakd
+寒冬	lykd
 位子	tbpz
 作坊	tmhk
 从严	vcem
@@ -10606,7 +10607,7 @@
 电讯	wtel
 散落	yuik
 光头	filt
-栓塞	yula
+栓塞	yuly
 表哥	cocc
 规程	vkvo
 使出	tgdi
@@ -11202,7 +11203,7 @@
 成形	idxf
 切身利益	yyvq
 南美	sqcj
-阻塞	dhla
+阻塞	dhly
 输血	gdmp
 希特勒	gwa
 盘子	oppz
@@ -12790,7 +12791,7 @@
 眨眼	qmqt
 掠过	kskn
 可可	ckck
-赛道	laqh
+赛道	lyqh
 捷径	kinm
 墨镜	hhxo
 民生银行	fmxn
@@ -13481,7 +13482,7 @@
 睿智	blvo
 变速箱	syb
 浓烈	jmnv
-严寒	emla
+严寒	emly
 晒晒	wpwp
 先例	wltn
 再者	apvz
@@ -14285,7 +14286,7 @@
 通路	xcmk
 告终	woak
 红糖	acfm
-梗塞	yila
+梗塞	yily
 勾勒	jxas
 西宁	pxle
 收纳	hkac
@@ -14892,7 +14893,7 @@
 鼻血	hsmp
 旭日	wwwr
 打斗	keld
-闭塞	pkla
+闭塞	pkly
 血脉	mpue
 蜕变	vdsg
 岁末	innm
@@ -15032,7 +15033,7 @@
 南朝鲜	sav
 恍惚	hfhj
 文件夹	ftv
-复赛	vwla
+复赛	vwly
 重金	bbxj
 战事	biao
 新闻中心	bpve
@@ -15046,9 +15047,9 @@
 足额	mzlk
 通红	xcac
 父女	ffxn
-赛会	laup
+赛会	lyup
 山脚	isuh
-强赛	gola
+强赛	goly
 伟人	tuur
 冬眠	kdqf
 挫败	kvqk
@@ -15375,7 +15376,7 @@
 施压	klnh
 滑动	jips
 遮挡	mrkf
-禁赛	ybla
+禁赛	ybly
 老远	vlqn
 焦距	aumn
 隐含	dnbo
@@ -15636,7 +15637,7 @@
 爆满	swjr
 花椒	rtyb
 职工们	pct
-球赛	apla
+球赛	aply
 应运而生	mpqm
 柔美	xecj
 裁判员	ajo
@@ -16585,7 +16586,7 @@
 盛装	idqh
 淡薄	jsip
 医用	nvcy
-赛制	lawp
+赛制	lywp
 重塑	bbqu
 民事诉讼	faee
 林某	ylri
@@ -16654,7 +16655,7 @@
 分身	iuys
 烟囱	srlk
 氨基	ulqh
-要塞	pxla
+要塞	pxly
 必要条件	epkt
 大众化	jut
 火化	shtl
@@ -17174,7 +17175,7 @@
 主将	fzqn
 窘迫	lmxn
 可恨	ckht
-塞车	lagc
+塞车	lygc
 练功	agcs
 淡泊	jsjx
 坐骑	vhcj
@@ -17869,7 +17870,7 @@
 长者	pcvz
 病态	mije
 付诸	tkev
-赛马	lacm
+赛马	lycm
 入冬	mekd
 不平凡	ohp
 摆摊	kikg
@@ -18938,7 +18939,7 @@
 剧毒	shcm
 针锋相对	xxyg
 中级法院	vajd
-心寒	exla
+心寒	exly
 溜走	jugz
 手忙脚乱	khub
 烙印	skwd
@@ -19430,7 +19431,7 @@
 公开信	ixt
 西藏自治区	prhn
 化痰	tlms
-寒光	lafi
+寒光	lyfi
 豆制品	iwo
 治愈率	jdf
 农垦	moth
@@ -19537,7 +19538,7 @@
 全权	uayg
 湘江	jyjc
 云雾	pyqk
-赛跑	lamj
+赛跑	lymj
 止不住	got
 沉沦	jlju
 洋房	jcpk
@@ -19939,7 +19940,7 @@
 皮层	gpsp
 首当其冲	qfqd
 鼎盛	qbid
-寒暄	lawl
+寒暄	lywl
 虚实	pell
 相得益彰	ynqo
 畅所欲言	wnie
@@ -19999,7 +20000,7 @@
 善解人意	cnuo
 奢求	jvpe
 任志强	thg
-御寒	nvla
+御寒	nvly
 不灵	obds
 切切	yuyu
 烧掉	sikb
@@ -20068,7 +20069,7 @@
 壮汉	qhjg
 人世间	uxp
 大屠杀	jsg
-防寒	dkla
+防寒	dkly
 武夷山	iji
 琳琅满目	aajq
 必然性	enh
@@ -20737,7 +20738,7 @@
 断奶	ftxa
 委任	vxtx
 慢点	hwbu
-寒气	lauq
+寒气	lyuq
 谢幕	eysm
 歌会	ccup
 肉鸡	cugm
@@ -21568,7 +21569,7 @@
 不好过	oxk
 罗志祥	ihu
 中央情报局	vrhs
-村寨	ykla
+村寨	ykly
 飞鸟	ldmn
 稀疏	vgvg
 憋屈	dksd
@@ -21684,7 +21685,7 @@
 计算器	ebu
 头骨	ltig
 绝妙	anxj
-风寒	pfla
+风寒	pfly
 滥用职权	jcpy
 永生	epmc
 点菜	burf
@@ -22060,7 +22061,7 @@
 文艺界	frs
 五花肉	krc
 弧度	glmr
-赛艇	laox
+赛艇	lyox
 百万富翁	qqli
 胆识	uweo
 过街	knnk
@@ -22535,7 +22536,7 @@
 财产权	qby
 井口	ajok
 火鸡	shgm
-伤寒	tvla
+伤寒	tvly
 易经	wjam
 朝代	aapd
 选修课	wte
@@ -23401,7 +23402,7 @@
 异型	frxv
 没好气	jxu
 开山	xkis
-马赛	cmla
+马赛	cmly
 草皮	rwgp
 云彩	pyfy
 挑拨	kdki
@@ -23964,7 +23965,7 @@
 踉跄	memu
 肚脐	uhuf
 流变学	jsf
-塞黑	lahh
+塞黑	lyhh
 剖面	boqi
 费斯切拉	gqyk
 瘦瘦	mxmx
@@ -23994,7 +23995,7 @@
 合肥晚报	duwk
 洁癖	jtms
 小精灵	jfd
-初赛	uula
+初赛	uuly
 嬷嬷	xmxm
 堤防	hwdk
 船体	opty
@@ -24074,7 +24075,7 @@
 德才兼备	nkqk
 通体	xcty
 刑事诉讼	xaee
-寒流	lajf
+寒流	lyjf
 唾沫	objn
 以权谋私	ayev
 有的放矢	rxkv
@@ -24439,7 +24440,7 @@
 亲昵	byws
 侨民	tmfy
 光复	fivw
-塞满	lajr
+塞满	lyjr
 请见	eckj
 明火	wush
 拓跋	kqmi
@@ -25053,7 +25054,7 @@
 滋事	jqao
 数以万计	faqe
 老板们	vyt
-耳塞	pela
+耳塞	pely
 保送	toqj
 下坡	gxhg
 埋没	hbjt
@@ -25186,7 +25187,7 @@
 雪中送炭	qvqi
 李小萌	yjr
 盎然	rpne
-塞班	laav
+塞班	lyav
 名正言顺	niei
 狗仔队	wtd
 三叶草	mor
@@ -25488,7 +25489,7 @@
 脸孔	udpt
 个人赛	uul
 承重	vpbb
-高寒	sola
+高寒	soly
 徐清凡	njp
 摇动	kfps
 鼓足	tqmz
@@ -26040,7 +26041,7 @@
 同类型	pfx
 开眼	xkqt
 论据	euks
-塞族	lakv
+塞族	lykv
 高祖	souh
 总厂	donc
 死心塌地	nehh
@@ -28159,7 +28160,7 @@
 冀州	dliz
 师生们	vmt
 余震	dyqn
-赛迪	lasn
+赛迪	lysn
 矿长	qmpc
 一怒之下	ixlg
 董建华	rdt
@@ -28403,7 +28404,7 @@
 除草	ddrw
 纹路	afmk
 方剂	kffv
-小寒	jxla
+小寒	jxly
 种花	vvrt
 劲舞	mcvn
 力士	slhs
@@ -28646,7 +28647,7 @@
 工人党	cuf
 一鼓作气	ittu
 改称	fkvn
-寒心	laex
+寒心	lyex
 休战	tybi
 十面埋伏	aqht
 特奥	whlf
@@ -29096,7 +29097,7 @@
 油管	jsbl
 篮球赛	bal
 欲求	itpe
-搪塞	kmla
+搪塞	kmly
 报效	kdff
 灭掉	iskb
 酬金	pixj
@@ -29813,9 +29814,9 @@
 咕噜	ohov
 汉唐	jgmd
 江干区	jhn
-寒酸	lapx
+寒酸	lypx
 四通	rlxc
-寨子	lapz
+寨子	lypz
 洋芋	jcrh
 毛驴	fmcp
 李毅中	ybv
@@ -30609,7 +30610,7 @@
 代沟	pdjj
 品性	ouhm
 第一流	bij
-填塞	hala
+填塞	haly
 嘉禾	tqvh
 市场状况	fhqd
 凑近	dcrn
@@ -30772,7 +30773,7 @@
 夙愿	pnnx
 铺装	xpqh
 休憩	tybh
-寒潮	laja
+寒潮	lyja
 王琳	away
 爪牙	lzie
 远非	qnsf
@@ -30998,7 +30999,7 @@
 一堆人	ihu
 反比	nglb
 违犯	udwf
-塞外	lanb
+塞外	lynb
 锦衣卫	xfd
 不死心	one
 骰子	itpz
@@ -31550,7 +31551,7 @@
 砸烂	qnsq
 自行车赛	hngl
 礼部	utbo
-赛欧	lang
+赛欧	lyng
 不敢当	ovf
 索罗斯	aiq
 鬼混	xljw
@@ -31633,7 +31634,7 @@
 揉搓	kxkc
 歌咏	ccoe
 父王	ffaw
-赛况	lado
+赛况	lydo
 绞痛	afmx
 治军	jxlg
 优惠价	tht
@@ -32026,7 +32027,7 @@
 明令	wube
 史迪	ogsn
 栈道	yiqh
-凌寒	dhla
+凌寒	dhly
 滑倒	jity
 美俄	cjtk
 囚徒	rung
@@ -32050,7 +32051,7 @@
 逆风	depf
 赵子龙	gpg
 转租	guvh
-塞纳	laac
+塞纳	lyac
 悄声	hfhs
 造句	wojo
 长波	pcjg
@@ -32954,7 +32955,7 @@
 万水千山	qpbi
 拉闸	kbps
 对折	gkkr
-贫寒	iula
+贫寒	iuly
 土家族	hlk
 亚洲开发银行	ejxn
 芍药	rjra
@@ -36412,7 +36413,7 @@
 李嘉欣	ytr
 李霄鹏	yqu
 天安	ijlx
-散寒	yula
+散寒	yuly
 深更半夜	jijf
 军品	lgou
 监察委员	vlvo
@@ -36425,7 +36426,7 @@
 腊梅	uyyv
 蟋蟀	vmvf
 先声夺人	whju
-耐寒	qpla
+耐寒	qply
 所以然	nan
 过天	knij
 午时	wwwk
@@ -36981,7 +36982,7 @@
 童天罡	bii
 有悖于	rhh
 秃子	vppz
-寒战	labi
+寒战	lybi
 心魄	exxx
 浩荡	jwia
 柏油	yxjs
@@ -37444,7 +37445,7 @@
 拼尽全力	kcus
 十堰	ashn
 不一而足	oiqm
-萧寒	rdla
+萧寒	rdly
 两则	alqv
 忽然之间	jnlp
 檀香	yfvw
@@ -37538,7 +37539,7 @@
 皎洁	xfjt
 棉纺	yxak
 酸涩	pxju
-抗寒	kfla
+抗寒	kfly
 南岸区	sin
 彭加木	tyy
 珊瑚礁	aaq
@@ -37814,7 +37815,7 @@
 体无完肤	thlu
 刘春明	fcw
 空闲时间	lpwp
-陈寒	dgla
+陈寒	dgly
 贺国强	yrg
 发电站	iwb
 搞垮	kshj
@@ -38281,9 +38282,9 @@
 一辆辆	igg
 由头	sylt
 五角星	knw
-塞入	lame
+塞入	lyme
 新名词	bne
-出赛	dila
+出赛	dily
 循声	nnhs
 第二十条	buak
 锈蚀	xvnv
@@ -38736,7 +38737,7 @@
 相劝	yxgs
 来料加工	nfyc
 回防	rodk
-塞上	labi
+塞上	lybi
 危在旦夕	ndwn
 出租率	dvf
 律动	ndps
@@ -39065,7 +39066,7 @@
 丰腴	sfux
 陈浩民	djf
 闽南语	pse
-华赛	tlla
+华赛	tlly
 鱼池	vyjl
 说说笑笑	eebb
 泼墨	jihh
@@ -39086,7 +39087,7 @@
 警察局长	rlsp
 配对赛	pgl
 陈赓	dgmd
-胆寒	uwla
+胆寒	uwly
 育婴	fuqq
 列车长	ngp
 容光焕发	lfsi
@@ -39681,7 +39682,7 @@
 乳突	fplj
 微生物学	cmwf
 酸枣	pxyp
-塞住	latf
+塞住	lytf
 置业者	iev
 凶神恶煞	guen
 大年夜	jvf
@@ -39973,7 +39974,7 @@
 费迪南德	gssn
 黄山市	yif
 糖化	fmtl
-寒热	lasu
+寒热	lysu
 太上皇	jbx
 达达	jnjn
 马氏	cmwy
@@ -40058,7 +40059,7 @@
 华尔兹	tnq
 行得通	nnx
 老赖	vlyo
-寒夜	laft
+寒夜	lyft
 知趣	vogp
 索伦	altu
 金鹰	xjmt
@@ -40184,7 +40185,7 @@
 行侠	nrtv
 朴有天	yri
 荸荠	rarf
-苦寒	rhla
+苦寒	rhly
 云梦	pyyn
 蛀虫	vfvc
 望而生畏	fqms
@@ -41083,7 +41084,7 @@
 胎动	uxps
 没来由	jns
 八股	ibut
-大寒	jdla
+大寒	jdly
 陈潇	dgjr
 平片	hdbp
 暗暗的	wwx
@@ -41284,7 +41285,7 @@
 婢女	xxxn
 短兵相接	vryk
 苍南	rusq
-营寨	rlla
+营寨	rlly
 剪接	qukb
 执政者	siv
 车贴	gcqb
@@ -41300,7 +41301,7 @@
 地震台	hqx
 于都	hyvd
 李浩	ypjw
-寒颤	lafi
+寒颤	lyfi
 没法子	jjp
 农业社会	meuu
 俞佩玉	dta
@@ -41470,7 +41471,7 @@
 各执一词	ksie
 肺静脉	ucu
 只消	oijf
-寒暑	lawv
+寒暑	lywv
 必死无疑	enhl
 厦门岛	npm
 资治通鉴	djxv
@@ -41918,7 +41919,7 @@
 水蛭	psvy
 丙二醇	iup
 格拉斯哥	ykqc
-谢寒	eyla
+谢寒	eyly
 布吉	rmtj
 蹄子	mbpz
 兴安	filx
@@ -42138,7 +42139,7 @@
 板鸭	ynsm
 启发式	pii
 违例	udtn
-苗寨	rsla
+苗寨	rsly
 王猛	awwp
 堂姐	fhxh
 空中楼阁	lvyp
@@ -42561,7 +42562,7 @@
 失踪者	vmv
 抒写	kxlr
 许天	ewij
-寒门	lapm
+寒门	lypm
 安萨里	lrb
 控制点	kwb
 歪斜	oidy
@@ -42792,7 +42793,7 @@
 李云迪	yps
 愚公	spix
 鱼干	vyhg
-边塞	snla
+边塞	snly
 王新欣	abr
 耀武扬威	fiki
 叶家	oalw
@@ -43786,7 +43787,7 @@
 沧浪	juje
 青羊区	ccn
 邦德	sdna
-棋赛	yqla
+棋赛	yqly
 变色龙	sng
 班轮	avgu
 攻击机	chy
@@ -44250,7 +44251,7 @@
 布鲁斯	rvq
 乙状结肠	lqau
 第二只	buo
-寒凉	lads
+寒凉	lyds
 舆论界	xes
 四声	rlhs
 水发	psif
@@ -45932,7 +45933,7 @@
 西柏坡	pyh
 朝鲜中央通讯社	avvu
 加拉加斯	ykyq
-赛过	lakn
+赛过	lykn
 楚雄	yvrx
 可心	ckex
 衣料	fofl
@@ -46300,7 +46301,7 @@
 李明峰	ywi
 查抄	ywkj
 泰迪	cpsn
-恶寒	eela
+恶寒	eely
 走南闯北	gspd
 药剂师	rfv
 隔离区	dfn
@@ -46532,7 +46533,7 @@
 徐一凡	nip
 道法	qhjh
 游园会	jru
-驱寒	cnla
+驱寒	cnly
 方能	kfxu
 袭扰	gfkp
 海湾型	jjx
@@ -47227,7 +47228,7 @@
 瘾君子	mdp
 叙说	dyed
 以不变应万变	aoss
-出塞	dila
+出塞	dily
 汤姆斯杯	jxqy
 失却	vshx
 呼伦贝尔	otqn
@@ -48587,7 +48588,7 @@
 课本费	eyg
 回函	rovp
 土著人	hru
-瓶塞	dxla
+瓶塞	dxly
 粤港澳	ljj
 报告人	kwu
 起始日	gxw
@@ -48605,7 +48606,7 @@
 改任	fktx
 不共戴天	oyai
 淮安市	jlf
-埃塞	hxla
+埃塞	hxly
 嗜酒	ovjp
 强词夺理	geja
 熟记	swef
@@ -49910,7 +49911,7 @@
 巴拉圭队	wkkd
 八佰伴	itt
 王文华	aft
-赛扬	laka
+赛扬	lyka
 眼见为实	qkdl
 巡回展	irs
 光面	fiqi
@@ -50201,7 +50202,7 @@
 断崖	ftin
 令人神往	buun
 立足之地	bmlh
-语塞	ekla
+语塞	ekly
 平型关	hxq
 意思意思	osos
 快人快语	huhe
@@ -51043,7 +51044,7 @@
 痛饮	mxnj
 陈霖	dgqy
 矫枉过正	vyki
-受寒	fgla
+受寒	fgly
 咎由自取	kshp
 掐断	knft
 康维	mdaa
@@ -51185,7 +51186,7 @@
 部首	boqh
 颓丧	vpaq
 朔方	dekf
-塞北	ladl
+塞北	lydl
 剪力	qusl
 柳江	ywjc
 穿云裂石	lpnq
@@ -51209,7 +51210,7 @@
 殷商	ndst
 刘华清	ftj
 目镜	qmxo
-西塞	pxla
+西塞	pxly
 金融家	xil
 总结性	dah
 张胜	gpum
@@ -52014,7 +52015,7 @@
 延绵	mgax
 复发者	viv
 音乐史	owo
-塞子	lapz
+塞子	lypz
 政和	igvo
 坐大	vhjd
 挑灯	kdse
@@ -52093,7 +52094,7 @@
 最高位	wst
 无所不知	hnov
 咧咧	onon
-奥赛	lfla
+奥赛	lfly
 义子	egpz
 连州	gniz
 不察	oblg
@@ -53061,7 +53062,7 @@
 贵族们	vkt
 外家	nblw
 田宏武	sli
-何塞	tcla
+何塞	tcly
 罗曼蒂克	iwrh
 轻手轻脚	gkgu
 泰兴	cpfi
@@ -53113,7 +53114,7 @@
 勤劳勇敢	rrxv
 赌王	qvaw
 燃烧弹	ssg
-义赛	egla
+义赛	egly
 溧阳	jpdw
 保育员	tfo
 哆哆嗦嗦	oooo
@@ -53932,7 +53933,7 @@
 心甘	exri
 通邮	xcsd
 安检员	lyo
-寒衣	lafo
+寒衣	lyfo
 预言家	xel
 华立	tlbl
 试销	eixf
@@ -54255,7 +54256,7 @@
 鄞州区	rin
 稍嫌	vfxq
 支边	agsn
-寒秋	lavs
+寒秋	lyvs
 杜淳	yhjs
 沈琼	jmas
 南钢	sqxp
@@ -55837,7 +55838,7 @@
 民家	fylw
 维克多	ahn
 大恩大德	jrjn
-拥塞	kcla
+拥塞	kcly
 结息	athe
 韩寓群	ald
 惠山	hwis
@@ -56303,7 +56304,7 @@
 花边新闻	rsbp
 号声	oxhs
 治世	jxxs
-饥寒	npla
+饥寒	nply
 富华	lotl
 反证	ngei
 库奇马	mjc
@@ -57538,7 +57539,7 @@
 翻卷	mscf
 瓦利	hwvv
 佩里	tpbl
-张骞	gpla
+张骞	gply
 天真活泼	iajj
 全年级	uva
 老楼	vlyf
@@ -58129,7 +58130,7 @@
 格桑	ykgg
 三唑	msov
 三门峡市	mpif
-寒舍	ladh
+寒舍	lydh
 椒江	ybjc
 刚劲	pgmc
 安西奇	lpj
@@ -58446,7 +58447,7 @@
 欧洲俱乐部	njtb
 赤贫	hsiu
 刘恒	fvhi
-赛格	layk
+赛格	lyyk
 孙兴	pjfi
 黏性	vphm
 见新	kjby
@@ -58965,7 +58966,7 @@
 松花	yirt
 主任科员	ftvo
 杨卫泽	ydj
-张謇	gpla
+张謇	gply
 罔顾	pqnf
 轻扬	gmka
 章句	oajo
@@ -59009,7 +59010,7 @@
 抢镜头	kxl
 治厂	jxnc
 并流	dxjf
-充塞	flla
+充塞	flly
 蜜柚	leys
 李远哲	yqk
 铁锨	xvxr

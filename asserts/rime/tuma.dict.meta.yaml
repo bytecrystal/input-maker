@@ -11,11 +11,11 @@ columns:
   - stem
 import_tables:
   - tuma.phrase
-  - tuma.extend
+  - tuma.extended
 encoder:
   exclude_patterns:
-    - '^[a-z]$' # 一简不参与造词
-    - '[^a-z]'
+    # - '^[a-z]$' # 一简不参与造词
+    - '^z.*$'
   rules:
     - length_equal: 2
       formula: "AaAbBaBb"

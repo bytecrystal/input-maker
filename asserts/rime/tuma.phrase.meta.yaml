@@ -7,7 +7,5 @@ use_preset_vocabulary: false
 sort: original
 columns:
   - text
-  - weight
   - code
-  - stem
 ...

@@ -105,9 +105,9 @@ emoji_suggestion:
     - abc
     - luna_pinyin_lookup
 
-abc_segmentor:
-  extra_tags:
-    - luna_pinyin
+#abc_segmentor:
+#  extra_tags:
+#    - luna_pinyin
 
 # 用于混输
 luna_pinyin:

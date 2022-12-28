@@ -21,22 +21,31 @@ with open('../asserts/cp.txt',encoding='utf-8') as t:
         ci_list.append(ci)
         ci_map[ci] = cp
 
+dian_ci_list = []
+with open('../asserts/dian_ci_no_en.txt',encoding='utf-8') as t:
+    for line in t.readlines():
+        dian_ci_list.append(line.strip('\r\n'))
+
 def build_ci_by_full_code(full_code_map):
     ci_map = {}
     for ci in ci_list:
         lc = len(ci)
         if (lc == 2):
-            # 一个字取两码：A1a1B1b1
-            ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
+            if (ci[0] in full_code_map and ci[1] in full_code_map):
+                # 一个字取两码：A1a1B1b1
+                ci_map[ci] = full_code_map[ci[0]][:2] + full_code_map[ci[1]][:2]
         elif (lc == 3):
-            # 每个字取首码
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
-            # 3字词是前两字第一码 + 第三字前两码
-            # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
+            if (ci[0] in full_code_map and ci[1] in full_code_map and ci[2] in full_code_map):
+                # 每个字取首码
+                ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0]
+                # 3字词是前两字第一码 + 第三字前两码
+                # ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2]
         elif (lc == 4):
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
+            if (ci[0] in full_code_map and ci[1] in full_code_map and ci[2] in full_code_map and ci[3] in full_code_map):
+                ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0]
         elif (lc > 4):
-            ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
+            if (ci[0] in full_code_map and ci[1] in full_code_map and ci[2] in full_code_map and ci[3] in full_code_map):
+                ci_map[ci] = full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0]
     # for char, code in full_code:
     return ci_map
 
@@ -61,7 +70,7 @@ with open('../asserts/rime/tuma.phrase.meta.yaml') as tumaDictPhraseMetaFile:
     tumaDictPhraseMeta = tumaDictPhraseMetaFile.read()
 with open('../asserts/rime/tuma.words.meta.yaml') as tumaDictWordsMetaFile:
     tumaDictWordsMeta = tumaDictWordsMetaFile.read()
-with open('../asserts/rime/tuma.extend.dict.meta.yaml') as tumaExtendDictFile:
+with open('../asserts/rime/tuma.extended.dict.meta.yaml') as tumaExtendDictFile:
     tumaExtendDictMeta = tumaExtendDictFile.read()
 #
 # with open('assets/brevity.dat') as brevityFile:
@@ -153,23 +162,35 @@ with open('build/tuma.dict.yaml', 'w') as dictFile:
 ciMap = build_ci_by_full_code(fullCodeMap)
 with open('build/tuma.phrase.dict.yaml', 'w') as phrasesFile:
     phrasesFile.write(tumaDictPhraseMeta)
-    # for kv in ciMap.items():
-    #     phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
-    for kv in ci_map.items():
+    for kv in ciMap.items():
         phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
+    # for kv in ci_map.items():
+    #     phrasesFile.write('%s\t%s\n' % (kv[0], kv[1]))
+    # i = len(dian_ci_list) + 100000
+    # for line in dian_ci_list:
+    #     i -= 1
+    #     phrasesFile.write('%s\t%s\n' % (line, i))
 
-with open('build/tuma.extend.dict.yaml', 'w') as extendDictFile:
+with open('build/tuma.extended.dict.yaml', 'w') as extendDictFile:
     extendDictFile.write(tumaExtendDictMeta)
 
 with open('build/兔码.txt', 'w') as ziCiFile:
+    for char, code in singleBriefCodeMap.items():
+        ziCiFile.write('%s\t%s\n' % (char, code))
     for char, code in briefCode:
         ziCiFile.write('%s\t%s\n' % (char, code))
     for kv in ciMap.items():
         ziCiFile.write('%s\t%s\n' % (kv[0], kv[1]))
 
 with open('build/bm.txt', 'w') as ziCiFile:
+    for char, code in singleBriefCodeMap.items():
+        ziCiFile.write('%s\t%s\n' % (char, code))
     for char, code in briefCode:
         ziCiFile.write('%s %s\n' % (code, char))
+    for kv in ciMap.items():
+        ziCiFile.write('%s %s\n' % (kv[1], kv[0]))
+
+with open('build/ci.txt', 'w') as ziCiFile:
     for kv in ciMap.items():
         ziCiFile.write('%s %s\n' % (kv[1], kv[0]))
 
@@ -223,6 +244,6 @@ with open('build/tuma.dict.yaml', 'a') as dictFile:
     for char, code in singleBriefCodeList:
         dictFile.write('%s\t%s\t%s\n' % (char, code, fullCodeMap[char]))
     for char, code in newBriefCodeList:
-        dictFile.write('%s\t%s\n' % (char, code))
+        dictFile.write('%s\t%s\t%s\n' % (char, code, fullCodeMap[char]))
     # for char,code in ciCodeList:
     #     dictFile.write('%s\t%s\n' % (char, code))

@@ -1,5 +1,6 @@
 # 读取keymap_group.json
 import json
+import re
 
 with open('data/keymap_group.json', encoding='utf-8', mode='r') as f:
     keymap_group = json.load(f)
@@ -86,3 +87,16 @@ for v in code_map.values():
 
 print("简码的重码数: %d" % jm_cm_cnt)
 
+my_re = re.compile(r'[A-Za-z]', re.S)
+
+dian_ci = []
+with open('asserts/dian_ci.txt', encoding='utf-8', mode='r') as f:
+    for line in f:
+        # 如果line中含有字母
+        res = re.findall(my_re, line)
+        if (len(res) <= 0):
+            dian_ci.append(line)
+
+with open('asserts/dian_ci_no_en.txt', encoding='utf-8', mode='w') as f:
+    for line in dian_ci:
+        f.write(line)
