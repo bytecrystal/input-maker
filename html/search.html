@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        .container {
+            margin-top: 50px;
+        }
+
+        .item {
+            height: 30px;
+            font-size: 17px;
+        }
+
+        .mb {
+            width: 100%;
+            height: 100%;
+            border: 1px solid #ccc;
+            padding: 10px;
+            overflow: auto;
+            text-align: center;
+        }
+
+        .mb img {
+            width: 90%;
+            height: auto;
+        }
+
+    </style>
+</head>
+<body>
+<div class="container" id="app">
+    <div class="row">
+        <form @submit.prevent>
+            <div class="form-group">
+                <label for="searchArea"></label>
+                <textarea class="form-control" name="" v-model="keywords" id="searchArea" cols="30" rows="10"
+                          @keyup.stop.prevent.enter="searchCode"></textarea>
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" @click="searchCode">搜索</button>
+            </div>
+            <div class="form-group">
+                <div class="item">
+                    <span>汉字:</span>
+                    <span id="zi">{{ zi }}</span>
+                </div>
+                <div class="item">
+                    <span>编码：</span>
+                    <span id="code">{{ code }}</span>
+                </div>
+                <div class="item">
+                    <span>拼音：</span>
+                    <span id="py">{{ py }}</span>
+                </div>
+                <div class="item">
+                    <span>拆分：</span>
+                    <span id="split">{{ split }}</span>
+                </div>
+            </div>
+        </form>
+        <div class="mb">
+            <img src="./字根键位图.png" alt="">
+        </div>
+    </div>
+</div>
+
+<script src="./js/vue.min.js"></script>
+<script>
+    const vm = new Vue({
+        el: '#app',
+        data: {
+            charCodeMap: {},
+            charSplitMap: {},
+            charPyMap: {},
+            keywords: '',
+            zi: '',
+            code: '',
+            py: '',
+            split: '',
+            view: {
+                '': '<青上>',
+                '': '<着上>',
+                '': '<美上>',
+                '': '<反上>',
+                '': '<有上>',
+                '': '<失上>',
+                '': '<罕上>',
+                '': '<甬上>',
+                '': '<告上>',
+                '': '<昔上>',
+                '': '<司外>',
+                '': '<看上>',
+                '': '<卷上>',
+                '': '<竹头>',
+                '': '<角上>',
+                '': '<足旁>',
+                '': '<仓下>',
+                '': '<慕下>',
+                '': '<当上>',
+                '': '<尝上>',
+                '': '<春上>',
+            }
+        },
+        created() {
+            this.initBm();
+            this.initSplit();
+            this.initPy();
+        },
+        methods: {
+            async initBm() {
+                const res = await fetch('../rime/build/bm.txt');
+                const data = await res.text();
+                let charCode = data.split("\r\n");
+                let charCodeMap = {};
+                for (let i = 0; i < charCode.length; i++) {
+                    let c = charCode[i].split("\t");
+                    let zi = c[0];
+                    charCodeMap[zi] = c[1];
+                }
+                this.charCodeMap = charCodeMap;
+                // console.log(charCode);
+                // console.log(data);
+            },
+            async initSplit() {
+                const res = await fetch('../rime/build/opencc/division.txt');
+                const data = await res.text();
+                let charCode = data.split("\r\n");
+                let charSplitMap = {};
+                for (let i = 0; i < charCode.length; i++) {
+                    let c = charCode[i].split("\t");
+                    let zi = c[0];
+                    let split = c[1];
+                    if (split) {
+                        for (let j = 0; j < split.length; j++) {
+                            let s = split[j];
+                            if (s in this.view) {
+                                split = split.replace(s, this.view[s]);
+                            }
+                        }
+                    }
+                    charSplitMap[zi] = split;
+                }
+                this.charSplitMap = charSplitMap;
+            },
+            async initPy() {
+                const res = await fetch('../data/char_py.txt');
+                const data = await res.text();
+                let charCode = data.split("\r\n");
+                let charPyMap = {};
+                for (let i = 0; i < charCode.length; i++) {
+                    let c = charCode[i].split("\t");
+                    let zi = c[0];
+                    charPyMap[zi] = c[1];
+                }
+                this.charPyMap = charPyMap;
+            },
+            searchCode() {
+                let keywords = this.keywords;
+                let charCodeMap = this.charCodeMap;
+                this.zi = keywords.trim()
+                this.code = charCodeMap[this.zi];
+                if (this.zi.length === 1) {
+                    this.split = this.charSplitMap[this.zi];
+                    this.py = this.charPyMap[this.zi];
+                }
+            }
+        }
+    })
+</script>
+</body>
+</html>

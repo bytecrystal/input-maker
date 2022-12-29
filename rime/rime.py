@@ -202,9 +202,9 @@ with open('build/bm.txt', 'w') as ziCiFile:
     for char, code in singleBriefCodeMap.items():
         ziCiFile.write('%s\t%s\n' % (char, code))
     for char, code in briefCode:
-        ziCiFile.write('%s %s\n' % (code, char))
+        ziCiFile.write('%s\t%s\n' % (char, code))
     for kv in ciMap.items():
-        ziCiFile.write('%s %s\n' % (kv[1], kv[0]))
+        ziCiFile.write('%s\t%s\n' % (kv[0], kv[1]))
 
 with open('build/ci.txt', 'w') as ziCiFile:
     for kv in ciMap.items():
