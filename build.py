@@ -13,7 +13,7 @@ with open('data/new_keymap.txt', encoding='utf-8', mode='r') as keymapFile:
         component = arr[0]
         key = arr[1]
         componentKey[component] = key
-        if (len(arr) < 3):
+        if len(arr) < 3:
             componentName[component] = component
         else:
             componentName[component] = arr[2]
@@ -29,13 +29,13 @@ with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
         str_small_stroke = ''
         str_big_stroke = ''
         l = len(stroke)
-        if (l >= 3):
+        if l >= 3:
             str_small_stroke += small_key_map[stroke[0]] + small_key_map[stroke[1]] + small_key_map[stroke[2]]
             # str_big_stroke += big_keymap[stroke[0]] + big_keymap[stroke[1]] + big_keymap[stroke[2]]
-        elif (l == 2):
+        elif l == 2:
             str_small_stroke += small_key_map[stroke[0]] + small_key_map[stroke[1]] * 2
             # str_big_stroke += big_keymap[stroke[0]] + big_keymap[stroke[1]] * 2
-        elif (l == 1):
+        elif l == 1:
             str_small_stroke += small_key_map[stroke[0]] * 3
             # str_big_stroke += big_keymap[stroke[0]] * 3
         stroke_arr_small[arr[0]] = str_small_stroke
@@ -63,7 +63,6 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
         char, py = line.strip('\r\n').split('\t')
         char_py[char] = py
 
-
 # char_py_last = {}
 # # 读取字-拼音
 # with open('data/char_py_last.txt', encoding='utf-8', mode='r') as f:
@@ -77,6 +76,8 @@ with open('data/char_py_first.txt', encoding='utf-8', mode='r') as pinyinFile:
 # 3. 选取的字根依次编码后为 1 码，则补拼音首字母和末字母。例：一 = 【一】 = 【t】= tyi 。
 
 stroke_zm = {'1': '一', '2': '丨', '3': '丿', '4': '丶', '5': '乛'}
+
+
 def build_full_code(component_k, decomposition_lines):
     fullCode = []
     full_code_map = {}
@@ -91,7 +92,7 @@ def build_full_code(component_k, decomposition_lines):
             qm = c1 + c2 + c3 + py[0]
             fullCode.append((char, qm))
             full_code_map[char] = qm
-        elif (s2):
+        elif s2:
             c1 = component_k[s1]
             c2 = component_k[s2]
             # c3 = py[0]
@@ -99,13 +100,13 @@ def build_full_code(component_k, decomposition_lines):
             qm = c1 + c2 + c3
             fullCode.append((char, qm))
             full_code_map[char] = qm
-        elif (s1):
+        elif s1:
             c1 = component_k[s1]
             c4 = component_k[stroke_zm[stroke_char[char]]]
             qm = c1 + py + c4
             fullCode.append((char, qm))
             full_code_map[char] = qm
-    return (fullCode, full_code_map)
+    return fullCode, full_code_map
 
 
 small_key = {'a', 'e', 'i', 'o', 'u'}
@@ -122,13 +123,13 @@ def build_brief_code(fullCode):
         code_3 = code[:3]
         # code_4 = code[:4]
         # code_5 = code[:5]
-        if (code_1 not in c):
+        if code_1 not in c:
             c[code_1] = 1
             brief_code.append((char, code_1))
-        elif (code_2 not in c):
+        elif code_2 not in c:
             c[code_2] = 1
             brief_code.append((char, code_2))
-        elif (code_3 not in c):
+        elif code_3 not in c:
             c[code_3] = 1
             brief_code.append((char, code_3))
         # elif (code_4 not in c):
@@ -142,6 +143,7 @@ def build_brief_code(fullCode):
     # return fullCode
     return brief_code
 
+
 def get_brief_code(full_code):
     bf_code = []
     c = {}
@@ -152,13 +154,13 @@ def get_brief_code(full_code):
         code_3 = code[:3]
         # code_4 = code[:4]
         # code_5 = code[:5]
-        if (code_1 not in c):
+        if code_1 not in c:
             c[code_1] = 1
             bf_code.append((char, code_1))
-        elif (code_2 not in c):
+        elif code_2 not in c:
             c[code_2] = 1
             bf_code.append((char, code_2))
-        elif (code_3 not in c):
+        elif code_3 not in c:
             c[code_3] = 1
             bf_code.append((char, code_3))
         # elif (code_4 not in c):
@@ -241,19 +243,19 @@ xzgrzh = ['aa', 'ac', 'ad', 'ae', 'aq', 'as', 'aw', 'ax', 'az', 'ca', 'cq', 'cz'
 cszh = ['ct', ',y', 'tc', 'y,', 'cr', ',u', 'rc', 'u,', 'cw', ',o', 'wc', 'o,', 'qc', ',p', 'cq', 'p,', 'qx', 'p.',
         'xq', '.p', 'xe', '.i', 'ex', 'i.', 'xr', '.u', 'rx', 'u.', 'xt', '.y', 'tx', 'y.']
 
-
 all_key = 'abcdefghijklmnopqrstuvwxyz'
 all_double_key = [x + y for x in all_key for y in all_key]
 
-dangliang={} # 导入当量数据
-with open('./asserts/dlb.txt',encoding='utf-8') as t:
+dangliang = {}  # 导入当量数据
+with open('./asserts/dlb.txt', encoding='utf-8') as t:
     for line in t.readlines():
-        j,v=line.strip('\r\n').split('\t')
-        dangliang[j]=float(v)
+        j, v = line.strip('\r\n').split('\t')
+        dangliang[j] = float(v)
 
-
-f = open('./asserts/cp.txt',encoding='utf-8', mode = 'r')
+f = open('./asserts/cp.txt', encoding='utf-8', mode='r')
 tl = [i.strip('\r\n').split('\t') for i in f]
+
+
 # f.close()
 
 # ci_list = []
@@ -277,34 +279,41 @@ def build_ci_by_full_code(full_code_map):
             # 3字词是前两字第一码 + 第三字前两码
             # cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][:2], int(cp[1])))
         elif (lc == 4):
-            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[3]][0], int(cp[1])))
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] +
+                         full_code_map[ci[3]][0], int(cp[1])))
         elif (lc > 4):
-            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] + full_code_map[ci[-1]][0], int(cp[1])))
+            cybm.append((full_code_map[ci[0]][0] + full_code_map[ci[1]][0] + full_code_map[ci[2]][0] +
+                         full_code_map[ci[-1]][0], int(cp[1])))
     # for char, code in full_code:
     return cybm
 
-def jsdl(bm): # 计算一串编码的总当量
-    s=0
-    for l in range(len(bm)-1):
-        u=bm[l]+bm[l+1]
-        s=s+dangliang[u]
+
+def jsdl(bm):  # 计算一串编码的总当量
+    s = 0
+    for l in range(len(bm) - 1):
+        u = bm[l] + bm[l + 1]
+        s = s + dangliang[u]
     return s
+
 
 # 这个算法就更简单了，set 函数自动去重，list - set 就是选重数
 def xcs(l):
     uni = set(x[0] for x in l)
     return len(l) - len(uni)
 
+
 # 这个算法就是 sum 函数的应用
 def jqdl(l):
     zdl = sum(x[0] * x[1] for x in l)
     zp = sum(x[1] for x in l)
-    return zdl/zp
+    return zdl / zp
 
-def dysc(z): # 打印后在“结果.txt”里添加字段
+
+def dysc(z):  # 打印后在“结果.txt”里添加字段
     print(z)
     # with open('结果.txt','a',encoding='utf-8') as t:
     #     t.write(z+'\n')
+
 
 def stats(brief_code, cybm):
     dz = {}
@@ -539,6 +548,7 @@ def stats(brief_code, cybm):
     print('--------------------------------')
     return weight + ci_weight
 
+
 component_changed = []
 component_changed_map = {}
 with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
@@ -553,6 +563,7 @@ keys = [
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
     'x', 'c', 'v', 'b', 'n', 'm'
 ]
+
 
 # ci_list = []
 # # 读取词表
@@ -677,7 +688,6 @@ if __name__ == '__main__':
     with open('data/new_brief_code_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
             newBriefCodeFile.write('%s\n' % (code))
-
 
     with open('data/new_brief_code_code.txt', encoding='utf-8', mode='w') as newBriefCodeFile:
         for char, code in brief_code:
