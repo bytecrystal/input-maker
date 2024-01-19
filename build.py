@@ -19,36 +19,26 @@ with open('data/new_keymap.txt', encoding='utf-8', mode='r') as keymapFile:
             componentName[component] = arr[2]
 small_key_map = {'5': 'a', '4': 'o', '3': 'u', '2': 'i', '1': 'e'}
 # big_keymap = {'5': 'v', '4': 'd', '3': 't', '2': 's', '1': 'h'}
-stroke_arr_small = {}
-stroke_arr_big = {}
 stroke_char = {}
 with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
     for line in strokeFile:
         arr = line.strip('\r\n').split('\t')
         stroke = arr[1]
-        str_small_stroke = ''
-        str_big_stroke = ''
-        l = len(stroke)
-        if l >= 3:
-            str_small_stroke += small_key_map[stroke[0]] + small_key_map[stroke[1]] + small_key_map[stroke[2]]
-            # str_big_stroke += big_keymap[stroke[0]] + big_keymap[stroke[1]] + big_keymap[stroke[2]]
-        elif l == 2:
-            str_small_stroke += small_key_map[stroke[0]] + small_key_map[stroke[1]] * 2
-            # str_big_stroke += big_keymap[stroke[0]] + big_keymap[stroke[1]] * 2
-        elif l == 1:
-            str_small_stroke += small_key_map[stroke[0]] * 3
-            # str_big_stroke += big_keymap[stroke[0]] * 3
-        stroke_arr_small[arr[0]] = str_small_stroke
-        stroke_arr_big[arr[0]] = str_big_stroke
-        stroke_char[arr[0]] = stroke[0]
+        two_stroke = ''
+        stroke_len = len(stroke)
+        if stroke_len >= 2:
+            two_stroke += stroke[0] + stroke[1]
+        elif stroke_len == 1:
+            two_stroke += stroke[0] * 2
+        stroke_char[arr[0]] = two_stroke
 
-stroke_arr_small_last = {}
-with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
-    for line in strokeFile:
-        arr = line.strip('\r\n').split('\t')
-        stroke = arr[1]
-        # 取末笔画数字
-        stroke_arr_small_last[arr[0]] = small_key_map[stroke[-1]]
+# stroke_arr_small_last = {}
+# with open('asserts/stroke.txt', encoding='utf-8', mode='r') as strokeFile:
+#     for line in strokeFile:
+#         arr = line.strip('\r\n').split('\t')
+#         stroke = arr[1]
+#         # 取末笔画数字
+#         stroke_arr_small_last[arr[0]] = small_key_map[stroke[-1]]
 
 # print(stroke_arr_small_last)
 
@@ -85,25 +75,31 @@ def build_full_code(component_k, decomposition_lines):
         char, s1, s2, s3, py, is_partial = line.strip('\r\n').split('\t')
         # strokes = stroke_arr_small[char]
         # strokes_last = stroke_arr_small_last[char]
-        if (s3):
+        if s3:
             c1 = component_k[s1]
             c2 = component_k[s2]
             c3 = component_k[s3]
-            qm = c1 + c2 + c3 + py[0]
+            # c4 = py[0]
+            # qm = c1 + c2 + c3 + c4
+            qm = c1 + c2 + c3
             fullCode.append((char, qm))
             full_code_map[char] = qm
         elif s2:
             c1 = component_k[s1]
             c2 = component_k[s2]
-            # c3 = py[0]
-            c3 = py
-            qm = c1 + c2 + c3
+            # c3 = component_k[stroke_zm[stroke_char[char][0]]]
+            c4 = py[0]
+            qm = c1 + c2 + c4
             fullCode.append((char, qm))
             full_code_map[char] = qm
         elif s1:
             c1 = component_k[s1]
-            c4 = component_k[stroke_zm[stroke_char[char]]]
-            qm = c1 + py + c4
+            c2 = component_k[stroke_zm[stroke_char[char][0]]]
+            # c3 = component_k[stroke_zm[stroke_char[char][0]]]
+            # if len(stroke_char[char]) > 1:
+            #     c3 = component_k[stroke_zm[stroke_char[char][1]]]
+            c4 = py[0]
+            qm = c1 + c2 + c4
             fullCode.append((char, qm))
             full_code_map[char] = qm
     return fullCode, full_code_map
@@ -315,240 +311,6 @@ def dysc(z):  # 打印后在“结果.txt”里添加字段
     #     t.write(z+'\n')
 
 
-def stats(brief_code, cybm):
-    dz = {}
-    for kv in brief_code:
-        z = kv[0]
-        m = kv[1]
-        if z in dz:
-            if len(m) < len(dz[z]):
-                dz[z] = m
-            else:
-                pass
-        else:
-            dz[z] = m
-    l = [[pl1, '300'], [pl2, '500'], [pl3, '1500'], [pl4, '3000'], [pl5, '6000']]
-    yl = {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0, 'h': 0, 'i': 0, 'j': 0, 'k': 0, 'l': 0, 'm': 0,
-          'n': 0, 'o': 0, 'p': 0, 'q': 0, 'r': 0, 's': 0, 't': 0, 'u': 0, 'v': 0, 'w': 0, 'x': 0, 'y': 0, 'z': 0,
-          ',': 0, '.': 0, ';': 0, '/': 0, '\'': 0, '_': 0, '0': 0}
-    bm = {}
-    n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    dkpa_500 = 0
-    dkpa_1500 = 0
-    xkpa_500 = 0
-    xkpa_1500 = 0
-    xzgra_500 = 0
-    xzgra_1500 = 0
-    csa_500 = 0
-    csa_1500 = 0
-    jca_500 = 0
-    jca_1500 = 0
-    zjdla_500 = 0
-    zjdla_1500 = 0
-    jjdla_500 = 0
-    jjdla_1500 = 0
-    hja_500 = 0
-    hja_1500 = 0
-    n4a_1500 = 0
-    n4a_500 = 0
-    xca_500 = 0
-    xca_3000 = 0
-    n4a_3000 = 0
-    for i in l:
-        n1 = 0
-        n2 = 0
-        n3 = 0
-        n4 = 0
-        n5 = 0
-        p1 = 0
-        p2 = 0
-        p3 = 0
-        p4 = 0
-        p5 = 0
-        n = [n1, n2, n3, n4, n5]
-        hj = 0
-        dkp = 0
-        xkp = 0
-        xzgr = 0
-        cs = 0
-        xc = 0
-        jc = 0
-        zjdl = 0
-        pa = 0
-        zjj = 0
-        for j in i[0]:
-            pa += i[0].get(j, 0)
-            jc += i[0].get(j, 0) * len(dz.get(j, '0000'))
-            if dz.get(j, j) not in bm:
-                bm[dz.get(j, j)] = 1
-            else:
-                xc += 1
-                if ((int)(i[1]) <= 1500):
-                    print(dz.get(j, 0))
-                if ((int)(i[1]) <= 3000):
-                    xca_3000 += 1
-            if len(dz.get(j, '0000')) == 1:
-                n1 += 1
-                p1 += i[0].get(j, '0000')
-            if len(dz.get(j, '0000')) == 2:
-                n2 += 1
-                p2 += i[0].get(j, '0000')
-                # if i[1] == '3000' or i[1] == '6000':
-                    # print(j + '\t' + dz[j])
-            if len(dz.get(j, '0000')) == 3:
-                n3 += 1
-                p3 += i[0].get(j, '0000')
-            if len(dz.get(j, '0000')) == 4:
-                # print(dz.get(j,'0000'))
-                n4 += 1
-                p4 += i[0].get(j, '0000')
-            if len(dz.get(j, '0000')) == 5:
-                n5 += 1
-                p5 += i[0].get(j, '0000')
-            zh = []
-            for k in dz.get(j, '0000'):
-                yl[k] += i[0].get(j, '0000')
-            for k in range(len(dz.get(j, '0000')) - 1):
-                zh.append(dz.get(j, '0000')[k] + dz.get(j, '0000')[k + 1])
-            for k in zh:
-                zjdl += i[0].get(j, '0000') * ajew[k]
-                zjj += i[0].get(j, '0000')
-                if k in hjzh or '_' in k:
-                    hj += i[0].get(j, '0000')
-                    if (int)(i[1]) == 500:
-                        hja_500 += 1
-                    if (int)(i[1]) == 1500:
-                        hja_1500 += 1
-                if k in dkpzh:
-                    dkp += i[0].get(j, '0000')
-                    if (int)(i[1]) == 500:
-                        dkpa_500 += 1
-                    if (int)(i[1]) == 1500:
-                        dkpa_1500 += 1
-                if k in xkpzh:
-                    xkp += i[0].get(j, '0000')
-                    if (int)(i[1]) == 500:
-                        xkpa_500 += 1
-                    if (int)(i[1]) == 1500:
-                        xkpa_1500 += 1
-                if k in xzgrzh:
-                    xzgr += i[0].get(j, '0000')
-                    if (int)(i[1]) == 500:
-                        xzgra_500 += 1
-                    if (int)(i[1]) == 1500:
-                        xzgra_1500 += 1
-                if k in cszh:
-                    cs += i[0].get(j, '0000')
-                    if (int)(i[1]) <= 500:
-                        csa_500 += 1
-                    if (int)(i[1]) <= 1500:
-                        csa_1500 += 1
-        jjdl = (zjdl / pa) / ((jc / pa) - 1)
-        # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
-        #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
-        #     dkp / zjj) + '\t' + str(xkp / zjj) + '\t' + str(xzgr / zjj) + '\t' + str(cs / zjj) + '\n')
-        n1a += n1
-        n2a += n2
-        n3a += n3
-        n4a += n4
-        n5a += n5
-        p1a += p1
-        p2a += p2
-        p3a += p3
-        p4a += p4
-        p5a += p5
-        xca += xc
-        jca += jc
-        zjdla += zjdl
-        hja += hj
-        dkpa += dkp
-        xkpa += xkp
-        xzgra += xzgr
-        csa += cs
-        paa += pa
-        zjja += zjj
-        if (int)(i[1]) == 500:
-            jca_500 += jc
-            zjdla_500 += zjdl
-            jjdla_500 += jjdl
-            n4a_500 += n4
-        if (int)(i[1]) == 1500:
-            jca_1500 += jc
-            zjdla_1500 += zjdl
-            jjdla_1500 += jjdl
-        if (int)(i[1]) <= 1500:
-            n4a_1500 += n4
-        if (int)(i[1]) <= 3000:
-            n4a_3000 += n4
-    jjdla = zjdla / (jca - 1)
-    print('总选重：%d' % xca)
-    print('键长：%f' % jca)
-    print('字均当量：%f' % zjdla)
-    print('键均当量：%f' % jjdla)
-    print('前500键长：%f' % jca_500)
-    print('前1500键长：%f' % jca_1500)
-    print('前500字均当量：%f' % zjdla_500)
-    print('前500键均当量：%f' % jjdla_500)
-    print('左右互击：%f' % hja)
-    print('同指大跨排：%f' % dkpa)
-    print('同指大跨排500：%d' % dkpa_500)
-    print('同指大跨排1500：%d' % dkpa_1500)
-    print('错手1500：%d' % csa_1500)
-    print('小跨排：%f' % xkpa)
-    print('小指干扰：%f' % xzgra)
-    print('错手：%f' % csa)
-    print('前500四码数：%d' % n4a_500)
-    print('前1500四码数：%d' % n4a_1500)
-    print('前3000选重：%d' % xca_3000)
-    print('前3000四码数：%d' % n4a_3000)
-
-    weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 2 + n4a_3000 / 1.2 + dkpa_1500 + dkpa_500 * 5 + csa_1500
-    ci_weight = 0
-    if len(cybm) > 0:
-        cydl = [(jsdl(i[0]), i[1]) for i in cybm]
-        j1, j2, j3, j4, j5, j6 = cybm[:2000], cybm[:5000], cybm[:10000], cybm[:20000], cybm[:40000], cybm[:60000]
-        k1, k2, k3, k4, k5, k6 = cydl[:2000], cydl[2000:5000], cydl[5000:10000], cydl[10000:20000], cydl[20000:40000], cydl[40000:60000]
-        kn3, kn6 = cydl[:10000], cydl[:60000]
-        # 前1万
-        j3d = {}
-        j3dx = j3[::-1]
-        for i in j3dx:
-            j3d[i[0]] = i[1]
-        xc3 = 1 - (sum(j3d.values()) / sum(x[1] for x in j3))
-        # 前6万
-        j6d = {}
-        j6dx = j6[::-1]
-        for i in j6dx:
-            j6d[i[0]] = i[1]
-        xc6 = 1 - (sum(j6d.values()) / sum(x[1] for x in j6))
-        # 然后算不加权选重
-        x1, x2, x3, x4, x5, x6 = tuple(map(xcs, (j1, j2, j3, j4, j5, j6)))
-        xn1 = x1
-        xn2 = x2 - x1
-        xn3 = x3 - x2
-        xn4 = x4 - x3
-        xn5 = x5 - x4
-        xn6 = x6 - x5
-        d1, d2, d3, d4, d5, d6 = tuple(map(jqdl, (k1, k2, k3, k4, k5, k6)))
-        dxj = jqdl(kn3)
-        dzj = jqdl(kn6)
-        dysc(
-            '1-2k\t%s\t%.2f\n' % (xn1, d1) +
-            '2k-5k\t%s\t%.2f\n' % (xn2, d2) +
-            '5k-10k\t%s\t%.2f\n' % (xn3, d3) +
-            '小计\t%s\t%.2f\n' % (x3, dxj) +
-            '加权比重\t%.2f%%\n\n' % (xc3 * 100) +
-            '10k-20k\t%s\t%.2f\n' % (xn4, d4) +
-            '20k-40k\t%s\t%.2f\n' % (xn5, d5) +
-            '40k-60k\t%s\t%.2f\n' % (xn6, d6) +
-            '总计\t%s\t%.2f\n' % (x6, dzj) +
-            '加权比重\t%.2f%%\n' % (xc6 * 100)
-        )
-        ci_weight += x3 * 1.5 + x6 / 60 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
-    print('--------------------------------')
-    return weight + ci_weight
-
-
 component_changed = []
 component_changed_map = {}
 with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
@@ -561,7 +323,7 @@ with open('data/changed_components.txt', encoding='utf-8', mode='r') as f:
 keys = [
     'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
     'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
-    'x', 'c', 'v', 'b', 'n', 'm'
+    'z', 'x', 'c', 'v', 'b', 'n', 'm'
 ]
 
 
@@ -574,17 +336,18 @@ keys = [
 
 
 class ComponentsDistributionProblem(Annealer):
-    def __int__(self, state):
+    def __init__(self, state, weight_map_res):
         super(ComponentsDistributionProblem, self).__init__(state)
+        self.weight_map_res = weight_map_res
 
     def energy(self):
         full_res = build_full_code(self.state, decompositionLines)
         full_c = full_res[0]
         brief_c = build_brief_code(full_c)
         full_c_map = full_res[1]
-        cybm = build_ci_by_full_code(full_c_map)
-        # ci_c = {}
-        return stats(brief_c, cybm)
+        # cybm = build_ci_by_full_code(full_c_map)
+        ci_c = {}
+        return self.stats(brief_c, ci_c)
 
     def move(self):
         l = list(self.state.keys())
@@ -595,6 +358,359 @@ class ComponentsDistributionProblem(Annealer):
                 for b in kv[1]:
                     self.state[b] = k
 
+    def stats(self, brief_code, cybm):
+        dz = {}
+        for kv in brief_code:
+            z = kv[0]
+            m = kv[1]
+            if z in dz:
+                if len(m) < len(dz[z]):
+                    dz[z] = m
+                else:
+                    pass
+            else:
+                dz[z] = m
+        l = [[pl1, '300'], [pl2, '500'], [pl3, '1500'], [pl4, '3000'], [pl5, '6000']]
+        yl = {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0, 'h': 0, 'i': 0, 'j': 0, 'k': 0, 'l': 0, 'm': 0,
+              'n': 0, 'o': 0, 'p': 0, 'q': 0, 'r': 0, 's': 0, 't': 0, 'u': 0, 'v': 0, 'w': 0, 'x': 0, 'y': 0, 'z': 0,
+              ',': 0, '.': 0, ';': 0, '/': 0, '\'': 0, '_': 0, '0': 0}
+        bm = {}
+        n1a, n2a, n3a, n4a, n5a, xca, jca, zjdla, hja, dkpa, xkpa, xzgra, csa, paa, zjja, p1a, p2a, p3a, p4a, p5a = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        dkpa_500 = 0
+        dkpa_1500 = 0
+        xkpa_500 = 0
+        xkpa_1500 = 0
+        xzgra_500 = 0
+        xzgra_1500 = 0
+        csa_500 = 0
+        csa_1500 = 0
+        jca_500 = 0
+        jca_1500 = 0
+        zjdla_500 = 0
+        zjdla_1500 = 0
+        jjdla_500 = 0
+        jjdla_1500 = 0
+        hja_500 = 0
+        hja_1500 = 0
+        n4a_1500 = 0
+        n4a_500 = 0
+        xca_500 = 0
+        xca_3000 = 0
+        n4a_3000 = 0
+        for i in l:
+            n1 = 0
+            n2 = 0
+            n3 = 0
+            n4 = 0
+            n5 = 0
+            p1 = 0
+            p2 = 0
+            p3 = 0
+            p4 = 0
+            p5 = 0
+            n = [n1, n2, n3, n4, n5]
+            hj = 0
+            dkp = 0
+            xkp = 0
+            xzgr = 0
+            cs = 0
+            xc = 0
+            jc = 0
+            zjdl = 0
+            pa = 0
+            zjj = 0
+            for j in i[0]:
+                pa += i[0].get(j, 0)
+                jc += i[0].get(j, 0) * len(dz.get(j, '0000'))
+                if dz.get(j, j) not in bm:
+                    bm[dz.get(j, j)] = 1
+                else:
+                    xc += 1
+                    # if ((int)(i[1]) <= 1500):
+                    #     print(dz.get(j, 0))
+                    if ((int)(i[1]) <= 3000):
+                        xca_3000 += 1
+                if len(dz.get(j, '0000')) == 1:
+                    n1 += 1
+                    p1 += i[0].get(j, '0000')
+                if len(dz.get(j, '0000')) == 2:
+                    n2 += 1
+                    p2 += i[0].get(j, '0000')
+                    # if i[1] == '3000' or i[1] == '6000':
+                        # print(j + '\t' + dz[j])
+                if len(dz.get(j, '0000')) == 3:
+                    n3 += 1
+                    p3 += i[0].get(j, '0000')
+                if len(dz.get(j, '0000')) == 4:
+                    # print(dz.get(j,'0000'))
+                    n4 += 1
+                    p4 += i[0].get(j, '0000')
+                if len(dz.get(j, '0000')) == 5:
+                    n5 += 1
+                    p5 += i[0].get(j, '0000')
+                zh = []
+                for k in dz.get(j, '0000'):
+                    yl[k] += i[0].get(j, '0000')
+                for k in range(len(dz.get(j, '0000')) - 1):
+                    zh.append(dz.get(j, '0000')[k] + dz.get(j, '0000')[k + 1])
+                for k in zh:
+                    zjdl += i[0].get(j, '0000') * ajew[k]
+                    zjj += i[0].get(j, '0000')
+                    if k in hjzh or '_' in k:
+                        hj += i[0].get(j, '0000')
+                        if (int)(i[1]) == 500:
+                            hja_500 += 1
+                        if (int)(i[1]) == 1500:
+                            hja_1500 += 1
+                    if k in dkpzh:
+                        dkp += i[0].get(j, '0000')
+                        if (int)(i[1]) == 500:
+                            dkpa_500 += 1
+                        if (int)(i[1]) == 1500:
+                            dkpa_1500 += 1
+                    if k in xkpzh:
+                        xkp += i[0].get(j, '0000')
+                        if (int)(i[1]) == 500:
+                            xkpa_500 += 1
+                        if (int)(i[1]) == 1500:
+                            xkpa_1500 += 1
+                    if k in xzgrzh:
+                        xzgr += i[0].get(j, '0000')
+                        if (int)(i[1]) == 500:
+                            xzgra_500 += 1
+                        if (int)(i[1]) == 1500:
+                            xzgra_1500 += 1
+                    if k in cszh:
+                        cs += i[0].get(j, '0000')
+                        if (int)(i[1]) <= 500:
+                            csa_500 += 1
+                        if (int)(i[1]) <= 1500:
+                            csa_1500 += 1
+            jjdl = (zjdl / pa) / ((jc / pa) - 1)
+            # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
+            #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
+            #     dkp / zjj) + '\t' + str(xkp / zjj) + '\t' + str(xzgr / zjj) + '\t' + str(cs / zjj) + '\n')
+            n1a += n1
+            n2a += n2
+            n3a += n3
+            n4a += n4
+            n5a += n5
+            p1a += p1
+            p2a += p2
+            p3a += p3
+            p4a += p4
+            p5a += p5
+            xca += xc
+            jca += jc
+            zjdla += zjdl
+            hja += hj
+            dkpa += dkp
+            xkpa += xkp
+            xzgra += xzgr
+            csa += cs
+            paa += pa
+            zjja += zjj
+            if (int)(i[1]) == 500:
+                jca_500 += jc
+                zjdla_500 += zjdl
+                jjdla_500 += jjdl
+                n4a_500 += n4
+            if (int)(i[1]) == 1500:
+                jca_1500 += jc
+                zjdla_1500 += zjdl
+                jjdla_1500 += jjdl
+            if (int)(i[1]) <= 1500:
+                n4a_1500 += n4
+            if (int)(i[1]) <= 3000:
+                n4a_3000 += n4
+        jjdla = zjdla / (jca - 1)
+        print('总选重：%d' % xca)
+        print('键长：%f' % jca)
+        print('字均当量：%f' % zjdla)
+        print('键均当量：%f' % jjdla)
+        print('前500键长：%f' % jca_500)
+        print('前1500键长：%f' % jca_1500)
+        print('前500字均当量：%f' % zjdla_500)
+        print('前500键均当量：%f' % jjdla_500)
+        print('左右互击：%f' % hja)
+        print('同指大跨排：%f' % dkpa)
+        print('同指大跨排500：%d' % dkpa_500)
+        print('同指大跨排1500：%d' % dkpa_1500)
+        print('错手1500：%d' % csa_1500)
+        print('小跨排：%f' % xkpa)
+        print('小指干扰：%f' % xzgra)
+        print('错手：%f' % csa)
+        print('前500四码数：%d' % n4a_500)
+        print('前1500四码数：%d' % n4a_1500)
+        print('前3000选重：%d' % xca_3000)
+        print('前3000四码数：%d' % n4a_3000)
+
+        stats_map = {
+            'jca': jca,
+            'zjdla': zjdla,
+            'jjdla': jjdla,
+            'xca': xca,
+            'n4a_500': n4a_500,
+            'n4a_1500': n4a_1500,
+            'xca_3000': xca_3000,
+            'n4a_3000': n4a_3000,
+            'dkpa_1500': dkpa_1500,
+            'dkpa_500': dkpa_500,
+            'csa_1500': csa_1500
+        }
+        # op_dp = OptimizeProblem(self.weight_map_res, stats_map)
+        # op_dp.copy_strategy = "method"
+        # op_auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 100, 'updates': 100}  # 如果确定用什么参数，就提供
+        # op_dp.set_schedule(op_auto_schedule)
+        # op_dp.anneal()  # 开始优化
+        # self.weight_map_res = op_dp.state.copy()
+        weight = (jca + zjdla + jjdla) * 1000 + xca + n4a_500 * 5 + n4a_1500 + xca_3000 * 3 + n4a_3000 / 1.2 + dkpa_1500 + dkpa_500 * 5 + csa_1500
+        # weight = get_weight(op_dp.state, stats_map)
+        # weight_map_res = op_dp.state.copy()
+        # weight_map_res(op_dp.state)
+        # weight_map_res = op_dp.state.copy()
+        ci_weight = 0
+        if len(cybm) > 0:
+            cydl = [(jsdl(i[0]), i[1]) for i in cybm]
+            j1, j2, j3, j4, j5, j6 = cybm[:2000], cybm[:5000], cybm[:10000], cybm[:20000], cybm[:40000], cybm[:60000]
+            k1, k2, k3, k4, k5, k6 = cydl[:2000], cydl[2000:5000], cydl[5000:10000], cydl[10000:20000], cydl[20000:40000], cydl[40000:60000]
+            kn3, kn6 = cydl[:10000], cydl[:60000]
+            # 前1万
+            j3d = {}
+            j3dx = j3[::-1]
+            for i in j3dx:
+                j3d[i[0]] = i[1]
+            xc3 = 1 - (sum(j3d.values()) / sum(x[1] for x in j3))
+            # 前6万
+            j6d = {}
+            j6dx = j6[::-1]
+            for i in j6dx:
+                j6d[i[0]] = i[1]
+            xc6 = 1 - (sum(j6d.values()) / sum(x[1] for x in j6))
+            # 然后算不加权选重
+            x1, x2, x3, x4, x5, x6 = tuple(map(xcs, (j1, j2, j3, j4, j5, j6)))
+            xn1 = x1
+            xn2 = x2 - x1
+            xn3 = x3 - x2
+            xn4 = x4 - x3
+            xn5 = x5 - x4
+            xn6 = x6 - x5
+            d1, d2, d3, d4, d5, d6 = tuple(map(jqdl, (k1, k2, k3, k4, k5, k6)))
+            dxj = jqdl(kn3)
+            dzj = jqdl(kn6)
+            dysc(
+                '1-2k\t%s\t%.2f\n' % (xn1, d1) +
+                '2k-5k\t%s\t%.2f\n' % (xn2, d2) +
+                '5k-10k\t%s\t%.2f\n' % (xn3, d3) +
+                '小计\t%s\t%.2f\n' % (x3, dxj) +
+                '加权比重\t%.2f%%\n\n' % (xc3 * 100) +
+                '10k-20k\t%s\t%.2f\n' % (xn4, d4) +
+                '20k-40k\t%s\t%.2f\n' % (xn5, d5) +
+                '40k-60k\t%s\t%.2f\n' % (xn6, d6) +
+                '总计\t%s\t%.2f\n' % (x6, dzj) +
+                '加权比重\t%.2f%%\n' % (xc6 * 100)
+            )
+            ci_weight += x3 * 1.5 + x6 / 60 + d1 * 80 + d2 * 60 + d3 * 50 + d4 * 20 + d5 * 20 + d6 * 20
+        print('--------------------------------')
+        return weight + ci_weight
+
+
+
+def save_to_json(data, filename):
+    """
+    将数据序列化为JSON并保存到文件
+
+    Parameters:
+    - data: 要保存的数据（字典）
+    - filename: 要保存到的文件名
+    """
+    try:
+        # 将数据序列化为JSON字符串
+        data_json = json.dumps(data, indent=2)
+
+        # 保存JSON字符串到文件
+        with open(filename, 'w') as file:
+            file.write(data_json)
+
+        # print(f'Data has been saved to {filename}')
+    except Exception as e:
+        print(f'Error saving data to {filename}: {e}')
+
+def load_from_json(filename):
+    """
+    从JSON文件中读取数据并反序列化为Python对象
+
+    Parameters:
+    - filename: 要读取的文件名
+
+    Returns:
+    - data: 反序列化后的数据
+    """
+    try:
+        with open(filename, 'r') as file:
+            data = json.load(file)
+            print(f'Data loaded from {filename}')
+            return data
+    except Exception as e:
+        print(f'Error loading data from {filename}: {e}')
+        return None
+
+# weight_map = {
+#     'jca': [700, 800, 900, 1000, 1100],
+#     'zjdla': [700, 800, 900, 1000, 1100],
+#     'jjdla': [700, 800, 900, 1000, 1100],
+#     'xca': [1.0, 1.2, 1.3, 1.4, 1.5],
+#     'n4a_500': [3, 4, 5, 6, 7],
+#     'n4a_1500': [0.8, 0.9, 1.0, 1.1, 1.2],
+#     'xca_3000': [0.8, 1, 1.5, 2, 2.5],
+#     'n4a_3000': [0.5, 0.8, 1.0, 1.1, 1.2],
+#     'dkpa_1500': [0.8, 0.9, 1.0, 1.1, 1.2],
+#     'dkpa_500': [3, 4, 5, 6, 7],
+#     'csa_1500': [0.9, 1.0, 1, 1.1, 1.2]
+# }
+# save_to_json(weight_map, './data/weights.json')
+
+def get_weight(w_map, stats_map):
+    jca = stats_map['jca']
+    zjdla = stats_map['zjdla']
+    jjdla = stats_map['jjdla']
+    xca = stats_map['xca']
+    n4a_500 = stats_map['n4a_500']
+    n4a_1500 = stats_map['n4a_1500']
+    xca_3000 = stats_map['xca_3000']
+    n4a_3000 = stats_map['n4a_3000']
+    dkpa_1500 = stats_map['dkpa_1500']
+    dkpa_500 = stats_map['dkpa_500']
+    csa_1500 = stats_map['csa_1500']
+    # --
+    jca_weight = w_map['jca'][0]
+    zjdla_weight = w_map['zjdla'][0]
+    jjdla_weight = w_map['jjdla'][0]
+    xca_weight = w_map['xca'][0]
+    n4a_500_weight = w_map['n4a_500'][0]
+    n4a_1500_weight = w_map['n4a_1500'][0]
+    xca_3000_weight = w_map['xca_3000'][0]
+    n4a_3000_weight = w_map['n4a_3000'][0]
+    dkpa_1500_weight = w_map['dkpa_1500'][0]
+    dkpa_500_weight = w_map['dkpa_500'][0]
+    csa_1500_weight = w_map['csa_1500'][0]
+    weight = (jca * jca_weight) + (zjdla * zjdla_weight) + (jjdla * jjdla_weight) + (xca * xca_weight) + (n4a_500 * n4a_500_weight)\
+    + (n4a_1500 * n4a_1500_weight) + (xca_3000 * xca_3000_weight) + (n4a_3000 * n4a_3000_weight) + (dkpa_1500 * dkpa_1500_weight)\
+    + (dkpa_500 * dkpa_500_weight) + (csa_1500 * csa_1500_weight)
+    return weight
+
+
+class OptimizeProblem(Annealer):
+    def __init__(self, op_state, stats_map):
+        super(OptimizeProblem, self).__init__(op_state)
+        self.stats_map = stats_map
+
+    def energy(self):
+        return get_weight(self.state, self.stats_map)
+
+    def move(self):
+        for op_key in self.state:
+            random.shuffle(self.state[op_key])
 
 def zu_ci(full_code_map):
     ci_map = {}
@@ -621,10 +737,13 @@ def zu_ci(full_code_map):
 
 #
 if __name__ == '__main__':
-    cdp = ComponentsDistributionProblem(componentKey)
+    # weight_map = load_from_json('./data/weights.json')
+    weight_map = {}
+
+    cdp = ComponentsDistributionProblem(componentKey, weight_map)
     cdp.copy_strategy = "method"
     # auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 30000, 'updates': 30000}  # 如果确定用什么参数，就提供
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)
@@ -636,6 +755,7 @@ if __name__ == '__main__':
     # with open('data/new_keymap.txt', encoding='utf-8', mode='w') as newKeymapFile:
     #     for key, key_map in state:
     #         newKeymapFile.write(key + '\t' + key_map + '\n')
+    # save_to_json(cdp.weight_map_res, './data/weights.json')
     with open('data/new_keymap.txt', encoding='utf-8', mode='w') as newKeymapFile:
         for key, key_map in state.items():
             newKeymapFile.write(key + '\t' + key_map + '\n')
