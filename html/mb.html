@@ -21,7 +21,7 @@
             <!--     </ul> -->
             <!-- </li> -->
             <!-- </#list> -->
-            <li v-for="item,index in keyCode">
+            <li v-for="(item,index) in keyCode">
                 <ul class="zi-ul">
                     <li v-for="kv in item">{{ kv.key }}</li>
                     <li>{{ index }}</li>
@@ -72,7 +72,7 @@
                 fetch('../data/new_keymap.txt')
                     .then(res => res.text())
                     .then(data => {
-                        let charCode = data.split("\r\n");
+                        let charCode = data.split(/\r?\n/);
                         let keyMap = [];
                         for (let i = 0; i < charCode.length; i++) {
                             let char = charCode[i].split("\t");
@@ -109,7 +109,7 @@
                             .then(res => res.text())
                             .then(d => {
                                 // console.log(d)
-                                let briefCode = d.split("\r\n")
+                                let briefCode = d.split(/\r?\n/)
                                 let briefCodeMap = []
                                 for (let i = 0; i < briefCode.length; i++) {
                                     let arr = briefCode[i].split("\t");
@@ -117,7 +117,7 @@
                                         briefCodeMap[arr[1]] = arr[0];
                                     }
                                 }
-                                console.log(briefCodeMap)
+                                // console.log(briefCodeMap)
                                 // this.singleBriefCodeMap = briefCodeMap;
                                 let keyCode = {};
                                 codeArr.forEach(item => {
@@ -130,7 +130,7 @@
                                     // groupedBy[item].unshift(briefCodeMap[item])
                                     keyCode[item.toLocaleUpperCase()] = groupedBy[item];
                                 });
-                                console.log(keyCode)
+                                // console.log(keyCode)
                                 this.keyCode = keyCode;
                             })
                     })
@@ -140,7 +140,7 @@
                     .then(res => res.text())
                     .then(d => {
                         // console.log(d)
-                        let briefCode = d.split("\r\n")
+                        let briefCode = d.split(/\r?\n/)
                         let briefCodeMap = []
                         for (let i = 0; i < briefCode.length; i++) {
                             let arr = briefCode[i].split("\t");
@@ -148,7 +148,7 @@
                                 briefCodeMap[arr[1]] = arr[0];
                             }
                         }
-                        console.log(briefCodeMap)
+                        // console.log(briefCodeMap)
                         this.singleBriefCodeMap = briefCodeMap;
                     })
             },
@@ -156,7 +156,7 @@
                 fetch('../data/changed_components.txt')
                     .then(res => res.text())
                     .then(d => {
-                        console.log(d);
+                        // console.log(d);
 
                     })
             }
