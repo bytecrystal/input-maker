@@ -5,8 +5,9 @@ from build import *
 from problem import ComponentsDistributionProblem
 from stats import *
 
+# 单字优化权重map，只会取第0个，值越大权重越大，调整第0个以改变偏好的优化方向，
 weight_map = {
-    'xca': [2.0, 1.2, 1.3, 1.4, 1.5],
+    'xca': [1.0, 1.2, 1.3, 1.4, 1.5],
     'jca': [700, 800, 900, 1000, 1100],
     'zjdla': [700, 800, 900, 1000, 1100],
     'jjdla': [700, 800, 900, 1000, 1100],
@@ -24,7 +25,7 @@ weight_map = {
     'csa': [0],
     'n4a_500': [3, 4, 5, 6, 7],
     'n4a_1500': [0.8, 0.9, 1.0, 1.1, 1.2],
-    'xca_3000': [0.8, 1, 1.5, 2, 2.5],
+    'xca_3000': [2, 1, 1.5, 2, 2.5],
     'n4a_3000': [0.5, 0.8, 1.0, 1.1, 1.2],
 }
 
@@ -41,8 +42,9 @@ if __name__ == '__main__':
     build = Build()
     stats = Stats()
 
-    cdp = ComponentsDistributionProblem(component_key, component_compose_map, weight_map, keys, decomposition_ines,
-                                        build, stats)
+    cdp = ComponentsDistributionProblem(
+        component_key, component_compose_map, weight_map, keys, decomposition_ines, build, stats
+    )
     cdp.copy_strategy = "method"
     auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
@@ -52,8 +54,7 @@ if __name__ == '__main__':
     # print(dup)
     # print(state)
     full_res = build.build_full_code(state, decomposition_ines)
-    full_code = full_res[0]
-    full_code_map = full_res[1]
+    full_code, full_code_map = build.build_full_code(state, decomposition_ines)
     brief_code = build.build_brief_code(full_code)
     ci_map = build.zu_ci(full_code_map)
 

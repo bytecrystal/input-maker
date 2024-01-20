@@ -19,10 +19,9 @@ class ComponentsDistributionProblem(Annealer):
         full_code_res = self.builder.build_full_code(self.state, self.decomposition_ines)
         full_c = full_code_res[0]
         brief_c = self.builder.build_brief_code(full_c)
-        # full_c_map = full_res[1]
-        # cybm = build.build_ci_by_full_code(full_c_map)
-        ci_c = {}
-        return self.stats(brief_c, ci_c)
+        full_c_map = full_code_res[1]
+        cybm = self.builder.build_ci_by_full_code(full_c_map)
+        return self.stats(brief_c, cybm)
 
     def move(self):
         lst = list(self.state.keys())
