@@ -55,7 +55,7 @@ if __name__ == '__main__':
         component_key, component_compose_map, weight_map, keys, decomposition_ines, build, stats
     )
     cdp.copy_strategy = "method"
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)

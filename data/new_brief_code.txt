@@ -78,7 +78,7 @@
 前	uu
 神	zg
 笑	dm
-事	ao
+事	fo
 开	qi
 点	nr
 方	ie
@@ -86,13 +86,13 @@
 发	rp
 所	vs
 但	tg
-气	vm
+气	l
 法	jh
 意	yw
 情	nh
-两	fi
+两	ni
 生	mh
-家	l
+家	lg
 间	pg
 将	un
 很	iq
@@ -201,7 +201,7 @@
 连	fn
 水	bf
 西	pix
-黑	zfh
+黑	yf
 马	hp
 部	vo
 入	me
@@ -298,7 +298,7 @@
 般	ir
 武	it
 雷	ys
-非	yf
+非	yff
 奇	jx
 通	qb
 解	nb
@@ -307,7 +307,7 @@
 精	fh
 修	tk
 暗	gy
-满	jrf
+满	jrn
 双	zzs
 度	mr
 且	uf
@@ -355,7 +355,7 @@
 势	ic
 早	ga
 哈	oeo
-帝	vmd
+帝	vm
 流	jfy
 团	ok
 青	hu
@@ -397,7 +397,7 @@
 往	ifw
 玉	aey
 级	ah
-车	fic
+车	fi
 底	my
 总	cow
 坐	whz
@@ -502,7 +502,7 @@
 司	uio
 低	ty
 雨	yiy
-呼	oma
+呼	omf
 久	nej
 未	yiw
 孩	byh
@@ -681,7 +681,7 @@
 英	ru
 醒	pgh
 举	bsh
-嘿	ozh
+嘿	oy
 境	hyr
 胜	umh
 诉	eee
@@ -783,7 +783,7 @@
 芒	rfm
 凤	pzf
 虚	pzx
-默	zj
+默	yje
 土	hit
 技	ka
 费	xv
@@ -832,7 +832,7 @@
 划	tvh
 权	wzq
 藏	rtb
-味	oy
+味	oyw
 丹	pf
 故	fkg
 钟	ckz
@@ -861,7 +861,7 @@
 施	iw
 产	vmc
 营	rl
-骨	nfg
+骨	vf
 晶	gg
 透	vhn
 尊	uk
@@ -905,7 +905,7 @@
 烟	soj
 致	rkz
 州	yez
-冥	lg
+冥	lgs
 尼	sl
 抗	kfp
 妙	xjm
@@ -1029,7 +1029,7 @@
 迅	aan
 逸	bny
 臣	kfs
-残	ni
+残	nit
 裂	nvv
 托	kmt
 良	eq
@@ -1071,7 +1071,7 @@
 臂	svu
 愣	ndi
 勇	qbc
-套	jt
+套	jlt
 剩	vcv
 志	hwz
 舒	efk
@@ -1343,13 +1343,13 @@
 财	qkc
 掩	kj
 吞	ijo
-织	aos
+织	ao
 监	vdv
 洗	jlr
 佩	tpi
 融	ipq
 插	kzx
-梁	jtw
+梁	jt
 忠	kwz
 悲	ywb
 笔	dfb
@@ -1448,7 +1448,7 @@
 社	zhs
 郭	db
 骗	hpv
-滑	jnh
+滑	jvh
 霄	ybu
 隔	dip
 纸	ayt
@@ -1538,12 +1538,12 @@
 肚	uhd
 皆	lxj
 柱	wfz
-墨	zhm
+墨	yhm
 董	rzf
 砸	bk
 莎	yjs
 液	jfk
-辆	ffl
+辆	fnl
 途	ewn
 岩	iby
 芳	rif
@@ -1572,7 +1572,7 @@
 虫	qfc
 康	mpb
 椅	wjx
-俩	tfl
+俩	tnl
 旅	imv
 货	tlq
 减	cti
@@ -1688,13 +1688,13 @@
 诗	ehk
 偶	tsp
 均	hrc
-童	vf
+童	vft
 覆	pik
 厌	vje
 悦	nc
 载	atf
 掠	kdj
-垂	zjc
+垂	zj
 琪	aq
 泄	jux
 霞	yfz
@@ -1836,7 +1836,7 @@
 斧	wef
 裹	fgv
 姜	hx
-氛	vst
+氛	lst
 後	iak
 乾	aaa
 拨	krb
@@ -1899,7 +1899,7 @@
 健	tpn
 箱	dc
 恍	nbr
-骷	nfk
+骷	vfk
 捕	kab
 育	fuy
 猴	gsm
@@ -1910,7 +1910,7 @@
 鼎	qgg
 溃	jqq
 娃	xaw
-髅	nfx
+髅	vfx
 逍	bun
 述	wen
 豹	gre
@@ -1971,7 +1971,7 @@
 匪	kyf
 耻	sx
 妄	fxw
-肆	tph
+肆	lph
 宛	lnd
 裤	zmf
 蠢	hqq
@@ -1997,7 +1997,7 @@
 盔	ysv
 灌	jru
 桃	wcc
-黛	dzd
+黛	dyd
 黎	vr
 饱	nrd
 欠	tmq
@@ -2160,7 +2160,7 @@
 擅	kfi
 冻	cfj
 摊	kzu
-黯	zya
+黯	yya
 泣	jvq
 楞	wdi
 叉	zec
@@ -2207,7 +2207,7 @@
 辽	pkn
 沟	jrq
 墅	fqh
-汽	jvq
+汽	jlq
 档	wbp
 隶	pbl
 描	krs
@@ -2249,7 +2249,7 @@
 耿	ssg
 俯	tmk
 俄	tkt
-躁	fo
+躁	fow
 狞	glk
 嗔	oas
 廖	mcf
@@ -2628,7 +2628,7 @@
 疚	mne
 轿	fmv
 秃	vpt
-猾	gnh
+猾	gvh
 钦	ctq
 嗜	oyg
 掷	kcd
@@ -2914,7 +2914,7 @@
 侥	ttr
 肘	ukz
 侣	too
-熏	zzx
+熏	zyx
 螺	qsj
 聘	ssq
 唾	ozj
@@ -2930,12 +2930,12 @@
 鹃	oue
 翡	ycf
 琐	abq
-髓	nyn
+髓	vy
 讥	epj
 裕	zsn
 薪	rve
 毯	fss
-骸	nyh
+骸	vyh
 癸	xij
 苹	rhc
 匿	kry
@@ -2956,7 +2956,7 @@
 瓣	vxv
 泻	jlq
 踉	feq
-黝	zac
+黝	yac
 葫	rfu
 渣	jwi
 麾	mwf
@@ -3165,7 +3165,7 @@
 蠕	qyv
 偌	tro
 拚	kqr
-骼	nkg
+骼	vkg
 觅	blm
 旱	ghh
 裔	fvp
@@ -3260,7 +3260,7 @@
 钞	cjc
 褐	zgr
 蟹	ntq
-鬟	tfv
+鬟	lfv
 铛	cbp
 曦	ght
 崽	isw
@@ -3449,7 +3449,7 @@
 仕	ths
 攥	kdj
 桦	wla
-氧	vhy
+氧	lhy
 殇	nmh
 捻	kgw
 胄	suz
@@ -3516,7 +3516,7 @@
 衲	zhn
 呗	oqb
 钵	cwi
-鬓	tfs
+鬓	lfs
 剖	vov
 蜿	qld
 鞍	zlx
@@ -3537,7 +3537,7 @@
 噎	ohu
 巩	ype
 驹	hro
-薰	rzz
+薰	rzy
 踌	fyk
 饕	opn
 矗	auu
@@ -3598,7 +3598,7 @@
 帷	muw
 笃	dhd
 噔	oxu
-骰	nrt
+骰	vrt
 鄂	rqd
 珏	aae
 汩	jgg
@@ -3641,7 +3641,7 @@
 皎	xfw
 龊	xof
 阉	pjg
-黠	zkx
+黠	ykx
 隼	uas
 菌	rov
 钗	cze
@@ -3747,7 +3747,7 @@
 碾	bsv
 陕	dbc
 嬷	xmq
-髯	tfh
+髯	lfh
 嫦	xbm
 耷	jsd
 阑	pwd
@@ -3872,7 +3872,7 @@
 芮	rhr
 簪	dig
 麴	wkr
-黔	zgq
+黔	ygq
 垢	hgo
 屉	sut
 馀	new
@@ -3931,7 +3931,7 @@
 灶	shz
 踵	fzf
 坝	hqb
-髻	tfk
+髻	lfk
 嗲	own
 袒	zgi
 晔	gla
@@ -3961,11 +3961,11 @@
 囤	oto
 裆	zbp
 盅	kvz
-醺	pzz
+醺	pzy
 萃	rfa
 赧	hiz
 婵	xca
-氤	voj
+氤	loj
 腼	ubd
 梆	wyd
 涸	jof
@@ -3987,9 +3987,9 @@
 谪	edf
 渥	jsr
 劾	ych
-氲	vgv
+氲	lgv
 挛	ikl
-蹒	frf
+蹒	frn
 霈	yjm
 舫	iif
 鳅	bvs
@@ -4094,7 +4094,7 @@
 琛	alw
 炜	sdd
 揶	ksd
-鬃	tfu
+鬃	lfu
 汜	jds
 辘	fpl
 雹	yrd
@@ -4126,7 +4126,7 @@
 汐	jnx
 榆	weu
 淇	jqq
-魉	xrf
+魉	xrn
 脓	umv
 苯	rwi
 赈	qvv
@@ -4425,7 +4425,7 @@
 谤	evi
 鸩	mle
 怆	ned
-忾	nvk
+忾	nlk
 邝	mdk
 缮	aho
 汾	jst
@@ -4443,7 +4443,7 @@
 铝	coo
 赳	xnj
 沏	jtt
-氢	vy
+氢	lyy
 檄	wxk
 坂	hvz
 炷	sfz
@@ -4476,7 +4476,7 @@
 糠	fmb
 彝	efr
 荔	rcc
-髦	tff
+髦	lff
 佶	tkj
 娣	xcx
 胛	usj
@@ -4611,7 +4611,7 @@
 醐	pfu
 囱	ckc
 噱	opg
-黜	zoi
+黜	yoi
 哓	otr
 祛	zhq
 抨	khc
@@ -4666,7 +4666,7 @@
 徇	irg
 纭	apy
 脶	uoh
-鹘	neg
+鹘	veg
 腌	ujl
 叁	qjb
 碇	blx
@@ -4766,7 +4766,7 @@
 咭	okj
 腩	udu
 沆	jfp
-氮	vss
+氮	lss
 忝	ijj
 抟	kdq
 薜	rsv
@@ -4797,13 +4797,13 @@
 轸	fef
 纂	dqj
 韪	gxd
-黢	zqk
+黢	yqk
 羸	fhl
 狍	grd
 撺	klf
 仃	tkd
 殚	nca
-鬣	tyc
+鬣	lyc
 樟	wya
 桎	wrz
 呙	ohg
@@ -4891,7 +4891,7 @@
 鲧	bmj
 雒	kul
 酩	pno
-黩	zaq
+黩	yaq
 耆	ylg
 嘬	ogz
 孢	brd
@@ -5090,7 +5090,7 @@
 柑	wri
 孀	xyc
 恚	awh
-氦	vyh
+氦	lyh
 湟	jxa
 锒	ceq
 锌	cvx
@@ -5140,7 +5140,7 @@
 眙	qqo
 尜	jjj
 骝	hts
-髭	txl
+髭	lxl
 蝰	qja
 痨	mrc
 竽	dhy
@@ -5164,7 +5164,7 @@
 庹	mrg
 钙	ciq
 赡	qne
-罅	lpa
+罅	lpf
 珥	ase
 狃	gen
 镙	csj
@@ -5190,7 +5190,7 @@
 苫	rns
 囹	oge
 荛	rtr
-氯	vpb
+氯	lpb
 昃	gve
 缱	aqn
 峤	imv
@@ -5232,7 +5232,7 @@
 纡	ahy
 腭	urq
 骐	hqq
-黟	znn
+黟	ynn
 瘿	mqx
 捭	kxb
 芨	rhj
@@ -5306,11 +5306,11 @@
 愀	nvs
 鄯	hod
 缁	ays
-氰	vhu
+氰	lhu
 瓤	fvx
 肜	ufr
 摈	kle
-氟	vxv
+氟	lxv
 厶	qps
 瀣	jzi
 鲰	bsz
@@ -5347,7 +5347,7 @@
 卅	vis
 黍	veb
 鲑	bag
-氖	vhn
+氖	lhn
 怛	ngi
 枋	wif
 蒹	rui
@@ -5397,7 +5397,7 @@
 叻	ocl
 箝	dkr
 勰	ccw
-氨	vlx
+氨	llx
 喱	ovf
 飨	amn
 翥	ycz
@@ -5544,7 +5544,7 @@
 莰	rht
 酽	pzm
 栲	wyq
-氪	vfr
+氪	lfr
 饣	nms
 崤	izu
 啁	oph
@@ -5557,7 +5557,7 @@
 瘢	mir
 茌	rth
 鹚	uae
-骶	nyt
+骶	vyt
 菏	yxh
 糁	fqf
 穑	vao
@@ -5566,8 +5566,8 @@
 嫜	xya
 螽	kqq
 缒	azn
-滹	jpa
-髋	nll
+滹	jpf
+髋	vll
 攮	kav
 楂	wwi
 戽	pqh
@@ -5600,14 +5600,14 @@
 坻	hyt
 瓠	jqx
 镬	crz
-髡	tfr
+髡	lfr
 薮	rxk
 蔌	rwt
 龉	xoo
 鹾	noy
 讣	enf
 皲	lfz
-髁	ngw
+髁	vgw
 杲	gwg
 芰	raz
 椐	wsf
@@ -5618,7 +5618,7 @@
 莪	rkt
 锞	cgw
 圹	hmk
-黧	vrz
+黧	vry
 隈	dsv
 彘	eml
 暌	gxj
@@ -5641,7 +5641,7 @@
 甑	cgh
 绂	arf
 铗	cbc
-髫	tfo
+髫	lfo
 螅	qbw
 宄	lwg
 芎	rxx
@@ -5696,7 +5696,7 @@
 鲳	bgg
 茈	rxl
 痱	myf
-鬈	tfd
+鬈	lfd
 蛳	qim
 秭	vmq
 阏	pie
@@ -5704,7 +5704,7 @@
 镆	csm
 枇	wlp
 枵	woq
-氚	vyc
+氚	lyc
 皴	qkz
 堀	hsi
 讴	ekz
@@ -5737,7 +5737,7 @@
 楗	wpn
 徼	ixk
 莨	req
-黥	zdj
+黥	ydj
 芴	rra
 酰	plr
 柽	wzh
@@ -5756,7 +5756,7 @@
 袢	zyp
 酾	pip
 硒	bpx
-曛	gzz
+曛	gzy
 俣	toj
 笊	dxz
 卮	gdz
@@ -5871,7 +5871,7 @@
 幞	mze
 戢	ost
 崃	iyc
-髀	nxb
+髀	vxb
 忭	nfn
 箪	dca
 瞢	rdq
@@ -5920,7 +5920,7 @@
 郾	kgd
 楱	whj
 迨	qon
-氘	vvd
+氘	lvd
 槲	wnq
 耩	yjp
 熳	sgz
@@ -5980,7 +5980,7 @@
 缧	asj
 酹	pbk
 唛	ohk
-颟	rfb
+颟	rnb
 蠓	qrg
 眄	qiu
 葚	rql
@@ -6108,7 +6108,7 @@
 搿	kek
 胲	uyh
 剞	jxv
-鬏	tvs
+鬏	lvs
 芤	rbl
 嵝	ifx
 艋	ibv
@@ -6147,11 +6147,11 @@
 觫	nbw
 辋	fpu
 隰	dgr
-獯	gzz
+獯	gzy
 佾	tsu
 媵	uhx
 趱	xll
-髌	nle
+髌	vle
 埕	hoa
 谠	ebr
 碲	bvm
@@ -6163,7 +6163,7 @@
 嫘	xsj
 楝	wwd
 甍	rdh
-髂	nlk
+髂	vlk
 磲	bkw
 绱	abp
 潲	jbu
@@ -6176,7 +6176,7 @@
 刿	inv
 曷	grl
 溷	jog
-骱	nev
+骱	vev
 胬	xzh
 俜	tsq
 銎	ypc
@@ -6232,7 +6232,7 @@
 毵	qff
 渖	jlf
 肟	udq
-饩	nvx
+饩	nlx
 躞	fsz
 谮	eig
 酯	plg
@@ -6286,7 +6286,7 @@
 箦	dhq
 舳	isz
 阝	dpf
-黪	zqf
+黪	yqf
 锸	czx
 瓞	xmd
 滏	jwu
@@ -6306,7 +6306,7 @@
 酴	pew
 溆	jez
 钸	cym
-髑	ndr
+髑	vdr
 鳆	bmk
 黉	bjs
 逭	lzn
@@ -6337,7 +6337,7 @@
 踣	fvo
 刂	vfd
 帱	myk
-氡	vkc
+氡	lkc
 垌	hpi
 佴	tse
 糇	fsm
@@ -6347,7 +6347,7 @@
 龆	xoo
 禊	ztj
 溴	jbj
-氩	vzy
+氩	lzy
 吲	oxf
 岜	igb
 惝	nbp
@@ -6357,7 +6357,7 @@
 硐	bpi
 镉	cip
 虼	qma
-烀	sma
+烀	smf
 蟪	qhw
 桷	wnb
 坜	hvc
@@ -6392,13 +6392,13 @@
 钅	cmj
 锔	csu
 膦	ufq
-螨	qrf
+螨	qrn
 茆	ryd
 埤	hxb
 铈	cfm
 裼	zgr
 迕	lnw
-氙	vix
+氙	lix
 楦	wli
 讠	eey
 蛘	qhy
@@ -6409,7 +6409,7 @@
 缵	alq
 锿	cdv
 襞	svv
-髟	tfb
+髟	lfb
 蒇	rtq
 冁	cav
 籴	mef
@@ -6463,7 +6463,7 @@
 鲦	bkw
 莛	rcn
 榍	wsu
-髹	ttw
+髹	ltw
 砑	bik
 垸	hlv
 帙	mmz
@@ -6514,7 +6514,7 @@
 澉	jpk
 哿	vxg
 瘊	mtm
-骺	ngo
+骺	vgo
 豇	iuy
 筘	dko
 硇	bcz
@@ -6565,7 +6565,7 @@
 鳘	mkb
 恧	bvw
 襻	zwk
-氕	vmp
+氕	lmp
 镨	cug
 铷	cxo
 洳	jxo
@@ -6725,7 +6725,7 @@
 筻	diz
 觏	jpl
 鲴	bof
-轷	fma
+轷	fmf
 耠	yeo
 灬	reh
 茳	yyj
