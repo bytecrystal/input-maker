@@ -96,7 +96,7 @@ class ComponentsDistributionProblem(Annealer):
                 (csa * csa_weight) +
                 (n4a_500 * n4a_500_weight) +
                 (n4a_1500 * n4a_1500_weight) +
-                (n4a_3000 * n4a_3000_weight) -
+                (n4a_3000 * n4a_3000_weight) +
                 (er_ma_500 * er_ma_500_weight)
         )
         zi_weight = round(zi_weight, 2)
