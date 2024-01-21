@@ -32,7 +32,7 @@ class Stats(object):
     def __init__(self):
         self.a = 10
 
-    def statistics(self, brief_code):
+    def zi_statis(self, brief_code):
 
         dz = {}
         for kv in brief_code:
@@ -74,6 +74,7 @@ class Stats(object):
         xca_500 = 0
         xca_3000 = 0
         n4a_3000 = 0
+        er_ma_500 = 0
         for i in l:
             n1 = 0
             n2 = 0
@@ -85,7 +86,7 @@ class Stats(object):
             p3 = 0
             p4 = 0
             p5 = 0
-            n = [n1, n2, n3, n4, n5]
+            # n = [n1, n2, n3, n4, n5]
             hj = 0
             dkp = 0
             xkp = 0
@@ -113,6 +114,8 @@ class Stats(object):
                 if len(dz.get(j, '0000')) == 2:
                     n2 += 1
                     p2 += i[0].get(j, '0000')
+                    if i[1] == '300' or i[1] == '500':
+                        er_ma_500 += 1
                     # if i[1] == '3000' or i[1] == '6000':
                     # print(j + '\t' + dz[j])
                 if len(dz.get(j, '0000')) == 3:
@@ -164,9 +167,6 @@ class Stats(object):
                         if (int)(i[1]) <= 1500:
                             csa_1500 += 1
             jjdl = (zjdl / pa) / ((jc / pa) - 1)
-            # f.write(i[1] + '\t' + str(n1) + '\t' + str(n2) + '\t' + str(n3) + '\t' + str(n4) + '\t' + str(n5) + '\t' + str(
-            #     xc) + '\t' + str(jc / pa) + '\t' + str(zjdl / pa) + '\t' + str(jjdl) + '\t' + str(hj / zjj) + '\t' + str(
-            #     dkp / zjj) + '\t' + str(xkp / zjj) + '\t' + str(xzgr / zjj) + '\t' + str(cs / zjj) + '\n')
             n1a += n1
             n2a += n2
             n3a += n3
@@ -221,6 +221,7 @@ class Stats(object):
         print('前1500四码数：%d' % n4a_1500)
         print('前3000选重：%d' % xca_3000)
         print('前3000四码数：%d' % n4a_3000)
+        print('前500二码数：%d' % er_ma_500)
         print('--------------------------------')
         stats_map = {
             'xca': xca,
@@ -242,6 +243,54 @@ class Stats(object):
             'n4a_500': n4a_500,
             'n4a_1500': n4a_1500,
             'xca_3000': xca_3000,
-            'n4a_3000': n4a_3000
+            'n4a_3000': n4a_3000,
+            'er_ma_500': er_ma_500
         }
         return stats_map
+
+    def ci_statis(self, cybm):
+        if len(cybm) > 0:
+            cydl = [(jsdl(i[0]), i[1]) for i in cybm]
+            j1, j2, j3, j4, j5, j6 = cybm[:2000], cybm[:5000], cybm[:10000], cybm[:20000], cybm[:40000], cybm[:60000]
+            k1, k2, k3, k4, k5, k6 = cydl[:2000], cydl[2000:5000], cydl[5000:10000], cydl[10000:20000], cydl[
+                                                                                                        20000:40000], cydl[
+                                                                                                                      40000:60000]
+            kn3, kn6 = cydl[:10000], cydl[:60000]
+            # 前1万
+            j3d = {}
+            j3dx = j3[::-1]
+            for i in j3dx:
+                j3d[i[0]] = i[1]
+            xc3 = 1 - (sum(j3d.values()) / sum(x[1] for x in j3))
+            # 前6万
+            j6d = {}
+            j6dx = j6[::-1]
+            for i in j6dx:
+                j6d[i[0]] = i[1]
+            xc6 = 1 - (sum(j6d.values()) / sum(x[1] for x in j6))
+            # 然后算不加权选重
+            x1, x2, x3, x4, x5, x6 = tuple(map(xcs, (j1, j2, j3, j4, j5, j6)))
+            xn1 = x1
+            xn2 = x2 - x1
+            xn3 = x3 - x2
+            xn4 = x4 - x3
+            xn5 = x5 - x4
+            xn6 = x6 - x5
+            d1, d2, d3, d4, d5, d6 = tuple(map(jqdl, (k1, k2, k3, k4, k5, k6)))
+            dxj = jqdl(kn3)
+            dzj = jqdl(kn6)
+            dysc(
+                '1-2k\t%s\t%.2f\n' % (xn1, d1) +
+                '2k-5k\t%s\t%.2f\n' % (xn2, d2) +
+                '5k-10k\t%s\t%.2f\n' % (xn3, d3) +
+                '小计\t%s\t%.2f\n' % (x3, dxj) +
+                '加权比重\t%.2f%%\n\n' % (xc3 * 100) +
+                '10k-20k\t%s\t%.2f\n' % (xn4, d4) +
+                '20k-40k\t%s\t%.2f\n' % (xn5, d5) +
+                '40k-60k\t%s\t%.2f\n' % (xn6, d6) +
+                '总计\t%s\t%.2f\n' % (x6, dzj) +
+                '加权比重\t%.2f%%\n' % (xc6 * 100)
+            )
+            return x3, x6, d1, d2, d3, d4, d5, d6
+        else:
+            return 0, 0, 0, 0, 0, 0, 0, 0
