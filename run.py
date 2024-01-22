@@ -15,13 +15,13 @@ weight_map = {
     'jca_1500': [0],
     'zjdla_500': [0],
     'jjdla_500': [0],
-    'hja': [0],
+    'hja': [-1800],
     'dkpa': [0],
-    'dkpa_500': [1],
-    'dkpa_1500': [2, 0.9, 1.0, 1.1, 1.2],
-    'csa_1500': [1, 1.0, 1, 1.1, 1.2],
-    'xkpa': [0],
-    'xzgra': [0],
+    'dkpa_500': [20],
+    'dkpa_1500': [4, 0.9, 1.0, 1.1, 1.2],
+    'csa_1500': [3, 1.0, 1, 1.1, 1.2],
+    'xkpa': [7000],
+    'xzgra': [4000],
     'csa': [0],
     'n4a_500': [0, 4, 5, 6, 7],
     'n4a_1500': [0, 0.9, 1.0, 1.1, 1.2],
@@ -29,7 +29,7 @@ weight_map = {
     'n4a_3000': [0, 0.8, 1.0, 1.1, 1.2],
     'er_ma_500': [0, -1],
     'ci_x3': [1.5],
-    'ci_x6': [0.05],
+    'ci_x6': [0.06],
     'ci_d1': [100],
     'ci_d2': [60],
     'ci_d3': [50],
@@ -55,7 +55,7 @@ if __name__ == '__main__':
         component_key, component_compose_map, weight_map, keys, decomposition_ines, build, stats
     )
     cdp.copy_strategy = "method"
-    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 0, 'updates': 100}  # 如果确定用什么参数，就提供
+    auto_schedule = {'tmax': 0.14, 'tmin': 6.7e-07, 'steps': 5000, 'updates': 100}  # 如果确定用什么参数，就提供
     # auto_schedule = cdp.auto(minutes=1)
     print(auto_schedule)
     cdp.set_schedule(auto_schedule)

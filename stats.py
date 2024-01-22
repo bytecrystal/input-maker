@@ -138,27 +138,27 @@ class Stats(object):
                     zjj += i[0].get(j, '0000')
                     if k in hjzh or '_' in k:
                         hj += i[0].get(j, '0000')
-                        if (int)(i[1]) == 500:
+                        if (int)(i[1]) <= 500:
                             hja_500 += 1
-                        if (int)(i[1]) == 1500:
+                        if (int)(i[1]) <= 1500:
                             hja_1500 += 1
                     if k in dkpzh:
                         dkp += i[0].get(j, '0000')
-                        if (int)(i[1]) == 500:
+                        if (int)(i[1]) <= 500:
                             dkpa_500 += 1
-                        if (int)(i[1]) == 1500:
+                        if (int)(i[1]) <= 1500:
                             dkpa_1500 += 1
                     if k in xkpzh:
                         xkp += i[0].get(j, '0000')
-                        if (int)(i[1]) == 500:
+                        if (int)(i[1]) <= 500:
                             xkpa_500 += 1
-                        if (int)(i[1]) == 1500:
+                        if (int)(i[1]) <= 1500:
                             xkpa_1500 += 1
                     if k in xzgrzh:
                         xzgr += i[0].get(j, '0000')
-                        if (int)(i[1]) == 500:
+                        if (int)(i[1]) <= 500:
                             xzgra_500 += 1
-                        if (int)(i[1]) == 1500:
+                        if (int)(i[1]) <= 1500:
                             xzgra_1500 += 1
                     if k in cszh:
                         cs += i[0].get(j, '0000')
