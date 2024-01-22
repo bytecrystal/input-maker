@@ -24,6 +24,8 @@ class ComponentsDistributionProblem(Annealer):
     def move(self):
         lst = list(self.state.keys())
         a = random.choice(lst)
+        if a in ['白', '卑', '亻', '一', '亼', '人', '乛']:
+            return
         k = random.choice(self.keys)
         for key_v in self.compose_map.items():
             if a in key_v[1]:
