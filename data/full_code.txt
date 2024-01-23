@@ -472,7 +472,7 @@
 夫	bjf
 七	rjq
 嘴	olb
-器	zmz
+器	gmg
 圣	ihs
 南	zca
 留	aks
@@ -815,7 +815,7 @@
 较	gtl
 具	usj
 箭	fcu
-品	ozp
+品	ogp
 忘	tvw
 状	cme
 堂	boh
@@ -982,7 +982,7 @@
 借	dng
 域	hto
 床	mwc
-骂	zim
+骂	gim
 莉	rvv
 朱	xmz
 史	ois
@@ -1002,7 +1002,7 @@
 岁	ins
 架	hwj
 嘛	omw
-哭	zme
+哭	gme
 袭	ote
 惑	tov
 罪	qyz
@@ -1285,7 +1285,7 @@
 惧	nus
 俊	dqk
 歌	ggy
-咒	zpz
+咒	gpz
 漂	jqi
 嘻	ofo
 倍	dfo
@@ -1887,7 +1887,7 @@
 碍	bgo
 幅	znf
 扇	fzs
-愕	nzq
+愕	ngq
 芸	riy
 哇	oaw
 润	jyu
@@ -2055,7 +2055,7 @@
 刷	szv
 厂	vjc
 歪	sjx
-嚣	zbz
+嚣	gbg
 琼	uzj
 耍	bax
 龄	xfe
@@ -2798,10 +2798,10 @@
 倪	dxr
 挫	kth
 杏	wox
-襄	tze
+襄	tge
 桐	wpj
 矣	qay
-噩	uzz
+噩	ugg
 揪	kvs
 拧	kld
 燥	sow
@@ -3226,7 +3226,7 @@
 茉	rxm
 咄	ofi
 曙	gqy
-噪	ozw
+噪	ogw
 吒	omr
 缸	zyg
 幡	zms
@@ -3432,7 +3432,7 @@
 佼	dtl
 羲	pqt
 棣	wzp
-鳄	xzq
+鳄	xgq
 惘	npc
 霏	eyf
 媲	xcl
@@ -3599,7 +3599,7 @@
 笃	fid
 噔	oec
 骰	qrt
-鄂	zqd
+鄂	gqd
 珏	uue
 汩	jgg
 鑫	ccc
@@ -4141,7 +4141,7 @@
 辇	bbg
 幔	zgi
 蘅	rhe
-颚	zqb
+颚	gqb
 犄	zmg
 惰	nhu
 徙	hxx
@@ -4352,7 +4352,7 @@
 椁	wzb
 倌	dlr
 佝	dro
-萼	rzq
+萼	rgq
 骧	ite
 锹	cvs
 娼	xgg
@@ -4640,7 +4640,7 @@
 诳	elu
 籽	gbz
 囫	srp
-锷	czq
+锷	cgq
 碱	btj
 奘	ihm
 獬	lkz
@@ -4679,7 +4679,7 @@
 莅	rdf
 蛎	vvo
 龛	woo
-谔	ezq
+谔	egq
 槊	cuw
 豢	plh
 胫	uhy
@@ -5186,7 +5186,7 @@
 仟	dfq
 馐	npp
 宥	lhu
-鼍	zsl
+鼍	gsl
 苫	rns
 囹	sie
 荛	rtr
@@ -5230,7 +5230,7 @@
 柞	whz
 纫	ake
 纡	ahy
-腭	uzq
+腭	ugq
 骐	iqq
 黟	cnn
 瘿	mqx
@@ -5242,7 +5242,7 @@
 郧	oqd
 妣	xlb
 钾	csj
-酃	ezd
+酃	egd
 圄	svo
 稞	vgw
 苡	rjy
@@ -5267,7 +5267,7 @@
 帔	zop
 垭	hky
 凫	tpf
-鹗	zqt
+鹗	gqt
 钯	cgb
 邗	hdh
 舛	nlc
@@ -6007,7 +6007,7 @@
 跣	yzr
 刈	ivy
 萸	rxw
-龠	wza
+龠	wga
 帻	zpq
 瘳	mzf
 疸	mgj
@@ -6318,7 +6318,7 @@
 躐	yiz
 砻	obl
 苤	rsj
-榀	woz
+榀	wog
 钋	cnp
 綮	fkj
 氵	jes
